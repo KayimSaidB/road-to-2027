@@ -3,7 +3,7 @@ name: Update opinion polls
 on:
   schedule:
     # Every Monday at 06:00 UTC (07:00 in Paris during winter).
-    - cron: "0 6 * * 1"
+    - cron: "0 6 * * 1,4"
   workflow_dispatch:
 
 permissions:
