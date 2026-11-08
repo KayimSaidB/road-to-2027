@@ -65,20 +65,65 @@ def split_attr(cell):
         i += 1
     return "", cell
 
+
 def parse_date(c):
-    m = re.search(r"\{\{Opdrts\|([^}]*)\}\}", c)
-    if not m:
+    """Parse Wikipedia Opdrts templates.
+
+    Supported formats:
+      {{Opdrts|d1|d2|Month|Year}}
+      {{Opdrts|d1|Month1|d2|Month2|Year}}
+
+    Returns (end_date, start_date) in ISO format, or None.
+    """
+    match = re.search(r"\{\{\s*Opdrts\s*\|([^}]*)\}\}", c, re.I)
+    if not match:
         return None
-    p = m.group(1).split("|")
-    d1, d2, mo, yr = p[0], p[1], p[2], p[3]
-    # forms: d1|d2|Month|Year  or  d1|Month1|d2|Month2|Year (cross-month)
-    if not yr.isdigit():
-        # cross-month: d1|M1|d2|M2|Y
-        d1, m1, d2, m2, yr = p[0], p[1], p[2], p[3], p[4]
-        return f"{int(yr):04d}-{month(m2):02d}-{int(d2):02d}", f"{int(yr):04d}-{month(m1):02d}-{int(d1):02d}"
-    end = f"{int(yr):04d}-{month(mo):02d}-{int(d2):02d}"
-    st = f"{int(yr):04d}-{month(mo):02d}-{int(d1):02d}" if d1.strip() else end
-    return end, st
+
+    parts = [p.strip() for p in match.group(1).split("|")]
+
+    try:
+        if len(parts) == 4:
+            # Same month: day_start | day_end | month | year
+            d1, d2, mo, yr = parts
+
+            year = int(yr)
+            month_num = month(mo)
+
+            # Empty start day means a single-day poll
+            d1 = int(d1) if d1 else int(d2)
+            d2 = int(d2)
+
+            start = datetime.date(year, month_num, d1)
+            end = datetime.date(year, month_num, d2)
+
+        elif len(parts) == 5:
+            # Cross-month: day_start | month_start | day_end | month_end | year
+            d1, m1, d2, m2, yr = parts
+
+            year = int(yr)
+            start_month = month(m1)
+            end_month = month(m2)
+
+            d1 = int(d1)
+            d2 = int(d2)
+
+            # The year refers to the end date.
+            # Handle a range crossing December / January.
+            start_year = year - 1 if start_month > end_month else year
+
+            start = datetime.date(start_year, start_month, d1)
+            end = datetime.date(year, end_month, d2)
+
+        else:
+            return None
+
+        if start > end:
+            return None
+
+        return end.isoformat(), start.isoformat()
+
+    except (ValueError, TypeError, IndexError):
+        return None
 
 def parse_firm(c):
     m = re.search(r"\[(https?://\S+)\s+([^\]]+)\]", c)
