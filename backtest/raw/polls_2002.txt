@@ -1,0 +1,5458 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2018}}
+This page lists public [[opinion poll]]s conducted for the [[2002 French presidential election]], which was held on 21 April 2002 with a run-off on 5 May 2002.
+
+Unless otherwise noted, all polls listed below are compliant with the regulations of the national polling commission (''Commission nationale des sondages'') and utilize the [[quota sampling|quota method]].
+
+== First round ==
+The Sofres poll conducted from 4 to 5 April 2002, marked with an asterisk (*) below, was conducted specifically for subsample data.
+
+The publication of first-round polls was prohibited after midnight on 19 April 2002. Until the law of 19 February 2002 amended the law of 19 July 1977, the publication of voting intention polls was prohibited in the week before the election. The law of 19 February 2002 also extended the ban on the publication of polls to include surveys conducted before the electoral silence.<ref name="silence">{{cite news|author=François Wenz-Dumas|title=Fin des sondages|url=http://www.liberation.fr/evenement/2002/04/19/fin-des-sondages_400785|newspaper=Libération|date=19 April 2002|accessdate=22 April 2018}}</ref>
+
+=== Graphical summary ===
+The averages in the graphs below were constructed using polls listed below conducted by the six major French pollsters. The graphs are smoothed 14-day weighted moving averages, using only the most recent poll conducted by any given pollster within that range (each poll weighted based on recency).
+
+[[File:Opinion polling for the French presidential election, 2002.png]]
+
+=== 28 March to 18 April 2002 ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:60px;"| [[Daniel Gluckstein|Gluckstein]]<br />{{small|[[Workers' Party (France)|PT]]}}
+! class="unsortable" style="width:60px;"| [[Olivier Besancenot|Besancenot]]<br />{{small|[[Revolutionary Communist League (France)|LCR]]}}
+! class="unsortable" style="width:60px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Christiane Taubira|Taubira]]<br />{{small|[[Radical Party of the Left|PRG]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:60px;"| [[Noël Mamère|Mamère]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:60px;"| [[Corinne Lepage|Lepage]]<br />{{small|[[Cap21]]}}
+! class="unsortable" style="width:60px;"| [[François Bayrou|Bayrou]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Alain Madelin|Madelin]]<br />{{small|[[Liberal Democracy (France)|DL]]}}
+! class="unsortable" style="width:60px;"| [[Christine Boutin|Boutin]]<br />{{small|[[Forum of Social Republicans|FRS]]}}
+! class="unsortable" style="width:60px;"| [[Nicolas Miguet|Miguet]]<br />{{small|[[Rally of French Taxpayers|RCF]]}}
+! class="unsortable" style="width:60px;"| [[Charles Pasqua|Pasqua]]<br />{{small|[[Rally for France|RPF]]}}
+! class="unsortable" style="width:60px;"| [[Jean Saint-Josse|Saint-<br />Josse]]<br />{{small|[[Hunting, Fishing, Nature and Traditions|CPNT]]}}
+! class="unsortable" style="width:60px;"| [[Bruno Mégret|Mégret]]<br />{{small|[[National Republican Movement|MNR]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|Workers' Party (France)}};"|
+! style="background:{{party color|Revolutionary Communist League (France)}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Radical Party of the Left}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Cap21}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Liberal Democracy (France)}};"|
+! style="background:{{party color|Forum of Social Republicans}};"|
+! style="background:{{party color|Miscellaneous right}};"|
+! style="background:{{party color|Rally for France}};"|
+! style="background:{{party color|Hunting, Fishing, Nature and Traditions}};"|
+! style="background:{{party color|National Republican Movement}};"|
+! style="background:{{party color|National Front (France)}};"|
+|- style="background:#E9E9E9;"
+| [[2002 French presidential election|2002 election]]
+| data-sort-value="2002-04-21"| 21 Apr 2002
+| –
+| 28.40%
+| 5.72%
+| 0.47%
+| 4.25%
+| 3.37%
+| 16.18%
+| 2.32%
+| 5.33%
+| 5.25%
+| 1.88%
+| 6.84%
+| style="background:#B9DAFF;"| '''19.88%'''
+| 3.91%
+| 1.19%
+| –
+| –
+| 4.23%
+| 2.34%
+| style="background:#E0E5F0;"| '''16.86%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-04-18"| 18 Apr 2002
+| 631
+| –
+| 8%
+| 0.5%
+| 3.5%
+| 5%
+| style="background:#FFE6EC;"| '''18%'''
+| 2%
+| 6%
+| 5%
+| 1%
+| 6%
+| style="background:#B9DAFF;"| '''19%'''
+| 5%
+| 1%
+| –
+| –
+| 4%
+| 2%
+| 14%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618193356/http://www.csa-fr.com/fra/dataset/data2002/indic20020418.htm CSA]
+| data-sort-value="2002-04-18"| 17–18 Apr 2002
+| 1,000
+| –
+| 7%
+| 0.5%
+| 3%
+| 5%
+| style="background:#FFE6EC;"| '''18%'''
+| 2.5%
+| 6.5%
+| 5%
+| 1.5%
+| 6%
+| style="background:#B9DAFF;"| '''19.5%'''
+| 3.5%
+| 1.5%
+| –
+| –
+| 4%
+| 2.5%
+| 14%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-7 Ipsos]
+| data-sort-value="2002-04-18"| 17–18 Apr 2002
+| 989
+| –
+| 7%
+| 0.5%
+| 4%
+| 5%
+| style="background:#FFE6EC;"| '''18%'''
+| 1%
+| 6.5%
+| 6.5%
+| 1%
+| 6%
+| style="background:#B9DAFF;"| '''20%'''
+| 4%
+| 1%
+| –
+| –
+| 3%
+| 2.5%
+| 14%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822222733/http://www.tns-sofres.com/etudes/pol/190402_intentions_r.htm Sofres]
+| data-sort-value="2002-04-18"| 17–18 Apr 2002
+| 1,000
+| –
+| 6.5%
+| 0.5%
+| 4%
+| 6%
+| style="background:#FFE6EC;"| '''18%'''
+| 1.5%
+| 6.5%
+| 6%
+| 1%
+| 6%
+| style="background:#B9DAFF;"| '''19.5%'''
+| 5%
+| 1.5%
+| –
+| –
+| 4%
+| 1.5%
+| 12.5%
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf Louis Harris]
+| data-sort-value="2002-04-17"| 16–17 Apr 2002
+| 592
+| –
+| 8%
+| 0%
+| 2%
+| 5%
+| style="background:#FFE6EC;"| '''18%'''
+| 1%
+| 6%
+| 7%
+| 1%
+| 7%
+| style="background:#B9DAFF;"| '''20%'''
+| 5%
+| 2%
+| –
+| –
+| 3%
+| 2%
+| 13%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-cinq-jours-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-04-16"| 15–16 Apr 2002
+| 1,005
+| –
+| 7%
+| 0.5%
+| 2.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''18%'''
+| 1.5%
+| 6%
+| 6.5%
+| 1%
+| 5%
+| style="background:#B9DAFF;"| '''22%'''
+| 4%
+| 1%
+| –
+| –
+| 3.5%
+| 3%
+| 13%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730200113/http://www.tns-sofres.com/etudes/pol/160402_intentions_r.htm Sofres]
+| data-sort-value="2002-04-15"| 13–15 Apr 2002
+| 1,000
+| –
+| 8%
+| 0.5%
+| 2.5%
+| 6%
+| style="background:#FFE6EC;"| '''18%'''
+| 1%
+| 6%
+| 5%
+| 1.5%
+| 6%
+| style="background:#B9DAFF;"| '''20%'''
+| 5%
+| 1.5%
+| –
+| –
+| 3.5%
+| 2.5%
+| 13%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020425110704/http://www.ifop.com/europe/sondages/OPINIONF/presidv8.asp Ifop]
+| data-sort-value="2002-04-13"| 12–13 Apr 2002
+| 1,006
+| –
+| 7%
+| 0.5%
+| 4%
+| 5.5%
+| style="background:#FFE6EC;"| '''16.5%'''
+| 1.5%
+| 8.5%
+| 6.5%
+| 2%
+| 6.5%
+| style="background:#B9DAFF;"| '''20%'''
+| 3.5%
+| 0.5%
+| –
+| –
+| 4%
+| 3%
+| 10.5%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-04-13"| 10–13 Apr 2002
+| 749
+| –
+| 9%
+| 0.5%
+| 2%
+| 5%
+| style="background:#FFE6EC;"| '''18%'''
+| 1.5%
+| 6%
+| 6%
+| 1.5%
+| 6%
+| style="background:#B9DAFF;"| '''18.5%'''
+| 5%
+| 1%
+| –
+| –
+| 4%
+| 2%
+| 14%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020420102922/http://www.ifop.com/europe/sondages/opinionf/baropresjddv6.asp Ifop]
+| data-sort-value="2002-04-12"| 11–12 Apr 2002
+| 951
+| –
+| 8%
+| 0.5%
+| 3.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''17%'''
+| 2%
+| 8%
+| 7%
+| 2%
+| 6.5%
+| style="background:#B9DAFF;"| '''19%'''
+| 3.5%
+| 0.5%
+| –
+| –
+| 4.5%
+| 3%
+| 9.5%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618192047/http://www.csa-fr.com/fra/dataset/data2002/indic20020411.htm CSA]
+| data-sort-value="2002-04-11"| 10–11 Apr 2002
+| 1,000
+| –
+| 8%
+| 0.5%
+| 1.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''19%'''
+| 1%
+| 7%
+| 6.5%
+| 1.5%
+| 5.5%
+| style="background:#B9DAFF;"| '''21%'''
+| 3.5%
+| 1%
+| –
+| –
+| 3.5%
+| 3%
+| 12%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730172406/http://www.tns-sofres.com/etudes/pol/120402_baropres.htm Sofres]
+| data-sort-value="2002-04-11"| 10–11 Apr 2002
+| 1,000
+| –
+| 8%
+| 0.5%
+| 2.5%
+| 6%
+| style="background:#FFE6EC;"| '''19%'''
+| 1.5%
+| 6%
+| 4.5%
+| 1.5%
+| 5%
+| style="background:#B9DAFF;"| '''22%'''
+| 5%
+| 0.5%
+| –
+| –
+| 3%
+| 2%
+| 13%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020816205636/http://www.ifop.com/europe/sondages/opinionf/presidv7.asp Ifop]
+| data-sort-value="2002-04-06"| 5–6 Apr 2002
+| 1,004
+| –
+| 8.5%
+| 0.5%
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''17.5%'''
+| 1%
+| 8%
+| 8%
+| 1.5%
+| 5.5%
+| style="background:#B9DAFF;"| '''21%'''
+| 3.5%
+| 1%
+| –
+| –
+| 4%
+| 1%
+| 13%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-deux-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-04-06"| 5–6 Apr 2002
+| 952
+| –
+| 11%
+| 0%
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''19%'''
+| 0.5%
+| 8.5%
+| 5%
+| 1%
+| 5%
+| style="background:#B9DAFF;"| '''23%'''
+| 3.5%
+| 0.5%
+| –
+| –
+| 3.5%
+| 1.5%
+| 12%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-04-06"| 4–6 Apr 2002
+| 657
+| –
+| 11%
+| –
+| 1%
+| 5%
+| style="background:#FFC6D5;"| '''20%'''
+| 1%
+| 6%
+| 6.5%
+| 1.5%
+| 5%
+| style="background:#B9DAFF;"| '''20%'''
+| 3.5%
+| 0.5%
+| –
+| 0.5%
+| 3.5%
+| 3%
+| 12%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030709084900/http://www.tns-sofres.com/etudes/pol/120402_catholiques_r.htm Sofres]*
+| data-sort-value="2002-04-05"| 4–5 Apr 2002
+| 1,000
+| –
+| 8.5%
+| 0%
+| 1%
+| 5.5%
+| style="background:#FFC6D5;"| '''21%'''
+| 1%
+| 6%
+| 7%
+| 1%
+| 6%
+| style="background:#B9DAFF;"| '''21%'''
+| 3.5%
+| 1.5%
+| –
+| –
+| 3%
+| 1.5%
+| 12.5%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618192333/http://www.csa-fr.com/fra/dataset/data2002/indic20020404.htm CSA]
+| data-sort-value="2002-04-04"| 3–4 Apr 2002
+| 1,000
+| –
+| 8.5%
+| 0.5%
+| 1%
+| 4%
+| style="background:#FFE6EC;"| '''18.5%'''
+| 0.5%
+| 8%
+| 8.5%
+| 1.5%
+| 4.5%
+| style="background:#B9DAFF;"| '''22%'''
+| 3%
+| 1.5%
+| –
+| –
+| 5%
+| 1.5%
+| 11.5%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822215617/http://www.tns-sofres.com/etudes/pol/050402_baropres.htm Sofres]
+| data-sort-value="2002-04-04"| 3–4 Apr 2002
+| 1,000
+| –
+| 9%
+| 0%
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''19%'''
+| 1%
+| 7%
+| 5%
+| 1%
+| 4%
+| style="background:#B9DAFF;"| '''24%'''
+| 4%
+| 1.5%
+| 0%
+| –
+| 4%
+| 2%
+| 12%
+|-
+| rowspan="2" style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-6 Ipsos]
+| rowspan="2" data-sort-value="2002-03-30"| 29–30 Mar 2002
+| rowspan="2"| 938
+| rowspan="2"| –
+| 10%
+| –
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''20%'''
+| 0.5%
+| 8%
+| 5%
+| 0.5%
+| 5%
+| style="background:#B9DAFF;"| '''24%'''
+| 3%
+| 1%
+| –
+| 2%
+| 3.5%
+| 1.5%
+| 10%
+|-
+| 11%
+| –
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 10.5%
+| 5%
+| 0.5%
+| 5.5%
+| style="background:#B9DAFF;"| '''27%'''
+| 3.5%
+| 1%
+| –
+| 4%
+| 4.5%
+| –
+| –
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf Louis Harris]
+| data-sort-value="2002-03-30"| 29–30 Mar 2002
+| 1,001
+| –
+| 10%
+| –
+| 1%
+| 6%
+| style="background:#FFC6D5;"| '''21%'''
+| 0.5%
+| 8%
+| 6%
+| 1%
+| 4.5%
+| style="background:#B9DAFF;"| '''21%'''
+| 3.5%
+| 1.5%
+| –
+| 2%
+| 3%
+| 1%
+| 10%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-30"| 28–30 Mar 2002
+| 661
+| –
+| 11%
+| –
+| 0.5%
+| 6%
+| style="background:#FFC6D5;"| '''20%'''
+| 0.5%
+| 6.5%
+| 6.5%
+| 0.5%
+| 5%
+| style="background:#B9DAFF;"| '''20%'''
+| 4%
+| 1%
+| –
+| 2%
+| 2%
+| 1.5%
+| 13%
+|}
+
+=== 17 October 2001 to 27 March 2002 ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:50px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:50px;"| [[Daniel Gluckstein|Gluckstein]]<br />{{small|[[Workers' Party (France)|PT]]}}
+! class="unsortable" style="width:50px;"| [[Olivier Besancenot|Besancenot]]<br />{{small|[[Revolutionary Communist League (France)|LCR]]}}
+! class="unsortable" style="width:50px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:50px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:50px;"| [[Christiane Taubira|Taubira]]<br />{{small|[[Radical Party of the Left|PRG]]}}
+! class="unsortable" style="width:50px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:50px;"|[[Dieudonné (comedian)|Dieudonné]]<br />{{small|[[Les Utopistes|LU]]}}
+! class="unsortable" style="width:50px;"| [[Noël Mamère|Mamère]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:50px;"| [[Antoine Waechter|Waechter]]<br />{{small|[[Independent Ecological Movement|MEI]]}}
+! class="unsortable" style="width:50px;"| [[Pierre Larrouturou|Larrouturou]]<br />{{small|[[New Deal (France)|ND]]}}
+! class="unsortable" style="width:50px;"| [[Corinne Lepage|Lepage]]<br />{{small|[[Cap21]]}}
+! class="unsortable" style="width:50px;"| [[Brice Lalonde|Lalonde]]<br />{{small|[[Ecology Generation|GE]]}}
+! class="unsortable" style="width:50px;"| [[François Bayrou|Bayrou]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:50px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:50px;"| [[Alain Madelin|Madelin]]<br />{{small|[[Liberal Democracy (France)|DL]]}}
+! class="unsortable" style="width:50px;"| [[Christine Boutin|Boutin]]<br />{{small|[[Forum of Social Republicans|FRS]]}}
+! class="unsortable" style="width:50px;"| [[Charles Pasqua|Pasqua]]<br />{{small|[[Rally for France|RPF]]}}
+! class="unsortable" style="width:50px;"| [[Jean Saint-Josse|Saint-<br />Josse]]<br />{{small|[[Hunting, Fishing, Nature and Traditions|CPNT]]}}
+! class="unsortable" style="width:50px;"| [[Bruno Mégret|Mégret]]<br />{{small|[[National Republican Movement|MNR]]}}
+! class="unsortable" style="width:50px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|Workers' Party (France)}};"|
+! style="background:{{party color|Revolutionary Communist League (France)}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Radical Party of the Left}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|Miscellaneous left}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Independent Ecological Movement}};"|
+! style="background:{{party color|New Deal (France)}};"|
+! style="background:{{party color|Cap21}};"|
+! style="background:{{party color|Ecology Generation}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Liberal Democracy (France)}};"|
+! style="background:{{party color|Forum of Social Republicans}};"|
+! style="background:{{party color|Rally for France}};"|
+! style="background:{{party color|Hunting, Fishing, Nature and Traditions}};"|
+! style="background:{{party color|National Republican Movement}};"|
+! style="background:{{party color|National Front (France)}};"|
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp Ifop]
+| data-sort-value="2002-03-29"| 28–29 Mar 2002
+| 936
+| 10%
+| data-sort-value="0%"| <0.5%
+| 1%
+| 4.5%
+| style="background:#FFE6EC;"| '''20.5%'''
+| 1%
+| 9%
+| –
+| 7%
+| 0.5%
+| 0.5%
+| 1%
+| data-sort-value="0%"| <0.5%
+| 5.5%
+| style="background:#B9DAFF;"| '''21%'''
+| 2%
+| 0.5%
+| 2%
+| 2.5%
+| 1%
+| 10%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20021104132550/http://www.csa-fr.com/fra/dataset/data2002/indic20020328.htm CSA]
+| data-sort-value="2002-03-28"| 27–28 Mar 2002
+| 1,003
+| 9%
+| 0.5%
+| 1%
+| 5%
+| style="background:#FFC6D5;"| '''20%'''
+| 0.5%
+| 9%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 4.5%
+| style="background:#B9DAFF;"| '''20%'''
+| 3.5%
+| 1.5%
+| 1.5%
+| 4.5%
+| 1.5%
+| 12%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730190416/http://www.tns-sofres.com/etudes/pol/030402_intentions_r.htm Sofres]
+| data-sort-value="2002-03-28"| 27–28 Mar 2002
+| 1,000
+| 10%
+| 0%
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''20%'''
+| 0.5%
+| 8.5%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 4.5%
+| style="background:#B9DAFF;"| '''21%'''
+| 4%
+| 0.5%
+| 2%
+| 4%
+| 0.5%
+| 11%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730203300/http://www.tns-sofres.com/etudes/pol/290302_baropres.htm Sofres]
+| data-sort-value="2002-03-28"| 27–28 Mar 2002
+| 1,000
+| 10%
+| 0%
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''21%'''
+| 0%
+| 8%
+| –
+| 5%
+| –
+| –
+| 0.5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''22%'''
+| 4%
+| 0.5%
+| 3%
+| 3%
+| 1.5%
+| 10%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020409021523/http://www.ifop.com/europe/sondages/OPINIONF/presidv6.asp Ifop]
+| data-sort-value="2002-03-24"| 23–24 Mar 2002
+| 1,005
+| 10%
+| data-sort-value="0%"| <0.5%
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''19%'''
+| 1%
+| 10%
+| 1%
+| 7%
+| data-sort-value="0%"| <0.5%
+| data-sort-value="0%"| <0.5%
+| 1%
+| data-sort-value="0%"| <0.5%
+| 4%
+| style="background:#B9DAFF;"| '''20%'''
+| 3%
+| 1%
+| 3%
+| 2%
+| data-sort-value="0%"| <0.5%
+| 10%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-03-23"| 22–23 Mar 2002
+| 938
+| 10%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 9%
+| –
+| 5.5%
+| –
+| –
+| 0.5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''24%'''
+| 2.5%
+| 1%
+| 2%
+| 2.5%
+| 1%
+| 9%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030702151834/http://www.tns-sofres.com/etudes/pol/250302_baropres.htm Sofres]
+| data-sort-value="2002-03-23"| 22–23 Mar 2002
+| 1,000
+| 10%
+| –
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 7.5%
+| –
+| 5.5%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 4%
+| 1%
+| 1.5%
+| 3%
+| 1%
+| 10%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-23"| 21–23 Mar 2002
+| 647
+| 10%
+| –
+| 1%
+| 5.5%
+| style="background:#FFC6D5;"| '''23%'''
+| 1%
+| 6.5%
+| –
+| 5.5%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 3.5%
+| 0.5%
+| 1%
+| 2.5%
+| 1%
+| 11%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp Ifop]
+| data-sort-value="2002-03-22"| 21–22 Mar 2002
+| 947
+| 8%
+| 0.5%
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''21%'''
+| data-sort-value="0%"| <0.5%
+| 9%
+| 1%
+| 5%
+| 0.5%
+| data-sort-value="0%"| <0.5%
+| 0.5%
+| data-sort-value="0%"| <0.5%
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 2.5%
+| 0.5%
+| 3%
+| 2%
+| 1%
+| 12%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020408141047/http://www.csa-fr.com/fra/dataset/data2002/indic20020321.htm CSA]
+| data-sort-value="2002-03-21"| 20–21 Mar 2002
+| 1,000
+| 8%
+| colspan="2"| 1%
+| 5%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 7%
+| –
+| 6.5%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 4%
+| 1%
+| 2.5%
+| 3.5%
+| 1.5%
+| 11%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020323181923/http://www.ifop.com/europe/sondages/opinionf/presidv5.asp Ifop]
+| data-sort-value="2002-03-16"| 15–16 Mar 2002
+| 933
+| 10%
+| 0.5%
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''19%'''
+| 0.5%
+| 11%
+| 1%
+| 6%
+| data-sort-value="0%"| <0.5%
+| data-sort-value="0%"| <0.5%
+| 0.5%
+| data-sort-value="0%"| <0.5%
+| 4%
+| style="background:#B9DAFF;"| '''22%'''
+| 3%
+| 1%
+| 3%
+| 3%
+| 1%
+| 8%
+|-
+| rowspan="2" style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-5 Ipsos]
+| rowspan="2" data-sort-value="2002-03-16"| 15–16 Mar 2002
+| rowspan="2"| 919
+| 9%
+| –
+| 0.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 10%
+| –
+| 5.5%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 3%
+| 1%
+| 3%
+| 1.5%
+| 1.5%
+| 10%
+|-
+| 9.5%
+| –
+| 0.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 11%
+| –
+| 5.5%
+| –
+| –
+| 1%
+| –
+| 4.5%
+| style="background:#B9DAFF;"| '''27.5%'''
+| 3%
+| 1%
+| 6.5%
+| 2%
+| –
+| –
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-16"| 14–16 Mar 2002
+| 739
+| 9%
+| –
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 7%
+| –
+| 5%
+| –
+| –
+| 2%
+| –
+| 3.5%
+| style="background:#B9DAFF;"| '''25%'''
+| 3.5%
+| 0.5%
+| 1.5%
+| 3%
+| 0.5%
+| 10%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822222601/http://www.tns-sofres.com/etudes/pol/190302_intentions_r.htm Sofres]
+| data-sort-value="2002-03-16"| 13–16 Mar 2002
+| 1,000
+| 9.5%
+| –
+| 1%
+| 5.5%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 6.5%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 4.5%
+| style="background:#B9DAFF;"| '''23.5%'''
+| 4%
+| 1%
+| 2.5%
+| 3%
+| 1%
+| 10%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730200828/http://www.tns-sofres.com/etudes/pol/180302_baropres.htm Sofres]
+| data-sort-value="2002-03-15"| 14–15 Mar 2002
+| 1,000
+| 9%
+| –
+| 1%
+| 5.5%
+| style="background:#FFE6EC;"| '''20%'''
+| 0.5%
+| 7%
+| –
+| 6%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''24%'''
+| 4%
+| 1%
+| 3%
+| 2%
+| 1%
+| 11%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020429025130/http://www.csa-fr.com/fra/dataset/data2002/indic20020314.htm CSA]
+| data-sort-value="2002-03-14"| 13–14 Mar 2002
+| 1,001
+| 7%
+| 0.5%
+| 1%
+| 4.5%
+| style="background:#FFE6EC;"| '''22%'''
+| 1%
+| 8.5%
+| –
+| 5.5%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''25.5%'''
+| 3%
+| 1%
+| 2.5%
+| 3%
+| 2%
+| 9.5%
+|-
+| rowspan="2" style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-six-semaines-de-lelection-presidentielle Ipsos]
+| rowspan="2" data-sort-value="2002-03-09"| 8–9 Mar 2002
+| rowspan="2"| 933
+| 8%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 11%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''24%'''
+| 3%
+| 1%
+| 3%
+| 2%
+| 1.5%
+| 8%
+|-
+| 8.5%
+| –
+| 0.5%
+| 6.5%
+| style="background:#FFE6EC;"| '''23%'''
+| 0.5%
+| 12.5%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 3.5%
+| style="background:#B9DAFF;"| '''27%'''
+| 3%
+| 1%
+| 4.5%
+| 3%
+| –
+| –
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf Louis Harris]
+| data-sort-value="2002-03-09"| 8–9 Mar 2002
+| 626
+| 8%
+| –
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''23%'''
+| data-sort-value="0%"| <0.5%
+| 10%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''24%'''
+| 3%
+| 1%
+| 2%
+| 2%
+| 2%
+| 10%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730193757/http://www.tns-sofres.com/etudes/pol/110302_baropres.htm Sofres]
+| data-sort-value="2002-03-09"| 8–9 Mar 2002
+| 1,000
+| 9%
+| –
+| 0.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 7.5%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 4%
+| 1%
+| 3%
+| 1.5%
+| 1.5%
+| 11%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-4 Ipsos]
+| data-sort-value="2002-03-02"| 1–2 Mar 2002
+| 925
+| 8%
+| –
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 10%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''24%'''
+| 3%
+| 0.5%
+| 2.5%
+| 3%
+| 1%
+| 9%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-02"| 28 Feb–2 Mar 2002
+| 693
+| 8%
+| –
+| 0.5%
+| 6%
+| style="background:#FFC6D5;"| '''24%'''
+| 0.5%
+| 8%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''21%'''
+| 4%
+| 1%
+| 2%
+| 2.5%
+| 1.5%
+| 11%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020321092317/http://www.ifop.com/europe/sondages/opinionf/presidv4.asp Ifop]
+| data-sort-value="2002-03-01"| 28 Feb–1 Mar 2002
+| 941
+| 9%
+| data-sort-value="0%"| <0.5%
+| 0.5%
+| 4%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 10%
+| 2%
+| 7%
+| data-sort-value="0%"| <0.5%
+| 0.5%
+| 0.5%
+| data-sort-value="0%"| <0.5%
+| 3%
+| style="background:#B9DAFF;"| '''22%'''
+| 3%
+| 1%
+| 3%
+| 3%
+| 1%
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020429024022/http://www.csa-fr.com/fra/dataset/data2002/indic20020228.htm CSA]
+| data-sort-value="2002-02-28"| 27–28 Feb 2002
+| 1,007
+| 6%
+| colspan="2"| 0.5%
+| 5.5%
+| style="background:#FFC6D5;"| '''23.5%'''
+| 0.5%
+| 11%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''21%'''
+| 3%
+| 1.5%
+| 1.5%
+| 3.5%
+| 2%
+| 10%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822220545/http://www.tns-sofres.com/etudes/pol/060302_intentions_r.htm Sofres]
+| data-sort-value="2002-02-28"| 27–28 Feb 2002
+| 1,000
+| 7%
+| –
+| 1%
+| 5.5%
+| style="background:#FFE6EC;"| '''22.5%'''
+| 0.5%
+| 10%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''24%'''
+| 3%
+| 1%
+| 2%
+| 2%
+| 1%
+| 11%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405010901/http://www.ifop.com/europe/sondages/opinionf/presidenv3.asp Ifop]
+| data-sort-value="2002-02-23"| 22–23 Feb 2002
+| 937
+| 7%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#FFE6EC;"| '''22%'''
+| data-sort-value="0%"| <1%
+| 12%
+| 2%
+| 6%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 3%
+| style="background:#B9DAFF;"| '''23%'''
+| 4%
+| data-sort-value="0%"| <1%
+| 3%
+| 3%
+| 1%
+| 7%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-huit-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-02-23"| 22–23 Feb 2002
+| 938
+| 7%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 11%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''25%'''
+| 3%
+| 0.5%
+| 1.5%
+| 3%
+| 1.5%
+| 9%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730202819/http://www.tns-sofres.com/etudes/pol/260202_baropres.htm Sofres]
+| data-sort-value="2002-02-23"| 22–23 Feb 2002
+| 1,000
+| 7.5%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 10%
+| –
+| 5.5%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''24%'''
+| 4.5%
+| 1%
+| 1.5%
+| 2%
+| 0.5%
+| 11%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405005649/http://www.ifop.com/europe/sondages/opinionf/jddv3.asp Ifop]
+| data-sort-value="2002-02-22"| 21–22 Feb 2002
+| 939
+| 8%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#FFE6EC;"| '''23%'''
+| data-sort-value="0%"| <1%
+| 10%
+| 2%
+| 6%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 3%
+| style="background:#B9DAFF;"| '''25%'''
+| 3%
+| 1%
+| 2%
+| 2%
+| 1%
+| 7%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-3 Ipsos]
+| data-sort-value="2002-02-16"| 15–16 Feb 2002
+| 916
+| 7%
+| –
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''20%'''
+| 0.5%
+| 12%
+| –
+| 5%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''25%'''
+| 3%
+| 1%
+| 3%
+| 2%
+| 1%
+| 10%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-02-16"| 14–16 Feb 2002
+| 743
+| 7%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''23%'''
+| 0.5%
+| 10%
+| –
+| 6%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''24%'''
+| 3%
+| 0.5%
+| 1%
+| 2.5%
+| 1%
+| 11%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730201436/http://www.tns-sofres.com/etudes/pol/210202_intentions_r.htm Sofres]
+| data-sort-value="2002-02-15"| 13–15 Feb 2002
+| 1,000
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''21.5%'''
+| 0%
+| 10%
+| –
+| 7%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''26%'''
+| 3%
+| 0.5%
+| 3%
+| 3%
+| 1%
+| 9%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618193852/http://www.csa-fr.com/fra/dataset/data2002/indic20020214.htm CSA]
+| data-sort-value="2002-02-14"| 13–14 Feb 2002
+| 1,000
+| 5.5%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''21.5%'''
+| 0.5%
+| 10%
+| –
+| 6%
+| –
+| –
+| 1%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''24.5%'''
+| 5%
+| 0.5%
+| 1.5%
+| 3.5%
+| 2%
+| 10%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques Ipsos]
+| data-sort-value="2002-02-12"| 12 Feb 2002
+| 1,018
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''23%'''
+| 0.5%
+| 11%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''27%'''
+| 3%
+| 1%
+| 2%
+| 2%
+| 1%
+| 8%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques Ipsos]
+| data-sort-value="2002-02-09"| 8–9 Feb 2002
+| 908
+| 6%
+| –
+| 0.5%
+| 7%
+| style="background:#FFE6EC;"| '''21%'''
+| 0.5%
+| 12%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''23%'''
+| 4%
+| 1%
+| 3%
+| 1.5%
+| 1%
+| 10%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020601205839/http://www.ifop.com/europe/sondages/opinionf/presidv3.asp Ifop]
+| data-sort-value="2002-02-08"| 7–8 Feb 2002
+| 961
+| 7%
+| data-sort-value="0%"| <1%
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''19%'''
+| data-sort-value="0%"| <1%
+| 13%
+| 2%
+| 7%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 1%
+| data-sort-value="0%"| <1%
+| 3%
+| style="background:#B9DAFF;"| '''23%'''
+| 4%
+| 1%
+| 3%
+| 2%
+| 1%
+| 7%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-0 Ipsos]
+| data-sort-value="2002-02-02"| 1–2 Feb 2002
+| 925
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#FFC6D5;"| '''23%'''
+| 0.5%
+| 12%
+| –
+| 6%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 5%
+| 1%
+| 3%
+| –
+| 1%
+| 8%
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf Louis Harris]
+| data-sort-value="2002-02-02"| 1–2 Feb 2002
+| 844
+| 6%
+| –
+| 1%
+| 5%
+| style="background:#FFC6D5;"| '''23%'''
+| 0.5%
+| 13%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''23%'''
+| 5%
+| data-sort-value="0%"| <0.5%
+| 2.5%
+| –
+| 1%
+| 9%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730191936/http://www.tns-sofres.com/etudes/pol/070202_baropres.htm Sofres]
+| data-sort-value="2002-02-02"| 1–2 Feb 2002
+| 1,000
+| 6%
+| –
+| 1%
+| 6.5%
+| style="background:#FFE6EC;"| '''22.5%'''
+| –
+| 11%
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#B9DAFF;"| '''24%'''
+| 5%
+| –
+| 1.5%
+| –
+| 1.5%
+| 11%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-02-02"| 31 Jan–2 Feb 2002
+| 788
+| 7%
+| –
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''22%'''
+| 1%
+| 10%
+| –
+| 7%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 5%
+| 0.5%
+| 2%
+| –
+| 1.5%
+| 10%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020210222228/http://www.ifop.com/europe/sondages/opinionf/jdd0202.asp Ifop]
+| data-sort-value="2002-02-01"| 31 Jan–1 Feb 2002
+| 963
+| 7%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 4%
+| style="background:#FFE6EC;"| '''22%'''
+| data-sort-value="0%"| <1%
+| 11%
+| 1%
+| 6%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 1%
+| data-sort-value="0%"| <1%
+| 3%
+| style="background:#B9DAFF;"| '''24%'''
+| 4%
+| 1%
+| 3%
+| –
+| 2%
+| 10%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020331181652/http://www.csa-fr.com/fra/dataset/data2002/indic20020130.htm CSA]
+| data-sort-value="2002-01-30"| 29–30 Jan 2002
+| 1,001
+| 6%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''22%'''
+| 1%
+| 14%
+| –
+| 7%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''23%'''
+| 5%
+| –
+| 1.5%
+| –
+| 1.5%
+| 9%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-trois-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-01-26"| 25–26 Jan 2002
+| 962
+| 7%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 12%
+| –
+| 5%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''26%'''
+| 5%
+| 0.5%
+| 1%
+| –
+| 1.5%
+| 9%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020601204429/http://www.ifop.com/europe/sondages/opinionf/presidv1.asp Ifop]
+| data-sort-value="2002-01-18"| 17–18 Jan 2002
+| 943
+| 6%
+| data-sort-value="0%"| <1%
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#FFE6EC;"| '''20%'''
+| data-sort-value="0%"| <1%
+| 11%
+| –
+| 8%
+| data-sort-value="0%"| <1%
+| –
+| 1%
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#B9DAFF;"| '''24%'''
+| 5%
+| 1%
+| 3%
+| –
+| 1%
+| 9%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020817025120/http://www.csa-fr.com/fra/dataset/data2002/indic20020117.htm CSA]
+| data-sort-value="2002-01-17"| 17 Jan 2002
+| 1,006
+| 6%
+| –
+| 0.5%
+| 4.5%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 11%
+| –
+| 7.5%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''27%'''
+| 5%
+| –
+| 1%
+| –
+| 0.5%
+| 10%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002 Ipsos]
+| data-sort-value="2002-01-12"| 11–12 Jan 2002
+| 947
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''24%'''
+| 0.5%
+| 10%
+| –
+| 5%
+| –
+| –
+| 0.5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''28%'''
+| 4%
+| 0.5%
+| 1%
+| –
+| 1%
+| 8%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730195912/http://www.tns-sofres.com/etudes/pol/160102_intentions_r.htm Sofres]
+| data-sort-value="2002-01-12"| 11–12 Jan 2002
+| 1,000
+| 7%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 9%
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#B9DAFF;"| '''27%'''
+| 4%
+| –
+| 3.5%
+| –
+| 2%
+| 9%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020117211402/http://www.ifop.com/europe/sondages/opinionf/jdd0102.asp Ifop]
+| data-sort-value="2002-01-11"| 10–11 Jan 2002
+| 963
+| 6%
+| –
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#FFE6EC;"| '''21%'''
+| data-sort-value="0%"| <1%
+| 11%
+| –
+| 8%
+| data-sort-value="0%"| <1%
+| –
+| 1%
+| data-sort-value="0%"| <1%
+| 4%
+| style="background:#B9DAFF;"| '''27%'''
+| 3%
+| 1%
+| 3%
+| –
+| 1%
+| 8%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730193023/http://www.tns-sofres.com/etudes/pol/100102_intentions_r.htm Sofres]
+| data-sort-value="2002-01-05"| 5 Jan 2002
+| 800
+| 7%
+| –
+| 0%
+| 6%
+| style="background:#FFE6EC;"| '''24%'''
+| –
+| 9%
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#B9DAFF;"| '''27%'''
+| 4%
+| –
+| 3%
+| –
+| 2%
+| 9%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-troisieme-partie-intentions-de-vote-presidentielle Ipsos]
+| data-sort-value="2002-01-05"| 4–5 Jan 2002
+| 955
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''23%'''
+| 0.5%
+| 11%
+| –
+| 5%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''28%'''
+| 3%
+| 0.5%
+| 2%
+| –
+| 1%
+| 9%
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf Louis Harris]
+| data-sort-value="2002-01-05"| 4–5 Jan 2002
+| 1,003
+| 7%
+| –
+| data-sort-value="0%"| <0.5%
+| 5%
+| style="background:#FFE6EC;"| '''24%'''
+| –
+| 8%
+| –
+| 7%
+| –
+| –
+| 1%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''27%'''
+| 4%
+| data-sort-value="0%"| <0.5%
+| 3%
+| –
+| 2%
+| 9%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-01-05"| 2–5 Jan 2002
+| 735
+| 7%
+| –
+| 0.5%
+| 6%
+| style="background:#FFC6D5;"| '''24%'''
+| 0.5%
+| 11%
+| –
+| 7%
+| –
+| –
+| 0.5%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''21%'''
+| 4%
+| 0.5%
+| 2%
+| –
+| 1%
+| 10%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020327225010/http://www.csa-fr.com/fra/dataset/data2002/indic20020104.htm CSA]
+| data-sort-value="2002-01-04"| 3–4 Jan 2002
+| 1,005
+| 5%
+| –
+| 1%
+| 5.5%
+| style="background:#FFE6EC;"| '''21.5%'''
+| 0.5%
+| 10.5%
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#B9DAFF;"| '''28%'''
+| 5%
+| –
+| 1%
+| –
+| 2%
+| 10%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730201237/http://www.tns-sofres.com/etudes/pol/181201_baropres.htm Sofres]
+| data-sort-value="2001-12-15"| 14–15 Dec 2001
+| 1,000
+| 7%
+| –
+| 0.5%
+| 6.5%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 9%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#B9DAFF;"| '''27%'''
+| 5%
+| –
+| 3%
+| –
+| 1.5%
+| 8.5%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020617153448/http://www.csa-fr.com/fra/dataset/data2001/indic20011212.htm CSA]
+| data-sort-value="2001-12-12"| 11–12 Dec 2001
+| 1,000
+| 7%
+| –
+| 0.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 10%
+| –
+| 8%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''25%'''
+| 5%
+| –
+| 2%
+| –
+| 1%
+| 9%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2001-12-08"| 7–8 Dec 2001
+| 840
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| 0.5%
+| 12%
+| –
+| 6%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''27%'''
+| 3%
+| 0.5%
+| 2%
+| –
+| 1.5%
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-12-01"| 29 Nov–1 Dec 2001
+| 680
+| 5%
+| –
+| 0.5%
+| 5%
+| style="background:#FFC6D5;"| '''24%'''
+| –
+| 8%
+| –
+| 9%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''23%'''
+| 4%
+| 0.5%
+| 4%
+| –
+| 1%
+| 11%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020202113439/http://www.ifop.com/europe/sondages/opinionf/baropresv11.asp Ifop]
+| data-sort-value="2001-11-30"| 29–30 Nov 2001
+| 943
+| 7%
+| –
+| data-sort-value="0%"| <1%
+| 4%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 10%
+| –
+| 8%
+| data-sort-value="0%"| <1%
+| –
+| 1%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''26%'''
+| 5%
+| data-sort-value="0%"| <1%
+| 4%
+| –
+| 1%
+| 6%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824100706/http://www.tns-sofres.com/etudes/pol/281101_baropres.htm Sofres]
+| data-sort-value="2001-11-23"| 22–23 Nov 2001
+| 1,000
+| 7%
+| –
+| –
+| 6.5%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 8%
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 4.5%
+| style="background:#B9DAFF;"| '''27%'''
+| 5%
+| –
+| 4%
+| –
+| 1%
+| 9%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020319191442/http://www.csa-fr.com/fra/dataset/data2001/indic20011115.htm CSA]
+| data-sort-value="2001-11-15"| 14–15 Nov 2001
+| 1,006
+| 6%
+| –
+| 1%
+| 5%
+| style="background:#FFE6EC;"| '''23%'''
+| –
+| 10%
+| –
+| 8%
+| –
+| –
+| –
+| –
+| 4.5%
+| style="background:#B9DAFF;"| '''25%'''
+| 4.5%
+| –
+| 3%
+| –
+| 1%
+| 9%
+|-
+| style="background:#04FBF4;"| [https://www.nouvelobs.com/politique/20011115.OBS0510/presidentielle-chirac-devant-jospin-au-2eme-tour.html Ipsos]
+| data-sort-value="2001-11-10"| 9–10 Nov 2001
+| 927
+| 5%
+| –
+| 0.5%
+| 6%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 11%
+| –
+| 7%
+| –
+| –
+| 0.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''27%'''
+| 4%
+| 0.5%
+| 3%
+| –
+| 1.5%
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-10-27"| 25–27 Oct 2001
+| 685
+| 7%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''22%'''
+| –
+| 12%
+| –
+| 6%
+| –
+| –
+| 1%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''24%'''
+| 5%
+| 1%
+| 3%
+| –
+| 0.5%
+| 9%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-six-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2001-10-20"| 19–20 Oct 2001
+| 829
+| 5%
+| –
+| 0.5%
+| 5%
+| style="background:#FFE6EC;"| '''23%'''
+| –
+| 12%
+| –
+| 6%
+| –
+| –
+| 0.5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''26%'''
+| 5%
+| 0.5%
+| 4%
+| –
+| 1.5%
+| 6%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730202702/http://www.tns-sofres.com/etudes/pol/251001_baropres.htm Sofres]
+| data-sort-value="2001-10-20"| 19–20 Oct 2001
+| 1,000
+| 6%
+| –
+| –
+| 6%
+| style="background:#FFE6EC;"| '''23%'''
+| –
+| 8.5%
+| –
+| 5.5%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''27%'''
+| 5%
+| –
+| 3%
+| –
+| –
+| 11%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020319090027/http://www.csa-fr.com/fra/dataset/data2001/indic20011018.htm CSA]
+| data-sort-value="2001-10-18"| 17–18 Oct 2001
+| 1,005
+| 7%
+| –
+| 0.5%
+| 5.5%
+| style="background:#FFE6EC;"| '''23%'''
+| –
+| 9%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''26%'''
+| 5%
+| –
+| 3%
+| –
+| 0.5%
+| 8.5%
+|}
+
+=== 15 February to 16 October 2001 ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:55px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:55px;"| [[Olivier Besancenot|Besancenot]]<br />{{small|[[Revolutionary Communist League (France)|LCR]]}}
+! class="unsortable" style="width:55px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:55px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:55px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:55px;"| [[Dieudonné M'bala M'bala|Dieudonné]]<br />{{small|[[Les Utopistes|LU]]}}
+! class="unsortable" style="width:55px;"| [[Noël Mamère|Mamère]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:55px;"| [[Alain Lipietz|Lipietz]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:55px;"| [[Dominique Voynet|Voynet]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:55px;"| [[Antoine Waechter|Waechter]]<br />{{small|[[Independent Ecological Movement|MEI]]}}
+! class="unsortable" style="width:55px;"| [[Corinne Lepage|Lepage]]<br />{{small|[[Cap21]]}}
+! class="unsortable" style="width:55px;"| [[Brice Lalonde|Lalonde]]<br />{{small|[[Ecology Generation|GE]]}}
+! class="unsortable" style="width:55px;"| [[François Bayrou|Bayrou]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:55px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:55px;"| [[Alain Madelin|Madelin]]<br />{{small|[[Liberal Democracy (France)|DL]]}}
+! class="unsortable" style="width:55px;"| [[Christine Boutin|Boutin]]<br />{{small|[[Forum of Social Republicans|FRS]]}}
+! class="unsortable" style="width:55px;"| [[Charles Pasqua|Pasqua]]<br />{{small|[[Rally for France|RPF]]}}
+! class="unsortable" style="width:55px;"| [[Philippe de Villiers|Villiers]]<br />{{small|[[Movement for France|MPF]]}}
+! class="unsortable" style="width:55px;"| [[Bruno Mégret|Mégret]]<br />{{small|[[National Republican Movement|MNR]]}}
+! class="unsortable" style="width:55px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|Revolutionary Communist League (France)}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|Miscellaneous left}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Independent Ecological Movement}};"|
+! style="background:{{party color|Cap21}};"|
+! style="background:{{party color|Ecology Generation}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Liberal Democracy (France)}};"|
+! style="background:{{party color|Forum of Social Republicans}};"|
+! style="background:{{party color|Rally for France}};"|
+! style="background:{{party color|Movement for France}};"|
+! style="background:{{party color|National Republican Movement}};"|
+! style="background:{{party color|National Front (France)}};"|
+|-
+| rowspan="2" style="background:#FFCCCC;"| [https://web.archive.org/web/20011214084537/http://www.ifop.com/europe/sondages/opinionf/baropresv10.asp Ifop]
+| rowspan="2" data-sort-value="2001-10-12"| 11–12 Oct 2001
+| rowspan="2"| 761
+| 6%
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#FFE6EC;"| '''23%'''
+| 10%
+| –
+| 8%
+| –
+| –
+| data-sort-value="0%"| <1%
+| 1%
+| –
+| 6%
+| style="background:#B9DAFF;"| '''24%'''
+| 4%
+| data-sort-value="0%"| <1%
+| 5%
+| –
+| –
+| 7%
+|-
+| 7%
+| data-sort-value="0%"| <1%
+| 5%
+| style="background:#FFC6D5;"| '''26%'''
+| 11%
+| –
+| –
+| 2%
+| –
+| data-sort-value="0%"| <1%
+| 1%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''26%'''
+| 4%
+| data-sort-value="0%"| <1%
+| 5%
+| –
+| –
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-09-29"| 27–29 Sep 2001
+| 773
+| 6%
+| 1%
+| 6%
+| style="background:#FFC6D5;"| '''26%'''
+| 8%
+| –
+| –
+| 3%
+| –
+| –
+| 0.5%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''25%'''
+| 7%
+| 0.5%
+| 3%
+| –
+| 1%
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020318213748/http://www.csa-fr.com/fra/dataset/data2001/indic20010912.htm CSA]
+| data-sort-value="2001-09-12"| 11–12 Sep 2001
+| 1,000
+| 7%
+| 1%
+| 6%
+| style="background:#FFE6EC;"| '''24%'''
+| 9%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#B9DAFF;"| '''26%'''
+| 6%
+| –
+| 2%
+| –
+| 1%
+| 8%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20031024061304/http://www.tns-sofres.com/etudes/pol/140901_baropres.htm Sofres]
+| data-sort-value="2001-09-08"| 7–8 Sep 2001
+| 1,000
+| 7%
+| –
+| 6%
+| style="background:#FFC6D5;"| '''27%'''
+| 9%
+| –
+| –
+| 2%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#DFEEFF;"| '''26%'''
+| 5%
+| 0.5%
+| 4%
+| –
+| 1.5%
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-09-01"| 30 Aug–1 Sep 2001
+| 682
+| 6%
+| 1%
+| 4%
+| style="background:#FFE6EC;"| '''25%'''
+| 6%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 1%
+| 6%
+| style="background:#B9DAFF;"| '''26%'''
+| 5%
+| 1%
+| 6%
+| –
+| 2%
+| 7%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020318073634/http://www.csa-fr.com/fra/dataset/data2001/indic20010717.htm CSA]
+| data-sort-value="2001-07-17"| 16–17 Jul 2001
+| 1,005
+| 7%
+| –
+| 7%
+| style="background:#FFE6EC;"| '''26%'''
+| 6%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''30%'''
+| 5%
+| –
+| 3%
+| –
+| 1%
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-07-07"| 5–7 Jul 2001
+| 605
+| 7%
+| 1%
+| 6%
+| style="background:#FFC6D5;"| '''26%'''
+| 5%
+| –
+| –
+| 5%
+| –
+| –
+| 2%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''25%'''
+| 5%
+| 2%
+| 2%
+| –
+| 2%
+| 7%
+|-
+| rowspan="2" style="background:burlywood;"| [https://web.archive.org/web/20031024061556/http://www.tns-sofres.com/etudes/pol/280601_baropres.htm Sofres]
+| rowspan="2" data-sort-value="2001-06-23"| 22–23 Jun 2001
+| rowspan="2"| 1,000
+| 7%
+| –
+| 6%
+| style="background:#FFC6D5;"| '''27%'''
+| 6%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#DFEEFF;"| '''26%'''
+| 5%
+| 1%
+| 4%
+| –
+| –
+| 10%
+|-
+| 9%
+| –
+| 7%
+| style="background:#FFE6EC;"| '''27.5%'''
+| 7%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| –
+| 6.5%
+| style="background:#B9DAFF;"| '''31%'''
+| 9%
+| –
+| –
+| –
+| –
+| –
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020823135729/http://www.csa-fr.com/fra/dataset/data2001/indic20010621.htm CSA]
+| data-sort-value="2001-06-21"| 20–21 Jun 2001
+| 1,000
+| 6.5%
+| –
+| 6.5%
+| style="background:#FFE6EC;"| '''27%'''
+| 5%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#B9DAFF;"| '''28%'''
+| 6%
+| –
+| 2%
+| –
+| 2%
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-06-16"| 14–16 Jun 2001
+| 658
+| 8%
+| –
+| 7%
+| style="background:#FFC6D5;"| '''24%'''
+| 6%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#DFEEFF;"| '''23%'''
+| 5%
+| –
+| 5%
+| –
+| 1%
+| 8%
+|-
+| rowspan="4" style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures Ipsos]
+| rowspan="4" data-sort-value="2001-06-09"| 8–9 Jun 2001
+| rowspan="4"| 839
+| 6%
+| –
+| 6%
+| style="background:#FFE6EC;"| '''27%'''
+| 4%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''30%'''
+| 3%
+| 3%
+| 3%
+| –
+| 2%
+| 6%
+|-
+| 6%
+| –
+| 6%
+| style="background:#FFE6EC;"| '''27%'''
+| 4%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''32%'''
+| 3%
+| 3%
+| –
+| –
+| 2%
+| 7%
+|-
+| 6%
+| –
+| 6%
+| style="background:#FFE6EC;"| '''28%'''
+| 4%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#B9DAFF;"| '''33%'''
+| 4%
+| 4%
+| 5%
+| –
+| –
+| –
+|-
+| 6%
+| –
+| 6%
+| style="background:#FFE6EC;"| '''28%'''
+| 5%
+| –
+| 6%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#B9DAFF;"| '''38%'''
+| 5%
+| –
+| –
+| –
+| –
+| –
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020313140326/http://www.csa-fr.com/fra/dataset/data2001/indic20010530.htm CSA]
+| data-sort-value="2001-05-30"| 29–30 May 2001
+| 900
+| 6%
+| –
+| 8%
+| style="background:#FFC6D5;"| '''28%'''
+| 4%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#DFEEFF;"| '''27%'''
+| 5%
+| –
+| 2%
+| –
+| 2%
+| 8%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824100508/http://www.tns-sofres.com/etudes/pol/150501_baropres.htm Sofres]
+| data-sort-value="2001-05-16"| 15–16 May 2001
+| 840
+| 6%
+| –
+| 5.5%
+| style="background:#FFC6D5;"| '''27%'''
+| 5%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#DFEEFF;"| '''26%'''
+| 5%
+| –
+| 3%
+| –
+| 1.5%
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-05-12"| 10–12 May 2001
+| 640
+| 7%
+| –
+| 6%
+| style="background:#FFC6D5;"| '''27%'''
+| 3%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#DFEEFF;"| '''25%'''
+| 5%
+| –
+| 6%
+| –
+| –
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020309191140/http://www.csa-fr.com/fra/dataset/data2001/indic20010427.htm CSA]
+| data-sort-value="2001-04-27"| 26–27 Apr 2001
+| 922
+| 6%
+| –
+| 6%
+| style="background:#FFE6EC;"| '''25%'''
+| 5%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#B9DAFF;"| '''30%'''
+| 3%
+| –
+| 3%
+| –
+| 2%
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-04-21"| 20–21 Apr 2001
+| 733
+| 8%
+| –
+| 5%
+| style="background:#FFC6D5;"| '''26%'''
+| 4%
+| –
+| –
+| –
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#DFEEFF;"| '''24%'''
+| 7%
+| –
+| 6%
+| –
+| –
+| 7%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030702052435/http://www.tns-sofres.com/etudes/pol/040401_baropres.htm Sofres]
+| data-sort-value="2001-03-29"| 28–29 Mar 2001
+| 1,000
+| 6.5%
+| –
+| 5%
+| style="background:#FFC6D5;"| '''28%'''
+| 3%
+| –
+| 5.5%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#DFEEFF;"| '''27%'''
+| 5%
+| –
+| 3.5%
+| –
+| 3%
+| 8.5%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20030328133840/http://csa-fr.com/fra/dataset/data2001/indic20010326.htm CSA]
+| data-sort-value="2001-03-26"| 26 Mar 2001
+| 1,000
+| 5%
+| –
+| 5%
+| style="background:#FFC6D5;"| '''28%'''
+| 3%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#B9DAFF;"| '''28%'''
+| 4%
+| –
+| 4%
+| –
+| 2%
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-03-24"| 22–24 Mar 2001
+| 678
+| 6%
+| –
+| 6%
+| style="background:#FFC6D5;"| '''26%'''
+| 5%
+| –
+| 8%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#DFEEFF;"| '''25%'''
+| 5%
+| –
+| 6%
+| –
+| –
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-02-24"| 22–24 Feb 2001
+| 657
+| 7.5%
+| –
+| 6%
+| style="background:#FFC6D5;"| '''28%'''
+| 4%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#DFEEFF;"| '''26%'''
+| 6%
+| –
+| 4.5%
+| –
+| –
+| 8%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010706190518/http://www.ifop.com/europe/sondages/opinionf/baropres.asp Ifop]
+| data-sort-value="2001-02-16"| 15–16 Feb 2001
+| 805
+| 6%
+| –
+| 5%
+| style="background:#FFC6D5;"| '''27%'''
+| 5%
+| 4%
+| 7%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#DFEEFF;"| '''24%'''
+| 3%
+| –
+| 5%
+| 2%
+| –
+| 8%
+|}
+
+=== 21 August 1998 to 14 February 2001 ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:60px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:60px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:60px;"| [[Dominique Voynet|Voynet]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:60px;"| [[José Bové|Bové]]<br />{{small|[[Sans étiquette|SE]]}}
+! class="unsortable" style="width:60px;"| [[François Bayrou|Bayrou]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Philippe Séguin|Séguin]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Alain Madelin|Madelin]]<br />{{small|[[Liberal Democracy (France)|DL]]}}
+! class="unsortable" style="width:60px;"| [[Christine Boutin|Boutin]]<br />{{small|[[Forum of Social Republicans|FRS]]}}
+! class="unsortable" style="width:60px;"| [[Charles Pasqua|Pasqua]]<br />{{small|[[Rally for France|RPF]]}}
+! class="unsortable" style="width:60px;"| [[Philippe de Villiers|Villiers]]<br />{{small|[[Movement for France|MPF]]}}
+! class="unsortable" style="width:60px;"| [[Jean Saint-Josse|Saint-Josse]]<br />{{small|[[Hunting, Fishing, Nature and Traditions|CPNT]]}}
+! class="unsortable" style="width:60px;"| [[Bruno Mégret|Mégret]]<br />{{small|[[National Republican Movement|MNR]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Ecologist}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Liberal Democracy (France)}};"|
+! style="background:{{party color|Forum of Social Republicans}};"|
+! style="background:{{party color|Rally for France}};"|
+! style="background:{{party color|Movement for France}};"|
+! style="background:{{party color|Hunting, Fishing, Nature and Traditions}};"|
+! style="background:{{party color|National Republican Movement}};"|
+! style="background:{{party color|National Front (France)}};"|
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures Ipsos]
+| data-sort-value="2001-02-10"| 9–10 Feb 2001
+| 955
+| 6%
+| 5%
+| style="background:#FFC6D5;"| '''30%'''
+| 4%
+| 3%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''29%'''
+| –
+| 5%
+| –
+| 4%
+| –
+| –
+| –
+| 9%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730192749/http://www.tns-sofres.com/etudes/pol/080201_baropres.htm Sofres]
+| data-sort-value="2001-02-03"| 2–3 Feb 2001
+| 1,000
+| 6%
+| 7%
+| style="background:#FFC6D5;"| '''30%'''
+| 3.5%
+| 5%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''24%'''
+| –
+| 6%
+| –
+| 3.5%
+| –
+| –
+| 2%
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-02-03"| 1–3 Feb 2001
+| 667
+| 7%
+| 6%
+| style="background:#FFC6D5;"| '''29%'''
+| 4%
+| 4%
+| –
+| 7%
+| style="background:#DFEEFF;"| '''26%'''
+| –
+| 5%
+| –
+| 5%
+| –
+| –
+| –
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-01-13"| 11–13 Jan 2001
+| 634
+| 7%
+| 6%
+| style="background:#FFE6EC;"| '''27%'''
+| 3%
+| 4%
+| –
+| 7%
+| style="background:#B9DAFF;"| '''28%'''
+| –
+| 5%
+| –
+| 5%
+| –
+| –
+| –
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020308183032/http://www.csa-fr.com/fra/dataset/data2001/indic20010106.htm CSA]
+| data-sort-value="2001-01-06"| 5–6 Jan 2001
+| 1,000
+| 6%
+| 7%
+| style="background:#FFC6D5;"| '''29%'''
+| 3%
+| 5%
+| –
+| 7%
+| style="background:#DFEEFF;"| '''23%'''
+| –
+| 5%
+| –
+| 5%
+| –
+| –
+| 1%
+| 9%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/les-affaires-de-financement-illegal-de-partis-politiques Ipsos]
+| data-sort-value="2000-12-05"| 5 Dec 2000
+| 818
+| 4%
+| 5%
+| style="background:#FFC6D5;"| '''29%'''
+| 5%
+| 4%
+| –
+| 8%
+| style="background:#DFEEFF;"| '''25%'''
+| –
+| 5%
+| –
+| 7%
+| 2%
+| –
+| 1%
+| 5%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730191812/http://www.tns-sofres.com/etudes/pol/061200_intention.htm Sofres]
+| data-sort-value="2000-12-02"| 1–2 Dec 2000
+| 1,000
+| 6%
+| 6%
+| style="background:#FFC6D5;"| '''30%'''
+| 6%
+| 5%
+| –
+| 6%
+| style="background:#DFEEFF;"| '''22%'''
+| –
+| 6.5%
+| –
+| 6%
+| –
+| –
+| 1%
+| 5.5%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2000-12-02"| 30 Nov–2 Dec 2000
+| 945
+| 8%
+| 6%
+| style="background:#FFC6D5;"| '''28%'''
+| 2%
+| 4%
+| –
+| 7%
+| style="background:#DFEEFF;"| '''26%'''
+| –
+| 4%
+| –
+| 6%
+| –
+| –
+| –
+| 9%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010706210751/http://www.ifop.com/europe/sondages/opinionf/anticip.asp Ifop]
+| data-sort-value="2000-11-27"| 27 Nov 2000
+| 803
+| 6%
+| 6%
+| style="background:#FFC6D5;"| '''27%'''
+| 4%
+| 5%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''24%'''
+| –
+| 5%
+| data-sort-value="0%"| <1%
+| 6%
+| 4%
+| –
+| –
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20030514232710/http://csa-fr.com/fra/dataset/data2K/indic20001115.htm CSA]
+| data-sort-value="2000-11-15"| 14–15 Nov 2000
+| 1,000
+| 6%
+| 5.5%
+| style="background:#FFC6D5;"| '''28%'''
+| 5%
+| 4%
+| –
+| 6%
+| style="background:#DFEEFF;"| '''27%'''
+| –
+| –
+| –
+| 7.5%
+| –
+| –
+| 1%
+| 10%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-11-10"| 8–10 Nov 2000
+| 636
+| 8%
+| 7%
+| style="background:#FFC6D5;"| '''30%'''
+| –
+| 4%
+| –
+| 6%
+| style="background:#DFEEFF;"| '''27%'''
+| –
+| 3%
+| –
+| 5%
+| –
+| –
+| –
+| 10%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-10-08"| 6–8 Oct 2000
+| 627
+| 7%
+| 8%
+| style="background:#FFE6EC;"| '''29%'''
+| –
+| 3%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''30%'''
+| –
+| 4%
+| –
+| 7%
+| –
+| –
+| –
+| 8%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/limage-de-lionel-jospin-et-la-prochaine-election-presidentielle Ipsos]
+| data-sort-value="2000-09-30"| 29–30 Sep 2000
+| 939
+| 5%
+| 7%
+| style="background:#FFC6D5;"| '''28%'''
+| 6%
+| 3%
+| –
+| 6%
+| style="background:#DFEEFF;"| '''27%'''
+| –
+| –
+| –
+| 10%
+| –
+| –
+| 2%
+| 6%
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/barometre-paris-matchbva BVA]
+| data-sort-value="2000-09-09"| 7–9 Sep 2000
+| 581
+| 7%
+| 7%
+| style="background:#FFE6EC;"| '''27%'''
+| –
+| 4%
+| –
+| 6%
+| style="background:#B9DAFF;"| '''32%'''
+| –
+| 3%
+| –
+| 10%
+| –
+| –
+| –
+| 4%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511103020/http://www.csa-fr.com/fra/dataset/data2K/indic20000907.htm CSA]
+| data-sort-value="2000-09-07"| 6–7 Sep 2000
+| 1,000
+| 6%
+| 5.5%
+| style="background:#FFE6EC;"| '''25%'''
+| 7%
+| 5.5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''30%'''
+| –
+| –
+| –
+| 7.5%
+| –
+| –
+| 1%
+| 8.5%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-07-22"| 20–22 Jul 2000
+| 680
+| 6%
+| 6%
+| style="background:#FFC6D5;"| '''32%'''
+| –
+| 4%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''31%'''
+| –
+| 3%
+| –
+| 8%
+| –
+| –
+| –
+| 6%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/jose-bove-president Ipsos]
+| data-sort-value="2000-07-15"| 15 Jul 2000
+| 874
+| 5%
+| 6%
+| style="background:#FFE6EC;"| '''29%'''
+| –
+| 4%
+| 6%
+| 4%
+| style="background:#B9DAFF;"| '''32%'''
+| –
+| –
+| –
+| 6%
+| –
+| –
+| 2%
+| 6%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020622031352/http://www.csa-fr.com/fra/dataset/data2K/indic20000629.htm CSA]
+| data-sort-value="2000-06-29"| 28–29 Jun 2000
+| 1,000
+| 7%
+| 7%
+| style="background:#FFE6EC;"| '''28%'''
+| –
+| 5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''33%'''
+| –
+| –
+| –
+| 7%
+| –
+| –
+| 2%
+| 7%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-06-17"| 15–17 Jun 2000
+| 638
+| 6.5%
+| 6%
+| style="background:#FFC6D5;"| '''33%'''
+| –
+| 3%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''29%'''
+| –
+| 2.5%
+| –
+| 8%
+| –
+| –
+| –
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000614155639/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-05-13"| 11–13 May 2000
+| 691
+| 5.5%
+| 7%
+| style="background:#FFC6D5;"| '''31%'''
+| –
+| 4%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''30%'''
+| –
+| 3%
+| –
+| 8.5%
+| –
+| –
+| –
+| 7%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020622030851/http://www.csa-fr.com/fra/dataset/data2K/indic20000524.htm CSA]
+| data-sort-value="2000-05-13"| 10–13 May 2000
+| 1,000
+| 6%
+| 6%
+| style="background:#FFE6EC;"| '''27%'''
+| –
+| 5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''34%'''
+| –
+| –
+| –
+| 6%
+| –
+| –
+| 3%
+| 8%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-climat-electoral-dans-la-perspective-des-elections-presidentielles-et-legislatives Ipsos]
+| data-sort-value="2000-04-29"| 28–29 Apr 2000
+| 825
+| 3%
+| 7%
+| style="background:#FFE6EC;"| '''32%'''
+| –
+| 3%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''33%'''
+| –
+| –
+| –
+| 9%
+| –
+| 3%
+| 1%
+| 6%
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/tableau-de-bord-paris-matchbva-2 BVA]
+| data-sort-value="2000-04-15"| 13–15 Apr 2000
+| 535
+| 6%
+| 7%
+| style="background:#FFC6D5;"| '''31%'''
+| –
+| 3.5%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''29%'''
+| –
+| 3%
+| –
+| 9%
+| –
+| –
+| –
+| 7.5%
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/le-tableau-de-bord-paris-match-bva-0 BVA]
+| data-sort-value="2000-03-18"| 16–18 Mar 2000
+| 984
+| 7%
+| 6.5%
+| style="background:#FFC6D5;"| '''31%'''
+| –
+| 4%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''26.5%'''
+| –
+| 3%
+| –
+| 11%
+| –
+| –
+| –
+| 7%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-21 Ipsos]
+| data-sort-value="2000-03-11"| 10–11 Mar 2000
+| 920
+| 5%
+| 6%
+| style="background:#FFC6D5;"| '''30%'''
+| –
+| 4%
+| –
+| 3%
+| style="background:#B9DAFF;"| '''30%'''
+| –
+| –
+| –
+| 10%
+| –
+| 4%
+| 2%
+| 6%
+|-
+| rowspan="2" style="background:#FFCCCC;"| [https://web.archive.org/web/20010706183559/http://www.ifop.com/europe/sondages/opinionf/elysee02b.asp Ifop]
+| rowspan="2" data-sort-value="2000-03-03"| 2–3 Mar 2000
+| rowspan="2"| 941
+| 7%
+| 6%
+| style="background:#FFC6D5;"| '''27%'''
+| –
+| 6%
+| –
+| 6%
+| style="background:#DFEEFF;"| '''26%'''
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| 9%
+|-
+| 8%
+| 6%
+| style="background:#FFC6D5;"| '''30%'''
+| –
+| 6%
+| –
+| 8%
+| –
+| style="background:#DFEEFF;"| '''17%'''
+| –
+| –
+| 16%
+| –
+| –
+| –
+| 9%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="2000-02-29"| 28–29 Feb 2000
+| 1,000
+| 7%
+| 6%
+| style="background:#FFC6D5;"| '''29%'''
+| –
+| 4%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''29%'''
+| –
+| –
+| –
+| 9%
+| –
+| –
+| 3%
+| 8%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000226191436/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-02-19"| 17–19 Feb 2000
+| 615
+| 6%
+| 6.5%
+| style="background:#FFC6D5;"| '''31.5%'''
+| –
+| 4%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''24%'''
+| –
+| 4%
+| –
+| 10%
+| –
+| –
+| –
+| 9%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000122083803/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-01-15"| 13–15 Jan 2000
+| 567
+| 5%
+| 6.5%
+| style="background:#FFC6D5;"| '''31.5%'''
+| –
+| 3%
+| –
+| 4%
+| style="background:#DFEEFF;"| '''24%'''
+| –
+| 3%
+| –
+| 11%
+| –
+| –
+| –
+| 12%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="2000-01-05"| 4–5 Jan 2000
+| 1,000
+| 5.5%
+| 7.5%
+| style="background:#FFC6D5;"| '''31%'''
+| –
+| 5%
+| –
+| 5.5%
+| style="background:#DFEEFF;"| '''28%'''
+| –
+| –
+| –
+| 8.5%
+| –
+| –
+| 1%
+| 8%
+|-
+| style="background:burlywood;"| [https://www.ipsos.com/fr-fr/jospin-chirac-lecart-se-creuse Sofres]
+| data-sort-value="1999-12-29"| 27–29 Dec 1999
+| 995
+| 7%
+| 7%
+| style="background:#FFC6D5;"| '''29%'''
+| –
+| 6%
+| –
+| 6%
+| style="background:#DFEEFF;"| '''26%'''
+| –
+| –
+| –
+| 10%
+| –
+| –
+| 2%
+| 7%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-11-04"| 3–4 Nov 1999
+| 1,000
+| 5%
+| 8%
+| style="background:#FFC6D5;"| '''32%'''
+| –
+| 5%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''30%'''
+| –
+| –
+| –
+| –
+| 6%
+| –
+| 1%
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-09-02"| 1–2 Sep 1999
+| 1,000
+| 5%
+| 6%
+| style="background:#FFE6EC;"| '''30%'''
+| –
+| 5%
+| –
+| 6%
+| style="background:#B9DAFF;"| '''31%'''
+| –
+| –
+| –
+| –
+| 8%
+| –
+| 1%
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-07-02"| 1–2 Jul 1999
+| 1,004
+| 5%
+| 7%
+| style="background:#FFC6D5;"| '''31%'''
+| –
+| 5%
+| –
+| 6%
+| style="background:#B9DAFF;"| '''31%'''
+| –
+| –
+| –
+| –
+| 8%
+| –
+| 2%
+| 5%
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/indicateur-presidentiel-intentions-de-vote CSA]
+| data-sort-value="1999-05-07"| 6–7 May 1999
+| 1,002
+| 4.5%
+| 7%
+| style="background:#FFE6EC;"| '''29%'''
+| –
+| 4.5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''34%'''
+| –
+| –
+| –
+| –
+| 5%
+| –
+| 3%
+| 8%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-03-06"| 5–6 Mar 1999
+| 1,003
+| 4.5%
+| 9%
+| style="background:#FFE6EC;"| '''30%'''
+| –
+| 3.5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''35%'''
+| –
+| –
+| –
+| –
+| 3%
+| –
+| 3%
+| 7%
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/le-barometre-dintention-de-vote-presidentiel-csa-bfm-levenement CSA]
+| data-sort-value="1998-12-19"| 18–19 Dec 1998
+| 1,006
+| 5%
+| 8%
+| style="background:#FFE6EC;"| '''28%'''
+| –
+| 5%
+| –
+| 5%
+| style="background:#B9DAFF;"| '''31%'''
+| –
+| –
+| –
+| –
+| 4%
+| –
+| 5%
+| 9%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010419013637/http://www.bva.fr/fr/archives/chirac1298.html BVA]
+| data-sort-value="1998-12-13"| 10–13 Dec 1998
+| 612
+| 5%
+| 7%
+| style="background:#FFE6EC;"| '''29%'''
+| –
+| 5%
+| –
+| 4%
+| style="background:#B9DAFF;"| '''32%'''
+| –
+| 8%
+| –
+| –
+| –
+| –
+| –
+| 10%
+|-
+| style="background:yellow;"| [https://www.humanite.fr/node/190482 CSA]
+| data-sort-value="1998-08-22"| 21–22 Aug 1998
+| 1,003
+| 5%
+| 10%
+| style="background:#FFC6D5;"| '''31%'''
+| –
+| 5%
+| –
+| 5%
+| style="background:#DFEEFF;"| '''30%'''
+| –
+| –
+| –
+| –
+| 3%
+| –
+| –
+| 11%
+|}
+
+=== 17 April 1996 to 20 August 1998 ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:60px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Dominique Voynet|Voynet]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:60px;"| [[François Léotard|Léotard]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:60px;"| [[Édouard Balladur|Balladur]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Philippe Séguin|Séguin]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Philippe de Villiers|Villiers]]<br />{{small|[[Movement for France|MPF]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Cheminade|Cheminade]]<br />{{small|[[Solidarity and Progress|S&P]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Movement for France}};"|
+! style="background:{{party color|National Front (France)}};"|
+! style="background:{{party color|Solidarity and Progress}};"|
+|-
+| rowspan="2" style="background:yellow;"| [https://www.ipsos.com/fr-fr/et-si-la-presidentielle-avait-lieu-aujourdhui CSA]
+| rowspan="2" data-sort-value="1997-08-18"| 18 Aug 1997
+| rowspan="2"| 1,000
+| rowspan="2"| –
+| 5%
+| 9%
+| style="background:#FFE6EC;"| '''29.5%'''
+| 4%
+| 3%
+| –
+| style="background:#B9DAFF;"| '''36.5%'''
+| –
+| –
+| 13%
+| –
+|-
+| 5%
+| 8.5%
+| style="background:#FFC6D5;"| '''31.5%'''
+| 5%
+| 7%
+| –
+| –
+| style="background:#DFEEFF;"| '''29%'''
+| –
+| 14%
+| –
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/un-apres-lelection-presidentielle CSA]
+| data-sort-value="1996-04-19"| 17–19 Apr 1996
+| 1,000
+| –
+| 4%
+| 8%
+| style="background:#FFC6D5;"| '''26%'''
+| 2%
+| –
+| 16%
+| style="background:#DFEEFF;"| '''25%'''
+| –
+| 5%
+| 14%
+| 0%
+|- style="background:#E9E9E9;"
+| [[1995 French presidential election|1995 election]]
+| data-sort-value="1995-04-23"| 23 Apr 1995
+| –
+| 21.62%
+| 5.30%
+| 8.64%
+| style="background:#FFC6D5;"| '''23.30%'''
+| 3.32%
+| –
+| 18.58%
+| style="background:#DFEEFF;"| '''20.84%'''
+| –
+| 4.74%
+| 15.00%
+| 0.28%
+|}
+
+=== By department ===
+;Paris
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:60px;"| [[Daniel Gluckstein|Gluckstein]]<br />{{small|[[Workers' Party (France)|PT]]}}
+! class="unsortable" style="width:60px;"| [[Olivier Besancenot|Besancenot]]<br />{{small|[[Revolutionary Communist League (France)|LCR]]}}
+! class="unsortable" style="width:60px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Christiane Taubira|Taubira]]<br />{{small|[[Radical Party of the Left|PRG]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:60px;"| [[Noël Mamère|Mamère]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:60px;"| [[Corinne Lepage|Lepage]]<br />{{small|[[Cap21]]}}
+! class="unsortable" style="width:60px;"| [[François Bayrou|Bayrou]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Alain Madelin|Madelin]]<br />{{small|[[Liberal Democracy (France)|DL]]}}
+! class="unsortable" style="width:60px;"| [[Christine Boutin|Boutin]]<br />{{small|[[Forum of Social Republicans|FRS]]}}
+! class="unsortable" style="width:60px;"| [[Jean Saint-Josse|Saint-<br />Josse]]<br />{{small|[[Hunting, Fishing, Nature and Traditions|CPNT]]}}
+! class="unsortable" style="width:60px;"| [[Bruno Mégret|Mégret]]<br />{{small|[[National Republican Movement|MNR]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|Workers' Party (France)}};"|
+! style="background:{{party color|Revolutionary Communist League (France)}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Radical Party of the Left}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Cap21}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Liberal Democracy (France)}};"|
+! style="background:{{party color|Forum of Social Republicans}};"|
+! style="background:{{party color|Hunting, Fishing, Nature and Traditions}};"|
+! style="background:{{party color|National Republican Movement}};"|
+! style="background:{{party color|National Front (France)}};"|
+|- style="background:#E9E9E9;"
+| [[2002 French presidential election|2002 election]]
+| data-sort-value="2002-04-21"| 21 Apr 2002
+| –
+| 29.81%
+| 3.05%
+| 0.34%
+| 3.42%
+| 2.19%
+| style="background:#FFE6EC;"| '''19.94%'''
+| 3.78%
+| 6.62%
+| 7.39%
+| 2.46%
+| 7.91%
+| style="background:#B9DAFF;"| '''24.01%'''
+| 6.50%
+| 1.49%
+| 0.52%
+| 1.02%
+| 9.35%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-paris-un-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-03-21"| 20–21 Mar 2002
+| 804
+| –
+| 10%
+| –
+| 1%
+| 3%
+| style="background:#FFE6EC;"| '''23%'''
+| 0.5%
+| 10%
+| 6%
+| 1%
+| 4%
+| style="background:#B9DAFF;"| '''27%'''
+| 4%
+| 1%
+| 0.5%
+| 1%
+| 6%
+|}
+
+;Réunion
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Arlette Laguiller|Laguiller]]<br />{{small|[[Lutte Ouvrière|LO]]}}
+! class="unsortable" style="width:60px;"| [[Daniel Gluckstein|Gluckstein]]<br />{{small|[[Workers' Party (France)|PT]]}}
+! class="unsortable" style="width:60px;"| [[Olivier Besancenot|Besancenot]]<br />{{small|[[Revolutionary Communist League (France)|LCR]]}}
+! class="unsortable" style="width:60px;"| [[Robert Hue|Hue]]<br />{{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Christiane Taubira|Taubira]]<br />{{small|[[Radical Party of the Left|PRG]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:60px;"| [[Noël Mamère|Mamère]]<br />{{small|[[The Greens (France)|LV]]}}
+! class="unsortable" style="width:60px;"| [[Corinne Lepage|Lepage]]<br />{{small|[[Cap21]]}}
+! class="unsortable" style="width:60px;"| [[François Bayrou|Bayrou]]<br />{{small|[[Union for French Democracy|UDF]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Alain Madelin|Madelin]]<br />{{small|[[Liberal Democracy (France)|DL]]}}
+! class="unsortable" style="width:60px;"| [[Christine Boutin|Boutin]]<br />{{small|[[Forum of Social Republicans|FRS]]}}
+! class="unsortable" style="width:60px;"| [[Charles Pasqua|Pasqua]]<br />{{small|[[Rally for France|RPF]]}}
+! class="unsortable" style="width:60px;"| [[Jean Saint-Josse|Saint-<br />Josse]]<br />{{small|[[Hunting, Fishing, Nature and Traditions|CPNT]]}}
+! class="unsortable" style="width:60px;"| [[Bruno Mégret|Mégret]]<br />{{small|[[National Republican Movement|MNR]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|Workers' Party (France)}};"|
+! style="background:{{party color|Revolutionary Communist League (France)}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Radical Party of the Left}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|The Greens (France)}};"|
+! style="background:{{party color|Cap21}};"|
+! style="background:{{party color|Union for French Democracy}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|Liberal Democracy (France)}};"|
+! style="background:{{party color|Forum of Social Republicans}};"|
+! style="background:{{party color|Rally for France}};"|
+! style="background:{{party color|Hunting, Fishing, Nature and Traditions}};"|
+! style="background:{{party color|National Republican Movement}};"|
+! style="background:{{party color|National Front (France)}};"|
+|- style="background:#E9E9E9;"
+| [[2002 French presidential election|2002 election]]
+| data-sort-value="2002-04-21"| 21 Apr 2002
+| –
+| 43.68%
+| 2.55%
+| 0.22%
+| 1.93%
+| 1.18%
+| style="background:#FFC6D5;"| '''39.01%'''
+| 2.10%
+| 3.13%
+| 2.14%
+| 0.95%
+| 2.50%
+| style="background:#DFEEFF;"| '''37.15%'''
+| 1.05%
+| 0.91%
+| –
+| 0.49%
+| 0.87%
+| 3.81%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/lelection-presidentielle-la-reunion Ipsos]
+| data-sort-value="2002-02-26"| 25–26 Feb 2002
+| 838
+| –
+| 5%
+| –
+| data-sort-value="0%"| <0.5%
+| 4%
+| style="background:#FFC6D5;"| '''38%'''
+| 2%
+| 6%
+| 3%
+| data-sort-value="0%"| <0.5%
+| 1%
+| style="background:#DFEEFF;"| '''37%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+| data-sort-value="0%"| <0.5%
+| data-sort-value="0%"| <0.5%
+| data-sort-value="0%"| <0.5%
+| 1%
+|}
+
+== Second round ==
+The Sofres poll conducted from 4 to 5 April 2002, marked with an asterisk (*) below, was conducted specifically for subsample data.
+
+The publication of second-round polls was prohibited after midnight on 3 May 2002.<ref name="silence"/>
+
+=== Chirac–Le Pen ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Marie Le Pen|Le Pen]]<br />{{small|[[National Front (France)|FN]]}}
+|-
+! style="background:{{party color|Rally for the Republic}};"|
+! style="background:{{party color|National Front (France)}};"|
+|- style="background:#E9E9E9;"
+| [[2002 French presidential election|2002 election]]
+| data-sort-value="2002-05-05"| 5 May 2002
+| –
+| 20.29%
+| style="background:#B9DAFF;"| '''82.21%'''
+| 17.79%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020611183151/http://www.csa-tmo.fr/fra/dataset/data2002/opi20020503a.htm CSA]
+| data-sort-value="2002-05-03"| 3 May 2002
+| 1,000
+| –
+| style="background:#B9DAFF;"| '''80%'''
+| 20%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-9 Ipsos]
+| data-sort-value="2002-05-02"| 30 Apr–2 May 2002
+| 1,012
+| –
+| style="background:#B9DAFF;"| '''79%'''
+| 21%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-8 Ipsos]
+| data-sort-value="2002-04-27"| 26–27 Apr 2002
+| 922
+| –
+| style="background:#B9DAFF;"| '''78%'''
+| 22%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020602065426/http://www.csa-tmo.fr/fra/dataset/data2002/opi20020424b.htm CSA]
+| data-sort-value="2002-04-24"| 23–24 Apr 2002
+| 1,000
+| –
+| style="background:#B9DAFF;"| '''81%'''
+| 19%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020427122528/http://www.csa-tmo.fr/fra/dataset/data2002/opi20020421c.htm CSA]
+| data-sort-value="2002-04-21"| 21 Apr 2002
+| 1,000
+| –
+| style="background:#B9DAFF;"| '''77%'''
+| 23%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-niveau-dindecision Ipsos]
+| data-sort-value="2002-04-21"| 21 Apr 2002
+| 1,043
+| –
+| style="background:#B9DAFF;"| '''80%'''
+| 20%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730202051/http://www.tns-sofres.com/etudes/pol/210402_intentions_t2.htm Sofres]
+| data-sort-value="2002-04-21"| 21 Apr 2002
+| 1,000
+| –
+| style="background:#B9DAFF;"| '''78%'''
+| 22%
+|}
+
+=== Jospin–Chirac ===
+;Graphical summary
+The averages in the graphs below were constructed using polls listed below conducted by the six major French pollsters. The graphs are 14-day weighted moving averages, using only the most recent poll conducted by any given pollster within that range (each poll weighted based on recency).
+
+[[File:Opinion polling for the French presidential election, 2002 Jospin–Chirac.png]]
+
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-04-18"| 18 Apr 2002
+| 579
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618193356/http://www.csa-fr.com/fra/dataset/data2002/indic20020418.htm CSA]
+| data-sort-value="2002-04-18"| 17–18 Apr 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-7 Ipsos]
+| data-sort-value="2002-04-18"| 17–18 Apr 2002
+| 989
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822222733/http://www.tns-sofres.com/etudes/pol/190402_intentions_r.htm Sofres]
+| data-sort-value="2002-04-18"| 17–18 Apr 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf Louis Harris]
+| data-sort-value="2002-04-17"| 16–17 Apr 2002
+| 577
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-cinq-jours-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-04-16"| 15–16 Apr 2002
+| 1,005
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730200113/http://www.tns-sofres.com/etudes/pol/160402_intentions_r.htm Sofres]
+| data-sort-value="2002-04-15"| 13–15 Apr 2002
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020425110704/http://www.ifop.com/europe/sondages/OPINIONF/presidv8.asp Ifop]
+| data-sort-value="2002-04-13"| 12–13 Apr 2002
+| 1,006
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-04-13"| 10–13 Apr 2002
+| 641
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020420102922/http://www.ifop.com/europe/sondages/opinionf/baropresjddv6.asp Ifop]
+| data-sort-value="2002-04-12"| 11–12 Apr 2002
+| 951
+| –
+| 49.5%
+| style="background:#B9DAFF;"| '''50.5%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618192047/http://www.csa-fr.com/fra/dataset/data2002/indic20020411.htm CSA]
+| data-sort-value="2002-04-11"| 10–11 Apr 2002
+| 1,000
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730172406/http://www.tns-sofres.com/etudes/pol/120402_baropres.htm Sofres]
+| data-sort-value="2002-04-11"| 10–11 Apr 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020816205636/http://www.ifop.com/europe/sondages/opinionf/presidv7.asp Ifop]
+| data-sort-value="2002-04-06"| 5–6 Apr 2002
+| 1,004
+| –
+| 48.5%
+| style="background:#B9DAFF;"| '''51.5%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-deux-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-04-06"| 5–6 Apr 2002
+| 952
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-04-06"| 4–6 Apr 2002
+| 595
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030709084900/http://www.tns-sofres.com/etudes/pol/120402_catholiques_r.htm Sofres]*
+| data-sort-value="2002-04-05"| 4–5 Apr 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618192333/http://www.csa-fr.com/fra/dataset/data2002/indic20020404.htm CSA]
+| data-sort-value="2002-04-04"| 3–4 Apr 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822215617/http://www.tns-sofres.com/etudes/pol/050402_baropres.htm Sofres]
+| data-sort-value="2002-04-04"| 3–4 Apr 2002
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-6 Ipsos]
+| data-sort-value="2002-03-30"| 29–30 Mar 2002
+| 938
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf Louis Harris]
+| data-sort-value="2002-03-30"| 29–30 Mar 2002
+| 1,001
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-30"| 28–30 Mar 2002
+| 594
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp Ifop]
+| data-sort-value="2002-03-29"| 28–29 Mar 2002
+| 936
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20021104132550/http://www.csa-fr.com/fra/dataset/data2002/indic20020328.htm CSA]
+| data-sort-value="2002-03-28"| 27–28 Mar 2002
+| 1,003
+| –
+| style="background:#FFC6D5;"| '''50.5%'''
+| 49.5%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730190416/http://www.tns-sofres.com/etudes/pol/030402_intentions_r.htm Sofres]
+| data-sort-value="2002-03-28"| 27–28 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730203300/http://www.tns-sofres.com/etudes/pol/290302_baropres.htm Sofres]
+| data-sort-value="2002-03-28"| 27–28 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020409021523/http://www.ifop.com/europe/sondages/OPINIONF/presidv6.asp Ifop]
+| data-sort-value="2002-03-24"| 23–24 Mar 2002
+| 1,005
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-03-23"| 22–23 Mar 2002
+| 938
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030702151834/http://www.tns-sofres.com/etudes/pol/250302_baropres.htm Sofres]
+| data-sort-value="2002-03-23"| 22–23 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-23"| 21–23 Mar 2002
+| 588
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp Ifop]
+| data-sort-value="2002-03-22"| 21–22 Mar 2002
+| 947
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020408141047/http://www.csa-fr.com/fra/dataset/data2002/indic20020321.htm CSA]
+| data-sort-value="2002-03-21"| 20–21 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020323181923/http://www.ifop.com/europe/sondages/opinionf/presidv5.asp Ifop]
+| data-sort-value="2002-03-16"| 15–16 Mar 2002
+| 933
+| –
+| style="background:#FFC6D5;"| '''51.5%'''
+| 48.5%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-5 Ipsos]
+| data-sort-value="2002-03-16"| 15–16 Mar 2002
+| 919
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-16"| 14–16 Mar 2002
+| 641
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822222601/http://www.tns-sofres.com/etudes/pol/190302_intentions_r.htm Sofres]
+| data-sort-value="2002-03-16"| 13–16 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730200828/http://www.tns-sofres.com/etudes/pol/180302_baropres.htm Sofres]
+| data-sort-value="2002-03-15"| 14–15 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50.5%'''
+| 49.5%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020429025130/http://www.csa-fr.com/fra/dataset/data2002/indic20020314.htm CSA]
+| data-sort-value="2002-03-14"| 13–14 Mar 2002
+| 1,001
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-six-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-03-09"| 8–9 Mar 2002
+| 933
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf Louis Harris]
+| data-sort-value="2002-03-09"| 8–9 Mar 2002
+| 603
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730193757/http://www.tns-sofres.com/etudes/pol/110302_baropres.htm Sofres]
+| data-sort-value="2002-03-09"| 8–9 Mar 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51.5%'''
+| 48.5%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-4 Ipsos]
+| data-sort-value="2002-03-02"| 1–2 Mar 2002
+| 925
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-03-02"| 28 Feb–2 Mar 2002
+| 630
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020321092317/http://www.ifop.com/europe/sondages/opinionf/presidv4.asp Ifop]
+| data-sort-value="2002-03-01"| 28 Feb–1 Mar 2002
+| 941
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020429024022/http://www.csa-fr.com/fra/dataset/data2002/indic20020228.htm CSA]
+| data-sort-value="2002-02-28"| 27–28 Feb 2002
+| 1,007
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030822220545/http://www.tns-sofres.com/etudes/pol/060302_intentions_r.htm Sofres]
+| data-sort-value="2002-02-28"| 27–28 Feb 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405010901/http://www.ifop.com/europe/sondages/opinionf/presidenv3.asp Ifop]
+| data-sort-value="2002-02-23"| 22–23 Feb 2002
+| 937
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-huit-semaines-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-02-23"| 22–23 Feb 2002
+| 938
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730202819/http://www.tns-sofres.com/etudes/pol/260202_baropres.htm Sofres]
+| data-sort-value="2002-02-23"| 22–23 Feb 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020405005649/http://www.ifop.com/europe/sondages/opinionf/jddv3.asp Ifop]
+| data-sort-value="2002-02-22"| 21–22 Feb 2002
+| 939
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-3 Ipsos]
+| data-sort-value="2002-02-16"| 15–16 Feb 2002
+| 916
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-02-16"| 14–16 Feb 2002
+| 713
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730201436/http://www.tns-sofres.com/etudes/pol/210202_intentions_r.htm Sofres]
+| data-sort-value="2002-02-15"| 13–15 Feb 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020618193852/http://www.csa-fr.com/fra/dataset/data2002/indic20020214.htm CSA]
+| data-sort-value="2002-02-14"| 13–14 Feb 2002
+| 1,000
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques Ipsos]
+| data-sort-value="2002-02-12"| 12 Feb 2002
+| 1,018
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques Ipsos]
+| data-sort-value="2002-02-09"| 8–9 Feb 2002
+| 908
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020601205839/http://www.ifop.com/europe/sondages/opinionf/presidv3.asp Ifop]
+| data-sort-value="2002-02-08"| 7–8 Feb 2002
+| 961
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-0 Ipsos]
+| data-sort-value="2002-02-02"| 1–2 Feb 2002
+| 925
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf Louis Harris]
+| data-sort-value="2002-02-02"| 1–2 Feb 2002
+| 839
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730191936/http://www.tns-sofres.com/etudes/pol/070202_baropres.htm Sofres]
+| data-sort-value="2002-02-02"| 1–2 Feb 2002
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-02-02"| 31 Jan–2 Feb 2002
+| 697
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020210222228/http://www.ifop.com/europe/sondages/opinionf/jdd0202.asp Ifop]
+| data-sort-value="2002-02-01"| 31 Jan–1 Feb 2002
+| 963
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020331181652/http://www.csa-fr.com/fra/dataset/data2002/indic20020130.htm CSA]
+| data-sort-value="2002-01-30"| 29–30 Jan 2002
+| 1,001
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-trois-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-01-26"| 25–26 Jan 2002
+| 962
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020601204429/http://www.ifop.com/europe/sondages/opinionf/presidv1.asp Ifop]
+| data-sort-value="2002-01-18"| 17–18 Jan 2002
+| 943
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020817025120/http://www.csa-fr.com/fra/dataset/data2002/indic20020117.htm CSA]
+| data-sort-value="2002-01-17"| 17 Jan 2002
+| 1,006
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002 Ipsos]
+| data-sort-value="2002-01-12"| 11–12 Jan 2002
+| 947
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730195912/http://www.tns-sofres.com/etudes/pol/160102_intentions_r.htm Sofres]
+| data-sort-value="2002-01-12"| 11–12 Jan 2002
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020117211402/http://www.ifop.com/europe/sondages/opinionf/jdd0102.asp Ifop]
+| data-sort-value="2002-01-11"| 10–11 Jan 2002
+| 963
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730193023/http://www.tns-sofres.com/etudes/pol/100102_intentions_r.htm Sofres]
+| data-sort-value="2002-01-05"| 5 Jan 2002
+| 800
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-troisieme-partie-intentions-de-vote-presidentielle Ipsos]
+| data-sort-value="2002-01-05"| 4–5 Jan 2002
+| 955
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:GreenYellow;"| [https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf Louis Harris]
+| data-sort-value="2002-01-05"| 4–5 Jan 2002
+| 1,003
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2002-01-05"| 2–5 Jan 2002
+| 735
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020327225010/http://www.csa-fr.com/fra/dataset/data2002/indic20020104.htm CSA]
+| data-sort-value="2002-01-04"| 3–4 Jan 2002
+| 1,005
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730201237/http://www.tns-sofres.com/etudes/pol/181201_baropres.htm Sofres]
+| data-sort-value="2001-12-15"| 14–15 Dec 2001
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020617153448/http://www.csa-fr.com/fra/dataset/data2001/indic20011212.htm CSA]
+| data-sort-value="2001-12-12"| 11–12 Dec 2001
+| 1,000
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2001-12-08"| 7–8 Dec 2001
+| 840
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730173941/http://www.tns-sofres.com/etudes/pol/141201_presi2002.htm Sofres]
+| data-sort-value="2001-12-07"| 6–7 Dec 2001
+| 846
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-12-01"| 29 Nov–1 Dec 2001
+| 608
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020202113439/http://www.ifop.com/europe/sondages/opinionf/baropresv11.asp Ifop]
+| data-sort-value="2001-11-30"| 29–30 Nov 2001
+| 943
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824100706/http://www.tns-sofres.com/etudes/pol/281101_baropres.htm Sofres]
+| data-sort-value="2001-11-23"| 22–23 Nov 2001
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020319191442/http://www.csa-fr.com/fra/dataset/data2001/indic20011115.htm CSA]
+| data-sort-value="2001-11-15"| 14–15 Nov 2001
+| 1,006
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#04FBF4;"| [https://www.nouvelobs.com/politique/20011115.OBS0510/presidentielle-chirac-devant-jospin-au-2eme-tour.html Ipsos]
+| data-sort-value="2001-11-10"| 9–10 Nov 2001
+| 927
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-10-27"| 25–27 Oct 2001
+| 622
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-six-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2001-10-20"| 19–20 Oct 2001
+| 829
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730202702/http://www.tns-sofres.com/etudes/pol/251001_baropres.htm Sofres]
+| data-sort-value="2001-10-20"| 19–20 Oct 2001
+| 1,000
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020319090027/http://www.csa-fr.com/fra/dataset/data2001/indic20011018.htm CSA]
+| data-sort-value="2001-10-18"| 17–18 Oct 2001
+| 1,005
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20011214084537/http://www.ifop.com/europe/sondages/opinionf/baropresv10.asp Ifop]
+| data-sort-value="2001-10-12"| 11–12 Oct 2001
+| 761
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-09-29"| 27–29 Sep 2001
+| 704
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020318213748/http://www.csa-fr.com/fra/dataset/data2001/indic20010912.htm CSA]
+| data-sort-value="2001-09-12"| 11–12 Sep 2001
+| 1,000
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20031024061304/http://www.tns-sofres.com/etudes/pol/140901_baropres.htm Sofres]
+| data-sort-value="2001-09-08"| 7–8 Sep 2001
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-09-01"| 30 Aug–1 Sep 2001
+| 634
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020318073634/http://www.csa-fr.com/fra/dataset/data2001/indic20010717.htm CSA]
+| data-sort-value="2001-07-17"| 16–17 Jul 2001
+| 1,005
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-07-07"| 5–7 Jul 2001
+| 571
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010820034133/http://www.ifop.com/europe/sondages/opinionf/baropresv9.asp Ifop]
+| data-sort-value="2001-07-06"| 5–6 Jul 2001
+| 826
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20031024061556/http://www.tns-sofres.com/etudes/pol/280601_baropres.htm Sofres]
+| data-sort-value="2001-06-23"| 22–23 Jun 2001
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020823135729/http://www.csa-fr.com/fra/dataset/data2001/indic20010621.htm CSA]
+| data-sort-value="2001-06-21"| 20–21 Jun 2001
+| 1,000
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-06-16"| 14–16 Jun 2001
+| 652
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures Ipsos]
+| data-sort-value="2001-06-09"| 8–9 Jun 2001
+| 839
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020313140326/http://www.csa-fr.com/fra/dataset/data2001/indic20010530.htm CSA]
+| data-sort-value="2001-05-30"| 29–30 May 2001
+| 900
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824100508/http://www.tns-sofres.com/etudes/pol/150501_baropres.htm Sofres]
+| data-sort-value="2001-05-16"| 15–16 May 2001
+| 840
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-05-12"| 10–12 May 2001
+| 614
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020309191140/http://www.csa-fr.com/fra/dataset/data2001/indic20010427.htm CSA]
+| data-sort-value="2001-04-27"| 26–27 Apr 2001
+| 922
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020601211501/http://www.ifop.com/europe/sondages/opinionf/presv8.asp Ifop]
+| data-sort-value="2001-04-27"| 26–27 Apr 2001
+| 831
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-04-21"| 20–21 Apr 2001
+| 710
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030702052435/http://www.tns-sofres.com/etudes/pol/040401_baropres.htm Sofres]
+| data-sort-value="2001-03-29"| 28–29 Mar 2001
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20030328133840/http://csa-fr.com/fra/dataset/data2001/indic20010326.htm CSA]
+| data-sort-value="2001-03-26"| 26 Mar 2001
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-03-24"| 22–24 Mar 2001
+| 632
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2001-02-24"| 22–24 Feb 2001
+| 628
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010706190518/http://www.ifop.com/europe/sondages/opinionf/baropres.asp Ifop]
+| data-sort-value="2001-02-16"| 15–16 Feb 2001
+| 805
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-six-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2001-02-10"| 9–10 Feb 2001
+| 955
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730192749/http://www.tns-sofres.com/etudes/pol/080201_baropres.htm Sofres]
+| data-sort-value="2001-02-03"| 2–3 Feb 2001
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''53%'''
+| 47%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-02-03"| 1–3 Feb 2001
+| 654
+| –
+| style="background:#FFC6D5;"| '''54%'''
+| 46%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2001-01-13"| 11–13 Jan 2001
+| 617
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020308183032/http://www.csa-fr.com/fra/dataset/data2001/indic20010106.htm CSA]
+| data-sort-value="2001-01-06"| 5–6 Jan 2001
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''54%'''
+| 46%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/les-affaires-de-financement-illegal-de-partis-politiques Ipsos]
+| data-sort-value="2000-12-05"| 5 Dec 2000
+| 818
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2000-12-02"| 30 Nov–2 Dec 2000
+| 945
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010707001252/http://www.ifop.com/europe/sondages/opinionf/presidenv6.asp Ifop]
+| data-sort-value="2000-12-01"| 30 Nov–1 Dec 2000
+| 947
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20030514232710/http://csa-fr.com/fra/dataset/data2K/indic20001115.htm CSA]
+| data-sort-value="2000-11-15"| 14–15 Nov 2000
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-11-10"| 8–10 Nov 2000
+| 597
+| –
+| style="background:#FFC6D5;"| '''53%'''
+| 47%
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824184325/http://www.tns-sofres.com/etudes/pol/191000_sitpol_r.htm Sofres]
+| data-sort-value="2000-10-13"| 11–13 Oct 2000
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-10-08"| 6–8 Oct 2000
+| 576
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/limage-de-lionel-jospin-et-la-prochaine-election-presidentielle Ipsos]
+| data-sort-value="2000-09-30"| 29–30 Sep 2000
+| 939
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://www.ipsos.com/fr-fr/les-revelations-qui-ont-perdu-strauss-kahn Ifop]
+| data-sort-value="2000-09-25"| 25 Sep 2000
+| 804
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="2000-09-09"| 7–9 Sep 2000
+| 934
+| –
+| 45%
+| style="background:#B9DAFF;"| '''55%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511103020/http://www.csa-fr.com/fra/dataset/data2K/indic20000907.htm CSA]
+| data-sort-value="2000-09-07"| 6–7 Sep 2000
+| 1,000
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010706190343/http://www.ifop.com/europe/sondages/opinionf/elysee02e.asp Ifop]
+| data-sort-value="2000-09-04"| 1–4 Sep 2000
+| 982
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-07-22"| 20–22 Jul 2000
+| 658
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010706185626/http://www.ifop.com/europe/sondages/opinionf/elysee02d.asp Ifop]
+| data-sort-value="2000-07-07"| 6–7 Jul 2000
+| 947
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020622031352/http://www.csa-fr.com/fra/dataset/data2K/indic20000629.htm CSA]
+| data-sort-value="2000-06-29"| 28–29 Jun 2000
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-06-17"| 15–17 Jun 2000
+| 616
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000614155639/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-05-13"| 11–13 May 2000
+| 680
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020622030851/http://www.csa-fr.com/fra/dataset/data2K/indic20000524.htm CSA]
+| data-sort-value="2000-05-13"| 10–13 May 2000
+| 1,000
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-climat-electoral-dans-la-perspective-des-elections-presidentielles-et-legislatives Ipsos]
+| data-sort-value="2000-04-29"| 28–29 Apr 2000
+| 825
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20010706183945/http://www.ifop.com/europe/sondages/opinionf/elysee02c.asp Ifop]
+| data-sort-value="2000-04-28"| 27–28 Apr 2000
+| 952
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/tableau-de-bord-paris-matchbva-2 BVA]
+| data-sort-value="2000-04-15"| 13–15 Apr 2000
+| 523
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/le-tableau-de-bord-paris-match-bva-0 BVA]
+| data-sort-value="2000-03-18"| 16–18 Mar 2000
+| 984
+| –
+| style="background:#FFC6D5;"| '''50.5%'''
+| 49.5%
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-21 Ipsos]
+| data-sort-value="2000-03-11"| 10–11 Mar 2000
+| 920
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="2000-02-29"| 28–29 Feb 2000
+| 1,000
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000226191436/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-02-19"| 17–19 Feb 2000
+| 560
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20000122083803/http://www.bva.fr/sondages/presidentielpm.html BVA]
+| data-sort-value="2000-01-15"| 13–15 Jan 2000
+| 545
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020611063508/http://www.ifop.com/europe/sondages/opinionf/elysee02.asp Ifop]
+| data-sort-value="2000-01-07"| 6–7 Jan 2000
+| 943
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="2000-01-05"| 4–5 Jan 2000
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:burlywood;"| [https://www.ipsos.com/fr-fr/jospin-chirac-lecart-se-creuse Sofres]
+| data-sort-value="1999-12-29"| 27–29 Dec 1999
+| 995
+| –
+| style="background:#FFC6D5;"| '''53%'''
+| 47%
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/tableau-de-bord-paris-match BVA]
+| data-sort-value="1999-12-11"| 9–11 Dec 1999
+| 573
+| –
+| style="background:#FFC6D5;"| '''53%'''
+| 47%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="1999-11-20"| 18–20 Nov 1999
+| 926
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-11-04"| 3–4 Nov 1999
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/tableau-de-bord-paris-match-0 BVA]
+| data-sort-value="1999-10-16"| 14–16 Oct 1999
+| 977
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html BVA]
+| data-sort-value="1999-09-18"| 16–18 Sep 1999
+| 671
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-09-02"| 1–2 Sep 1999
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/tableau-de-bord-mensuel-paris-match-bva-4 BVA]
+| data-sort-value="1999-07-17"| 15–17 Jul 1999
+| 574
+| –
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-07-02"| 1–2 Jul 1999
+| 1,004
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/indicateur-presidentiel-intentions-de-vote CSA]
+| data-sort-value="1999-05-07"| 6–7 May 1999
+| 1,002
+| –
+| 46%
+| style="background:#B9DAFF;"| '''54%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/19991008153342/http://www.ifop.com/actualit/opinionf/chirjosp.htm Ifop]
+| data-sort-value="1999-04-30"| 29–30 Apr 1999
+| 953
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:yellow;"| [https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm CSA]
+| data-sort-value="1999-03-06"| 5–6 Mar 1999
+| 1,003
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/19991008225801/http://www.ifop.com/actualit/opinionf/presiden.htm Ifop]
+| data-sort-value="1999-01-04"| 4 Jan 1999
+| 804
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/le-barometre-dintention-de-vote-presidentiel-csa-bfm-levenement CSA]
+| data-sort-value="1998-12-19"| 18–19 Dec 1998
+| 1,006
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010419013637/http://www.bva.fr/fr/archives/chirac1298.html BVA]
+| data-sort-value="1998-12-13"| 10–13 Dec 1998
+| 564
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFCCCC;"| [http://www.liberation.fr/france/1998/12/10/chirac-vainqueur-en-cas-de-presidentielle_255687 Ifop]
+| data-sort-value="1998-12-05"| 4–5 Dec 1998
+| 957
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|-
+| style="background:yellow;"| [https://www.la-croix.com/Archives/1998-10-29/SONDAGE-_NP_-1998-10-29-461761 CSA]
+| data-sort-value="1998-10-24"| 23–24 Oct 1998
+| 1,003
+| –
+| style="background:#FFC6D5;"| '''50%'''
+| style="background:#B9DAFF;"| '''50%'''
+|-
+| style="background:yellow;"| [https://www.humanite.fr/node/190482 CSA]
+| data-sort-value="1998-08-22"| 21–22 Aug 1998
+| 1,003
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFCCCC;"| [https://www.ipsos.com/fr-fr/jacques-chirac-les-francais-y-croient-encore Ifop]
+| data-sort-value="1998-04-04"| 3–4 Apr 1998
+| 953
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:#FFDFCC;"| [https://web.archive.org/web/20010115124400/http://www.bva.fr/archives/cohabit5097.html BVA]
+| data-sort-value="1997-12-06"| 5–6 Dec 1997
+| 964
+| –
+| style="background:#FFC6D5;"| '''56%'''
+| 44%
+|-
+| style="background:#FFCCCC;"| [https://www.ipsos.com/fr-fr/lionel-jospin-et-jacques-chirac Ifop]
+| data-sort-value="1997-10-17"| 16–17 Oct 1997
+| 950
+| –
+| style="background:#FFC6D5;"| '''53%'''
+| 47%
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/et-si-la-presidentielle-avait-lieu-aujourdhui CSA]
+| data-sort-value="1997-08-18"| 18 Aug 1997
+| 1,000
+| –
+| style="background:#FFC6D5;"| '''51%'''
+| 49%
+|-
+| style="background:yellow;"| [https://www.ipsos.com/fr-fr/un-apres-lelection-presidentielle CSA]
+| data-sort-value="1996-04-19"| 17–19 Apr 1996
+| 1,000
+| –
+| 49%
+| style="background:#B9DAFF;"| '''51%'''
+|-
+| style="background:#FFDFCC;"| [https://www.ipsos.com/fr-fr/image-de-jacques-chirac BVA]
+| data-sort-value="1996-04-27"| 26–27 Apr 1996
+| 953
+| –
+| style="background:#FFC6D5;"| '''53%'''
+| 47%
+|- style="background:#E9E9E9;"
+| [[1995 French presidential election|1995 election]]
+| data-sort-value="1995-05-07"| 7 May 1995
+| –
+| 20.34%
+| 47.36%
+| style="background:#B9DAFF;"| '''52.64%'''
+|}
+
+==== By department ====
+;Paris
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/letat-de-lopinion-paris-un-mois-de-lelection-presidentielle Ipsos]
+| data-sort-value="2002-03-21"| 20–21 Mar 2002
+| 804
+| –
+| 47%
+| style="background:#B9DAFF;"| '''53%'''
+|- style="background:#E9E9E9;"
+| [[1995 French presidential election|1995 election]]
+| data-sort-value="1995-05-07"| 7 May 1995
+| –
+| 22.57%
+| 39.83%
+| style="background:#B9DAFF;"| '''60.17%'''
+|}
+
+;Réunion
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+|-
+| style="background:#04FBF4;"| [https://www.ipsos.com/fr-fr/lelection-presidentielle-la-reunion Ipsos]
+| data-sort-value="2002-02-26"| 25–26 Feb 2002
+| 838
+| –
+| style="background:#FFC6D5;"| '''52%'''
+| 48%
+|- style="background:#E9E9E9;"
+| [[1995 French presidential election|1995 election]]
+| data-sort-value="1995-05-07"| 7 May 1995
+| –
+| 25.13%
+| style="background:#FFC6D5;"| '''56.00%'''
+| 44.00%
+|}
+
+=== Chevènement–Chirac ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:60px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+|-
+! style="background:{{party color|Movement of Citizens}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730173941/http://www.tns-sofres.com/etudes/pol/141201_presi2002.htm Sofres]
+| data-sort-value="2001-12-07"| 6–7 Dec 2001
+| 846
+| 40%
+| style="background:#B9DAFF;"| '''60%'''
+|-
+| style="background:#FFCCCC;"| [https://web.archive.org/web/20020202113439/http://www.ifop.com/europe/sondages/opinionf/baropresv11.asp Ifop]
+| data-sort-value="2001-11-30"| 29–30 Nov 2001
+| 943
+| 40%
+| style="background:#B9DAFF;"| '''60%'''
+|}
+
+=== Jospin–Chevènement ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Jean-Pierre Chevènement|Chevènement]]<br />{{small|[[Movement of Citizens|MDC]]}}
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Movement of Citizens}};"|
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030730173941/http://www.tns-sofres.com/etudes/pol/141201_presi2002.htm Sofres]
+| data-sort-value="2001-12-07"| 6–7 Dec 2001
+| 846
+| style="background:#FFC6D5;"| '''56%'''
+| 44%
+|}
+
+=== Aubry–Chirac ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:60px;"| [[Martine Aubry|Aubry]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Jacques Chirac|Chirac]]<br />{{small|[[Rally for the Republic|RPR]]}}
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824184325/http://www.tns-sofres.com/etudes/pol/191000_sitpol_r.htm Sofres]
+| data-sort-value="2000-10-13"| 11–13 Oct 2000
+| 1,000
+| 48%
+| style="background:#B9DAFF;"| '''52%'''
+|}
+
+=== Jospin–Séguin ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="2"| Polling firm
+! style="width:110px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br />size
+! class="unsortable" style="width:60px;"| [[Lionel Jospin|Jospin]]<br />{{small|[[Socialist Party (France)|PS]]}}
+! class="unsortable" style="width:60px;"| [[Philippe Séguin|Séguin]]<br />{{small|[[Rally for the Republic|RPR]]}}
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Rally for the Republic}};"|
+|-
+| style="background:burlywood;"| [https://web.archive.org/web/20030824184325/http://www.tns-sofres.com/etudes/pol/191000_sitpol_r.htm Sofres]
+| data-sort-value="2000-10-13"| 11–13 Oct 2000
+| 1,000
+| style="background:#FFC6D5;"| '''62%'''
+| 38%
+|}
+
+== See also ==
+*[[Opinion polling for the French legislative election, 2002]]
+*[[Opinion polling for the French presidential election, 2007]]
+*[[Opinion polling for the French presidential election, 2012]]
+*[[Opinion polling for the French presidential election, 2017]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://www.commission-des-sondages.fr/notices/ Notices of the French polling commission] {{in lang|fr}}
+
+[[Category:2002 French presidential election]]
+[[Category:Opinion polling in France]]
+[[Category:Opinion polling for elections|France]]

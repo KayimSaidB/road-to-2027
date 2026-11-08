@@ -1,0 +1,5363 @@
+[
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.34,
+"Arlette Laguiller": 1.33,
+"Olivier Besancenot": 4.08,
+"Marie-George Buffet": 1.93,
+"José Bové": 1.32,
+"Ségolène Royal": 25.87,
+"Dominique Voynet": 1.57,
+"Frédéric Nihous": 1.15,
+"François Bayrou": 18.57,
+"Nicolas Sarkozy": 31.18,
+"Philippe de Villiers": 2.23,
+"Jean-Marie Le Pen": 10.44
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-derniere-intention-de-vote-avant-le-1er-tour",
+"date": "2007-04-21",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_bvaorange_20avril_synthase_38759.pdf",
+"date": "2007-04-20",
+"sample": 810,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070605010942/http://www.csa-fr.com/dataset/data2007/opi20070420-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-27.pdf",
+"date": "2007-04-20",
+"sample": 1002,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 16.0,
+"Nicolas Sarkozy": 26.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 16.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605010944/http://www.ipsos.fr/presidentielle-2007/pdf/200407-2.pdf",
+"date": "2007-04-20",
+"sample": 1598,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.0,
+"Ségolène Royal": 23.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141550/http://www.csa-fr.com/dataset/data2007/opi20070419-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-26.pdf",
+"date": "2007-04-19",
+"sample": 1002,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 1.5,
+"José Bové": 3.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011051/http://www.ipsos.fr/presidentielle-2007/pdf/200407.pdf",
+"date": "2007-04-19",
+"sample": 1209,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-21",
+"date": "2007-04-19",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.5,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ifop-Fiducial",
+"url": "https://www.challenges.fr/entreprise/sondage-2007-sarkozy-toujoursen-tete-au-1er-tour_387608",
+"date": "2007-04-19",
+"sample": 952,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.5,
+"Ségolène Royal": 22.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605010952/http://www.ipsos.fr/presidentielle-2007/pdf/190407.pdf",
+"date": "2007-04-18",
+"sample": 1212,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 23.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_23observatoirebvaorange-presseragionale_56efa.pdf",
+"date": "2007-04-17",
+"sample": 887,
+"scenarios": [
+{
+"Gérard Schivardi": 1.0,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 15.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011116/http://www.ipsos.fr/presidentielle-2007/pdf/180407.pdf",
+"date": "2007-04-17",
+"sample": 1009,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-20",
+"date": "2007-04-17",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 28.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070605010955/http://www.csa-fr.com/dataset/data2007/opi20070416-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-25.pdf",
+"date": "2007-04-16",
+"sample": 1006,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 15.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070605010950/http://www.ifop2007.fr/photo/File/IntentionDeVote/PM-PRESI17-0407-16235.pdf",
+"date": "2007-04-16",
+"sample": 954,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.5,
+"Ségolène Royal": 22.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605010941/http://www.ipsos.fr/presidentielle-2007/pdf/170407.pdf",
+"date": "2007-04-16",
+"sample": 1357,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 28.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070605010946/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn16_17avril07.pdf",
+"date": "2007-04-15",
+"sample": 1004,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-50",
+"date": "2007-04-14",
+"sample": 1355,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 17.5,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213410/http://www.ifop2007.fr/photo/File/IntentionDeVote/JDD-PRESI16-042007-16237.pdf",
+"date": "2007-04-13",
+"sample": 928,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 28.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011015/http://www.ipsos.fr/presidentielle-2007/pdf/140407.pdf",
+"date": "2007-04-13",
+"sample": 1279,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 17.5,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070928000426/http://www.csa-fr.com/dataset/data2007/opi20070412-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-24.pdf",
+"date": "2007-04-12",
+"sample": 918,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-19",
+"date": "2007-04-12",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011021/http://www.ipsos.fr/presidentielle-2007/pdf/130407.pdf",
+"date": "2007-04-12",
+"sample": 1207,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141115/http://www.csa-fr.com/dataset/data2007/opi20070411-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-23.pdf",
+"date": "2007-04-11",
+"sample": 876,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011102/http://www.ipsos.fr/presidentielle-2007/pdf/120407.pdf",
+"date": "2007-04-11",
+"sample": 1209,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 1.5,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_22observatoirebvaorange-presseragionale_74e3b.pdf",
+"date": "2007-04-10",
+"sample": 867,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605010947/http://www.ipsos.fr/presidentielle-2007/pdf/110407.pdf",
+"date": "2007-04-10",
+"sample": 1300,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 1.5,
+"José Bové": 2.5,
+"Ségolène Royal": 23.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011029/http://www.ipsos.fr/presidentielle-2007/pdf/100407.pdf",
+"date": "2007-04-09",
+"sample": 1355,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.5,
+"Nicolas Sarkozy": 30.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070422035214/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn9_10avril07.pdf",
+"date": "2007-04-07",
+"sample": 1009,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011025/http://www.ipsos.fr/presidentielle-2007/pdf/080407.pdf",
+"date": "2007-04-07",
+"sample": 1355,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 22.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.5,
+"Nicolas Sarkozy": 30.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213231/http://www.ifop2007.fr/photo/File/IntentionDeVote/JDD-PRESI15-0407-16227.pdf",
+"date": "2007-04-06",
+"sample": 953,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 22.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011012/http://www.ipsos.fr/presidentielle-2007/pdf/070407.pdf",
+"date": "2007-04-06",
+"sample": 1263,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.0,
+"Ségolène Royal": 23.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 31.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070605010947/http://www.csa-fr.com/dataset/data2007/opi20070405-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-22.pdf",
+"date": "2007-04-05",
+"sample": 881,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 23.5,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-18",
+"date": "2007-04-05",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 23.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011007/http://www.ipsos.fr/presidentielle-2007/pdf/060407.pdf",
+"date": "2007-04-05",
+"sample": 1208,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011049/http://www.ipsos.fr/presidentielle-2007/pdf/050407.pdf",
+"date": "2007-04-04",
+"sample": 1209,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 31.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_21observatoirebvaorange-presseragionale_b7187.pdf",
+"date": "2007-04-03",
+"sample": 860,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011018/http://www.ipsos.fr/presidentielle-2007/pdf/040407.pdf",
+"date": "2007-04-03",
+"sample": 1272,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 31.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213231/http://www.ifop2007.fr/photo/File/IntentionDeVote/JDD-PRESI15-0407-16227.pdf",
+"date": "2007-04-02",
+"sample": 846,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 27.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011058/http://www.ipsos.fr/presidentielle-2007/pdf/030407.pdf",
+"date": "2007-04-02",
+"sample": 1344,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 31.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134747/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn2_3avril07.pdf",
+"date": "2007-03-31",
+"sample": 1003,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011009/http://www.ipsos.fr/presidentielle-2007/pdf/010407.pdf",
+"date": "2007-03-31",
+"sample": 1341,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605010958/http://www.ipsos.fr/presidentielle-2007/pdf/310307.pdf",
+"date": "2007-03-30",
+"sample": 1277,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070420171638/http://www.csa-fr.com/dataset/data2007/opi20070329-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-21.pdf",
+"date": "2007-03-29",
+"sample": 922,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 4.0,
+"José Bové": 2.0,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.5,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-17",
+"date": "2007-03-29",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.5,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-36",
+"date": "2007-03-29",
+"sample": 1104,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 17.5,
+"Nicolas Sarkozy": 31.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ifop-Fiducial",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/fiduciallci_0304.pdf",
+"date": "2007-03-28",
+"sample": 954,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070605011038/http://www.ipsos.fr/presidentielle-2007/pdf/290307.pdf",
+"date": "2007-03-28",
+"sample": 1006,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_20observatoirebvaorange-presseragionale_1fa82.pdf",
+"date": "2007-03-27",
+"sample": 873,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-34",
+"date": "2007-03-27",
+"sample": 1110,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 30.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-33",
+"date": "2007-03-26",
+"sample": 1247,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134736/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn26_27mars07.pdf",
+"date": "2007-03-24",
+"sample": 1004,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-32",
+"date": "2007-03-24",
+"sample": 1245,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213658/http://www.ifop2007.fr/photo/File/IntentionDeVote/JDD-PRESI13-0307.pdf",
+"date": "2007-03-23",
+"sample": 872,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 22.0,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-31",
+"date": "2007-03-23",
+"sample": 1143,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140449/http://www.csa-fr.com/dataset/data2007/opi20070322-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-20.pdf",
+"date": "2007-03-22",
+"sample": 894,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-16",
+"date": "2007-03-22",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.5,
+"Ségolène Royal": 26.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 21.5,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-30",
+"date": "2007-03-22",
+"sample": 1006,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 1.5,
+"José Bové": 2.0,
+"Ségolène Royal": 24.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 31.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-29",
+"date": "2007-03-21",
+"sample": 1009,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 1.5,
+"José Bové": 2.5,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 30.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_19observatoirebvaorange-presseragionale_e9f3d.pdf",
+"date": "2007-03-20",
+"sample": 854,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-28",
+"date": "2007-03-20",
+"sample": 1069,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 1.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 20.5,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentions2203.pdf",
+"date": "2007-03-19",
+"sample": 872,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 28.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-27",
+"date": "2007-03-19",
+"sample": 1253,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 1.5,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 21.5,
+"Nicolas Sarkozy": 28.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213601/http://www.ifop2007.fr/photo/File/IntentionDeVote/JDD-PRESI11-0307.pdf",
+"date": "2007-03-17",
+"sample": 911,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 22.5,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134742/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn19_20mars07.pdf",
+"date": "2007-03-17",
+"sample": 1003,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 22.0,
+"Nicolas Sarkozy": 29.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-26",
+"date": "2007-03-17",
+"sample": 1252,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070320064540/http://www.ipsos.fr/presidentielle-2007/pdf/170307.pdf",
+"date": "2007-03-16",
+"sample": 1193,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 22.0,
+"Nicolas Sarkozy": 29.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-15",
+"date": "2007-03-15",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 22.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-24",
+"date": "2007-03-15",
+"sample": 1008,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 23.0,
+"Nicolas Sarkozy": 29.0,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070330011304/http://www.csa-fr.com/dataset/data2007/opi20070314-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-19.pdf",
+"date": "2007-03-14",
+"sample": 905,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 27.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-23",
+"date": "2007-03-14",
+"sample": 1005,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 23.0,
+"Nicolas Sarkozy": 28.5,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_18observatoirebvaorange-presseragionale_363f1.pdf",
+"date": "2007-03-13",
+"sample": 861,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-22",
+"date": "2007-03-13",
+"sample": 1104,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 24.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070315205629/http://www.ipsos.fr/presidentielle-2007/pdf/130307.pdf",
+"date": "2007-03-12",
+"sample": 1250,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 22.0,
+"Nicolas Sarkozy": 29.5,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134759/http://www.lh2.fr/_upload/ressources/sondages/lh2rmcbfmtv20mn12_13mars07.pdf",
+"date": "2007-03-10",
+"sample": 1000,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 22.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-20",
+"date": "2007-03-10",
+"sample": 1254,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.5,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentions1003.pdf",
+"date": "2007-03-09",
+"sample": 881,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 23.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 25.0,
+"Nicolas Sarkozy": 34.5,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 3.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-19",
+"date": "2007-03-09",
+"sample": 1155,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 20.5,
+"Nicolas Sarkozy": 32.5,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-14",
+"date": "2007-03-08",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 1.5,
+"José Bové": 1.5,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 23.0,
+"Nicolas Sarkozy": 27.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 26.5,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 25.0,
+"Nicolas Sarkozy": 30.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Philippe de Villiers": 3.0
+},
+{
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.25,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 23.0,
+"Nicolas Sarkozy": 27.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-18",
+"date": "2007-03-08",
+"sample": 1012,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 26.5,
+"Dominique Voynet": 0.5,
+"Corinne Lepage": 0.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070310174019/http://www.csa-fr.com/dataset/data2007/opi20070307-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-18.pdf",
+"date": "2007-03-07",
+"sample": 917,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 1.0,
+"José Bové": 3.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 24.0,
+"Nicolas Sarkozy": 26.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-17",
+"date": "2007-03-07",
+"sample": 1012,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 0.5,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 32.5,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_17observatoirebvaorange-presseragionale_7d124.pdf",
+"date": "2007-03-06",
+"sample": 853,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 21.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-16",
+"date": "2007-03-06",
+"sample": 1135,
+"scenarios": [
+{
+"Gérard Schivardi": 0.0,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.0,
+"Ségolène Royal": 26.5,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 32.5,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-15",
+"date": "2007-03-05",
+"sample": 1255,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 32.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070307094913/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn5_6_mars07.pdf",
+"date": "2007-03-03",
+"sample": 1004,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 1.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 20.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070307083108/http://www.ipsos.fr/presidentielle-2007/pdf/040307.pdf",
+"date": "2007-03-03",
+"sample": 1254,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 32.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "http://www.lemonde.fr/societe/article/2007/03/03/la-troisieme-place-de-bayrou-confortee-par-un-nouveau-barometre-quotidien_878502_3224.html",
+"date": "2007-03-02",
+"sample": 1128,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-13",
+"date": "2007-03-01",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.5,
+"José Bové": 2.0,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 18.5,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "http://www.lemonde.fr/societe/article/2007/03/03/la-troisieme-place-de-bayrou-confortee-par-un-nouveau-barometre-quotidien_878502_3224.html",
+"date": "2007-03-01",
+"sample": 1008,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 31.5,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070327090013/http://www.csa-fr.com/dataset/data2007/opi20070228a-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-17.pdf",
+"date": "2007-02-28",
+"sample": 871,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 29.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://web.archive.org/web/20070303115538/http://www.ipsos.fr/presidentielle-2007/pdf/Ipsos_Dell_SFR_Le_Point_01_mars_Vague_1.pdf",
+"date": "2007-02-28",
+"sample": 1009,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 1.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 32.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_16observatoirebvaorange_3d91f.pdf",
+"date": "2007-02-27",
+"sample": 869,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.lemonde.fr/societe/article/2007/02/27/francois-bayrou-est-credite-de-19-des-voix-au-premier-tour-dans-un-sondage-ifop_876971_3224.html",
+"date": "2007-02-26",
+"sample": 952,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 0.5,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 19.0,
+"Nicolas Sarkozy": 29.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213210/http://www.ifop2007.fr/photo/File/IntentionDeVote/LACROIX-CATHOLIQUES-0307.pdf",
+"date": "2007-02-26",
+"sample": 1842,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-0",
+"date": "2007-02-24",
+"sample": 957,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 17.5,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134820/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn26_27fev07.pdf",
+"date": "2007-02-24",
+"sample": 1005,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 1.5,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 30.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentions2502.pdf",
+"date": "2007-02-23",
+"sample": 889,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070307193539/http://www.csa-fr.com/dataset/data2007/opi20070220a-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-16.pdf",
+"date": "2007-02-20",
+"sample": 884,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 17.0,
+"Nicolas Sarkozy": 28.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_14observatoirebvaorange_197cd.pdf",
+"date": "2007-02-20",
+"sample": 845,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 4.0,
+"José Bové": 2.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"François Bayrou": 15.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle",
+"date": "2007-02-17",
+"sample": 952,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 16.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134834/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn19_20fev07.pdf",
+"date": "2007-02-17",
+"sample": 1007,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.5,
+"José Bové": 2.5,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070326140144/http://www.csa-fr.com/dataset/data2007/opi20070215b-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-15.pdf",
+"date": "2007-02-15",
+"sample": 909,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-12",
+"date": "2007-02-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 3.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop-Fiducial",
+"url": "https://web.archive.org/web/20070913213639/http://www.ifop2007.fr/photo/File/IntentionDeVote/FID-FL7GP-0207.pdf",
+"date": "2007-02-15",
+"sample": 952,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.5,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 16.0,
+"Nicolas Sarkozy": 32.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 15.0,
+"Nicolas Sarkozy": 29.0,
+"Jacques Chirac": 4.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_13observatoirebvaorange_59db3.pdf",
+"date": "2007-02-12",
+"sample": 873,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141519/http://www.csa-fr.com/dataset/data2007/opi20070212b-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-14.pdf",
+"date": "2007-02-12",
+"sample": 919,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentions1302.pdf",
+"date": "2007-02-12",
+"sample": 879,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 33.5,
+"Nicolas Dupont-Aignan": 1.0,
+"Philippe de Villiers": 1.5,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle",
+"date": "2007-02-12",
+"sample": 807,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 34.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-12",
+"date": "2007-02-10",
+"sample": 944,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 36.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070913134829/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn12_13fev07.pdf",
+"date": "2007-02-10",
+"sample": 1007,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_12observatoirebvaorange_e6d7f.pdf",
+"date": "2007-02-08",
+"sample": 843,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.25,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-objectif-2007-vague-7",
+"date": "2007-02-08",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.5,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/les-intentions-de-vote-pour-lelection-presidentielle-1",
+"date": "2007-02-03",
+"sample": 934,
+"scenarios": [
+{
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.5,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.5,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 34.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070723143746/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn5_6fev07.pdf",
+"date": "2007-02-03",
+"sample": 1004,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.5,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-11",
+"date": "2007-02-01",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 33.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.5,
+"José Bové": 4.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 32.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141937/http://www.csa-fr.com/dataset/data2007/opi20070131a-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-13.pdf",
+"date": "2007-01-31",
+"sample": 902,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 1.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 16.0
+},
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 3.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/les-intentions-de-vote-pour-lelection-presidentielle-0",
+"date": "2007-01-27",
+"sample": 959,
+"scenarios": [
+{
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.5,
+"José Bové": 1.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 35.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "LH2",
+"url": "https://web.archive.org/web/20070207153524/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn29janv07.pdf",
+"date": "2007-01-27",
+"sample": 1006,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 5.0,
+"José Bové": 2.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.25,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070210205728/http://www.ifop2007.fr/photo/File/IntentionDeVote/PM-PRESI6-0107.pdf",
+"date": "2007-01-26",
+"sample": 865,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"José Bové": 3.0,
+"Ségolène Royal": 27.5,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 31.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_08observatoirebvaorange_10fc7.pdf",
+"date": "2007-01-23",
+"sample": 849,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 0.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 0.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/les-intentions-de-vote-pour-lelection-presidentielle",
+"date": "2007-01-20",
+"sample": 963,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.5,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop-Fiducial",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/LCIFIDUCIAL2401.pdf",
+"date": "2007-01-20",
+"sample": 956,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 3.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 12.5,
+"Nicolas Sarkozy": 32.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 3.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 13.0,
+"Nicolas Sarkozy": 28.0,
+"Jacques Chirac": 5.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-10",
+"date": "2007-01-18",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 35.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140720/http://www.csa-fr.com/dataset/data2007/opi20070117a-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-12.pdf",
+"date": "2007-01-17",
+"sample": 845,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 30.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/PM-PRESI5-0107.pdf",
+"date": "2007-01-15",
+"sample": 868,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 29.0,
+"Jacques Chirac": 5.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-objectif-2007-vague-6",
+"date": "2007-01-12",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 29.0,
+"Nicolas Dupont-Aignan": 0.5,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/barometre-de-laction-politique-janvier-2007-intention-de-vote-presidentielle",
+"date": "2007-01-06",
+"sample": 952,
+"scenarios": [
+{
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.5,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 1.5,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 2.5,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 1.0,
+"Nicolas Hulot": 10.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/iv-jdd-0107.pdf",
+"date": "2007-01-05",
+"sample": 939,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.0,
+"Nicolas Hulot": 11.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 25.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141903/http://www.csa-fr.com/dataset/data2007/opi20070103a-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-11.pdf",
+"date": "2007-01-03",
+"sample": 891,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 5.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213647/http://www.ifop2007.fr/photo/File/IntentionDeVote/ELLE-ROYAL-0107.pdf",
+"date": "2006-12-29",
+"sample": 1006,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop-Fiducial",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/tpeelectionsflash.pdf",
+"date": "2006-12-15",
+"sample": 951,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 29.0,
+"Jacques Chirac": 5.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070115091358/http://www.csa-fr.com/dataset/data2006/opi20061213b.pdf",
+"date": "2006-12-13",
+"sample": 798,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_04observatoirebvaorange_7754b.pdf",
+"date": "2006-12-12",
+"sample": 797,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 35.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 32.0,
+"Michèle Alliot-Marie": 3.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-11",
+"date": "2006-12-09",
+"sample": 952,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Jean-Pierre Chevènement": 1.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-9",
+"date": "2006-12-07",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 2.0,
+"Jean-Pierre Chevènement": 1.0,
+"Ségolène Royal": 33.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/presidentielle-2007-investitures-et-candidatures-nont-pas-change-le-rapport-de-force",
+"date": "2006-12-02",
+"sample": 950,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 1.5,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentionsdevotev4.pdf",
+"date": "2006-12-01",
+"sample": 901,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141843/http://www.csa-fr.com/dataset/data2006/opi20061122a.pdf",
+"date": "2006-11-22",
+"sample": 1002,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 17.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.0,
+"Ségolène Royal": 37.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 37.0,
+"Philippe de Villiers": 5.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentionsdevote2.pdf",
+"date": "2006-11-18",
+"sample": 817,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 4.0,
+"Jean-Pierre Chevènement": 2.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 29.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 4.0,
+"Jean-Pierre Chevènement": 2.0,
+"Ségolène Royal": 33.0,
+"Dominique Voynet": 2.0,
+"Corinne Lepage": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 15.0,
+"Jacques Chirac": 15.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-10",
+"date": "2006-11-11",
+"sample": 948,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.5,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.5,
+"Ségolène Royal": 27.0,
+"Nicolas Hulot": 10.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 1.5,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 39.0,
+"Philippe de Villiers": 6.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-8",
+"date": "2006-11-09",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.5,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 5.5,
+"Marie-George Buffet": 3.0,
+"Dominique Strauss-Kahn": 22.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 37.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Laurent Fabius": 17.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 38.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070510132013/http://www.csa-fr.com/dataset/data2006/opi20061108b.pdf",
+"date": "2006-11-08",
+"sample": 1007,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"Jean-Pierre Chevènement": 3.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 15.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"Jean-Pierre Chevènement": 4.0,
+"Dominique Strauss-Kahn": 22.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 16.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Jean-Pierre Chevènement": 4.0,
+"Laurent Fabius": 16.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070307193415/http://www.csa-fr.com/dataset/data2006/opi20061018b.pdf",
+"date": "2006-10-18",
+"sample": 838,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 15.0
+},
+{
+"Arlette Laguiller": 5.0,
+"José Bové": 6.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/intentionsdevote.pdf",
+"date": "2006-10-13",
+"sample": 892,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Dominique Strauss-Kahn": 19.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 12.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Laurent Fabius": 14.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 15.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 3.0,
+"Jean-Pierre Chevènement": 2.0,
+"Ségolène Royal": 26.0,
+"Christiane Taubira": 1.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 29.0,
+"Michèle Alliot-Marie": 6.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-7",
+"date": "2006-10-13",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 39.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 11.0,
+"Dominique de Villepin": 18.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 40.0,
+"Dominique Voynet": 2.5,
+"François Bayrou": 10.0,
+"Michèle Alliot-Marie": 17.0,
+"Philippe de Villiers": 5.5,
+"Jean-Marie Le Pen": 14.5
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 33.0,
+"Dominique Voynet": 1.5,
+"François Bayrou": 7.5,
+"Nicolas Sarkozy": 30.0,
+"Dominique de Villepin": 5.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 2.5,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 31.0,
+"Michèle Alliot-Marie": 5.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-9",
+"date": "2006-10-07",
+"sample": 944,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 0.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.5,
+"José Bové": 2.5,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 12.0,
+"Dominique de Villepin": 14.0,
+"Philippe de Villiers": 7.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-6",
+"date": "2006-10-05",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 29.5,
+"Dominique Voynet": 2.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 38.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 9.5
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 7.5,
+"Marie-George Buffet": 4.0,
+"Dominique Strauss-Kahn": 20.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 39.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 9.5,
+"Marie-George Buffet": 4.0,
+"Laurent Fabius": 15.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 9.5,
+"Nicolas Sarkozy": 39.0,
+"Philippe de Villiers": 3.5,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20070510131904/http://www.csa-fr.com/dataset/data2006/opi20060914d.pdf",
+"date": "2006-09-14",
+"sample": 907,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 30.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-8",
+"date": "2006-09-09",
+"sample": 954,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"José Bové": 2.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 3.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 11.0,
+"Dominique de Villepin": 15.0,
+"Philippe de Villiers": 8.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-5",
+"date": "2006-09-05",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.5,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.5,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.5,
+"Marie-George Buffet": 4.5,
+"Dominique Strauss-Kahn": 20.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 38.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 5.0,
+"Laurent Fabius": 13.0,
+"Dominique Voynet": 5.5,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 40.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.5,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 23.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 37.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 5.5,
+"Marie-George Buffet": 4.0,
+"Jack Lang (French politician)": 23.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 37.0,
+"Philippe de Villiers": 2.5,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 6.5,
+"Marie-George Buffet": 4.0,
+"François Hollande": 20.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 9.5,
+"Nicolas Sarkozy": 38.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-7",
+"date": "2006-08-19",
+"sample": 963,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 37.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 37.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 11.0,
+"Dominique de Villepin": 13.0,
+"Philippe de Villiers": 6.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-4",
+"date": "2006-07-17",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 1.5,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 11.5
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 5.5,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 21.5,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 38.0,
+"Philippe de Villiers": 3.5,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 5.5,
+"Olivier Besancenot": 6.5,
+"Marie-George Buffet": 4.0,
+"François Hollande": 19.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 38.5,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/Microsoft%20Word%20-%20Rapport%2015698.pdf",
+"date": "2006-06-30",
+"sample": 800,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 3.0,
+"Lionel Jospin": 20.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 28.0,
+"Jacques Chirac": 8.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-3",
+"date": "2006-06-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 12.5
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 2.5,
+"Dominique Strauss-Kahn": 21.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.5,
+"Jean-Marie Le Pen": 13.5
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 8.0,
+"Marie-George Buffet": 3.0,
+"Laurent Fabius": 17.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.5
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Lionel Jospin": 23.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 12.5
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 2.5,
+"Jack Lang (French politician)": 23.5,
+"Dominique Voynet": 3.0,
+"François Bayrou": 9.5,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.5
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"François Hollande": 22.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 10.5,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 2.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 31.0,
+"Dominique de Villepin": 4.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-5",
+"date": "2006-06-10",
+"sample": 959,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 37.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 10.0,
+"Dominique de Villepin": 12.0,
+"Philippe de Villiers": 8.0,
+"Jean-Marie Le Pen": 17.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141138/http://www.csa-fr.com/dataset/data2006/opi20060607a.pdf",
+"date": "2006-06-07",
+"sample": 844,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-2",
+"date": "2006-05-18",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 2.5,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 6.5,
+"Marie-George Buffet": 4.5,
+"François Hollande": 21.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 32.0,
+"Dominique de Villepin": 5.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 3.5,
+"Olivier Besancenot": 6.5,
+"Marie-George Buffet": 4.0,
+"François Hollande": 21.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Dominique de Villepin": 6.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20060713202850/http://www.csa-fr.com/dataset/data2006/opi20060517a.pdf",
+"date": "2006-05-17",
+"sample": 777,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 33.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 7.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 6.0,
+"Marie-George Buffet": 5.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 9.0,
+"Clémentine Autain": 2.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 7.0,
+"Patrick Braouezec": 2.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 6.0,
+"José Bové": 9.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 8.0,
+"Ségolène Royal": 29.0,
+"Jean-Luc Mélenchon": 4.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 6.0,
+"Ségolène Royal": 31.0,
+"Christiane Taubira": 3.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-4",
+"date": "2006-05-13",
+"sample": 939,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 11.0,
+"Dominique de Villepin": 15.0,
+"Philippe de Villiers": 10.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20070913213421/http://www.ifop2007.fr/photo/File/IntentionDeVote/PM-PRESI-0406.pdf",
+"date": "2006-04-21",
+"sample": 883,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 8.0,
+"Marie-George Buffet": 5.0,
+"Dominique Strauss-Kahn": 19.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 8.0,
+"Marie-George Buffet": 5.0,
+"Laurent Fabius": 14.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 5.0,
+"Lionel Jospin": 21.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 14.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 4.0,
+"Jack Lang (French politician)": 21.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 4.0,
+"François Hollande": 19.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 29.0,
+"Dominique de Villepin": 6.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017141003/http://www.csa-fr.com/dataset/data2006/opi20060419a.pdf",
+"date": "2006-04-19",
+"sample": 878,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 31.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "TNS Sofres",
+"url": "https://www.tns-sofres.com/publications/presidentielle-2007-barometre-presidentiel-vague-1",
+"date": "2006-04-18",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.5,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.5,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 30.0,
+"Dominique de Villepin": 6.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 7.5,
+"Marie-George Buffet": 4.5,
+"Dominique Strauss-Kahn": 18.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 34.0,
+"Dominique de Villepin": 7.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 8.0,
+"Marie-George Buffet": 5.0,
+"Laurent Fabius": 15.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 33.0,
+"Dominique de Villepin": 7.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 23.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 33.0,
+"Dominique de Villepin": 7.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 4.5,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 4.0,
+"Jack Lang (French politician)": 22.0,
+"Dominique Voynet": 2.5,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 33.0,
+"Dominique de Villepin": 6.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-3",
+"date": "2006-04-08",
+"sample": 947,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 6.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 11.0,
+"Dominique de Villepin": 20.0,
+"Philippe de Villiers": 8.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20060504024706/http://www.csa-fr.com/dataset/data2006/opi20060329b.pdf",
+"date": "2006-03-29",
+"sample": 839,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 34.0,
+"Dominique de Villepin": 4.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-2",
+"date": "2006-03-11",
+"sample": 945,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 7.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 32.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 9.0,
+"Dominique de Villepin": 25.0,
+"Philippe de Villiers": 8.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/intention-de-vote-presidentielle-1",
+"date": "2006-02-11",
+"sample": 930,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 35.0,
+"Philippe de Villiers": 6.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Dominique de Villepin": 27.0,
+"Philippe de Villiers": 7.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_observatoirelci-lefigarovague10_daad3.pdf",
+"date": "2006-01-28",
+"sample": 951,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 29.0,
+"Dominique de Villepin": 10.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 5.0,
+"Marie-George Buffet": 3.0,
+"Lionel Jospin": 22.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 30.0,
+"Dominique de Villepin": 11.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 6.0,
+"José Bové": 8.0,
+"Ségolène Royal": 26.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 27.0,
+"Dominique de Villepin": 11.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 6.0,
+"José Bové": 9.0,
+"Lionel Jospin": 22.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 29.0,
+"Dominique de Villepin": 11.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017193105/http://www.csa-fr.com/dataset/data2006/opi20060126f.pdf",
+"date": "2006-01-26",
+"sample": 865,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 31.0,
+"Philippe de Villiers": 7.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 27.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 26.0,
+"Dominique de Villepin": 12.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_observatoirelci-lefigarov7_1125d.pdf",
+"date": "2005-10-01",
+"sample": 811,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 22.0,
+"Noël Mamère": 4.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 29.0,
+"Dominique de Villepin": 12.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 7.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 9.0,
+"Marie-George Buffet": 4.0,
+"Dominique Strauss-Kahn": 19.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 28.0,
+"Dominique de Villepin": 12.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 8.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 7.0,
+"Marie-George Buffet": 4.0,
+"Laurent Fabius": 16.0,
+"Noël Mamère": 8.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 30.0,
+"Dominique de Villepin": 12.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intentionsdevote050701_90add.pdf",
+"date": "2005-06-29",
+"sample": 860,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Laurent Fabius": 17.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 31.0,
+"Jacques Chirac": 9.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 25.0,
+"Noël Mamère": 4.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 29.0,
+"Jacques Chirac": 9.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 8.0,
+"Marie-George Buffet": 5.0,
+"Laurent Fabius": 19.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 39.0,
+"Philippe de Villiers": 7.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 8.0,
+"Marie-George Buffet": 5.0,
+"Lionel Jospin": 28.0,
+"Noël Mamère": 4.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_presidentielle050217_61e4e.pdf",
+"date": "2005-02-13",
+"sample": 953,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 25.0,
+"Noël Mamère": 4.0,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 6.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 5.0,
+"François Hollande": 24.0,
+"Noël Mamère": 6.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 27.0,
+"Noël Mamère": 4.0,
+"François Bayrou": 12.0,
+"Jacques Chirac": 28.0,
+"Philippe de Villiers": 7.0,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"François Hollande": 26.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 11.0,
+"Jacques Chirac": 29.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 12.0
+},
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 4.0,
+"Lionel Jospin": 26.0,
+"Noël Mamère": 4.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 24.0,
+"Jacques Chirac": 16.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 4.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"François Hollande": 23.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 7.0,
+"Nicolas Sarkozy": 24.0,
+"Jacques Chirac": 16.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.28,
+"Arlette Laguiller": 2.3,
+"Olivier Besancenot": 5.58,
+"Marie-George Buffet": 3.23,
+"José Bové": 1.07,
+"Ségolène Royal": 25.02,
+"Dominique Voynet": 1.37,
+"Frédéric Nihous": 1.9,
+"François Bayrou": 14.88,
+"Nicolas Sarkozy": 27.92,
+"Philippe de Villiers": 1.78,
+"Jean-Marie Le Pen": 14.67
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_04bvavdnne_90e0f.pdf",
+"date": "2007-04-17",
+"sample": 805,
+"scenarios": [
+{
+"Gérard Schivardi": 1.0,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 6.0,
+"Marie-George Buffet": 5.0,
+"José Bové": 1.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 2.0,
+"François Bayrou": 11.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_03bvavdnne_57c95.pdf",
+"date": "2007-03-20",
+"sample": 804,
+"scenarios": [
+{
+"Gérard Schivardi": 0.25,
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"José Bové": 2.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 1.0,
+"François Bayrou": 16.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20070429180028/http://www.bva.fr/new/sondage_voixdunord_bva_2.htm",
+"date": "2007-02-21",
+"sample": 805,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 3.0,
+"Marie-George Buffet": 4.0,
+"José Bové": 1.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 18.0,
+"Nicolas Sarkozy": 25.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20070429180028/http://www.bva.fr/new/sondage_voixdunord_bva_2.htm",
+"date": "2007-02-17",
+"sample": 805,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 4.0,
+"José Bové": 1.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 1.0,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 14.0,
+"Nicolas Sarkozy": 26.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 16.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.36,
+"Arlette Laguiller": 0.97,
+"Olivier Besancenot": 3.24,
+"Marie-George Buffet": 2.27,
+"José Bové": 1.35,
+"Ségolène Royal": 21.21,
+"Dominique Voynet": 1.4,
+"Frédéric Nihous": 0.97,
+"François Bayrou": 15.36,
+"Nicolas Sarkozy": 37.01,
+"Philippe de Villiers": 2.01,
+"Jean-Marie Le Pen": 13.84
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 25.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 19.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 1.02,
+"Olivier Besancenot": 3.53,
+"Marie-George Buffet": 2.35,
+"José Bové": 1.51,
+"Ségolène Royal": 22.81,
+"Dominique Voynet": 1.38,
+"Frédéric Nihous": 1.12,
+"François Bayrou": 15.31,
+"Nicolas Sarkozy": 34.65,
+"Philippe de Villiers": 1.94,
+"Jean-Marie Le Pen": 13.87
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_prasidentielleenpacaetlanguedocroussillon061220_4484a.pdf",
+"date": "2006-12-14",
+"sample": 810,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 4.0,
+"Marie-George Buffet": 3.0,
+"Ségolène Royal": 29.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 4.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.29,
+"Arlette Laguiller": 0.88,
+"Olivier Besancenot": 3.87,
+"Marie-George Buffet": 3.36,
+"José Bové": 1.08,
+"Ségolène Royal": 21.81,
+"Dominique Voynet": 1.38,
+"Frédéric Nihous": 1.47,
+"François Bayrou": 12.36,
+"Nicolas Sarkozy": 37.0,
+"Philippe de Villiers": 1.24,
+"Jean-Marie Le Pen": 15.26
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2018/03/corses_presidentielle.pdf",
+"date": "2007-03-21",
+"sample": 504,
+"scenarios": [
+{
+"Gérard Schivardi": 0.5,
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.5,
+"Marie-George Buffet": 2.0,
+"José Bové": 3.0,
+"Ségolène Royal": 20.5,
+"Dominique Voynet": 0.5,
+"Frédéric Nihous": 3.0,
+"François Bayrou": 16.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.19,
+"Arlette Laguiller": 1.2,
+"Olivier Besancenot": 2.63,
+"Marie-George Buffet": 2.97,
+"José Bové": 1.35,
+"Ségolène Royal": 46.22,
+"Dominique Voynet": 1.29,
+"Frédéric Nihous": 0.3,
+"François Bayrou": 13.29,
+"Nicolas Sarkozy": 25.09,
+"Philippe de Villiers": 0.59,
+"Jean-Marie Le Pen": 4.88
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/presidentielle-2007-segolene-royal-en-tete-la-reunion-0",
+"date": "2007-03-09",
+"sample": 786,
+"scenarios": [
+{
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 1.5,
+"José Bové": 1.5,
+"Ségolène Royal": 44.0,
+"Dominique Voynet": 1.0,
+"Corinne Lepage": 0.5,
+"Frédéric Nihous": 0.0,
+"François Bayrou": 10.0,
+"Nicolas Sarkozy": 34.0,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 4.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/presidentielle-2007-segolene-royal-en-tete-la-reunion-0",
+"date": "2006-12-08",
+"sample": 447,
+"scenarios": [
+{
+"Arlette Laguiller": 0.5,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 1.0,
+"Ségolène Royal": 57.0,
+"Dominique Voynet": 4.0,
+"Corinne Lepage": 0.0,
+"Frédéric Nihous": 0.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 24.0,
+"Nicolas Dupont-Aignan": 0.0,
+"Philippe de Villiers": 0.5,
+"Jean-Marie Le Pen": 5.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.46,
+"Arlette Laguiller": 1.02,
+"Olivier Besancenot": 3.79,
+"Marie-George Buffet": 1.98,
+"José Bové": 1.91,
+"Ségolène Royal": 22.75,
+"Dominique Voynet": 1.55,
+"Frédéric Nihous": 1.56,
+"François Bayrou": 16.45,
+"Nicolas Sarkozy": 31.75,
+"Philippe de Villiers": 2.64,
+"Jean-Marie Le Pen": 14.14
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": null,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 26.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 5.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 21.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.34,
+"Arlette Laguiller": 0.96,
+"Olivier Besancenot": 3.11,
+"Marie-George Buffet": 2.33,
+"José Bové": 1.23,
+"Ségolène Royal": 20.87,
+"Dominique Voynet": 1.37,
+"Frédéric Nihous": 0.84,
+"François Bayrou": 15.11,
+"Nicolas Sarkozy": 38.19,
+"Philippe de Villiers": 1.87,
+"Jean-Marie Le Pen": 13.77
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": null,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 24.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 34.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 19.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.23,
+"Arlette Laguiller": 0.74,
+"Olivier Besancenot": 2.59,
+"Marie-George Buffet": 1.21,
+"José Bové": 1.35,
+"Ségolène Royal": 25.36,
+"Dominique Voynet": 1.64,
+"Frédéric Nihous": 0.4,
+"François Bayrou": 19.78,
+"Nicolas Sarkozy": 36.78,
+"Philippe de Villiers": 1.46,
+"Jean-Marie Le Pen": 8.47
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": 513,
+"scenarios": [
+{
+"Arlette Laguiller": 1.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 4.0,
+"Ségolène Royal": 33.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 9.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.37,
+"Arlette Laguiller": 0.88,
+"Olivier Besancenot": 3.58,
+"Marie-George Buffet": 1.91,
+"José Bové": 1.79,
+"Ségolène Royal": 28.68,
+"Dominique Voynet": 1.39,
+"Frédéric Nihous": 0.42,
+"François Bayrou": 15.65,
+"Nicolas Sarkozy": 30.44,
+"Philippe de Villiers": 1.89,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": 501,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 5.0,
+"Ségolène Royal": 28.0,
+"Dominique Voynet": 2.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 27.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 20.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.32,
+"Arlette Laguiller": 0.98,
+"Olivier Besancenot": 3.13,
+"Marie-George Buffet": 2.56,
+"José Bové": 1.23,
+"Ségolène Royal": 27.11,
+"Dominique Voynet": 1.16,
+"Frédéric Nihous": 0.38,
+"François Bayrou": 14.1,
+"Nicolas Sarkozy": 34.25,
+"Philippe de Villiers": 1.35,
+"Jean-Marie Le Pen": 13.43
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": 503,
+"scenarios": [
+{
+"Arlette Laguiller": 2.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 5.0,
+"Ségolène Royal": 30.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 4.0,
+"Nicolas Sarkozy": 36.0,
+"Philippe de Villiers": 1.0,
+"Jean-Marie Le Pen": 17.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.19,
+"Arlette Laguiller": 0.7,
+"Olivier Besancenot": 2.34,
+"Marie-George Buffet": 1.89,
+"José Bové": 0.98,
+"Ségolène Royal": 20.42,
+"Dominique Voynet": 1.27,
+"Frédéric Nihous": 0.25,
+"François Bayrou": 14.57,
+"Nicolas Sarkozy": 41.83,
+"Philippe de Villiers": 1.82,
+"Jean-Marie Le Pen": 13.74
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": 501,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 1.0,
+"Marie-George Buffet": 6.0,
+"Ségolène Royal": 23.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 8.0,
+"Nicolas Sarkozy": 33.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 21.0
+}
+]
+},
+{
+"firm": "2007 election",
+"url": null,
+"date": "2007-04-22",
+"sample": null,
+"scenarios": [
+{
+"Gérard Schivardi": 0.34,
+"Arlette Laguiller": 1.1,
+"Olivier Besancenot": 3.35,
+"Marie-George Buffet": 1.82,
+"José Bové": 1.01,
+"Ségolène Royal": 20.88,
+"Dominique Voynet": 1.33,
+"Frédéric Nihous": 0.56,
+"François Bayrou": 15.63,
+"Nicolas Sarkozy": 38.24,
+"Philippe de Villiers": 2.2,
+"Jean-Marie Le Pen": 13.53
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20071017140911/http://www.csa-fr.com/dataset/data2007/opi20070107a-intentions-de-vote-a-l-election-presidentielle-de-2007-en-region-paca.pdf",
+"date": "2007-01-07",
+"sample": 502,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Olivier Besancenot": 2.0,
+"Marie-George Buffet": 5.0,
+"Ségolène Royal": 34.0,
+"Dominique Voynet": 1.0,
+"François Bayrou": 6.0,
+"Nicolas Sarkozy": 32.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 15.0
+}
+]
+}
+]

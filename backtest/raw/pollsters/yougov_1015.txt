@@ -1,0 +1,759 @@
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                               Genre                                             Age                                  Région
+                                                                     Total
+                                                                                                                                                                                      Région
+                                                                                     Homme              Femme              18-34             35-54     55+   Nord-Est   Nord-Ouest                Sud-Est   Sud-Ouest
+                                                                                                                                                                                     Parisienne
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+certain(e) d’aller voter lors du premier tour de l’élection
+présidentielle qui aura lieu le 18 avril 2027? “0” signifiant
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+
+                                                    Base brute       1094               538               556               272                  332   490     290         245          162        263        134
+                                               Base pondérée         1094               521               573               272                  357   465     283         207          202        277        126
+                            0 – certain(e) de ne pas aller voter      6%                5%                6%                10%                  6%    3%      5%          5%           7%          5%         7%
+                                                                1     1%                1%                1%                1%                   1%    1%      1%          1%           0%          0%         0%
+                                                                2     1%                1%                2%                1%                   1%    2%      1%          3%           1%          1%         0%
+                                                                3     1%                0%                1%                1%                   0%    1%      1%          1%           1%          1%         0%
+                                                                4     1%                1%                1%                1%                   2%    0%      0%          1%           0%          2%         1%
+                                                                5     5%                5%                5%                5%                   6%    4%      6%          6%           4%          4%         4%
+                                                                6     1%                2%                1%                2%                   1%    1%      1%          1%           1%          0%         2%
+                                                                7     3%                2%                3%                3%                   4%    2%      3%          2%           2%          4%         2%
+                                                                8     5%                5%                6%                6%                   5%    5%      6%          5%           5%          4%         8%
+                                                                9     9%                8%               10%                12%                  7%    9%      11%         12%          7%         10%         3%
+                                    10 – certain(e) d’aller voter    65%               68%               63%                56%                  66%   71%     62%         61%          70%        67%        70%
+                                                  Non répondu         2%                3%                1%                2%                   3%    1%      3%          2%           2%          1%         3%
+
+
+scenario_main_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 364 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                    Base brute       725                366               359               158                  207   360     197         162          110        170         86
+                                               Base pondérée         689                349               340               148                  215   325     175         129          140        165         79
+                           Bruno Retailleau - Les Républicains        6%                6%                7%                7%                   6%    6%      4%          5%           12%         3%         7%
+                                   Édouard Philippe - Horizons       10%                9%               11%                10%                  7%    12%     12%         9%           12%         8%         5%
+                                  Éric Zemmour - Reconquête           3%                5%                1%                1%                   3%    4%      3%          5%           2%          3%         3%
+                  Fabien Roussel - Parti Communiste Français          3%                5%                0%                2%                   3%    3%      1%          2%           2%          6%         4%
+                                   Gabriel Attal - Renaissance        6%                6%                6%                3%                   7%    7%      4%          6%           9%          5%        10%
+                   Jean-Luc Mélenchon - La France Insoumise          15%               17%               12%                31%                  16%   7%      14%         12%          16%        16%        16%
+                     Marine Le Pen - Rassemblement National          36%               33%               39%                26%                  38%   39%     46%         35%          24%        40%        29%
+                            Marine Tondelier - Les Écologistes        6%                2%                9%                16%                  4%    2%      7%          6%           9%          2%         5%
+                              Nathalie Arthaud - Lutte Ouvrière       0%                0%                0%                1%                   0%    0%      0%          1%           1%          0%         0%
+                    Nicolas Dupont-Aignan - Debout la France          3%                3%                4%                1%                   3%    4%      2%          3%           5%          3%         3%
+                        Raphaël Glucksmann - Place Publique          12%               13%               11%                3%                   14%   15%     6%          16%          9%         14%        19%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                                                                                 Vote au 1er tour 2022                                        Zone d'habitation                CSP
+                                                                     Total
+                                                                                                                                                                                                            Petite
+                                                                                     Macron             Le Pen          Melenchon            Jadot             Pecresse   Zemmour   Autre   Non votant                   Grande ville   CSP+   CSP-   Inactifs
+                                                                                                                                                                                                         ville/rurale
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+certain(e) d’aller voter lors du premier tour de l’élection
+présidentielle qui aura lieu le 18 avril 2027? “0” signifiant
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+
+                                                    Base brute       1094               173               243               114                  36               35        39       86        368          877              217        306    376      412
+                                               Base pondérée         1094               224               187               177                  37               39        57       85        288          799              295        368    329      397
+                            0 – certain(e) de ne pas aller voter      6%                1%                0%                2%                   0%               0%        1%       1%        19%           5%              7%         5%     5%       6%
+                                                                1     1%                1%                0%                0%                   2%               0%        1%       3%        1%            1%              1%         1%     0%       2%
+                                                                2     1%                1%                0%                2%                   0%               0%        4%       0%        3%            1%              2%         0%     1%       2%
+                                                                3     1%                1%                0%                0%                   0%               0%        0%       0%        2%            0%              1%         0%     1%       0%
+                                                                4     1%                1%                0%                0%                   0%               0%        0%       0%        3%            1%              0%         1%     1%       0%
+                                                                5     5%                4%                2%                5%                   0%               0%        5%       6%        8%            5%              5%         5%     6%       4%
+                                                                6     1%                0%                0%                1%                   0%               0%        4%       0%        3%            1%              1%         1%     1%       1%
+                                                                7     3%                4%                2%                2%                   10%              0%        0%       3%        3%            3%              3%         4%     2%       2%
+                                                                8     5%                7%                1%                7%                   12%              4%        1%       2%        7%            6%              4%         5%     7%       4%
+                                                                9     9%                7%                7%                11%                  14%             26%        5%      10%        8%            9%             10%         11%    9%       8%
+                                    10 – certain(e) d’aller voter    65%               72%               86%                69%                  59%             65%       72%      74%        41%          66%             65%         63%    64%     68%
+                                                  Non répondu         2%                1%                1%                2%                   3%               5%        6%       0%        3%            2%              2%         2%     2%       2%
+
+
+scenario_main_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 364 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                    Base brute       725                123               223                99                  30               31        31       65        123          587              138        204    238      283
+                                               Base pondérée         689                154               167               142                  31               33        43       66        52           509              180        231    198      260
+                           Bruno Retailleau - Les Républicains        6%               12%                1%                1%                   0%              41%        7%       3%        2%            5%             10%         6%     4%       8%
+                                   Édouard Philippe - Horizons       10%               33%                0%                2%                   3%              16%        0%       0%        14%           9%             12%         17%    5%       7%
+                                  Éric Zemmour - Reconquête           3%                1%                1%                0%                   1%               6%       33%       1%        2%            3%              2%         3%     3%       3%
+                  Fabien Roussel - Parti Communiste Français          3%                1%                1%                6%                   0%               0%        0%      10%        0%            3%              2%         3%     1%       3%
+                                   Gabriel Attal - Renaissance        6%               23%                0%                2%                   0%               4%        0%       0%        6%            6%              8%         9%     4%       5%
+                   Jean-Luc Mélenchon - La France Insoumise          15%                5%                1%                51%                  5%               0%        0%       3%        31%          11%             25%         15%    15%     14%
+                     Marine Le Pen - Rassemblement National          36%                8%               95%                14%                  16%             16%       54%      22%        18%          41%             22%         25%    44%     40%
+                            Marine Tondelier - Les Écologistes        6%                1%                0%                2%                   39%              9%        0%      24%        9%            5%              8%         8%     8%       2%
+                              Nathalie Arthaud - Lutte Ouvrière       0%                0%                0%                0%                   0%               0%        0%       2%        1%            0%              0%         0%     0%       1%
+                    Nicolas Dupont-Aignan - Debout la France          3%                1%                1%                5%                   0%               0%        6%      12%        3%            4%              1%         1%     5%       4%
+                        Raphaël Glucksmann - Place Publique          12%               13%                1%                17%                  36%              9%        0%      22%        14%          13%              9%         13%    10%     13%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                               Genre                                             Age                                  Région
+                                                                     Total
+                                                                                                                                                                                      Région
+                                                                                     Homme              Femme              18-34             35-54     55+   Nord-Est   Nord-Ouest                Sud-Est   Sud-Ouest
+                                                                                                                                                                                     Parisienne
+
+
+scenario_attal_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 375 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                   Base brute        713                365               348               158                  207   348     195         156          106        169         87
+                                               Base pondérée         680                348               332               147                  215   318     174         125          137        165         79
+                           Bruno Retailleau - Les Républicains        9%                8%               10%                8%                   8%    10%     4%          8%           18%         7%         8%
+                                  Éric Zemmour - Reconquête           4%                6%                1%                1%                   3%    5%      3%          6%           2%          4%         4%
+                  Fabien Roussel - Parti Communiste Français          3%                5%                1%                1%                   3%    3%      1%          2%           1%          6%         4%
+                                   Gabriel Attal - Renaissance       10%                9%               11%                10%                  7%    12%     10%         12%          12%         8%         8%
+                   Jean-Luc Mélenchon - La France Insoumise          15%               17%               12%                30%                  16%   7%      13%         13%          15%        17%        16%
+                     Marine Le Pen - Rassemblement National          37%               34%               40%                27%                  39%   40%     48%         34%          26%        39%        30%
+                            Marine Tondelier - Les Écologistes        6%                2%               11%                16%                  5%    3%      8%          7%           9%          3%         4%
+                              Nathalie Arthaud - Lutte Ouvrière       0%                0%                1%                2%                   0%    0%      1%          1%           1%          0%         0%
+                    Nicolas Dupont-Aignan - Debout la France          3%                3%                3%                1%                   3%    4%      2%          3%           5%          3%         3%
+                        Raphaël Glucksmann - Place Publique          14%               17%               11%                5%                   17%   16%     8%          17%          12%        14%        24%
+
+
+scenario_philippe_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 368 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                   Base brute        721                365               356               162                  205   354     198         159          108        170         86
+                                               Base pondérée         683                347               336               152                  214   317     174         127          137        165         80
+                           Bruno Retailleau - Les Républicains        7%                6%                7%                8%                   6%    7%      4%          6%           13%         5%         7%
+                                  Éric Zemmour - Reconquête           3%                5%                1%                0%                   4%    5%      3%          4%           2%          4%         4%
+                  Fabien Roussel - Parti Communiste Français          3%                5%                1%                2%                   3%    3%      1%          3%           1%          6%         4%
+                                   Édouard Philippe - Horizons       13%               10%               16%                11%                  9%    17%     12%         15%          18%        10%        10%
+                   Jean-Luc Mélenchon - La France Insoumise          15%               18%               12%                31%                  15%   8%      15%         12%          16%        17%        16%
+                     Marine Le Pen - Rassemblement National          36%               34%               39%                27%                  39%   39%     46%         35%          25%        39%        29%
+                            Marine Tondelier - Les Écologistes        6%                2%               10%                16%                  4%    2%      7%          6%           9%          2%         4%
+                              Nathalie Arthaud - Lutte Ouvrière       0%                0%                0%                1%                   0%    0%      0%          1%           1%          0%         0%
+                    Nicolas Dupont-Aignan - Debout la France          3%                2%                3%                1%                   3%    4%      2%          3%           5%          3%         3%
+                        Raphaël Glucksmann - Place Publique          13%               16%               11%                3%                   18%   15%     9%          16%          10%        15%        22%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                                                                                 Vote au 1er tour 2022                                        Zone d'habitation                CSP
+                                                                     Total
+                                                                                                                                                                                                            Petite
+                                                                                     Macron             Le Pen          Melenchon            Jadot             Pecresse   Zemmour   Autre   Non votant                   Grande ville   CSP+   CSP-   Inactifs
+                                                                                                                                                                                                         ville/rurale
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+scenario_attal_headvote
+certain(e) d’aller voter lors(parmi  les votants
+                               du premier          decidés):
+                                             tour de l’élection
+Veuillez imaginer
+présidentielle  qui que
+                    auralelieu
+                            18 le
+                               avril
+                                  18 2027,  le premier
+                                     avril 2027?        tour de
+                                                   “0” signifiant
+l’élection présidentielle   en France  oppose    les candidats
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 375 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                      Base brute     713                117               225                97                  29               31        32       63        119          574              139        195    238      280
+                                                 Base pondérée       680                147               170               140                  30               33        44       64        52           500              179        222    199      258
+                            Bruno Retailleau - Les Républicains       9%               20%                1%                1%                   0%              56%        7%       3%        5%            7%             14%         10%    6%      10%
+                                    Éric Zemmour - Reconquête         4%                2%                1%                1%                   1%               6%       32%       1%        2%            4%              2%         4%     4%       3%
+                   Fabien Roussel - Parti Communiste Français         3%                1%                1%                6%                   1%               0%        0%      11%        1%            3%              2%         3%     1%       3%
+                                     Gabriel Attal - Renaissance     10%               37%                1%                2%                   0%               8%        0%       0%        12%           9%             13%         16%    5%       8%
+                    Jean-Luc Mélenchon - La France Insoumise         15%                6%                1%                51%                  5%               0%        0%       3%        30%          12%             24%         15%    15%     14%
+                      Marine Le Pen - Rassemblement National         37%               10%               94%                12%                  16%             13%       55%      23%        20%          42%             23%         26%    45%     40%
+                              Marine Tondelier - Les Écologistes      6%                4%                0%                2%                   40%              9%        0%      23%        9%            6%              8%         9%     9%       3%
+                               Nathalie Arthaud - Lutte Ouvrière      0%                0%                0%                0%                   0%               0%        0%       2%        3%            0%              1%         1%     0%       1%
+                     Nicolas Dupont-Aignan - Debout la France         3%                1%                1%                5%                   0%               0%        6%      13%        3%            4%              1%         1%     5%       4%
+                         Raphaël Glucksmann - Place Publique         14%               20%                1%                20%                  37%              9%        0%      21%        15%          14%             12%         16%    11%     14%
+
+
+scenario_philippe_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 368 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                      Base brute     721                119               224                98                  30               29        32       63        126          580              141        205    240      276
+                                                 Base pondérée       683                149               169               140                  31               32        44       65        53           501              182        231    200      252
+                            Bruno Retailleau - Les Républicains       7%               15%                1%                1%                   0%              45%        7%       3%        3%            5%             11%         7%     5%       8%
+                                    Éric Zemmour - Reconquête         3%                2%                1%                1%                   1%               6%       32%       1%        2%            4%              2%         3%     3%       3%
+                   Fabien Roussel - Parti Communiste Français         3%                2%                1%                6%                   0%               0%        0%      10%        1%            3%              3%         4%     2%       3%
+                                     Édouard Philippe - Horizons     13%               47%                1%                1%                   3%              21%        0%       0%        17%          12%             17%         21%    6%      12%
+                    Jean-Luc Mélenchon - La France Insoumise         15%                5%                1%                53%                  5%               0%        0%       3%        33%          12%             24%         15%    16%     15%
+                      Marine Le Pen - Rassemblement National         36%                9%               94%                13%                  12%             14%       55%      22%        19%          41%             23%         24%    46%     40%
+                              Marine Tondelier - Les Écologistes      6%                1%                0%                2%                   39%              9%        0%      24%        10%           5%              8%         8%     8%       3%
+                               Nathalie Arthaud - Lutte Ouvrière      0%                0%                0%                0%                   0%               0%        0%       2%        1%            0%              0%         0%     0%       1%
+                     Nicolas Dupont-Aignan - Debout la France         3%                0%                1%                5%                   0%               0%        6%      12%        2%            4%              1%         0%     5%       3%
+                         Raphaël Glucksmann - Place Publique         13%               19%                1%                17%                  40%              6%        0%      23%        13%          14%             11%         17%    9%      13%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                               Genre                                             Age                                  Région
+                                                                     Total
+                                                                                                                                                                                      Région
+                                                                                     Homme              Femme              18-34             35-54     55+   Nord-Est   Nord-Ouest                Sud-Est   Sud-Ouest
+                                                                                                                                                                                     Parisienne
+
+
+scenario_hollande_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 380 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                    Base brute       708                363               345               158                  206   344     192         156          109        169         82
+                                               Base pondérée         666                340               326               147                  212   306     168         123          137        161         75
+                           Bruno Retailleau - Les Républicains        7%                6%                7%                7%                   6%    7%      4%          6%           13%         4%         8%
+                                   Édouard Philippe - Horizons       15%               13%               16%                13%                  11%   18%     12%         17%          15%        15%        17%
+                                  Éric Zemmour - Reconquête           4%                5%                2%                2%                   4%    4%      3%          5%           2%          4%         4%
+                  Fabien Roussel - Parti Communiste Français          3%                5%                1%                2%                   3%    4%      2%          2%           2%          6%         4%
+                            François Hollande - Parti Socialiste      9%               10%                7%                6%                   10%   9%      6%          11%          13%         5%        11%
+                   Jean-Luc Mélenchon - La France Insoumise          16%               20%               12%                29%                  17%   9%      14%         13%          17%        19%        17%
+                     Marine Le Pen - Rassemblement National          37%               35%               40%                26%                  39%   41%     47%         35%          25%        42%        29%
+                            Marine Tondelier - Les Écologistes        6%                4%               10%                13%                  6%    4%      8%          7%           8%          3%         5%
+                              Nathalie Arthaud - Lutte Ouvrière       1%                0%                1%                1%                   1%    0%      0%          1%           1%          0%         3%
+                    Nicolas Dupont-Aignan - Debout la France          3%                3%                4%                1%                   3%    4%      2%          3%           5%          3%         3%
+
+
+scenario_full_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 355 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                    Base brute       734                369               365               157                  214   363     204         158          109        175         88
+                                               Base pondérée         696                357               339               149                  218   328     180         127          141        169         81
+                           Bruno Retailleau - Les Républicains        5%                4%                5%                7%                   5%    4%      3%          5%           9%          2%         6%
+                                   Édouard Philippe - Horizons        8%                7%               10%                8%                   7%    9%      9%          9%           10%         7%         7%
+                                  Éric Zemmour - Reconquête           4%                5%                2%                1%                   4%    5%      3%          5%           3%          4%         3%
+                  Fabien Roussel - Parti Communiste Français          2%                4%                0%                1%                   3%    3%      1%          1%           2%          5%         3%
+                                   Gabriel Attal - Renaissance        6%                6%                6%                3%                   4%    8%      5%          5%           10%         5%         4%
+                   Jean-Luc Mélenchon - La France Insoumise          13%               16%               11%                28%                  14%   7%      12%         10%          15%        16%        15%
+                     Marine Le Pen - Rassemblement National          35%               32%               38%                27%                  38%   36%     44%         34%          24%        38%        28%
+                            Marine Tondelier - Les Écologistes        5%                2%                9%                16%                  4%    2%      9%          6%           7%          1%         4%
+                              Nathalie Arthaud - Lutte Ouvrière       0%                0%                0%                1%                   0%    0%      0%          1%           1%          0%         0%
+                    Nicolas Dupont-Aignan - Debout la France          2%                3%                2%                1%                   3%    2%      2%          3%           4%          1%         0%
+                        Raphaël Glucksmann - Place Publique          12%               14%               10%                4%                   15%   14%     6%          16%          9%         13%        22%
+                              David Lisnard - Nouvelle Énergie        4%                4%                3%                2%                   1%    6%      5%          2%           4%          5%         2%
+                 Dominique de Villepin - La France Humaniste          1%                1%                1%                3%                   1%    1%      1%          2%           3%          0%         2%
+                                     François Ruffin - Debout !       2%                2%                2%                0%                   1%    3%      1%          1%           0%          3%         5%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                                                                                 Vote au 1er tour 2022                                        Zone d'habitation                CSP
+                                                                     Total
+                                                                                                                                                                                                            Petite
+                                                                                     Macron             Le Pen          Melenchon            Jadot             Pecresse   Zemmour   Autre   Non votant                   Grande ville   CSP+   CSP-   Inactifs
+                                                                                                                                                                                                         ville/rurale
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+scenario_hollande_headvote
+certain(e) d’aller voter lors du(parmi
+                                   premierlestour
+                                               votants  decidés):
+                                                  de l’élection
+Veuillez imaginer
+présidentielle  qui que
+                    auralelieu
+                            18 le
+                               avril
+                                  18 2027,  le premier
+                                     avril 2027?        tour de
+                                                   “0” signifiant
+l’élection présidentielle   en France  oppose    les candidats
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 380 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                      Base brute     708                115               219                94                  30               30        32       66        122          569              139        200    236      272
+                                                 Base pondérée       666                144               166               133                  29               32        44       67        51           490              176        223    195      248
+                            Bruno Retailleau - Les Républicains       7%               14%                1%                1%                   2%              45%        4%       3%        3%            5%             10%         8%     4%       8%
+                                     Édouard Philippe - Horizons     15%               49%                1%                2%                   10%             27%        0%       2%        22%          14%             16%         22%    9%      13%
+                                    Éric Zemmour - Reconquête         4%                2%                0%                1%                   0%               6%       35%       1%        3%            4%              3%         3%     4%       4%
+                   Fabien Roussel - Parti Communiste Français         3%                1%                1%                7%                   0%               0%        0%      10%        4%            3%              3%         4%     1%       3%
+                             François Hollande - Parti Socialiste     9%               16%                0%                6%                   14%              0%        0%      27%        10%           7%             13%         13%    8%       6%
+                    Jean-Luc Mélenchon - La France Insoumise         16%                6%                1%                59%                  7%               0%        0%       3%        28%          14%             23%         15%    17%     16%
+                      Marine Le Pen - Rassemblement National         37%               10%               95%                13%                  19%             13%       55%      22%        18%          42%             24%         25%    46%     42%
+                              Marine Tondelier - Les Écologistes      6%                2%                0%                4%                   48%              9%        0%      18%        9%            6%              7%         10%    6%       4%
+                               Nathalie Arthaud - Lutte Ouvrière      1%                0%                0%                2%                   0%               0%        0%       2%        1%            1%              0%         1%     0%       1%
+                     Nicolas Dupont-Aignan - Debout la France         3%                0%                1%                5%                   1%               0%        6%      12%        3%            4%              1%         1%     5%       4%
+
+
+scenario_full_headvote (parmi les votants decidés):
+Veuillez imaginer que le 18 avril 2027, le premier tour de
+l’élection présidentielle en France oppose les candidats
+suivants à la présidence de la République. Pour quel
+candidat voteriez-vous ? Veuillez sélectionner une seule
+réponse.
+Non pris en compte dans ce calcul : 355 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                      Base brute     734                131               223                97                  30               31        31       67        124          594              140        206    241      287
+                                                 Base pondérée       696                163               168               138                  31               34        43       67        52           512              184        232    202      261
+                            Bruno Retailleau - Les Républicains       5%               11%                1%                1%                   0%              29%        0%       3%        2%            4%              7%         6%     4%       4%
+                                     Édouard Philippe - Horizons      8%               26%                1%                1%                   3%              13%        0%       0%        15%           8%              9%         15%    4%       5%
+                                    Éric Zemmour - Reconquête         4%                2%                1%                1%                   0%               9%       34%       1%        2%            4%              3%         3%     3%       4%
+                   Fabien Roussel - Parti Communiste Français         2%                1%                1%                6%                   0%               0%        0%       8%        0%            3%              2%         4%     1%       2%
+                                     Gabriel Attal - Renaissance      6%               21%                0%                2%                   0%               4%        0%       0%        3%            5%              7%         7%     3%       7%
+                    Jean-Luc Mélenchon - La France Insoumise         13%                4%                1%                50%                  5%               0%        0%       2%        24%          11%             21%         12%    14%     14%
+                      Marine Le Pen - Rassemblement National         35%                8%               91%                13%                  17%             15%       55%      22%        18%          39%             22%         23%    44%     38%
+                              Marine Tondelier - Les Écologistes      5%                2%                0%                1%                   38%              8%        0%      20%        9%            5%              8%         7%     8%       2%
+                               Nathalie Arthaud - Lutte Ouvrière      0%                0%                0%                0%                   0%               0%        0%       2%        0%            0%              1%         0%     0%       1%
+                     Nicolas Dupont-Aignan - Debout la France         2%                1%                1%                2%                   0%               0%        5%      11%        1%            3%              1%         0%     5%       2%
+                         Raphaël Glucksmann - Place Publique         12%               15%                1%                16%                  33%              6%        0%      23%        15%          12%             11%         15%    9%      11%
+                               David Lisnard - Nouvelle Énergie       4%                8%                1%                0%                   3%              14%        5%       0%        6%            3%              5%         4%     1%       6%
+                  Dominique de Villepin - La France Humaniste         1%                1%                1%                1%                   1%               2%        0%       2%        5%            1%              3%         2%     2%       0%
+                                       François Ruffin - Debout !     2%                0%                0%                6%                   0%               0%        0%       6%        1%            2%              0%         1%     1%       3%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                               Genre                                             Age                                  Région
+                                                                     Total
+                                                                                                                                                                                      Région
+                                                                                     Homme              Femme              18-34             35-54     55+   Nord-Est   Nord-Ouest                Sud-Est   Sud-Ouest
+                                                                                                                                                                                     Parisienne
+
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+certain(e) d’aller voter lors du second tour de l’élection
+présidentielle qui aura lieu le 2 mai 2027? “0” signifiant
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+“1
+                                                    Base brute       1094               538               556               272                  332   490     290         245          162        263        134
+                                               Base pondérée         1094               521               573               272                  357   465     283         207          202        277        126
+                            0 – certain(e) de ne pas aller voter      5%                4%                6%                9%                   5%    3%      5%          4%           7%          5%         5%
+                                                                1     1%                1%                1%                1%                   2%    1%      1%          1%           1%          1%         0%
+                                                                2     1%                1%                1%                1%                   1%    1%      1%          2%           0%          0%         2%
+                                                                3     1%                1%                2%                4%                   0%    1%      1%          1%           1%          3%         0%
+                                                                4     1%                1%                0%                0%                   1%    0%      1%          0%           1%          0%         1%
+                                                                5     5%                5%                5%                4%                   5%    5%      4%          7%           3%          5%         5%
+                                                                6     1%                1%                1%                2%                   1%    1%      1%          2%           1%          1%         1%
+                                                                7     4%                3%                4%                5%                   5%    2%      4%          3%           2%          6%         2%
+                                                                8     5%                6%                5%                6%                   5%    5%      7%          6%           5%          3%         6%
+                                                                9     9%                7%               10%                13%                  7%    8%      8%          12%          10%         8%         3%
+                                    10 – certain(e) d’aller voter    64%               67%               62%                53%                  63%   72%     62%         60%          66%        66%        71%
+                                                  Non répondu         3%                3%                2%                2%                   5%    2%      5%          2%           3%          0%         4%
+
+
+
+round2_1_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 435 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                    Base brute       653                326               327               138                  195   320     183         150          88         152         80
+                                               Base pondérée         612                311               301               130                  194   288     161         111          119        147         75
+                                   Édouard Philippe - Horizons       48%               45%               50%                59%                  47%   43%     43%         48%          54%        42%        59%
+                     Marine Le Pen - Rassemblement National          52%               55%               50%                41%                  53%   57%     57%         52%          46%        58%        41%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                                                                                 Vote au 1er tour 2022                                        Zone d'habitation                CSP
+                                                                       Total
+                                                                                                                                                                                                            Petite
+                                                                                     Macron             Le Pen          Melenchon            Jadot             Pecresse   Zemmour   Autre   Non votant                   Grande ville   CSP+   CSP-   Inactifs
+                                                                                                                                                                                                         ville/rurale
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+Sur une échelle
+certain(e) d’allerde 0 à lors
+                   voter 10, dans  quelle mesure
+                              du premier            êtes-vous
+                                           tour de l’élection
+certain(e) d’aller
+présidentielle  quivoter
+                    aura lors
+                         lieu du  second
+                              le 18        tour de
+                                    avril 2027?    l’élection
+                                                 “0”  signifiant
+présidentielle  qui aura lieu le 2 mai 2027?  “0”  signifiant
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+que vous êtes tout à fait certain(e) de ne pas aller voter et
+“1
+                                                     Base brute        1094             173               243               114                  36               35        39       86        368          877              217        306    376      412
+                                                Base pondérée          1094             224               187               177                  37               39        57       85        288          799              295        368    329      397
+                             0 – certain(e) de ne pas aller voter       5%              1%                0%                2%                   0%               0%        2%       0%        17%           5%              7%         5%     5%       6%
+                                                                   1    1%              1%                0%                0%                   0%               0%        0%       2%        2%            1%              1%         1%     1%       1%
+                                                                   2    1%              0%                0%                2%                   0%               0%        1%       0%        3%            1%              1%         1%     1%       1%
+                                                                   3    1%              1%                0%                0%                   0%               0%        4%       1%        4%            1%              3%         2%     2%       1%
+                                                                   4    1%              1%                0%                0%                   0%               0%        0%       0%        1%            1%              1%         1%     1%       0%
+                                                                   5    5%              5%                1%                5%                   1%               1%        3%       5%        7%            6%              2%         4%     5%       4%
+                                                                   6    1%              0%                0%                2%                   0%               0%        1%       1%        3%            1%              1%         1%     1%       1%
+                                                                   7    4%              3%                2%                3%                   11%              3%        3%       3%        5%            3%              4%         5%     3%       3%
+                                                                   8    5%              8%                2%                4%                   19%              1%        2%       1%        7%            6%              5%         6%     7%       4%
+                                                                   9    9%              5%                8%                12%                  5%              25%       12%      10%        7%            8%             10%         11%    9%       6%
+                                     10 – certain(e) d’aller voter     64%             70%               87%                67%                  60%             64%       66%      77%        40%          65%             62%         60%    64%     69%
+                                                   Non répondu          3%              3%                0%                4%                   4%               6%        7%       0%        3%            3%              3%         4%     2%       2%
+
+
+
+round2_1_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 435 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                     Base brute        653              125               219                50                  22               30        31       48        128          531              122        190    211      252
+                                                Base pondérée          612              151               164                87                  26               33        45       56        50           454              159        214    176      223
+                                    Édouard Philippe - Horizons        48%             83%                2%                64%                  78%             62%        4%      49%        73%          43%             61%         64%    35%     42%
+                     Marine Le Pen - Rassemblement National            52%             17%               98%                36%                  22%             38%       96%      51%        27%          57%             39%         36%    65%     58%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                               Genre                                             Age                                  Région
+                                                                     Total
+                                                                                                                                                                                      Région
+                                                                                     Homme              Femme              18-34             35-54     55+   Nord-Est   Nord-Ouest                Sud-Est   Sud-Ouest
+                                                                                                                                                                                     Parisienne
+
+
+
+round2_2_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 418 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 4 répondants (exclus du calcul)
+
+                                                    Base brute       672                341               331               133                  202   337     175         158          88         170         81
+                                               Base pondérée         616                322               294               121                  204   291     151         116          111        164         75
+                     Marine Le Pen - Rassemblement National          55%               54%               56%                46%                  56%   58%     65%         54%          54%        53%        43%
+                        Raphaël Glucksmann - Place Publique          45%               46%               44%                54%                  44%   42%     35%         46%          46%        47%        57%
+
+
+
+round2_3_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 420 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                    Base brute       669                337               332               144                  202   323     180         158          92         164         75
+                                               Base pondérée         633                322               311               140                  206   287     159         119          124        162         69
+                            François Hollande - Parti Socialiste     45%               46%               45%                60%                  46%   38%     39%         51%          49%        42%        52%
+                     Marine Le Pen - Rassemblement National          55%               54%               55%                40%                  54%   62%     61%         49%          51%        58%        48%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                                                                                 Vote au 1er tour 2022                                        Zone d'habitation                CSP
+                                                                     Total
+                                                                                                                                                                                                            Petite
+                                                                                     Macron             Le Pen          Melenchon            Jadot             Pecresse   Zemmour   Autre   Non votant                   Grande ville   CSP+   CSP-   Inactifs
+                                                                                                                                                                                                         ville/rurale
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+certain(e) d’aller voter lors du premier tour de l’élection
+round2_2_headvote     (parmi
+présidentielle qui aura        les
+                         lieu le 18votants  decidés):
+                                    avril 2027?        Veuillez
+                                                 “0” signifiant
+imaginer
+que vousque
+          êtesletout
+                  2 mai 2027,
+                     à fait    le second
+                            certain(e)     tour
+                                       de ne    dealler
+                                              pas  l’élection
+                                                        voter et
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 418 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 4 répondants (exclus du calcul)
+
+                                                     Base brute      672                110               223                70                  23               26        33       60        127          556              116        183    218      271
+                                                Base pondérée        616                128               168               112                  25               30        46       58        50           473              143        202    177      238
+                     Marine Le Pen - Rassemblement National          55%               31%               98%                27%                  21%             55%       93%      46%        30%          59%             43%         44%    66%     57%
+                         Raphaël Glucksmann - Place Publique         45%               69%                2%                73%                  79%             45%        7%      54%        70%          41%             57%         56%    34%     43%
+
+
+
+round2_3_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 420 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                     Base brute      669                103               221                77                  22               25        31       64        126          547              122        194    224      251
+                                                Base pondérée        633                121               167               127                  26               29        44       67        52           471              162        218    188      227
+                             François Hollande - Parti Socialiste    45%               67%                3%                74%                  80%             43%        0%      56%        69%          40%             61%         57%    38%     40%
+                     Marine Le Pen - Rassemblement National          55%               33%               97%                26%                  20%             57%       100%     44%        31%          60%             39%         43%    62%     60%
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                               Genre                                             Age                                  Région
+                                                                     Total
+                                                                                                                                                                                      Région
+                                                                                     Homme              Femme              18-34             35-54     55+   Nord-Est   Nord-Ouest                Sud-Est   Sud-Ouest
+                                                                                                                                                                                     Parisienne
+
+
+
+round2_4_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 485 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 4 répondants (exclus du calcul)
+
+                                                   Base brute        605                318               287               153                  181   271     172         129          88         148         68
+                                               Base pondérée         552                290               262               135                  181   236     151          97          106        140         59
+                   Jean-Luc Mélenchon - La France Insoumise          32%               36%               28%                54%                  32%   20%     26%         34%          36%        33%        38%
+                     Marine Le Pen - Rassemblement National          68%               64%               72%                46%                  68%   80%     74%         66%          64%        67%        62%
+
+
+
+round2_5_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 447 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                   Base brute        641                327               314               134                  199   308     177         145          88         156         75
+                                               Base pondérée         610                316               294               125                  201   283     160         103          120        158         69
+                                   Gabriel Attal - Renaissance       45%               44%               46%                57%                  44%   41%     40%         42%          53%        44%        52%
+                     Marine Le Pen - Rassemblement National          55%               56%               54%                43%                  56%   59%     60%         58%          47%        56%        48%
+
+
+
+round2_6_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 601 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                   Base brute        488                259               229               134                  131   223     131         102          79         107         69
+                                               Base pondérée         473                250               224               122                  145   206     123          80          98         105         67
+                                   Édouard Philippe - Horizons       66%               62%               71%                49%                  64%   77%     78%         65%          60%        58%        66%
+                   Jean-Luc Mélenchon - La France Insoumise          34%               38%               29%                51%                  36%   23%     22%         35%          40%        42%        34%
+
+
+Les pourcentages calculés à partir d'un sous-echantillon de moins de 50 repondants ne doivent pas etre mentionnés.
+HuffPost
+Intentions de vote à l’élection
+présidentielle 2027 - Octobre 2026
+L'enquête a été réalisée sur 1094 personnes (dont 976
+personnes inscrites sur les listes électorales) représentatives
+de la population nationale française âgée de 18 ans et plus. Le
+sondage a été effectué en ligne, sur le panel propriétaire
+YouGov France du 12 au 15 octobre 2026.
+
+
+
+                                                                                                                                                 Vote au 1er tour 2022                                        Zone d'habitation                CSP
+                                                                     Total
+                                                                                                                                                                                                            Petite
+                                                                                     Macron             Le Pen          Melenchon            Jadot             Pecresse   Zemmour   Autre   Non votant                   Grande ville   CSP+   CSP-   Inactifs
+                                                                                                                                                                                                         ville/rurale
+
+Sur une échelle de 0 à 10, dans quelle mesure êtes-vous
+certain(e) d’aller voter lors du premier tour de l’élection
+round2_4_headvote     (parmi
+présidentielle qui aura        les
+                         lieu le 18votants  decidés):
+                                    avril 2027?        Veuillez
+                                                 “0” signifiant
+imaginer
+que vousque
+          êtesletout
+                  2 mai 2027,
+                     à fait    le second
+                            certain(e)     tour
+                                       de ne    dealler
+                                              pas  l’élection
+                                                        voter et
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 485 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 4 répondants (exclus du calcul)
+
+                                                     Base brute      605                60                223                90                  14               22        31       48        117          482              123        162    220      223
+                                                Base pondérée        552                69                169               135                  15               24        44       48        48           407              145        167    182      203
+                   Jean-Luc Mélenchon - La France Insoumise          32%               19%                1%                78%                  48%             12%        0%      40%        58%          27%             48%         37%    33%     28%
+                     Marine Le Pen - Rassemblement National          68%               81%               99%                22%                  52%             88%       100%     60%        42%          73%             52%         63%    67%     72%
+
+
+
+round2_5_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 447 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 6 répondants (exclus du calcul)
+
+                                                     Base brute      641                124               220                50                  22               29        31       46        119          524              117        186    215      240
+                                                Base pondérée        610                149               167                89                  24               32        45       55        50           454              156        216    177      217
+                                     Gabriel Attal - Renaissance     45%               81%                2%                64%                  78%             45%        0%      47%        72%          40%             61%         61%    33%     39%
+                     Marine Le Pen - Rassemblement National          55%               19%               98%                36%                  22%             55%       100%     53%        28%          60%             39%         39%    67%     61%
+
+
+
+round2_6_headvote (parmi les votants decidés): Veuillez
+imaginer que le 2 mai 2027, le second tour de l’élection
+présidentielle en France oppose les candidats suivants à
+la présidence de la République. Pour lequel des deux
+voteriez-vous ? Veuillez sélectionner une seule réponse.
+Non pris en compte dans ce calcul : 601 répondants (non concernés par le routage, ou n'ayant pas exprimé d'intention de vote pour un candidat)
+Pondération non calculable pour 5 répondants (exclus du calcul)
+
+                                                     Base brute      488                121               79                 77                  19               28        15       41        108          376              112        165    141      182
+                                                Base pondérée        473                148               54                112                  23               32        21       38        46           326              147        181    123      170
+                                    Édouard Philippe - Horizons      66%               92%               86%                13%                  82%             93%       86%      64%        54%          70%             56%         71%    59%     66%
+                   Jean-Luc Mélenchon - La France Insoumise          34%                8%               14%                87%                  18%              7%       14%      36%        46%          30%             44%         29%    41%     34%
+
+
+Les pourcentages calculés à partir d'un sous-echantillon de moins de 50 repondants ne doivent pas etre mentionnés.
+

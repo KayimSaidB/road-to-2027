@@ -1,0 +1,3717 @@
+[
+{
+"firm": "2002 election",
+"url": null,
+"date": "2002-04-21",
+"sample": null,
+"scenarios": [
+{
+"Arlette Laguiller": 5.72,
+"Daniel Gluckstein": 0.47,
+"Olivier Besancenot": 4.25,
+"Robert Hue": 3.37,
+"Lionel Jospin": 16.18,
+"Christiane Taubira": 2.32,
+"Jean-Pierre Chevènement": 5.33,
+"Noël Mamère": 5.25,
+"Corinne Lepage": 1.88,
+"François Bayrou": 6.84,
+"Jacques Chirac": 19.88,
+"Alain Madelin": 3.91,
+"Christine Boutin": 1.19,
+"Jean Saint-Josse": 4.23,
+"Bruno Mégret": 2.34,
+"Jean-Marie Le Pen": 16.86
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-04-18",
+"sample": 631,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 3.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 2.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 19.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020618193356/http://www.csa-fr.com/fra/dataset/data2002/indic20020418.htm",
+"date": "2002-04-18",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 3.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 2.5,
+"Jean-Pierre Chevènement": 6.5,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.5,
+"François Bayrou": 6.0,
+"Jacques Chirac": 19.5,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.5,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 2.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-7",
+"date": "2002-04-18",
+"sample": 989,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 4.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 6.5,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 1.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 2.5,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030822222733/http://www.tns-sofres.com/etudes/pol/190402_intentions_r.htm",
+"date": "2002-04-18",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.5,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 4.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 1.5,
+"Jean-Pierre Chevènement": 6.5,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 19.5,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.5,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "Louis Harris",
+"url": "https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf",
+"date": "2002-04-17",
+"sample": 592,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.0,
+"Olivier Besancenot": 2.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 2.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-cinq-jours-de-lelection-presidentielle",
+"date": "2002-04-16",
+"sample": 1005,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 2.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 1.5,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 1.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730200113/http://www.tns-sofres.com/etudes/pol/160402_intentions_r.htm",
+"date": "2002-04-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 2.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.5,
+"François Bayrou": 6.0,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.5,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 2.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020425110704/http://www.ifop.com/europe/sondages/OPINIONF/presidv8.asp",
+"date": "2002-04-13",
+"sample": 1006,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 4.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 16.5,
+"Christiane Taubira": 1.5,
+"Jean-Pierre Chevènement": 8.5,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 2.0,
+"François Bayrou": 6.5,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 0.5,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 10.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-04-13",
+"sample": 749,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 2.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 18.0,
+"Christiane Taubira": 1.5,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.5,
+"François Bayrou": 6.0,
+"Jacques Chirac": 18.5,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020420102922/http://www.ifop.com/europe/sondages/opinionf/baropresjddv6.asp",
+"date": "2002-04-12",
+"sample": 951,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 3.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 17.0,
+"Christiane Taubira": 2.0,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 2.0,
+"François Bayrou": 6.5,
+"Jacques Chirac": 19.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 0.5,
+"Jean Saint-Josse": 4.5,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 9.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020618192047/http://www.csa-fr.com/fra/dataset/data2002/indic20020411.htm",
+"date": "2002-04-11",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 1.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 7.0,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 1.5,
+"François Bayrou": 5.5,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730172406/http://www.tns-sofres.com/etudes/pol/120402_baropres.htm",
+"date": "2002-04-11",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 2.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 1.5,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 4.5,
+"Corinne Lepage": 1.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020816205636/http://www.ifop.com/europe/sondages/opinionf/presidv7.asp",
+"date": "2002-04-06",
+"sample": 1004,
+"scenarios": [
+{
+"Arlette Laguiller": 8.5,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 17.5,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 8.0,
+"Corinne Lepage": 1.5,
+"François Bayrou": 5.5,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-deux-semaines-de-lelection-presidentielle",
+"date": "2002-04-06",
+"sample": 952,
+"scenarios": [
+{
+"Arlette Laguiller": 11.0,
+"Daniel Gluckstein": 0.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 8.5,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 0.5,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-04-06",
+"sample": 657,
+"scenarios": [
+{
+"Arlette Laguiller": 11.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 1.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 0.5,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030709084900/http://www.tns-sofres.com/etudes/pol/120402_catholiques_r.htm",
+"date": "2002-04-05",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 8.5,
+"Daniel Gluckstein": 0.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 12.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020618192333/http://www.csa-fr.com/fra/dataset/data2002/indic20020404.htm",
+"date": "2002-04-04",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 8.5,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 4.0,
+"Lionel Jospin": 18.5,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 8.5,
+"Corinne Lepage": 1.5,
+"François Bayrou": 4.5,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.5,
+"Jean Saint-Josse": 5.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 11.5
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030822215617/http://www.tns-sofres.com/etudes/pol/050402_baropres.htm",
+"date": "2002-04-04",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Daniel Gluckstein": 0.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 7.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.5,
+"Nicolas Miguet": 0.0,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-6",
+"date": "2002-03-30",
+"sample": 938,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 11.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.5,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.5,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 4.0,
+"Jean Saint-Josse": 4.5
+}
+]
+},
+{
+"firm": "Louis Harris",
+"url": "https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf",
+"date": "2002-03-30",
+"sample": 1001,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.5,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.5,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-03-30",
+"sample": 661,
+"scenarios": [
+{
+"Arlette Laguiller": 11.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 6.5,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 13.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp",
+"date": "2002-03-29",
+"sample": 936,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Daniel Gluckstein": 0.25,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 4.5,
+"Lionel Jospin": 20.5,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 7.0,
+"Antoine Waechter": 0.5,
+"Pierre Larrouturou": 0.5,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 0.25,
+"François Bayrou": 5.5,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 2.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20021104132550/http://www.csa-fr.com/fra/dataset/data2002/indic20020328.htm",
+"date": "2002-03-28",
+"sample": 1003,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.5,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 1.5,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 4.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730190416/http://www.tns-sofres.com/etudes/pol/030402_intentions_r.htm",
+"date": "2002-03-28",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Daniel Gluckstein": 0.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 8.5,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.5,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 0.5,
+"Jean-Marie Le Pen": 11.0
+},
+{
+"Arlette Laguiller": 10.0,
+"Daniel Gluckstein": 0.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.0,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020409021523/http://www.ifop.com/europe/sondages/OPINIONF/presidv6.asp",
+"date": "2002-03-24",
+"sample": 1005,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Daniel Gluckstein": 0.25,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 10.0,
+"Dieudonné (comedian)": 1.0,
+"Noël Mamère": 7.0,
+"Antoine Waechter": 0.25,
+"Pierre Larrouturou": 0.25,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 0.25,
+"François Bayrou": 4.0,
+"Jacques Chirac": 20.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 0.25,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-semaines-de-lelection-presidentielle",
+"date": "2002-03-23",
+"sample": 938,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 2.5,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030702151834/http://www.tns-sofres.com/etudes/pol/250302_baropres.htm",
+"date": "2002-03-23",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 7.5,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-03-23",
+"sample": 647,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 6.5,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.0,
+"Jean Saint-Josse": 2.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp",
+"date": "2002-03-22",
+"sample": 947,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.25,
+"Jean-Pierre Chevènement": 9.0,
+"Dieudonné (comedian)": 1.0,
+"Noël Mamère": 5.0,
+"Antoine Waechter": 0.5,
+"Pierre Larrouturou": 0.25,
+"Corinne Lepage": 0.5,
+"Brice Lalonde": 0.25,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 2.5,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020408141047/http://www.csa-fr.com/fra/dataset/data2002/indic20020321.htm",
+"date": "2002-03-21",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 1.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 7.0,
+"Noël Mamère": 6.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.5,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020323181923/http://www.ifop.com/europe/sondages/opinionf/presidv5.asp",
+"date": "2002-03-16",
+"sample": 933,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Dieudonné (comedian)": 1.0,
+"Noël Mamère": 6.0,
+"Antoine Waechter": 0.25,
+"Pierre Larrouturou": 0.25,
+"Corinne Lepage": 0.5,
+"Brice Lalonde": 0.25,
+"François Bayrou": 4.0,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-5",
+"date": "2002-03-16",
+"sample": 919,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 1.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 9.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.5,
+"Jacques Chirac": 27.5,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 6.5,
+"Jean Saint-Josse": 2.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-03-16",
+"sample": 739,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 7.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 2.0,
+"François Bayrou": 3.5,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 3.5,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 0.5,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030822222601/http://www.tns-sofres.com/etudes/pol/190302_intentions_r.htm",
+"date": "2002-03-16",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 9.5,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 6.5,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.5,
+"Jacques Chirac": 23.5,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730200828/http://www.tns-sofres.com/etudes/pol/180302_baropres.htm",
+"date": "2002-03-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 7.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020429025130/http://www.csa-fr.com/fra/dataset/data2002/indic20020314.htm",
+"date": "2002-03-14",
+"sample": 1001,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 4.5,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 8.5,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 25.5,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 9.5
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-six-semaines-de-lelection-presidentielle",
+"date": "2002-03-09",
+"sample": 933,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 8.0
+},
+{
+"Arlette Laguiller": 8.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.5,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 12.5,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.5,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 4.5,
+"Jean Saint-Josse": 3.0
+}
+]
+},
+{
+"firm": "Louis Harris",
+"url": "https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf",
+"date": "2002-03-09",
+"sample": 626,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.25,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730193757/http://www.tns-sofres.com/etudes/pol/110302_baropres.htm",
+"date": "2002-03-09",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 7.5,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 1.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-4",
+"date": "2002-03-02",
+"sample": 925,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-03-02",
+"sample": 693,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 24.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020321092317/http://www.ifop.com/europe/sondages/opinionf/presidv4.asp",
+"date": "2002-03-01",
+"sample": 941,
+"scenarios": [
+{
+"Arlette Laguiller": 9.0,
+"Daniel Gluckstein": 0.25,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 4.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Dieudonné (comedian)": 2.0,
+"Noël Mamère": 7.0,
+"Antoine Waechter": 0.25,
+"Pierre Larrouturou": 0.5,
+"Corinne Lepage": 0.5,
+"Brice Lalonde": 0.25,
+"François Bayrou": 3.0,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020429024022/http://www.csa-fr.com/fra/dataset/data2002/indic20020228.htm",
+"date": "2002-02-28",
+"sample": 1007,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Daniel Gluckstein": 0.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 23.5,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.5,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030822220545/http://www.tns-sofres.com/etudes/pol/060302_intentions_r.htm",
+"date": "2002-02-28",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 22.5,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020405010901/http://www.ifop.com/europe/sondages/opinionf/presidenv3.asp",
+"date": "2002-02-23",
+"sample": 937,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 1.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 12.0,
+"Dieudonné (comedian)": 2.0,
+"Noël Mamère": 6.0,
+"Antoine Waechter": 1.0,
+"Pierre Larrouturou": 1.0,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-huit-semaines-de-lelection-presidentielle",
+"date": "2002-02-23",
+"sample": 938,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730202819/http://www.tns-sofres.com/etudes/pol/260202_baropres.htm",
+"date": "2002-02-23",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 5.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 4.5,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 0.5,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020405005649/http://www.ifop.com/europe/sondages/opinionf/jddv3.asp",
+"date": "2002-02-22",
+"sample": 939,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Daniel Gluckstein": 1.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 10.0,
+"Dieudonné (comedian)": 2.0,
+"Noël Mamère": 6.0,
+"Antoine Waechter": 1.0,
+"Pierre Larrouturou": 1.0,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-3",
+"date": "2002-02-16",
+"sample": 916,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-02-16",
+"sample": 743,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.0,
+"Jean Saint-Josse": 2.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730201436/http://www.tns-sofres.com/etudes/pol/210202_intentions_r.htm",
+"date": "2002-02-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 21.5,
+"Christiane Taubira": 0.0,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020618193852/http://www.csa-fr.com/fra/dataset/data2002/indic20020214.htm",
+"date": "2002-02-14",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 5.5,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 21.5,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 24.5,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.5,
+"Jean Saint-Josse": 3.5,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques",
+"date": "2002-02-12",
+"sample": 1018,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 2.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques",
+"date": "2002-02-09",
+"sample": 908,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 7.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 3.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 1.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020601205839/http://www.ifop.com/europe/sondages/opinionf/presidv3.asp",
+"date": "2002-02-08",
+"sample": 961,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 1.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 19.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 13.0,
+"Dieudonné (comedian)": 2.0,
+"Noël Mamère": 7.0,
+"Antoine Waechter": 1.0,
+"Pierre Larrouturou": 1.0,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Jean Saint-Josse": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-0",
+"date": "2002-02-02",
+"sample": 925,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Louis Harris",
+"url": "https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf",
+"date": "2002-02-02",
+"sample": 844,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 13.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.25,
+"Charles Pasqua": 2.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730191936/http://www.tns-sofres.com/etudes/pol/070202_baropres.htm",
+"date": "2002-02-02",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.5,
+"Lionel Jospin": 22.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 6.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 1.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-02-02",
+"sample": 788,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020210222228/http://www.ifop.com/europe/sondages/opinionf/jdd0202.asp",
+"date": "2002-02-01",
+"sample": 963,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Daniel Gluckstein": 1.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 4.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 11.0,
+"Dieudonné (comedian)": 1.0,
+"Noël Mamère": 6.0,
+"Antoine Waechter": 1.0,
+"Pierre Larrouturou": 1.0,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020331181652/http://www.csa-fr.com/fra/dataset/data2002/indic20020130.htm",
+"date": "2002-01-30",
+"sample": 1001,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 14.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 1.5,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-trois-mois-de-lelection-presidentielle",
+"date": "2002-01-26",
+"sample": 962,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020601204429/http://www.ifop.com/europe/sondages/opinionf/presidv1.asp",
+"date": "2002-01-18",
+"sample": 943,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Daniel Gluckstein": 1.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 20.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 8.0,
+"Antoine Waechter": 1.0,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020817025120/http://www.csa-fr.com/fra/dataset/data2002/indic20020117.htm",
+"date": "2002-01-17",
+"sample": 1006,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 4.5,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 7.5,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 1.0,
+"Bruno Mégret": 0.5,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002",
+"date": "2002-01-12",
+"sample": 947,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 24.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 28.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 1.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730195912/http://www.tns-sofres.com/etudes/pol/160102_intentions_r.htm",
+"date": "2002-01-12",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 6.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 4.0,
+"Charles Pasqua": 3.5,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020117211402/http://www.ifop.com/europe/sondages/opinionf/jdd0102.asp",
+"date": "2002-01-11",
+"sample": 963,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 21.0,
+"Christiane Taubira": 1.0,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 8.0,
+"Antoine Waechter": 1.0,
+"Corinne Lepage": 1.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730193023/http://www.tns-sofres.com/etudes/pol/100102_intentions_r.htm",
+"date": "2002-01-05",
+"sample": 800,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 24.0,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 6.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 4.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-troisieme-partie-intentions-de-vote-presidentielle",
+"date": "2002-01-05",
+"sample": 955,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 5.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 28.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Louis Harris",
+"url": "https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf",
+"date": "2002-01-05",
+"sample": 1003,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.25,
+"Robert Hue": 5.0,
+"Lionel Jospin": 24.0,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.25,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2002-01-05",
+"sample": 735,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 24.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 21.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020327225010/http://www.csa-fr.com/fra/dataset/data2002/indic20020104.htm",
+"date": "2002-01-04",
+"sample": 1005,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 21.5,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.5,
+"Noël Mamère": 6.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 28.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 1.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730201237/http://www.tns-sofres.com/etudes/pol/181201_baropres.htm",
+"date": "2001-12-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.5,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 8.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020617153448/http://www.csa-fr.com/fra/dataset/data2001/indic20011212.htm",
+"date": "2001-12-12",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 8.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-mois-de-lelection-presidentielle",
+"date": "2001-12-08",
+"sample": 840,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"date": "2001-12-01",
+"sample": 680,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 24.0,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 9.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 4.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20020202113439/http://www.ifop.com/europe/sondages/opinionf/baropresv11.asp",
+"date": "2001-11-30",
+"sample": 943,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 4.0,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 8.0,
+"Antoine Waechter": 1.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 4.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030824100706/http://www.tns-sofres.com/etudes/pol/281101_baropres.htm",
+"date": "2001-11-23",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.5,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 8.0,
+"Noël Mamère": 6.0,
+"François Bayrou": 4.5,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 4.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020319191442/http://www.csa-fr.com/fra/dataset/data2001/indic20011115.htm",
+"date": "2001-11-15",
+"sample": 1006,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 8.0,
+"François Bayrou": 4.5,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 4.5,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.nouvelobs.com/politique/20011115.OBS0510/presidentielle-chirac-devant-jospin-au-2eme-tour.html",
+"date": "2001-11-10",
+"sample": 927,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 11.0,
+"Noël Mamère": 7.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"date": "2001-10-27",
+"sample": 685,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 22.0,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 0.5,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-six-mois-de-lelection-presidentielle",
+"date": "2001-10-20",
+"sample": 829,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Jean-Pierre Chevènement": 12.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 4.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730202702/http://www.tns-sofres.com/etudes/pol/251001_baropres.htm",
+"date": "2001-10-20",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 23.0,
+"Jean-Pierre Chevènement": 8.5,
+"Noël Mamère": 5.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 3.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020319090027/http://www.csa-fr.com/fra/dataset/data2001/indic20011018.htm",
+"date": "2001-10-18",
+"sample": 1005,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 0.5,
+"Robert Hue": 5.5,
+"Lionel Jospin": 23.0,
+"Jean-Pierre Chevènement": 9.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 0.5,
+"Jean-Marie Le Pen": 8.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20011214084537/http://www.ifop.com/europe/sondages/opinionf/baropresv10.asp",
+"date": "2001-10-12",
+"sample": 761,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 23.0,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 8.0,
+"Antoine Waechter": 1.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 5.0,
+"Jean-Marie Le Pen": 7.0
+},
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 26.0,
+"Jean-Pierre Chevènement": 11.0,
+"Alain Lipietz": 2.0,
+"Antoine Waechter": 1.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 5.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2001-09-29",
+"sample": 773,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 26.0,
+"Jean-Pierre Chevènement": 8.0,
+"Alain Lipietz": 3.0,
+"Corinne Lepage": 0.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 7.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020318213748/http://www.csa-fr.com/fra/dataset/data2001/indic20010912.htm",
+"date": "2001-09-12",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 24.0,
+"Jean-Pierre Chevènement": 9.0,
+"Alain Lipietz": 4.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 6.0,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20031024061304/http://www.tns-sofres.com/etudes/pol/140901_baropres.htm",
+"date": "2001-09-08",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 9.0,
+"Alain Lipietz": 2.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 0.5,
+"Charles Pasqua": 4.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2001-09-01",
+"sample": 682,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 4.0,
+"Lionel Jospin": 25.0,
+"Jean-Pierre Chevènement": 6.0,
+"Alain Lipietz": 4.0,
+"Brice Lalonde": 1.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 6.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020318073634/http://www.csa-fr.com/fra/dataset/data2001/indic20010717.htm",
+"date": "2001-07-17",
+"sample": 1005,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 26.0,
+"Jean-Pierre Chevènement": 6.0,
+"Alain Lipietz": 3.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 30.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"date": "2001-07-07",
+"sample": 605,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 26.0,
+"Jean-Pierre Chevènement": 5.0,
+"Alain Lipietz": 5.0,
+"Corinne Lepage": 2.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 2.0,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20031024061556/http://www.tns-sofres.com/etudes/pol/280601_baropres.htm",
+"date": "2001-06-23",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 6.0,
+"Alain Lipietz": 3.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 4.0,
+"Jean-Marie Le Pen": 10.0
+},
+{
+"Arlette Laguiller": 9.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 27.5,
+"Jean-Pierre Chevènement": 7.0,
+"Alain Lipietz": 3.0,
+"François Bayrou": 6.5,
+"Jacques Chirac": 31.0,
+"Alain Madelin": 9.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020823135729/http://www.csa-fr.com/fra/dataset/data2001/indic20010621.htm",
+"date": "2001-06-21",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.5,
+"Robert Hue": 6.5,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 5.0,
+"Alain Lipietz": 4.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 28.0,
+"Alain Madelin": 6.0,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"date": "2001-06-16",
+"sample": 658,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 24.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 5.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures",
+"date": "2001-06-09",
+"sample": 839,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 4.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 30.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 3.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 6.0
+},
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 4.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 32.0,
+"Alain Madelin": 3.0,
+"Christine Boutin": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+},
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 4.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 33.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 4.0,
+"Charles Pasqua": 5.0
+},
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 5.0,
+"Noël Mamère": 6.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 38.0,
+"Alain Madelin": 5.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020313140326/http://www.csa-fr.com/fra/dataset/data2001/indic20010530.htm",
+"date": "2001-05-30",
+"sample": 900,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 8.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 4.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 2.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030824100508/http://www.tns-sofres.com/etudes/pol/150501_baropres.htm",
+"date": "2001-05-16",
+"sample": 840,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 5.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 1.5,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2001-05-12",
+"sample": 640,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 3.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 6.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020309191140/http://www.csa-fr.com/fra/dataset/data2001/indic20010427.htm",
+"date": "2001-04-27",
+"sample": 922,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 25.0,
+"Jean-Pierre Chevènement": 5.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 30.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 3.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2001-04-21",
+"sample": 733,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 26.0,
+"Jean-Pierre Chevènement": 4.0,
+"Dominique Voynet": 7.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 7.0,
+"Charles Pasqua": 6.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030702052435/http://www.tns-sofres.com/etudes/pol/040401_baropres.htm",
+"date": "2001-03-29",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.5,
+"Robert Hue": 5.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 3.0,
+"Noël Mamère": 5.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 3.5,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 8.5
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20030328133840/http://csa-fr.com/fra/dataset/data2001/indic20010326.htm",
+"date": "2001-03-26",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 3.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 28.0,
+"Alain Madelin": 4.0,
+"Charles Pasqua": 4.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2001-03-24",
+"sample": 678,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 26.0,
+"Jean-Pierre Chevènement": 5.0,
+"Noël Mamère": 8.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 6.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2001-02-24",
+"sample": 657,
+"scenarios": [
+{
+"Arlette Laguiller": 7.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 4.0,
+"Noël Mamère": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 6.0,
+"Charles Pasqua": 4.5,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20010706190518/http://www.ifop.com/europe/sondages/opinionf/baropres.asp",
+"date": "2001-02-16",
+"sample": 805,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 5.0,
+"Dieudonné M'bala M'bala": 4.0,
+"Noël Mamère": 7.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 5.0,
+"Philippe de Villiers": 2.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures",
+"date": "2001-02-10",
+"sample": 955,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 30.0,
+"Jean-Pierre Chevènement": 4.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 29.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 4.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730192749/http://www.tns-sofres.com/etudes/pol/080201_baropres.htm",
+"date": "2001-02-03",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 30.0,
+"Jean-Pierre Chevènement": 3.5,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 6.0,
+"Charles Pasqua": 3.5,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"date": "2001-02-03",
+"sample": 667,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 29.0,
+"Jean-Pierre Chevènement": 4.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 5.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"date": "2001-01-13",
+"sample": 634,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 3.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 28.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 5.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020308183032/http://www.csa-fr.com/fra/dataset/data2001/indic20010106.htm",
+"date": "2001-01-06",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 29.0,
+"Jean-Pierre Chevènement": 3.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 23.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 5.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/les-affaires-de-financement-illegal-de-partis-politiques",
+"date": "2000-12-05",
+"sample": 818,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Robert Hue": 5.0,
+"Lionel Jospin": 29.0,
+"Jean-Pierre Chevènement": 5.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 8.0,
+"Jacques Chirac": 25.0,
+"Alain Madelin": 5.0,
+"Charles Pasqua": 7.0,
+"Philippe de Villiers": 2.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 5.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://web.archive.org/web/20030730191812/http://www.tns-sofres.com/etudes/pol/061200_intention.htm",
+"date": "2000-12-02",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 30.0,
+"Jean-Pierre Chevènement": 6.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 22.0,
+"Alain Madelin": 6.5,
+"Charles Pasqua": 6.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 5.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"date": "2000-12-02",
+"sample": 945,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 2.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 7.0,
+"Jacques Chirac": 26.0,
+"Alain Madelin": 4.0,
+"Charles Pasqua": 6.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20010706210751/http://www.ifop.com/europe/sondages/opinionf/anticip.asp",
+"date": "2000-11-27",
+"sample": 803,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Jean-Pierre Chevènement": 4.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 5.0,
+"Christine Boutin": 1.0,
+"Charles Pasqua": 6.0,
+"Philippe de Villiers": 4.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20030514232710/http://csa-fr.com/fra/dataset/data2K/indic20001115.htm",
+"date": "2000-11-15",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 5.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 27.0,
+"Charles Pasqua": 7.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-11-10",
+"sample": 636,
+"scenarios": [
+{
+"Arlette Laguiller": 8.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 30.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 5.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-10-08",
+"sample": 627,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 8.0,
+"Lionel Jospin": 29.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 30.0,
+"Alain Madelin": 4.0,
+"Charles Pasqua": 7.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/limage-de-lionel-jospin-et-la-prochaine-election-presidentielle",
+"date": "2000-09-30",
+"sample": 939,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 28.0,
+"Jean-Pierre Chevènement": 6.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 27.0,
+"Charles Pasqua": 10.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://www.ipsos.com/fr-fr/barometre-paris-matchbva",
+"date": "2000-09-09",
+"sample": 581,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 27.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 32.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 10.0,
+"Jean-Marie Le Pen": 4.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511103020/http://www.csa-fr.com/fra/dataset/data2K/indic20000907.htm",
+"date": "2000-09-07",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 5.5,
+"Lionel Jospin": 25.0,
+"Jean-Pierre Chevènement": 7.0,
+"Dominique Voynet": 5.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 30.0,
+"Charles Pasqua": 7.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-07-22",
+"sample": 680,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 32.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 31.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 8.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/jose-bove-president",
+"date": "2000-07-15",
+"sample": 874,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 29.0,
+"Dominique Voynet": 4.0,
+"José Bové": 6.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 32.0,
+"Charles Pasqua": 6.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020622031352/http://www.csa-fr.com/fra/dataset/data2K/indic20000629.htm",
+"date": "2000-06-29",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 28.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 33.0,
+"Charles Pasqua": 7.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-06-17",
+"sample": 638,
+"scenarios": [
+{
+"Arlette Laguiller": 6.5,
+"Robert Hue": 6.0,
+"Lionel Jospin": 33.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 29.0,
+"Alain Madelin": 2.5,
+"Charles Pasqua": 8.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20000614155639/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-05-13",
+"sample": 691,
+"scenarios": [
+{
+"Arlette Laguiller": 5.5,
+"Robert Hue": 7.0,
+"Lionel Jospin": 31.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 30.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 8.5,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020622030851/http://www.csa-fr.com/fra/dataset/data2K/indic20000524.htm",
+"date": "2000-05-13",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 34.0,
+"Charles Pasqua": 6.0,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-climat-electoral-dans-la-perspective-des-elections-presidentielles-et-legislatives",
+"date": "2000-04-29",
+"sample": 825,
+"scenarios": [
+{
+"Arlette Laguiller": 3.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 32.0,
+"Dominique Voynet": 3.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 33.0,
+"Charles Pasqua": 9.0,
+"Jean Saint-Josse": 3.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://www.ipsos.com/fr-fr/tableau-de-bord-paris-matchbva-2",
+"date": "2000-04-15",
+"sample": 535,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 31.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 4.0,
+"Jacques Chirac": 29.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 9.0,
+"Jean-Marie Le Pen": 7.5
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://www.ipsos.com/fr-fr/le-tableau-de-bord-paris-match-bva-0",
+"date": "2000-03-18",
+"sample": 984,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.5,
+"Lionel Jospin": 31.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 26.5,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 11.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-21",
+"date": "2000-03-11",
+"sample": 920,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 30.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 3.0,
+"Jacques Chirac": 30.0,
+"Charles Pasqua": 10.0,
+"Jean Saint-Josse": 4.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://web.archive.org/web/20010706183559/http://www.ifop.com/europe/sondages/opinionf/elysee02b.asp",
+"date": "2000-03-03",
+"sample": 941,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 27.0,
+"Dominique Voynet": 6.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 26.0,
+"Charles Pasqua": 13.0,
+"Jean-Marie Le Pen": 9.0
+},
+{
+"Arlette Laguiller": 8.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 30.0,
+"Dominique Voynet": 6.0,
+"François Bayrou": 8.0,
+"Philippe Séguin": 17.0,
+"Charles Pasqua": 16.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"date": "2000-02-29",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 29.0,
+"Dominique Voynet": 4.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 29.0,
+"Charles Pasqua": 9.0,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20000226191436/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-02-19",
+"sample": 615,
+"scenarios": [
+{
+"Arlette Laguiller": 6.0,
+"Robert Hue": 6.5,
+"Lionel Jospin": 31.5,
+"Dominique Voynet": 4.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 4.0,
+"Charles Pasqua": 10.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20000122083803/http://www.bva.fr/sondages/presidentielpm.html",
+"date": "2000-01-15",
+"sample": 567,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 6.5,
+"Lionel Jospin": 31.5,
+"Dominique Voynet": 3.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 24.0,
+"Alain Madelin": 3.0,
+"Charles Pasqua": 11.0,
+"Jean-Marie Le Pen": 12.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"date": "2000-01-05",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 5.5,
+"Robert Hue": 7.5,
+"Lionel Jospin": 31.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.5,
+"Jacques Chirac": 28.0,
+"Charles Pasqua": 8.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "Sofres",
+"url": "https://www.ipsos.com/fr-fr/jospin-chirac-lecart-se-creuse",
+"date": "1999-12-29",
+"sample": 995,
+"scenarios": [
+{
+"Arlette Laguiller": 7.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 29.0,
+"Dominique Voynet": 6.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 26.0,
+"Charles Pasqua": 10.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"date": "1999-11-04",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 8.0,
+"Lionel Jospin": 32.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 30.0,
+"Philippe de Villiers": 6.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"date": "1999-09-02",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 6.0,
+"Lionel Jospin": 30.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 31.0,
+"Philippe de Villiers": 8.0,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"date": "1999-07-02",
+"sample": 1004,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 31.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 6.0,
+"Jacques Chirac": 31.0,
+"Philippe de Villiers": 8.0,
+"Bruno Mégret": 2.0,
+"Jean-Marie Le Pen": 5.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://www.ipsos.com/fr-fr/indicateur-presidentiel-intentions-de-vote",
+"date": "1999-05-07",
+"sample": 1002,
+"scenarios": [
+{
+"Arlette Laguiller": 4.5,
+"Robert Hue": 7.0,
+"Lionel Jospin": 29.0,
+"Dominique Voynet": 4.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 34.0,
+"Philippe de Villiers": 5.0,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 8.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"date": "1999-03-06",
+"sample": 1003,
+"scenarios": [
+{
+"Arlette Laguiller": 4.5,
+"Robert Hue": 9.0,
+"Lionel Jospin": 30.0,
+"Dominique Voynet": 3.5,
+"François Bayrou": 5.0,
+"Jacques Chirac": 35.0,
+"Philippe de Villiers": 3.0,
+"Bruno Mégret": 3.0,
+"Jean-Marie Le Pen": 7.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://www.ipsos.com/fr-fr/le-barometre-dintention-de-vote-presidentiel-csa-bfm-levenement",
+"date": "1998-12-19",
+"sample": 1006,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 8.0,
+"Lionel Jospin": 28.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 31.0,
+"Philippe de Villiers": 4.0,
+"Bruno Mégret": 5.0,
+"Jean-Marie Le Pen": 9.0
+}
+]
+},
+{
+"firm": "BVA",
+"url": "https://web.archive.org/web/20010419013637/http://www.bva.fr/fr/archives/chirac1298.html",
+"date": "1998-12-13",
+"sample": 612,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 7.0,
+"Lionel Jospin": 29.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 32.0,
+"Alain Madelin": 8.0,
+"Jean-Marie Le Pen": 10.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://www.humanite.fr/node/190482",
+"date": "1998-08-22",
+"sample": 1003,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 10.0,
+"Lionel Jospin": 31.0,
+"Dominique Voynet": 5.0,
+"François Bayrou": 5.0,
+"Jacques Chirac": 30.0,
+"Philippe de Villiers": 3.0,
+"Jean-Marie Le Pen": 11.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://www.ipsos.com/fr-fr/et-si-la-presidentielle-avait-lieu-aujourdhui",
+"date": "1997-08-18",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 9.0,
+"Lionel Jospin": 29.5,
+"Dominique Voynet": 4.0,
+"François Léotard": 3.0,
+"Jacques Chirac": 36.5,
+"Jean-Marie Le Pen": 13.0
+},
+{
+"Arlette Laguiller": 5.0,
+"Robert Hue": 8.5,
+"Lionel Jospin": 31.5,
+"Dominique Voynet": 5.0,
+"François Léotard": 7.0,
+"Philippe Séguin": 29.0,
+"Jean-Marie Le Pen": 14.0
+}
+]
+},
+{
+"firm": "CSA",
+"url": "https://www.ipsos.com/fr-fr/un-apres-lelection-presidentielle",
+"date": "1996-04-19",
+"sample": 1000,
+"scenarios": [
+{
+"Arlette Laguiller": 4.0,
+"Robert Hue": 8.0,
+"Lionel Jospin": 26.0,
+"Dominique Voynet": 2.0,
+"Édouard Balladur": 16.0,
+"Jacques Chirac": 25.0,
+"Philippe de Villiers": 5.0,
+"Jean-Marie Le Pen": 14.0,
+"Jacques Cheminade": 0.0
+}
+]
+},
+{
+"firm": "1995 election",
+"url": null,
+"date": "1995-04-23",
+"sample": null,
+"scenarios": [
+{
+"Arlette Laguiller": 5.3,
+"Robert Hue": 8.64,
+"Lionel Jospin": 23.3,
+"Dominique Voynet": 3.32,
+"Édouard Balladur": 18.58,
+"Jacques Chirac": 20.84,
+"Philippe de Villiers": 4.74,
+"Jean-Marie Le Pen": 15.0,
+"Jacques Cheminade": 0.28
+}
+]
+},
+{
+"firm": "2002 election",
+"url": null,
+"date": "2002-04-21",
+"sample": null,
+"scenarios": [
+{
+"Arlette Laguiller": 3.05,
+"Daniel Gluckstein": 0.34,
+"Olivier Besancenot": 3.42,
+"Robert Hue": 2.19,
+"Lionel Jospin": 19.94,
+"Christiane Taubira": 3.78,
+"Jean-Pierre Chevènement": 6.62,
+"Noël Mamère": 7.39,
+"Corinne Lepage": 2.46,
+"François Bayrou": 7.91,
+"Jacques Chirac": 24.01,
+"Alain Madelin": 6.5,
+"Christine Boutin": 1.49,
+"Jean Saint-Josse": 0.52,
+"Bruno Mégret": 1.02,
+"Jean-Marie Le Pen": 9.35
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-paris-un-mois-de-lelection-presidentielle",
+"date": "2002-03-21",
+"sample": 804,
+"scenarios": [
+{
+"Arlette Laguiller": 10.0,
+"Olivier Besancenot": 1.0,
+"Robert Hue": 3.0,
+"Lionel Jospin": 23.0,
+"Christiane Taubira": 0.5,
+"Jean-Pierre Chevènement": 10.0,
+"Noël Mamère": 6.0,
+"Corinne Lepage": 1.0,
+"François Bayrou": 4.0,
+"Jacques Chirac": 27.0,
+"Alain Madelin": 4.0,
+"Christine Boutin": 1.0,
+"Jean Saint-Josse": 0.5,
+"Bruno Mégret": 1.0,
+"Jean-Marie Le Pen": 6.0
+}
+]
+},
+{
+"firm": "2002 election",
+"url": null,
+"date": "2002-04-21",
+"sample": null,
+"scenarios": [
+{
+"Arlette Laguiller": 2.55,
+"Daniel Gluckstein": 0.22,
+"Olivier Besancenot": 1.93,
+"Robert Hue": 1.18,
+"Lionel Jospin": 39.01,
+"Christiane Taubira": 2.1,
+"Jean-Pierre Chevènement": 3.13,
+"Noël Mamère": 2.14,
+"Corinne Lepage": 0.95,
+"François Bayrou": 2.5,
+"Jacques Chirac": 37.15,
+"Alain Madelin": 1.05,
+"Christine Boutin": 0.91,
+"Jean Saint-Josse": 0.49,
+"Bruno Mégret": 0.87,
+"Jean-Marie Le Pen": 3.81
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/lelection-presidentielle-la-reunion",
+"date": "2002-02-26",
+"sample": 838,
+"scenarios": [
+{
+"Arlette Laguiller": 5.0,
+"Olivier Besancenot": 0.25,
+"Robert Hue": 4.0,
+"Lionel Jospin": 38.0,
+"Christiane Taubira": 2.0,
+"Jean-Pierre Chevènement": 6.0,
+"Noël Mamère": 3.0,
+"Corinne Lepage": 0.25,
+"François Bayrou": 1.0,
+"Jacques Chirac": 37.0,
+"Alain Madelin": 1.0,
+"Christine Boutin": 0.25,
+"Charles Pasqua": 0.25,
+"Jean Saint-Josse": 0.25,
+"Bruno Mégret": 0.25,
+"Jean-Marie Le Pen": 1.0
+}
+]
+}
+]

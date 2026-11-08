@@ -1,0 +1,332 @@
+{
+ "horizons": {
+  "163": {
+   "poll_only": {
+    "cand": 5.72,
+    "bloc": 4.69
+   },
+   "blend_loo": {
+    "cand": 5.69,
+    "bloc": 4.95
+   },
+   "per_election": {
+    "2002": {
+     "poll_only": 4.14,
+     "blend_loo": 3.92,
+     "weights": {
+      "poll": 0.4,
+      "pres": 0.6
+     }
+    },
+    "2007": {
+     "poll_only": 5.39,
+     "blend_loo": 4.59,
+     "weights": {
+      "poll": 0.4,
+      "pres": 0.6
+     }
+    },
+    "2012": {
+     "poll_only": 3.53,
+     "blend_loo": 3.78,
+     "weights": {
+      "poll": 0.2,
+      "pres": 0.6,
+      "swing_euro": 0.2
+     }
+    },
+    "2017": {
+     "poll_only": 7.76,
+     "blend_loo": 9.14,
+     "weights": {
+      "poll": 0.2,
+      "pres": 0.2,
+      "euro": 0.4,
+      "swing_leg": 0.2
+     }
+    },
+    "2022": {
+     "poll_only": 7.75,
+     "blend_loo": 7.04,
+     "weights": {
+      "poll": 0.4,
+      "pres": 0.6
+     }
+    }
+   },
+   "best_weights_all5": {
+    "poll": 0.4,
+    "pres": 0.6
+   }
+  },
+  "120": {
+   "poll_only": {
+    "cand": 5.06,
+    "bloc": 4.25
+   },
+   "blend_loo": {
+    "cand": 6.3,
+    "bloc": 5.52
+   },
+   "per_election": {
+    "2002": {
+     "poll_only": 4.45,
+     "blend_loo": 4.45,
+     "weights": {
+      "poll": 0.8,
+      "swing_leg": 0.2
+     }
+    },
+    "2007": {
+     "poll_only": 5.44,
+     "blend_loo": 7.65,
+     "weights": {
+      "poll": 0.2,
+      "pres": 0.2,
+      "euro": 0.6
+     }
+    },
+    "2012": {
+     "poll_only": 2.22,
+     "blend_loo": 4.6,
+     "weights": {
+      "poll": 0.2,
+      "pres": 0.6,
+      "swing_leg": 0.2
+     }
+    },
+    "2017": {
+     "poll_only": 5.93,
+     "blend_loo": 7.55,
+     "weights": {
+      "poll": 0.6,
+      "leg": 0.2,
+      "euro": 0.2
+     }
+    },
+    "2022": {
+     "poll_only": 7.24,
+     "blend_loo": 7.24,
+     "weights": {
+      "poll": 1.0
+     }
+    }
+   },
+   "best_weights_all5": {
+    "poll": 0.6,
+    "euro": 0.2,
+    "swing_leg": 0.2
+   }
+  },
+  "90": {
+   "poll_only": {
+    "cand": 4.52,
+    "bloc": 4.79
+   },
+   "blend_loo": {
+    "cand": 5.44,
+    "bloc": 5.67
+   },
+   "per_election": {
+    "2002": {
+     "poll_only": 4.24,
+     "blend_loo": 4.24,
+     "weights": {
+      "poll": 0.8,
+      "swing_euro": 0.2
+     }
+    },
+    "2007": {
+     "poll_only": 4.82,
+     "blend_loo": 5.73,
+     "weights": {
+      "poll": 0.4,
+      "euro": 0.6
+     }
+    },
+    "2012": {
+     "poll_only": 2.55,
+     "blend_loo": 2.0,
+     "weights": {
+      "poll": 0.8,
+      "swing_euro": 0.2
+     }
+    },
+    "2017": {
+     "poll_only": 3.99,
+     "blend_loo": 8.15,
+     "weights": {
+      "poll": 0.2,
+      "pres": 0.2,
+      "leg": 0.2,
+      "euro": 0.4
+     }
+    },
+    "2022": {
+     "poll_only": 7.02,
+     "blend_loo": 7.1,
+     "weights": {
+      "poll": 0.8,
+      "euro": 0.2
+     }
+    }
+   },
+   "best_weights_all5": {
+    "poll": 0.8,
+    "swing_euro": 0.2
+   }
+  },
+  "60": {
+   "poll_only": {
+    "cand": 3.99,
+    "bloc": 3.55
+   },
+   "blend_loo": {
+    "cand": 4.22,
+    "bloc": 3.68
+   },
+   "per_election": {
+    "2002": {
+     "poll_only": 3.93,
+     "blend_loo": 3.93,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2007": {
+     "poll_only": 2.02,
+     "blend_loo": 2.02,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2012": {
+     "poll_only": 1.9,
+     "blend_loo": 1.9,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2017": {
+     "poll_only": 4.98,
+     "blend_loo": 6.13,
+     "weights": {
+      "poll": 0.8,
+      "swing_euro": 0.2
+     }
+    },
+    "2022": {
+     "poll_only": 7.11,
+     "blend_loo": 7.11,
+     "weights": {
+      "poll": 1.0
+     }
+    }
+   },
+   "best_weights_all5": {
+    "poll": 1.0
+   }
+  },
+  "30": {
+   "poll_only": {
+    "cand": 3.36,
+    "bloc": 2.6
+   },
+   "blend_loo": {
+    "cand": 3.36,
+    "bloc": 2.6
+   },
+   "per_election": {
+    "2002": {
+     "poll_only": 3.73,
+     "blend_loo": 3.73,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2007": {
+     "poll_only": 1.54,
+     "blend_loo": 1.54,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2012": {
+     "poll_only": 1.36,
+     "blend_loo": 1.36,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2017": {
+     "poll_only": 4.36,
+     "blend_loo": 4.36,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2022": {
+     "poll_only": 5.8,
+     "blend_loo": 5.8,
+     "weights": {
+      "poll": 1.0
+     }
+    }
+   },
+   "best_weights_all5": {
+    "poll": 1.0
+   }
+  },
+  "7": {
+   "poll_only": {
+    "cand": 2.41,
+    "bloc": 1.83
+   },
+   "blend_loo": {
+    "cand": 2.41,
+    "bloc": 1.83
+   },
+   "per_election": {
+    "2002": {
+     "poll_only": 2.53,
+     "blend_loo": 2.53,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2007": {
+     "poll_only": 1.64,
+     "blend_loo": 1.64,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2012": {
+     "poll_only": 1.64,
+     "blend_loo": 1.64,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2017": {
+     "poll_only": 1.92,
+     "blend_loo": 1.92,
+     "weights": {
+      "poll": 1.0
+     }
+    },
+    "2022": {
+     "poll_only": 4.29,
+     "blend_loo": 4.29,
+     "weights": {
+      "poll": 1.0
+     }
+    }
+   },
+   "best_weights_all5": {
+    "poll": 1.0
+   }
+  }
+ },
+ "note": "MAE in points; candidate = candidates with result >= 5 %; LOO = weights picked on the 4 other elections"
+}

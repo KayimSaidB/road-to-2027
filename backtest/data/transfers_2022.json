@@ -1,0 +1,217 @@
+{
+ "year": "2022",
+ "method": "ecological inference by département (constrained least squares), weighted by registered voters",
+ "source": "data.gouv.fr, Ministère de l'Intérieur, résultats définitifs par commune",
+ "rows": [
+  "Nathalie Arthaud",
+  "Fabien Roussel",
+  "Emmanuel Macron",
+  "Jean Lassalle",
+  "Marine Le Pen",
+  "Éric Zemmour",
+  "Jean-Luc Mélenchon",
+  "Anne Hidalgo",
+  "Yannick Jadot",
+  "Valérie Pécresse",
+  "Philippe Poutou",
+  "Nicolas Dupont-Aignan",
+  "blank_null",
+  "abs"
+ ],
+ "cols": [
+  "Emmanuel Macron",
+  "Marine Le Pen",
+  "blank_null",
+  "abs"
+ ],
+ "national_fit": {
+  "Nathalie Arthaud": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 1.0,
+   "blank_null": 0.0,
+   "abs": 0.0
+  },
+  "Fabien Roussel": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 0.375,
+   "blank_null": 0.625,
+   "abs": 0.0
+  },
+  "Emmanuel Macron": {
+   "Emmanuel Macron": 1.0,
+   "Marine Le Pen": 0.0,
+   "blank_null": 0.0,
+   "abs": 0.0
+  },
+  "Jean Lassalle": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 0.501,
+   "blank_null": 0.499,
+   "abs": 0.0
+  },
+  "Marine Le Pen": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 1.0,
+   "blank_null": 0.0,
+   "abs": 0.0
+  },
+  "Éric Zemmour": {
+   "Emmanuel Macron": 0.155,
+   "Marine Le Pen": 0.618,
+   "blank_null": 0.141,
+   "abs": 0.085
+  },
+  "Jean-Luc Mélenchon": {
+   "Emmanuel Macron": 0.605,
+   "Marine Le Pen": 0.0,
+   "blank_null": 0.106,
+   "abs": 0.289
+  },
+  "Anne Hidalgo": {
+   "Emmanuel Macron": 0.889,
+   "Marine Le Pen": 0.0,
+   "blank_null": 0.111,
+   "abs": 0.0
+  },
+  "Yannick Jadot": {
+   "Emmanuel Macron": 1.0,
+   "Marine Le Pen": 0.0,
+   "blank_null": 0.0,
+   "abs": 0.0
+  },
+  "Valérie Pécresse": {
+   "Emmanuel Macron": 0.909,
+   "Marine Le Pen": 0.0,
+   "blank_null": 0.091,
+   "abs": 0.0
+  },
+  "Philippe Poutou": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 0.0,
+   "blank_null": 1.0,
+   "abs": 0.0
+  },
+  "Nicolas Dupont-Aignan": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 1.0,
+   "blank_null": 0.0,
+   "abs": 0.0
+  },
+  "blank_null": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 0.696,
+   "blank_null": 0.304,
+   "abs": 0.0
+  },
+  "abs": {
+   "Emmanuel Macron": 0.016,
+   "Marine Le Pen": 0.101,
+   "blank_null": 0.004,
+   "abs": 0.879
+  }
+ },
+ "departement_fit": {
+  "Nathalie Arthaud": {
+   "Emmanuel Macron": 0.034,
+   "Marine Le Pen": 0.756,
+   "blank_null": 0.199,
+   "abs": 0.011
+  },
+  "Fabien Roussel": {
+   "Emmanuel Macron": 0.125,
+   "Marine Le Pen": 0.36,
+   "blank_null": 0.499,
+   "abs": 0.016
+  },
+  "Emmanuel Macron": {
+   "Emmanuel Macron": 0.999,
+   "Marine Le Pen": 0.0,
+   "blank_null": 0.001,
+   "abs": 0.0
+  },
+  "Jean Lassalle": {
+   "Emmanuel Macron": 0.052,
+   "Marine Le Pen": 0.684,
+   "blank_null": 0.26,
+   "abs": 0.003
+  },
+  "Marine Le Pen": {
+   "Emmanuel Macron": 0.0,
+   "Marine Le Pen": 1.0,
+   "blank_null": 0.0,
+   "abs": 0.0
+  },
+  "Éric Zemmour": {
+   "Emmanuel Macron": 0.076,
+   "Marine Le Pen": 0.747,
+   "blank_null": 0.148,
+   "abs": 0.029
+  },
+  "Jean-Luc Mélenchon": {
+   "Emmanuel Macron": 0.595,
+   "Marine Le Pen": 0.021,
+   "blank_null": 0.113,
+   "abs": 0.27
+  },
+  "Anne Hidalgo": {
+   "Emmanuel Macron": 0.769,
+   "Marine Le Pen": 0.016,
+   "blank_null": 0.21,
+   "abs": 0.005
+  },
+  "Yannick Jadot": {
+   "Emmanuel Macron": 0.977,
+   "Marine Le Pen": 0.002,
+   "blank_null": 0.017,
+   "abs": 0.004
+  },
+  "Valérie Pécresse": {
+   "Emmanuel Macron": 0.838,
+   "Marine Le Pen": 0.043,
+   "blank_null": 0.113,
+   "abs": 0.006
+  },
+  "Philippe Poutou": {
+   "Emmanuel Macron": 0.046,
+   "Marine Le Pen": 0.481,
+   "blank_null": 0.457,
+   "abs": 0.016
+  },
+  "Nicolas Dupont-Aignan": {
+   "Emmanuel Macron": 0.005,
+   "Marine Le Pen": 0.937,
+   "blank_null": 0.051,
+   "abs": 0.006
+  },
+  "blank_null": {
+   "Emmanuel Macron": 0.1,
+   "Marine Le Pen": 0.385,
+   "blank_null": 0.509,
+   "abs": 0.006
+  },
+  "abs": {
+   "Emmanuel Macron": 0.037,
+   "Marine Le Pen": 0.054,
+   "blank_null": 0.013,
+   "abs": 0.897
+  }
+ },
+ "check_vs_real_pct_registered": {
+  "Emmanuel Macron": [
+   38.51,
+   38.51
+  ],
+  "Marine Le Pen": [
+   27.19,
+   27.31
+  ],
+  "blank_null": [
+   6.26,
+   6.25
+  ],
+  "abs": [
+   28.04,
+   27.94
+  ]
+ }
+}

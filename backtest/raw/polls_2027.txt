@@ -1,0 +1,9233 @@
+{{Short description|none}}
+{{multiple issues|
+{{more footnotes needed|date=July 2024}}
+{{Cleanup reorganize|date=July 2026|reason=calling Bardella a scenario is achronistic;}}
+}}
+This page lists public opinion polls conducted for the [[2027 French presidential election]]. The first round is scheduled to be held on 18 April 2027.
+
+== First round ==
+If a candidate receives an absolute majority of the votes (excluding blank and void ballots), the election ends after the first round and the second round does not occur. If a second round occurs, the two candidates who receive the most votes in the first round move on to the second round. Candidates are listed from left to right based on their party's position on the left-right spectrum; when there are several candidates from one party, then they are ordered alphabetically by their last name.
+
+[[Image:Sondages_Présidentielle_2027_France.svg|600px|thumb|center|[[Local regression]] of polls conducted between the [[2022 French presidential election|2022]] and [[2027 French presidential election|2027]] presidential election.]]
+[[Image:Opinion_polls_France_2027_by_candidate.svg|600px|thumb|center|[[Local regression]] of polls conducted since September 2024.]]
+
+=== November 2026 ===
+
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
+! {{vert header|mw=35px|stp=1|[[Natacha Polony]]}}
+! {{vert header|mw=35px|stp=1|[[Karim Bouamrane]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
+! {{vert header|mw=35px|stp=1|[[Christine Lagarde]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[David Lisnard]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Left Front (France)}};"|
+! style="background:{{party color|Génération.s}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Together (coalition)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|Union of Democrats and Independents}};"|
+! style="background:{{party color|The Centrists}};"|
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|Nous Citoyens}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la République}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+|}
+
+=== October 2026 ===
+
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[Natacha Polony]]}}
+! {{vert header|mw=35px|stp=1|[[Karim Bouamrane]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[David Lisnard]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Miscellaneous left}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Together (coalition)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|Nous Citoyens}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la République}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| rowspan=4 style="background:#FFCCCC;" |[https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html Ifop]
+| rowspan="4" {{Opdrts|27|29|October|2026|year}}
+| rowspan="4"|1,928
+|0.5%
+| style="background:#E6D8F3;" | '''18%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|10%
+|5%
+|9.5%
+|– 
+|7%
+|4%
+|1.5%
+| style="background:#C1CCE1;" | '''35%'''
+|4.5%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''17.5%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|13%
+|9%
+|–
+|–
+|7.5%
+|5%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4.5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17.5%'''
+|1.5%
+|–
+|3.5%
+|–
+|–
+|–
+|11.5%
+|–
+|15%
+|–
+|–
+|7%
+|2%
+| style="background:#C1CCE1;" | '''37%'''
+|4%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''17.5%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|11%
+|–
+|15%
+|–
+|9%
+|–
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4%
+|-
+| rowspan="4" style="background:#04FBF4;" |[https://www.ipsos.com/fr-fr/presidentielle-2027-melenchon-progresse-le-pen-reste-en-tete Ipsos]
+| rowspan="4" {{Opdrts|21|22|Oct|2026|year}}
+| rowspan="4" |1,500
+|0.5%
+| style="background:#E6D8F3;" | '''17%'''
+|2%
+|–
+|3.5%
+|–
+|–
+|–
+|13%
+|4%
+|13%
+|–
+|–
+|7.5%
+|1.5%
+| style="background:#C1CCE1;" | '''33.5%'''
+|4.5%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''17%'''
+|2%
+|–
+|3.5%
+|–
+|–
+|–
+|14%
+|–
+|15%
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" | '''33.5%'''
+|4.5%
+|-
+|0.5%
+|style="background:#E6D8F3;"| '''17%'''
+|2.5%
+|–
+|3.5%
+|–
+|–
+|–
+|15.5%
+|9.5%
+|–
+|–
+|–
+|11.5%
+|2%
+| style="background:#C1CCE1;" | '''33.5%'''
+|4.5%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''17%'''
+|2.5%
+|–
+|3.5%
+|–
+|–
+|–
+|13%
+|–
+|14%
+|–
+|6.5%
+|5.5%
+|1.5%
+| style="background:#C1CCE1;" | '''32%'''
+|4%
+|-
+| rowspan="1" style="background:#80fcd4;" ;"| [https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
+| rowspan="1" {{Opdrts|21|22|Oct|2026|year}}
+| rowspan="1"|973
+|<0.5%
+| style="background:#E6D8F3;"| '''16%'''
+|1%
+|–
+|1%
+|–
+|<0.5%
+|–
+|13%
+|4%
+|12%
+|–
+|6%
+|6%
+|1%
+| style="background:#C1CCE1;" |'''36%'''
+|4%
+|-
+| rowspan="3"style="background:#d9fff6;"|[https://cluster17.com/wp-content/uploads/2026/10/ITV-Politico-Octobre-C17.pdf Cluster17]
+| rowspan="3" {{Opdrts|19|22|Oct|2026|year}}
+| rowspan="3"|3,000
+|0.5%
+| style="background:#E6D8F3;" | '''18.5%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|13%
+|–
+|16%
+|–
+|–
+|8%
+|3%
+| style="background:#C1CCE1;" | '''33%'''
+|4%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19.5%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|14%
+|12%
+|–
+|–
+|–
+|10%
+|3.5%
+| style="background:#C1CCE1;" | '''32.5%'''
+|4%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19.5%'''
+|2%
+|–
+|2.5%
+|–
+|–
+|6.5%
+|–
+|–
+|17%
+|–
+|8%
+|7%
+|3%
+| style="background:#C1CCE1;" | '''30.5%'''
+|3.5%
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf Harris Interactive]
+| rowspan="5" {{Opdrts|19|21|October|2026|year}}
+| rowspan="5"|2,094
+|1%
+| style="background:#E6D8F3;" | '''17%'''
+|2%
+| –
+|2%
+| –
+| –
+| –
+|12%
+| –
+|15%
+|1%
+|7%
+|4%
+|1%
+| style="background:#C1CCE1;" | '''33%'''
+|5%
+|-
+|1%
+| style="background:#E6D8F3;" | '''17%'''
+|2%
+| –
+|2%
+| –
+| –
+| –
+|14%
+|10%
+| –
+|2%
+|8%
+|5%
+|1%
+| style="background:#C1CCE1;" | '''33%'''
+|5%
+|-
+|1%
+| style="background:#E6D8F3;" | '''17%'''
+|1%
+| –
+|2%
+| –
+| –
+| –
+|12%
+|5%
+|13%
+| –
+| –
+|6%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|6%
+|-
+|1%
+| style="background:#E6D8F3;" | '''17%'''
+|2%
+| –
+|2%
+| –
+| –
+| –
+|13%
+| –
+|16%
+| –
+| –
+|7%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|5%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+|2%
+| –
+| –
+| –
+|13%
+|11%
+| –
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|6%
+|-
+| rowspan=8 style="background:#FFCCCC;" |[https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-presidentielle-2027-apres-les-violences-du-17-octobre-ce-que-revele-notre-derniere-enquete-2471007.html Ifop]
+| rowspan="8" {{Opdrts|17|19|October|2026|year}}
+| rowspan="8"|1,928
+|0.5%
+| style="background:#E6D8F3;" | '''16.5%'''
+|3%
+|–
+|3%
+|–
+|–
+|–
+|13.5%
+|5%
+|12%
+|– 
+|–
+|5%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|3.5%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''16.5%'''
+|2.5%
+|–
+|3%
+|–
+|–
+|–
+|14%
+|–
+|15%
+|–
+|–
+|7.5%
+|1.5%
+| style="background:#C1CCE1;" | '''36%'''
+|3.5%
+|-
+|0.5%
+| style="background:#E6D8F3;"| '''16%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+| style="background:#FFF8CA;" | '''16%'''
+|13%
+|–
+|–
+|–
+|7%
+|1.5%
+| style="background:#C1CCE1;" | '''38%'''
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''18%'''
+|–
+|–
+|–
+|–
+|–
+|–
+|16%
+|–
+|16%
+|–
+|–
+|6.5%
+|2.5%
+| style="background:#C1CCE1;" | '''37%'''
+|3.5%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''20%'''
+|–
+|–
+|–
+|–
+|–
+|10%
+|–
+|6.5%
+|14%
+|–
+|–
+|6%
+|2%
+| style="background:#C1CCE1;" | '''38%'''
+|3%
+|-
+|0%
+| style="background:#E6D8F3;" | '''15%'''
+|2%
+|1.5%
+|2.5%
+|–
+|–
+|–
+|12%
+|4%
+|12%
+|1.5%
+|5.5%
+|5.5%
+|1.5%
+| style="background:#C1CCE1;" | '''34%'''
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''15.5%'''
+|2%
+|–
+|3%
+|–
+|–
+| –
+|13%
+|5%
+|13%
+|–
+|7%
+|–
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''15%'''
+|2%
+|2%
+|3%
+|1%
+|–
+| –
+|12%
+|6%
+|12%
+|–
+|–
+|6%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|3.5%
+|-
+|
+|17 Oct 2026
+| colspan="18" |[[17 October riots]]
+|-
+| rowspan="6" style="background:#CAD5F7;"|[https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html Elabe]
+| rowspan="6" {{Opdrts|14|16|Oct|2026|year}}
+| rowspan="6"|1,701
+|1%
+|15%
+|1.5%
+| –
+|3%
+| –
+| –
+| –
+|15.5%
+| –
+|style="background:#D8D8F4;" | '''16.5%'''
+|2%
+| –
+|7%
+|2.5%
+| style="background:#C1CCE1;" |'''32.5%'''
+|3.5%
+|-
+|1%
+|16%
+|2%
+| –
+|2.5%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''16.5%'''
+|10.5%
+| –
+|3%
+| –
+|9.5%
+|2%
+| style="background:#C1CCE1;" |'''33.5%'''
+|3.5%
+|-
+|0.5%
+| style="background:#E6D8F3;"| '''15.5%'''
+|1.5%
+| –
+|2.5%
+| –
+| –
+| –
+|15%
+| –
+|style="background:#D8D8F4;" | '''15.5%'''
+| –
+|5.5%
+|6.5%
+|3%
+| style="background:#C1CCE1;" | '''31.5%'''
+|3%
+|-
+|1%
+|16%
+|1.5%
+|3%
+| –
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''16.5%'''
+|9.5%
+| –
+| –
+|6.5%
+|9%
+|2.5%
+| style="background:#C1CCE1;" | '''31%'''
+|3.5%
+|-
+|1.5%
+| style="background:#E6D8F3;" | '''15.5%'''
+|1.5%
+| –
+|2.5%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''15.5%'''
+|4.5%
+|13.5%
+| –
+| –
+|7.5%
+|3%
+| style="background:#C1CCE1;" |'''32.5%'''
+|3.5%
+|-
+|1%
+|15%
+|1%
+| –
+|2.5%
+|1.5%
+| –
+| –
+|16%
+| –
+|style="background:#D8D8F4;" | '''16.5%'''
+| –
+| –
+|7.5%
+|2.5%
+| style="background:#C1CCE1;" | '''33.5%'''
+|3%
+|-
+| rowspan="5"style="background:#d9fff6;"|[https://cluster17.com/presidentielle-2027-le-pen-en-tete-dans-tous-les-scenarios-lisnard-a-egalite-avec-retailleau/ Cluster17]
+| rowspan="5" {{Opdrts|14|15|Oct|2026|year}}
+| rowspan="5"|1,263
+|0.5%
+| style="background:#E6D8F3;"| '''18%'''
+|1.5%
+|–
+|2%
+|–
+|–
+|–
+|11%
+|–
+|17%
+|–
+|7%
+|7%
+|2%
+| style="background:#C1CCE1;" | '''31%'''
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;"| '''20%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|12%
+|–
+| style="background:#D8D8F4;" | '''20%'''
+|–
+|–
+|–
+|3%
+| style="background:#C1CCE1;" | '''35.5%'''
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''20%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|16%
+|–
+|–
+|–
+|–
+|17.5%
+|3%
+| style="background:#C1CCE1;" | '''34.5%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;"| '''20.5%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|16%
+|–
+|–
+|–
+|17%
+|–
+|2%
+| style="background:#C1CCE1;" | '''35.5%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;"| '''20%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|13.5%
+|17%
+|–
+|–
+|–
+|–
+|3.5%
+| style="background:#C1CCE1;" | '''35.5%'''
+|5.5%
+|-
+| rowspan="5" style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf YouGov]
+| rowspan="5" {{Opdrts|12|15|Oct|2026|year}}
+| rowspan="5"|1,094
+|0%
+| style="background:#E6D8F3;" | '''15%'''
+|3%
+|–
+|6%
+|–
+|–
+|–
+|12%
+|6%
+|10%
+|–
+|–
+|6%
+|3%
+| style="background:#C1CCE1;" | '''36%'''
+|3%
+|-
+|0%
+| style="background:#E6D8F3;" | '''15%'''
+|3%
+|–
+|6%
+|–
+|–
+|–
+|14%
+|10%
+|–
+|–
+|–
+|9%
+|3%
+| style="background:#C1CCE1;" | '''37%'''
+|4%
+|-
+|0%
+| style="background:#E6D8F3;" | '''15%'''
+|3%
+|–
+|6%
+|–
+|–
+|–
+|13%
+|–
+|13%
+|–
+|–
+|7%
+|3%
+| style="background:#C1CCE1;" | '''36%'''
+|3%
+|-
+|1%
+| style="background:#E6D8F3;" | '''16%'''
+|3%
+|–
+|6%
+|–
+|–
+|9%
+|–
+|–
+|15%
+|–
+|–
+|7%
+|3%
+| style="background:#C1CCE1;" | '''37%'''
+|4%
+|-
+|0%
+| style="background:#E6D8F3;" | '''13%'''
+|2%
+|2%
+|5%
+|–
+|–
+|–
+|12%
+|6%
+|8%
+|1%
+|4%
+|5%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|4%
+|-
+| rowspan="1" style="background:#80fcd4;" ;"| [https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020 OpinionWay]
+| rowspan="1" {{Opdrts|13|14|Oct|2026|year}}
+| rowspan="1"|1,043
+|1%
+| style="background:#E6D8F3;" | '''15%'''
+|1%
+|–
+|2%
+|–
+|<0.5%
+|–
+|13%
+|5%
+|12%
+|–
+|4%
+|6%
+|1%
+| style="background:#C1CCE1;" | '''35%'''
+|5%
+|-
+| rowspan="3" style="background:#80fcd4;"|[https://f.dviz.factoviz.com/UserFiles/0/9/2/2027/OpinionWay%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%20Barom%C3%A8tre%20Pr%C3%A9sitrack%202027%20Vague%203%20-%20Octobre%202026.pdf OpinionWay]
+| rowspan="3" {{Opdrts|13|14|Oct|2026|year}}
+| rowspan="3"|1,043
+|0.5%
+| style="background:#E6D8F3;" | '''14%'''
+|3%
+|–
+|3%
+|–
+|–
+|–
+|13%
+|7%
+|12%
+|–
+|–
+|7%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|4%
+|-
+|1%
+|15%
+|2%
+|–
+|3%
+|–
+|–
+|–
+| style="background:#FFF8CA;" | '''16%'''
+|11%
+|–
+|–
+|–
+|9%
+|2%
+| style="background:#C1CCE1;" | '''37%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;"| '''15%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+| style="background:#FFF8CA;" | '''15%'''
+|–
+| style="background:#D8D8F4;" | '''15%'''
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|4%
+|-
+|
+|{{Opdrts||13|October|2026|year}}
+| colspan="18" |[[Natacha Polony]] announces her candidacy.
+|-
+| rowspan=4 style="background:#FFCCCC;" |[https://www.sudradio.fr/ifop/exclu-presidentielle-2027-glucksmann-grignote-le-pen-reste-intouchable Ifop]
+| rowspan="4" {{Opdrts|12|14|October|2026|year}}
+| rowspan="4"|1,525
+|–
+| style="background:#E6D8F3;" | '''16%'''
+|2%
+|2%
+|2%
+|–
+|–
+|–
+|11.5%
+|5%
+|13%
+|1.5% 
+|6%
+|5%
+|1%
+| style="background:#C1CCE1;" | '''32%'''
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''17%'''
+|2.5%
+|–
+|2%
+|–
+|–
+|–
+|16%
+|13%
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|3%
+|-
+|0.5%
+|16%
+|3%
+|–
+|2.5%
+|–
+|–
+|–
+|13.5%
+|–
+| style="background:#D8D8F4;" | '''18%'''
+|–
+|–
+|6.5%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|3%
+|-
+|–
+| style="background:#E6D8F3;" | '''16%'''
+|2.5%
+|–
+|2%
+|–
+|–
+| –
+|14%
+|6%
+|14%
+|–
+|–
+|6.5%
+|2%
+| style="background:#C1CCE1;" | '''34%'''
+|3%
+|-
+|
+|{{Opdrts||11|October|2026|year}}
+| colspan="18" |[[Raphaël Glucksmann|Glucksmann]] wins the [[2026 French Socialist Party presidential primary|Socialist Primary]].
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf Harris Interactive]
+| rowspan="5" {{Opdrts|5|8|October|2026|year}}
+| rowspan="5"|2,004
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|2%
+| –
+|2%
+| –
+| –
+| –
+|10%
+|5%
+|13%
+| –
+| –
+| 7%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+|5%
+|-
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|2%
+| –
+|3%
+| –
+| –
+| –
+|10%
+| –
+|17%
+| –
+| –
+|7%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|2%
+| –
+|3%
+| –
+| –
+| –
+|11%
+|12%
+| –
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|5%
+|-
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|3%
+| –
+|4%
+| –
+| –
+|7%
+| –
+| –
+|17%
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+|5%
+| –
+| –
+|7%
+| –
+|12%
+| –
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" | '''37%'''
+|5%
+|-
+| rowspan="2" style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/ Odoxa]
+| rowspan="2" {{Opdrts|24|7|October|2026|year}}
+| rowspan="2"| 12,005
+|0.5%
+| style="background:#E6D8F3;" | '''18%'''
+|2%
+| –
+|3%
+| –
+| –
+| –
+|9.5%
+| –
+|17%
+| –
+| –
+|6.5%
+|2%
+| style="background:#C1CCE1;" | '''37%'''
+|4.5%
+|-
+|1%
+| style="background:#E6D8F3;" | '''18.5%'''
+|2%
+| –
+|3.5%
+| –
+| –
+| –
+|10.5%
+|11%
+| –
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" | '''38%'''
+|4.5%
+|-
+|}
+
+=== September 2026 ===
+
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[Emmanuel Maurel]]}}
+! {{vert header|mw=35px|stp=1|[[Ségolène Royal]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure]]}}
+! {{vert header|mw=35px|stp=1|[[Karim Bouamrane]]}}
+! {{vert header|mw=35px|stp=1|[[Jérôme Guedj]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Le Maire]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
+! {{vert header|mw=35px|stp=1|[[David Lisnard]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Sarah Knafo]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Republican and Socialist Left}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Together (coalition)}};"|
+! style="background:{{party color|Together (coalition)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| rowspan=10 style="background:#FFCCCC;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf Ifop]
+| rowspan="10" {{Opdrts|25|29|September|2026|year}}
+| rowspan="10"|1.393
+|0.5%
+|15%
+|2.5%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|11%
+|8%
+|–
+| style="background:#D8D8F4;" | '''16%'''
+|–
+|–
+|–
+|7%
+|1%
+| style="background:#C1CCE1;" |'''32%'''
+|–
+|4%
+|-
+|0.5%
+|16%
+|2.5%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|11%
+|–
+|–
+| style="background:#D8D8F4;" | '''21%'''
+|–
+|–
+|–
+|8%
+|1.5%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|3.5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''15%'''
+|2.5%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|13%
+| style="background:#FFF8CA;" | '''15%'''
+|–
+|– 
+|–
+|–
+|–
+|10%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|3.5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|3%
+|–
+|5.5%
+|–
+|–
+|4%
+|–
+|–
+|–
+|–
+| style="background:#FFF8CA;" | '''17%'''
+|–
+|–
+|–
+|–
+|–
+|11%
+|1%
+| style="background:#C1CCE1;" |'''36%'''
+|–
+|4.5%
+|-
+|1%
+|16%
+|3.5%
+|–
+|5%
+|–
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''23%'''
+|–
+|–
+|–
+|8%
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|4%
+|-
+|0.5%
+|15%
+|3%
+|–
+|6%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''24%'''
+|–
+|–
+|–
+|8%
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|4%
+|-
+|1%
+|17%
+|3.5%
+|–
+|5.5%
+|–
+|–
+|–
+|–
+|3%
+|–
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''23%'''
+|– 
+|–
+|–
+|8%
+|1%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|3%
+|-
+|1%
+|17%
+|3.5%
+|–
+|6%
+|1%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''23%'''
+|– 
+|–
+|–
+|9%
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|3%
+|-
+|0.5%
+|16%
+|2.5%
+|–
+|5%
+|–
+|–
+|–
+|–
+|–
+|8%
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''22%'''
+|–
+|–
+|–
+|7%
+|1%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|4%
+|-
+|0.5%
+|14%
+|2%
+|3%
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|9%
+|7%
+|–
+| style="background:#D8D8F4;" | '''15%'''
+|2% 
+|–
+|3.5%
+|5%
+|1%
+| style="background:#C1CCE1;" |'''31%'''
+|–
+|4%
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf Harris Interactive]
+| rowspan="5" {{Opdrts|22|24|September|2026|year}}
+| rowspan="5"|1,974
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+|10%
+|5%
+| –
+|13%
+| –
+| –
+| –
+|7%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''18%'''
+|2%
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+|10%
+| –
+| –
+|16%
+| –
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+|11%
+|12%
+| –
+| –
+| –
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+| –
+|6%
+|-
+|1%
+| style="background:#E6D8F3;"| '''18%'''
+|3%
+| –
+|4%
+| –
+| –
+| –
+| –
+| –
+|7%
+| –
+| –
+| –
+|16%
+| –
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|3%
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+|8%
+| –
+|13%
+| –
+| –
+| –
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+| –
+|5%
+|-
+| rowspan="6" style="background:#fff89c;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf YouGov]
+| rowspan="6" {{Opdrts|17|21|September|2026|year}}
+| rowspan="6"|1,103
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|8%
+|9%
+|–
+|12%
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|6%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|9%
+|–
+|3%
+|13%
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|6%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|3%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|9%
+|14%
+|–
+|–
+|–
+|–
+|–
+|10%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''18%'''
+|3%
+|–
+|7%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|17%
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" |'''37%'''
+|–
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''16%'''
+|2%
+|–
+|4%
+|–
+|–
+|5%
+|–
+|–
+|–
+|–
+|9%
+|–
+|12%
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|6%
+|-
+|1%
+| style="background:#E6D8F3;"| '''15%'''
+|1%
+|2%
+|2%
+|–
+|–
+|–
+|–
+|–
+|4%
+|5%
+|8%
+|–
+|10%
+|2%
+|1%
+|2%
+|7%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|5%
+|-
+|
+|{{Opdrts||19|September|2026|year}}
+| colspan="24" |Dupont-Aignan announces his candidacy.
+|-
+|
+|{{Opdrts||17|September|2026|year}}
+| colspan="24" |Zemmour announces his candidacy.
+|-
+|
+|{{Opdrts||16|September|2026|year}}
+| colspan="24" |Faure, Glucksmann, [[Jerome Guedj|Guedj]], [[Emmanuel Maurel|Maurel]] and [[Segolene Royal|Royal]] are the 5 candidates of the [[2026 French Socialist Party presidential primary|Socialist Primary]].
+|-
+| rowspan="3"style="background:#d9fff6;"|[https://cluster17.com/presidentielle-2027-le-pen-largement-en-tete-melenchon-et-philippe-au-coude-a-coude/ Cluster17]
+| rowspan="3" {{Opdrts|15|16|Sep|2026|year}}
+| rowspan="3"|1,943
+|0.5%
+| style="background:#E6D8F3;"| '''19%'''
+|2%
+|–
+|2.5%
+|–
+|–
+|–
+|–
+|–
+|–
+|12%
+|–
+|–
+| style="background:#D8D8F4;" | '''19%'''
+|–
+|–
+|–
+|7.5%
+|3%
+| style="background:#C1CCE1;" |'''31%'''
+|–
+|3.5%
+|-
+|0.5%
+| style="background:#E6D8F3;"| '''20%'''
+|2.5%
+|–
+|2.5%
+|–
+|–
+|–
+|–
+|–
+|–
+|14%
+|13.5%
+|–
+|–
+|–
+|–
+|–
+|9.5%
+|3%
+| style="background:#C1CCE1;" |'''31.5%'''
+|–
+|3.5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''19.5%'''
+|3%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|7.5%
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''19.5%'''
+|–
+|–
+|5%
+|7.5%
+|4%
+| style="background:#C1CCE1;" |'''30%'''
+|–
+|–
+|-
+| rowspan="3" style="background:#80fcd4;" ;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf OpinionWay]
+| rowspan="3" {{Opdrts|9|10|Sep|2026|year}}
+| rowspan="3"|1001
+|1%
+| style="background:#E6D8F3;"| '''16%'''
+|3%
+|–
+|3%
+|–
+|–
+|–
+|1%
+|–
+|7%
+|–
+|8%
+|–
+| style="background:#D8D8F4;" | '''16%'''
+|–
+|–
+|2%
+|7%
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+|–
+|2%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|4%
+|–
+|3%
+|–
+|3%
+|–
+|1%
+|–
+|–
+|–
+|8%
+|–
+|16%
+|–
+|–
+|2%
+|7%
+|3%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|2%
+|-
+|<1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|<1%
+|–
+|–
+|9%
+|7%
+|–
+|15%
+|–
+|–
+|2%
+|7%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|2%
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-en-leger-recul-pour-la-premiere-fois-jean-luc-melenchon-se-stabilise-aux-portes-du-second-tour-7900671878 Harris Interactive]
+| rowspan="5" {{Opdrts|8|10|September|2026|year}}
+| rowspan="5"|2,052
+|1%
+| style="background:#E6D8F3;"| '''16%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|9%
+|8%
+|–
+|14%
+|–
+|–
+|–
+|7%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|3%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|10%
+|–
+|–
+| style="background:#D8D8F4;" | '''17%'''
+|–
+|–
+|–
+|7%
+|3%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|12%
+|14%
+|–
+|–
+|–
+|–
+|–
+|9%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|5%
+|-
+|1%
+|17%
+|3%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|7%
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''19%'''
+|–
+|–
+|–
+|9%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|3%
+| –
+|4%
+|–
+|–
+|–
+|–
+|–
+|7%
+|–
+|15%
+|–
+|–
+|–
+|–
+|–
+|10%
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+|–
+|5%
+|-
+| rowspan="3" style="background:#80fcd4;" ;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10259-pres-presitrack-v2-opinionway-les-echos-10-septembre.pdf OpinionWay]
+| rowspan="3" {{Opdrts|8|9|Sep|2026|year}}
+| rowspan="3"|1001
+|<1%
+| style="background:#E6D8F3;"| '''15%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|9%
+|8%
+|–
+| style="background:#D8D8F4;" | '''15%'''
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|4%
+|-
+|1%
+| style="background:#E6D8F3;"| '''15%'''
+|2%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|12%
+|14%
+|–
+|–
+|–
+|–
+|–
+|12%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|4%
+|-
+|1%
+|15%
+|1%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|10%
+|–
+|–
+| style="background:#D8D8F4;" | '''19%'''
+|–
+|–
+|–
+|10%
+|3%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|4%
+|-
+| rowspan="6" style="background:#04FBF4;" |[https://www.ipsos.com/fr-fr/presidentielle-2027-le-point-7-mois-du-scrutin Ipsos]
+| rowspan="6" {{Opdrts|3|9|Sep|2026|year}}
+| rowspan="6" |13,060
+|0.5%
+| style="background:#E6D8F3;"| '''15.5%'''
+|2.5%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|11.5%
+|6%
+|–
+|14%
+|–
+|–
+|–
+|7%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|4%
+|-
+|0.5%
+|15.5%
+|2.5%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|12.5%
+|–
+|–
+| style="background:#D8D8F4;" | '''17.5%'''
+|–
+|–
+|–
+|8%
+|2%
+| style="background:#C1CCE1;" |'''33.5%'''
+|–
+|4%
+|-
+|0.5%
+|style="background:#E6D8F3;"| '''15.5%'''
+|2.5%
+|–
+|4.5%
+|–
+|–
+|–
+|–
+|–
+|–
+|13.5%
+|13%
+|–
+|–
+|–
+|–
+|–
+|10%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|4.5%
+|-
+|0.5%
+| style="background:#E6D8F3;"| '''16.5%'''
+|3%
+|–
+|5%
+|–
+|–
+|4.5%
+|–
+|–
+|–
+|–
+|7.5%
+|–
+|16%
+|–
+|–
+|–
+|7%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|4%
+|-
+|0.5%
+|16.5%
+|3.5%
+|–
+|5.5%
+|–
+|–
+|5%
+|–
+|–
+|–
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''21%'''
+|–
+|–
+|–
+|7.5%
+|2%
+| style="background:#C1CCE1;" |'''34.5%'''
+|–
+|4%
+|-
+|0.5%
+| style="background:#E6D8F3;"| '''17%'''
+|3.5%
+|–
+|5.5%
+|–
+|–
+|5.5%
+|–
+|–
+|–
+|–
+|15.5%
+|–
+|–
+|–
+|–
+|–
+|10.5%
+|2.5%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|4.5%
+|-
+|
+|{{Opdrts||6|September|2026|year}}
+| colspan="24" |Roussel announces his candidacy.
+|-
+| rowspan="3" style="background:#80fcd4;" ;"|[https://www.lejdd.fr/politique/sondage-presidentielle-marine-le-pen-le-poids-detre-favorite-182718 OpinionWay]
+| rowspan="3" {{Opdrts|2|3|Sep|2026|year}}
+| rowspan="3"|1003
+|1%
+|style="background:#E6D8F3;"| '''17%'''
+|3%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|13%
+|13%
+|–
+|–
+|–
+|–
+|–
+|11%
+|–
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|3%
+|-
+|1%
+|16%
+|3%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|12%
+|–
+|–
+| style="background:#D8D8F4;" | '''20%'''
+|–
+|–
+|–
+|8%
+|–
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|3%
+|-
+|1%
+|style="background:#E6D8F3;"| '''17%'''
+|2%
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|11%
+|7%
+|–
+|15%
+|–
+|–
+|–
+|7%
+| –
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|3%
+|-
+| rowspan="6" style="background:#04FBF4;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10250-pres-iv-ipsos-bva-le-parisien-5-septembre.pdf Ipsos]
+| rowspan="6" {{Opdrts|31|2|Sep|2026|year}}
+| rowspan="6" |1,500
+|0.5%
+| style="background:#E6D8F3;"| '''15%'''
+|2.5%
+|–
+|3.5%
+|–
+|–
+|–
+|–
+|–
+|–
+|11.5%
+|7.5%
+|–
+|14.5%
+|–
+|–
+|–
+|6%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|3%
+|-
+|0.5%
+|15%
+|2.5%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|12%
+|–
+|–
+| style="background:#D8D8F4;" | '''19%'''
+|–
+|–
+|–
+|7.5%
+|2%
+| style="background:#C1CCE1;" |'''34.5%'''
+|–
+|3%
+|-
+|0.5%
+|style="background:#E6D8F3;"| '''15%'''
+|2.5%
+|–
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|14%
+|14%
+|–
+|–
+|–
+|–
+|–
+|9.5%
+|2.5%
+| style="background:#C1CCE1;" |'''35%'''
+|–
+|3%
+|-
+|1%
+|16%
+|3%
+|–
+|5%
+|–
+|–
+|4.5%
+|–
+|–
+|–
+|–
+|8.5%
+|–
+| style="background:#D8D8F4;" | '''16.5%'''
+|–
+|–
+|–
+|6%
+|2%
+| style="background:#C1CCE1;" |'''34.5%'''
+|–
+|3%
+|-
+|1%
+|16.5%
+|3.5%
+|–
+|5%
+|–
+|–
+|4.5%
+|–
+|–
+|–
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''22.5%'''
+|–
+|–
+|–
+|7.5%
+|2%
+| style="background:#C1CCE1;" |'''34.5%'''
+|–
+|3%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|3.5%
+|–
+|5.5%
+|–
+|–
+|5.5%
+|–
+|–
+|–
+|–
+|15.5%
+|–
+|–
+|–
+|–
+|–
+|10%
+|2.5%
+| style="background:#C1CCE1;" |'''36%'''
+|–
+|3.5%
+|-
+| rowspan="3"style="background:#d9fff6;"|[https://www.lepoint.fr/politique/jean-luc-melenchon-aux-portes-du-second-tour-selon-un-sondage-cluster-17-pour-le-point-37HISKBJDRBZZFYP2EYB7PDIXA/ Cluster17]
+| rowspan="3" {{Opdrts|31|1|Sep|2026|year}}
+| rowspan="3"|1,711
+|1%
+| style="background:#E6D8F3;"| '''18%'''
+|2%
+|–
+|2%
+|–
+|–
+|–
+|–
+|–
+|–
+|11.5%
+|–
+|–
+| style="background:#D8D8F4;" | '''18%'''
+|3.5%
+|–
+|–
+|7.5%
+|3%
+| style="background:#C1CCE1;" |'''30%'''
+|–
+|3.5%
+|-
+|1%
+| style="background:#E6D8F3;"| '''18%'''
+|2%
+|–
+|2.5%
+|–
+|–
+|–
+|–
+|–
+|–
+|11.5%
+|13.5%
+|–
+|–
+|4%
+|–
+|–
+|9%
+|3%
+| style="background:#C1CCE1;" |'''31.5%'''
+|–
+|4%
+|-
+|1%
+| style="background:#E6D8F3;"| '''17%'''
+|2%
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|11%
+|–
+|–
+| style="background:#D8D8F4;" | '''17%'''
+|3.5%
+|–
+|4%
+|6.5%
+|2%
+| style="background:#C1CCE1;" |'''29%'''
+|–
+|3%
+|-
+|}
+
+=== July 2026 – August 2026 ===
+
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+|
+|{{Opdrts||30|August|2026|year}}
+| colspan="17" |Faure announces his candidacy and will participate in the PS primary.
+|-
+| rowspan="6" style="background:#CAD5F7;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf Elabe]
+| rowspan="6" {{Opdrts|26|28|Aug|2026|year}}
+| rowspan="6"|1,501
+|1.5%
+|3%
+|14%
+| –
+| –
+| –
+|11.5%
+|3.5%
+|–
+|style="background:#D8D8F4;" | '''17%'''
+|2%
+| –
+|6.5%
+|3%
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+|-
+|1.5%
+|3%
+|style="background:#E6D8F3;"| '''14%'''
+| –
+| –
+| –
+|style="background:#FFF8CA;" | '''14%'''
+|3%
+|12%
+| –
+|2.5%
+| –
+|9.5%
+|2%
+| style="background:#C1CCE1;" |'''34.5%'''
+|4%
+|-
+|2%
+|3.5%
+|14%
+| –
+| –
+|7.5%
+| –
+|4%
+| –
+|style="background:#D8D8F4;" | '''19.5%'''
+| –
+| –
+|6%
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+|-
+|1.5%
+|4%
+|style="background:#E6D8F3;"| '''14%'''
+|6%
+| –
+|8%
+| –
+| –
+|12.5%
+| –
+| –
+| –
+|9%
+|2.5%
+| style="background:#C1CCE1;" |'''34.5%'''
+|4.5%
+|-
+|1.5%
+|4.5%
+|14.5%
+| –
+|3.5%
+| –
+| –
+|4%
+| –
+|style="background:#D8D8F4;" | '''20.5%'''
+|2.5%
+| –
+|7%
+|2.5%
+| style="background:#C1CCE1;" |'''35.5%'''
+|4%
+|-
+|1.5%
+|3%
+|style="background:#E6D8F3;"| '''14.5%'''
+| –
+| –
+| –
+|12.5%
+|4%
+|6.5%
+|style="background:#D8D8F4;" | '''14.5%'''
+| –
+| –
+|7%
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+|-
+|
+|{{Opdrts||27|August|2026|year}}
+| colspan="17" |First debate of 7 candidates: Retailleau, Glucksmann, Le Pen, Philippe, Mélenchon, Tondelier and Attal.
+|-
+| rowspan=7 style="background:#FFCCCC;" |[https://www.sudradio.fr/sud-radio/marine-le-pen-vainqueure-de-la-presidentielle-2027-dans-tous-les-scenarios Ifop]
+| rowspan="7" {{Opdrts|24|25|August|2026|year}}
+| rowspan="7"|1.598
+|0.5%
+|3%
+|style="background:#E6D8F3;"| '''16%'''
+| –
+| –
+| –
+|11%
+|3%
+|8%
+|14.5%
+| –
+| –
+|6%
+|1.5%
+| style="background:#C1CCE1;" |'''33%'''
+|3.5%
+|-
+|0.5%
+|3%
+|style="background:#E6D8F3;"| '''17%'''
+| –
+| –
+| –
+|15%
+|3%
+|14%
+| –
+| –
+| –
+|9%
+|1.5%
+| style="background:#C1CCE1;" |'''34%'''
+|3%
+|-
+|1%
+|3%
+|17%
+| –
+| –
+| –
+|12%
+|3%
+| –
+| style="background:#D8D8F4;" | '''18%'''
+| –
+| –
+|8%
+|1.5%
+| style="background:#C1CCE1;" |'''33%'''
+|3.5%
+|-
+|1%
+|3%
+|17%
+| –
+| –
+| –
+|style="background:#FFF8CA;" | '''18%'''
+|3%
+| –
+| –
+| –
+| –
+|12%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|3%
+|-
+|1%
+| –
+|18%
+| –
+| –
+| –
+|15%
+| –
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|8%
+|2.5%
+| style="background:#C1CCE1;" |'''33%'''
+|3.5%
+|-
+|1.5%
+| –
+|style="background:#E6D8F3;"| '''18.5%'''
+| –
+| –
+| –
+|17%
+| –
+|15%
+| –
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|3%
+|-
+|1.5%
+| –
+|19%
+| –
+| –
+|12%
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''21%'''
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|2.5%
+|-
+|
+|{{Opdrts||23|August|2026|year}}
+| colspan="17" |Glucksmann announces his candidacy.
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-un-duel-le-pen-melenchon-la-candidate-rn-largement-en-tete-le-leader-insoumis-mieux-place-que-jamais-pour-le-second-tour-7900664150 Harris Interactive]
+| rowspan="5" {{Opdrts|18|19|August|2026|year}}
+| rowspan="5"|1,764
+|1%
+|2%
+|style="background:#E6D8F3;"| '''16%'''
+| –
+| –
+| –
+|10%
+|3%
+|8%
+|14%
+| –
+| –
+|6%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|3%
+|-
+|1%
+|3%
+|style="background:#E6D8F3;"| '''17%'''
+| –
+| –
+|8%
+| –
+|4%
+|14%
+| –
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" |'''38%'''
+|4%
+|-
+|1%
+|2%
+|style="background:#E6D8F3;"| '''17%'''
+| –
+| –
+| –
+|11%
+|3%
+|15%
+| –
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" |'''37%'''
+|3%
+|-
+|1%
+|3%
+| style="background:#E6D8F3;"| '''17%'''
+| –
+| –
+| –
+|10%
+|3%
+| –
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+|7%
+|3%
+| style="background:#C1CCE1;" |'''35%'''
+|4%
+|-
+|1%
+|3%
+|17%
+| –
+| –
+|8%
+| –
+|4%
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|7%
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+|4%
+|-
+| rowspan="2"style="background:#d9fff6;"|[https://legrandcontinent.eu/fr/2026/08/31/marine-le-pen-peut-elle-encore-perdre-lelection-presidentielle/ Cluster17]
+| rowspan="2" {{Opdrts|22|24|Jul|2026|year}}
+| rowspan="2"|1,506
+|1%
+|2%
+| style="background:#E6D8F3;"| '''18%'''
+| –
+| –
+| –
+|10%
+|3%
+| –
+| style="background:#D8D8F4;" | '''18%'''
+|3%
+| –
+|8%
+|3%
+| style="background:#C1CCE1;" |'''30%'''
+|4%
+|-
+|1%
+|2%
+| style="background:#E6D8F3;"| '''18%'''
+| –
+| –
+|–
+|10%
+|3%
+|14%
+| –
+|4%
+| –
+|10%
+|4%
+| style="background:#C1CCE1;" |'''30%'''
+|4%
+|-
+| rowspan="6" style="background:#CAD5F7;"|[https://www.latribune.fr/article/la-tribune-dimanche/politique/45944749344411/sondage-presidentielle-le-pen-en-tete-melenchon-progresse Elabe]
+| rowspan="6" {{Opdrts|9|10|Jul|2026|year}}
+| rowspan="6"|1,503
+|1%
+|2.5%
+|16%
+| –
+| –
+| –
+|10.5%
+|3.5%
+|–
+|style="background:#D8D8F4;" | '''16.5%'''
+|2.5%
+| –
+|8%
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+|3%
+|-
+|1.5%
+|2.5%
+|style="background:#E6D8F3;"| '''14.5%'''
+| –
+| –
+| –
+|11.5%
+|3.5%
+|13.5%
+| –
+|3.5%
+| –
+|11%
+|1.5%
+| style="background:#C1CCE1;" |'''34%'''
+|3.5%
+|-
+|1.5%
+|2.5%
+|14.5%
+|6%
+| –
+|9%
+| –
+| –
+| –
+|style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|9%
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+|2.5%
+|-
+|1.5%
+|2.5%
+|15%
+|6%
+| –
+|8%
+| –
+| –
+| style="background:#FFF8CA;" | '''15.5%'''
+| –
+| –
+| –
+|11%
+|1.5%
+| style="background:#C1CCE1;" |'''35.5%'''
+|3.5%
+|-
+|1%
+|2.5%
+|style="background:#E6D8F3;"| '''14.5%'''
+| –
+| –
+| –
+|8.5%
+|4%
+|7.5%
+|14%
+| –
+| –
+|8.5%
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+|3%
+|-
+|2%
+|3%
+|15%
+| –
+| –
+|8%
+| –
+|4%
+| –
+|style="background:#D8D8F4;" | '''18%'''
+|3%
+| –
+|8%
+|1.5%
+| style="background:#C1CCE1;" |'''34.5%'''
+|3%
+|-
+| rowspan="1" style="background:yellow;"| [https://lhemicycle.com/2026/07/10/jordan-bardella-toujours-le-favori-pour-representer-le-rn/ Verian]
+| rowspan="1" {{Opdrts|9|10|July|2026|year}}
+| rowspan="1"|1,047
+| –
+|2%
+|15%
+| –
+| –
+| –
+|11%
+| –
+|8%
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+|7%
+| –
+| style="background:#C1CCE1;" |'''37%'''
+|3%
+|-
+| rowspan="3" style="background:#80fcd4;" ;"|[https://www.lesechos.fr/elections/presidentielle/sondage-exclusif-presidentielle-2027-marine-le-pen-largement-en-tete-avantage-edouard-philippe-a-droite-et-au-centre-2241680 OpinionWay]
+| rowspan="3" {{Opdrts|8|9|July|2026|year}}
+| rowspan="3"|963
+|<1%
+|2%
+|13%
+| –
+| –
+| –
+|9%
+|5%
+|7%
+| style="background:#D8D8F4;" | '''18%'''
+| –
+| –
+|8%
+| –
+| style="background:#C1CCE1;" |'''35%'''
+|3%
+|-
+|1%
+|2%
+|15%
+| –
+| –
+| –
+|9%
+|4%
+| –
+| style="background:#D8D8F4;" | '''22%'''
+| –
+| –
+|9%
+| –
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+|-
+|1%
+|2%
+|15%
+| –
+| –
+| –
+|10%
+|5%
+|style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+| –
+|12%
+| –
+| style="background:#C1CCE1;" |'''36%'''
+|3%
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723 Harris Interactive]
+| rowspan="5" {{Opdrts|7|8|July|2026|year}}
+| rowspan="5"|1,582
+|1%
+|2%
+|style="background:#E6D8F3;"| '''16%'''
+| –
+| –
+| –
+|10%
+|2%
+|8%
+|14%
+| –
+| –
+|7%
+|1%
+| style="background:#C1CCE1;" |'''35%'''
+|4%
+|-
+|1%
+|3%
+|style="background:#E6D8F3;"| '''16%'''
+| –
+| –
+|8%
+| –
+|5%
+| style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+|5%
+|-
+|1%
+|3%
+|style="background:#E6D8F3;"| '''16%'''
+| –
+| –
+| –
+|11%
+|3%
+| style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+| –
+|9%
+|1%
+| style="background:#C1CCE1;" |'''36%'''
+|4%
+|-
+|1%
+|3%
+|16%
+| –
+| –
+|8%
+| –
+|4%
+| –
+| style="background:#D8D8F4;" | '''20%'''
+| –
+| –
+|8%
+|1%
+| style="background:#C1CCE1;" |'''35%'''
+|4%
+|-
+|1%
+|2%
+|16%
+| –
+| –
+| –
+|11%
+|3%
+| –
+| style="background:#D8D8F4;" | '''20%'''
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+|-
+| rowspan=2 style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf Ifop]
+| rowspan="2" {{Opdrts|7|8|July|2026|year}}
+| rowspan="2"|984
+|0.5%
+|2%
+|style="background:#E6D8F3;"| '''15%'''
+| –
+| –
+| –
+|12%
+|4%
+| style="background:#FFF8CA;" | '''15%'''
+| –
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+|3.5%
+|-
+|0.5%
+|3%
+|15%
+| –
+| –
+| –
+|9%
+|3.5%
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+|4%
+|-
+|
+|{{Opdrts||7|July|2026|year}}
+| colspan="17" |An appeals court rules that Le Pen can run for public office again. Le Pen announces her candidacy.
+|}
+
+=== January 2026 – June 2026 ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Sarah Knafo]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| rowspan="2" style="background:#04FBF4;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10195-pres-ipsos-bva-le-parisien-1er-juin.pdf Ipsos]
+| rowspan="2" {{Opdrts|27|28|May|2026|year}}
+| rowspan="2" |1,500
+|1%
+| –
+|4%
+|13.5%
+| –
+| –
+|7%
+| –
+|4%
+|9.5%
+| style="background:#D8D8F4;" | '''14.5%'''
+| –
+| –
+|8.5%
+|1.5%
+| style="background:#C1CCE1;" |'''32%'''
+|4.5%
+| –
+|-
+|1%
+| –
+|3%
+|13%
+| –
+| –
+| –
+|11%
+|4%
+|8.5%
+| style="background:#D8D8F4;" | '''14%'''
+| –
+| –
+|8.5%
+|1.5%
+| style="background:#C1CCE1;" |'''31%'''
+|4.5%
+| –
+|-
+| rowspan=2 style="background:#FFCCCC;" |[https://www.sudradio.fr/wp-content/uploads/2026/05/Resultats-Intention-de-Vote-Presidentielle-au-29-mai-2026.pdf Ifop]
+| rowspan="2" {{Opdrts|26|28|May|2026|year}}
+| rowspan="2"|1,368
+|0.5%
+| –
+|3%
+|13%
+| –
+| –
+| –
+|11.5%
+|3.5%
+| style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+| –
+|11.5%
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+|4%
+| –
+|-
+|0.5%
+| –
+|3%
+|13%
+| –
+| –
+| –
+|11%
+|4%
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|9%
+|1.5%
+| style="background:#C1CCE1;" |'''33%'''
+|4%
+| –
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| rowspan="2" {{Opdrts|25|27|May|2026|year}}
+| rowspan="2"|1,744
+|1%
+| –
+|4%
+|style="background:#E6D8F3;"| '''15%'''
+| –
+| –
+| –
+|11%
+|3%
+| style="background:#FFF8CA;" | '''15%'''
+| –
+| –
+| –
+|11%
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+|6%
+| –
+|-
+|1%
+| –
+|3%
+|14%
+| –
+| –
+| –
+|11%
+|3%
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" |'''31%'''
+|6%
+| –
+|-
+|
+|{{Opdrts||22|May|2026|year}}
+|colspan=19|[[Gabriel Attal]] announces his candidacy.<ref>{{cite web |last1=Rose |first1=Michel |title=Former premier Attal enters race for French president, sparking battle for centrist vote |url=https://www.reuters.com/world/former-premier-attal-enters-race-french-president-sparking-battle-centrist-vote-2026-05-22/ |website=[[Reuters]] |access-date=12 September 2026 |language=en-US |date=22 May 2026}}</ref>
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/04/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-1-M6-RTL-Avril-2026.pdf Harris Interactive]
+| rowspan="2" {{Opdrts||22|Apr|2026|year}}
+| rowspan="2"|2,000
+|1%
+| –
+|4%
+|12%
+| –
+| –
+| –
+|12%
+|4%
+| style="background:#FFF8CA;" | '''14%'''
+| –
+| –
+| –
+|13%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|5%
+| –
+|-
+|1%
+| –
+|4%
+|12%
+| –
+| –
+| –
+|11%
+|4%
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+|10%
+|1%
+| style="background:#C1CCE1;" |'''32%'''
+|6%
+| –
+|-
+| rowspan="2" style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| rowspan="2" {{Opdrts|25|27|Mar|2026|year}}
+| rowspan="2"|1,504
+|1%
+| –
+|2.5%
+|12%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''12.5%'''
+|4%
+|11.5%
+| –
+|6%
+| –
+|10%
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+| –
+|-
+|0.5%
+| –
+|3.5%
+|11.5%
+| –
+| –
+|8.5%
+| –
+|5%
+| –
+| style="background:#D8D8F4;" | '''22%'''
+|2.5%
+| –
+|8.5%
+|3%
+| style="background:#C1CCE1;" |'''31.5%'''
+| –
+|3.5%
+|-
+| rowspan=2 style="background:#FFCCCC;" |[https://docs.google.com/viewerng/viewer?url=https://www.sudradio.fr/wp-content/uploads/2026/03/122319-Resultats-Intention-de-Vote-Presidentielle.pdf Ifop]
+| rowspan="2" {{Opdrts|26|27|Feb|2026|year}}
+| rowspan="2"|1,393
+|2%
+| –
+|2%
+|11%
+| –
+| –
+|–
+| style="background:#FFF8CA;" | '''12%'''
+|4.5%
+|10%
+| –
+|4.5%
+| –
+| style="background:#DFEEFF;" |'''12%'''
+|3%
+| style="background:#C1CCE1;" |'''35%'''
+|4%
+| –
+|-
+|1%
+| –
+|2%
+|10%
+| –
+| –
+|–
+|11%
+|4%
+| –
+| style="background:#D8D8F4;" | '''16%'''
+|5%
+| –
+|11%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|4%
+| –
+|}
+
+=== March – December 2025 ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Sarah Knafo]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/wp-content/uploads/2025/11/01112025_elabe_bfmtv_la-tribune-dimanche_election-presidentielle.pdf Elabe]
+| {{Opdrts|30|31|Oct|2025|year}}
+| 1,501
+|1.5%
+| –
+|3%
+|11.5%
+| –
+| –
+|–
+|12%
+|4.5%
+| style="background:#FFF8CA;" | '''12.5%'''
+| –
+|5%
+| –
+|8%
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+|6.5%
+| –
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2025/10/Rapport-Toluna-Harris-Interactive-Intentions-de-vote-a-lelection-presidentielle-RTL-Octobre-2025.pdf Harris Interactive]
+| rowspan="2" {{Opdrts||7|Oct|2025|year}}
+| rowspan="2"|1,124
+|1%
+| –
+|3%
+|14%
+| –
+| –
+|–
+|12%
+|3%
+| –
+| style="background:#D8D8F4;" | '''16%'''
+| –
+| –
+|10%
+|1%
+| style="background:#C1CCE1;" |'''34%'''
+| –
+|6%
+|-
+|1%
+| –
+|3%
+| style="background:#E6D8F3;"| '''14%'''
+| –
+| –
+|–
+| style="background:#FFF8CA;" | '''14%'''
+|3%
+|12%
+| –
+| –
+| –
+|11%
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+| –
+|6%
+|-
+| style="background:#d9fff6;"|[https://cluster17.com/wp-content/uploads/2025/10/ITV-Presidentielle-Le-Point-Cluster17.pdf Cluster17]
+| {{Opdrts|30|1|Oct|2025|year}}
+|1,534
+|1.5%
+| –
+|3%
+| style="background:#E6D8F3;"| '''15%'''
+| –
+| –
+|–
+| style="background:#FFF8CA;" | '''15%'''
+| –
+|12%
+| –
+| –
+| –
+|14%
+|3.5%
+| style="background:#C1CCE1;" |'''30.5%'''
+| –
+|5.5%
+|-
+|style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2025/09/121308_39-resultats-intention-de-vote-presidentielle.pdf Ifop]
+| {{Opdrts|24|25|Sep|2025|year}}
+|1,210
+|1%
+| –
+|3%
+|12%
+| –
+| –
+|–
+|15%
+| –
+| –
+| style="background:#D8D8F4;" | '''16%'''
+|5%
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+| –
+|4%
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2025/05/121647-Resultats-Intention-de-Vote-Presidentielle.pdf Ifop]
+| {{Opdrts|19|20|May|2025|year}}
+| 1,114
+|1%
+| –
+|3%
+|13.5%
+| –
+|4.5%
+|–
+| –
+|5%
+| –
+| style="background:#D8D8F4;" | '''21%'''
+| –
+| –
+|16%
+|2%
+| style="background:#C1CCE1;" |'''31%'''
+| –
+|3%
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2025/05/Rapport-Toluna-Harris-Interactive-Intentions-de-vote-a-lelection-presidentielle-de-2027-LCI-Mai-2025.pdf Harris Interactive]
+| rowspan="2" {{Opdrts||19|May|2025|year}}
+| rowspan="2"|1,071
+|1%
+| –
+|3%
+|14%
+| –
+| –
+|–
+|10%
+|3%
+| –
+| style="background:#D8D8F4;" | '''21%'''
+| –
+| –
+|12%
+|–
+| style="background:#C1CCE1;" |'''31%'''
+| –
+|5%
+|-
+|1%
+| –
+|3%
+|15%
+| –
+| –
+|–
+|11%
+|3%
+|15%
+| –
+| –
+| –
+| style="background:#DFEEFF;" |'''16%'''
+|–
+| style="background:#C1CCE1;" |'''31%'''
+| –
+|5%
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+|{{Opdrts|23|24|Apr|2025|year}}
+|1,005
+|1%
+|2%
+|3%
+|12%
+| –
+| –
+|–
+|11.5%
+|3%
+| –
+| style="background:#D8D8F4;" | '''20.5%'''
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+| –
+|3%
+|-
+|style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+|{{Opdrts|11|18|Apr|2025|year}}
+|9,128
+|0.5%
+| –
+|2%
+|10%
+|5.5%
+| –
+|–
+|10%
+| –
+| –
+| style="background:#D8D8F4;" | '''21%'''
+| –
+| –
+|9%
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+| –
+|4%
+|-
+| rowspan="3" style="background:#CAD5F7;"|[https://elabe.fr/wp-content/uploads/2025/04/05042025_elabe_bfmtv_la-tribune-dimanche_les-francais-et-lelection-presidentielle.pdf Elabe]
+| rowspan="3" {{Opdrts|2|4|Apr|2025|year}}
+| rowspan="3"|1,413
+|1%
+|2%
+|6%
+|10%
+| –
+|5.5%
+|–
+| –
+|5.5%
+| –
+| style="background:#D8D8F4;" | '''23.5%'''
+| –
+| –
+|8%
+|3%
+|style="background:#C1CCE1;"| '''32%'''
+| –
+|3.5%
+|-
+|0.5%
+|2%
+|5%
+|9.5%
+| –
+| –
+|–
+|10.5%
+|4%
+| –
+| style="background:#D8D8F4;" | '''24%'''
+| –
+|4.5%
+| –
+|3%
+|style="background:#C1CCE1;"| '''33.5%'''
+| –
+|3.5%
+|-
+|1%
+|2%
+|5.5%
+|11%
+| –
+|4%
+|–
+| –
+|6%
+| style="background:#FFF8CA;" | '''18%'''
+| –
+| –
+| –
+|10%
+|3%
+|style="background:#C1CCE1;"| '''36%'''
+| –
+|3.5%
+|-
+|
+|{{Opdrts||31|March|2025|year}}
+|colspan=19|[[Marine Le Pen]] is barred from running for public office for five years.
+|}
+
+=== March 2023 – March 2025 ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]] [[Lutte Ouvrière|(LO)]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]] [[New Anticapitalist Party|(NPA)]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]] [[French Communist Party|(PCF)]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]] [[La France Insoumise|(LFI)]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]] [[Debout !|(D!)]]}}
+! {{vert header|mw=35px|stp=1|[[Bernard Cazeneuve]] [[La Convention|(LC)]]}}
+! {{vert header|mw=35px|stp=1|[[Carole Delga]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]] [[Place Publique|(PP)]]}}
+! {{vert header|mw=35px|stp=1|[[Yannick Jadot]] [[The Ecologists|(LE)]]}}
+! {{vert header|mw=35px|stp=1|[[Sandrine Rousseau]] [[The Ecologists|(LE)]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier]] [[The Ecologists|(LE)]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Élisabeth Borne]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Yaël Braun-Pivet]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Castex]] [[Independent politician|(IND)]]}}
+! {{vert header|mw=35px|stp=1|[[Gérald Darmanin]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Le Maire]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[François Bayrou]] [[Democratic Movement (France)|(MD)]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]] [[Horizons (political party)|(HOR)]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Lassalle]][[Résistons|(RES)]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]] [[Nous France|(NF)]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez]] [[The Republicans (France)|(LR)]]}}
+! {{vert header|mw=35px|stp=1|[[Michel Barnier]] [[The Republicans (France)|(LR)]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]] [[The Republicans (France)|(LR)]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]] [[Debout la France|(DLF)]]}}
+! {{vert header|mw=35px|stp=1|[[Jordan Bardella]] [[National Rally|(RN)]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]] [[National Rally|(RN)]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]] [[Reconquête|(R!)]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Place Publique}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Democratic Movement (France)}};"|
+! style="background:{{party color|Horizons (political party)}};"|
+! style="background:{{party color|Résistons!}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| rowspan="4" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2025/03/121520-Resultats-Intention-de-Vote-Presidentielle-1.pdf Ifop]
+| rowspan="4" {{Opdrts|26|27|Mar|2025|year}}
+| rowspan="4" |1,119
+|1%
+|1%
+|4%
+|12%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''25%'''
+| –
+| –
+|5%
+| –
+|–
+|4%
+| – 
+|style="background:#C1CCE1;"| '''36%'''
+|5%
+|-
+|1%
+|1%
+|3%
+|13%
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''21%'''
+| –
+| –
+| –
+| –
+|11%
+|3%
+| – 
+|style="background:#C1CCE1;"| '''34%'''
+|5%
+|-
+|1%
+|1%
+|4%
+|13%
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+|3%
+| style="background:#FFF8CA;"| '''20%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|8%
+| –
+| –
+|3%
+| – 
+|style="background:#C1CCE1;"| '''37%'''
+|5%
+|-
+|1%
+|1%
+|2%
+|13%
+| –
+| –
+| –
+| –
+| –
+|11%
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''20%'''
+| –
+| –
+|5%
+| –
+| –
+|3%
+| – 
+|style="background:#C1CCE1;"| '''35%'''
+|5%
+|-
+| rowspan="4" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/12/121270-Resultats.pdf Ifop]
+| rowspan="4" {{Opdrts|6|9|Dec|2024|year}}
+| rowspan="4" |1,101
+|1%
+|0.5%
+|3%
+|12%
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+|4.5%
+| style="background:#FFF8CA;"| '''20%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|1%
+| –
+|8%
+| –
+|–
+|3%
+| – 
+|style="background:#C1CCE1;"| '''38%'''
+|4%
+|-
+|1%
+|0.5%
+|3%
+|11%
+| –
+| –
+| –
+|–
+| 7%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''24%'''
+|1.5%
+| –
+|6%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;" | '''35%'''
+|4%
+|-
+|0.5%
+|0.5%
+|3%
+|12%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|4.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''25%'''
+| 1%
+| –
+|6%
+| –
+|–
+|3.5%
+| – 
+| style="background:#C1CCE1;" | '''36%'''
+|4%
+|-
+|1%
+|0.5%
+|3%
+|12%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+|1.5%
+| –
+|6.5%
+| –
+| –
+|3.5%
+| style="background:#C1CCE1;" | '''34%'''
+| –
+|3%
+|-
+| rowspan="6" style="background:#80fcd4;" ;"|[https://www.challenges.fr/politique/presidentielle-2027-le-sondage-confidentiel-qui-a-de-quoi-inquieter-attal-et-melenchon_905503 OpinionWay]
+| rowspan="6" {{Opdrts|11|12|Sep|2024|year}}
+| rowspan="6"|1,009
+| –
+| –
+|4%
+|10%
+| –
+| –
+| –
+| –
+| –
+|14%
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+| –
+| –
+|5%
+| –
+|–
+| –
+| –
+|style="background:#C1CCE1;"| '''35%'''
+|5%
+|-
+|1%
+|2%
+| –
+|15%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''31%'''
+| –
+|7%
+| –
+| –
+| –
+| –
+| –
+|style="background:#C1CCE1;"| '''40%'''
+|4%
+|-
+| –
+| –
+|3%
+|10%
+| –
+| –
+| –
+| –
+| –
+|12%
+| –
+|1%
+| –
+|8%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''23%'''
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+|style="background:#C1CCE1;"| '''34%'''
+|4%
+|-
+|1%
+|2%
+| –
+|14%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|10%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''25%'''
+| –
+| –
+|6%
+| –
+|–
+| –
+| –
+|style="background:#C1CCE1;"| '''38%'''
+|4%
+|-
+| –
+| –
+| –
+|4%
+|10%
+| –
+| –
+| –
+| –
+|14%
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''28%'''
+| –
+| –
+|4%
+| –
+|–
+| –
+|style="background:#C1CCE1;"| '''35%'''
+| –
+|4%
+|-
+| –
+| –
+|4%
+|10%
+| –
+| –
+| –
+| –
+| –
+|14%
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''27%'''
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+|style="background:#C1CCE1;"| '''36%'''
+|4%
+|-
+| rowspan="4" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/09/121066-Resultats.pdf Ifop]
+| rowspan="4" {{Opdrts|6|9|Sep|2024|year}}
+| rowspan="4" |1,107
+|1%
+|1%
+|6%
+|10%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|6%
+| style="background:#FFF8CA;"| '''24%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|3%
+| –
+|5%
+| –
+| –
+|2%
+| – 
+|style="background:#C1CCE1;"| '''35%'''
+|3%
+|-
+|1%
+|1%
+|5%
+|10%
+| –
+| –
+| –
+|–
+| 8%
+| –
+| –
+| –
+|5%
+| style="background:#FFF8CA;" | '''22%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|3%
+| –
+|5%
+| –
+| –
+|2%
+| –
+| style="background:#C1CCE1;" | '''35%'''
+|3%
+|-
+|1%
+|1.5%
+|6%
+|9%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''27%'''
+| 3%
+| –
+|4%
+| –
+| –
+|2%
+| – 
+| style="background:#C1CCE1;" | '''34%'''
+|3.5%
+|-
+|0.5%
+|1%
+|6%
+|9.5%
+| –
+| –
+| –
+|–
+| 7%
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+|2%
+| –
+|4%
+| –
+| –
+|2%
+| –
+| style="background:#C1CCE1;"| '''34%'''
+|3%
+|-
+| rowspan="4" style="background:GreenYellow;"|[https://harris-interactive.fr/wp-content/uploads/sites/6/2024/07/Rapport-Harris-IV-Presidentielle-2027-Challenges-Juillet-2024.pdf Harris Interactive]
+| rowspan="4" {{Opdrts|7|8|Jul|2024|year}}
+| rowspan="4"|2,496
+|1%
+|2%
+|3%
+|15%
+| –
+| –
+| –
+| –
+| –
+|14%
+| -
+| –
+|3%
+| style="background:#FFF8CA;"| '''20%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+|2%
+| –
+| style="background:#C1CCE1;"| '''31%'''
+|4%
+|-
+|1%
+|1%
+|3%
+|15%
+| –
+| –
+| –
+| –
+| –
+|14%
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| -
+| –
+| style="background:#D8D8F4;"| '''22%'''
+| –
+| –
+|5%
+| –
+| –
+|2%
+| –
+| style="background:#C1CCE1;"| '''31%'''
+|3%
+|-
+|1%
+|2%
+|5%
+|16%
+| –
+| –
+| –
+|6%
+| –
+| –
+| –
+| –
+|4%
+| style="background:#FFF8CA;"| '''23%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|5%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|4%
+|-
+|1%
+|2%
+|4%
+|17%
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+| –
+| -
+| –
+| style="background:#D8D8F4;"| '''24%'''
+| –
+| –
+|5%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|4%
+|-
+| rowspan="9" style="background:#FFCCCC;"|[https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf Ifop]
+| rowspan="9" {{Opdrts|16|18|Apr|2024|year}}
+| rowspan="9"|1,090
+|1%
+|2%
+|5%
+|13%
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+|2%
+| style="background:#FFF8CA;"| '''22%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|2.5%
+| –
+|8%
+| –
+|–
+|2.5%
+| style="background:#C1CCE1;"| '''30%'''
+| –
+|9%
+|-
+|1.5%
+|0.5%
+|4.5%
+|14%
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+| –
+| –
+|5%
+| –
+|–
+|2%
+| style="background:#C1CCE1;"| '''33%'''
+| –
+|7%
+|-
+|2%
+|1.5%
+|6%
+| style="background:#E6D8F3;"| '''15%'''
+| –
+| –
+| –
+|5.5%
+| –
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+|12%
+| –
+| –
+| –
+|2%
+| –
+|8.5%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''36%'''
+|6.5%
+|-
+|1.5%
+|1.5%
+|5%
+| style="background:#E6D8F3;"| '''16%'''
+| –
+| –
+| –
+|4.5%
+| –
+| –
+| –
+| –
+|2.5%
+| –
+| –
+| –
+| –
+| –
+|14%
+| –
+| –
+|2%
+| –
+|8%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''35%'''
+|7%
+|-
+|1%
+|2%
+|4%
+|14%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|3%
+| style="background:#FFF8CA;"| '''20%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|2%
+| –
+|7%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''35%'''
+|6%
+|-
+|1.5%
+|1.5%
+|4.5%
+|13%
+| –
+| –
+| –
+|4.5%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''24%'''
+|2%
+| –
+|5%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''34%'''
+|5%
+|-
+|1.5%
+|1%
+|5%
+|13%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|2.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''24%'''
+|2%
+|6%
+| –
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6%
+|-
+|1%
+|2%
+|5.5%
+|12%
+| –
+| –
+| –
+| –
+|8%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''24%'''
+|2%
+| –
+|5%
+| –
+|–
+|2%
+| – 
+| style="background:#C1CCE1;"| '''32%'''
+|6.5%
+|-
+|1.5%
+|2%
+|5%
+| –
+|7%
+| –
+| –
+|3.5%
+| –
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+|3%
+| –
+|5%
+| –
+|–
+|2.5%
+| – 
+| style="background:#C1CCE1;"| '''35%'''
+|6.5%
+|-
+| style="background:#d9fff6;" rowspan="2"|[http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf Cluster17]
+| rowspan="2"|2–5 Apr 2024
+| rowspan="2"|1,686
+| –
+|2%
+| –
+| –
+| style="background:#FBD7D2;"| '''29%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|25%
+| –
+| –
+|4.5%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''31%'''
+|6.5%
+|-
+| –
+|3%
+| –
+|18%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''31%'''
+| –
+| –
+|5%
+| –
+|–
+|4%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|7%
+|-
+| rowspan="2" style="background:#FFCCCC;"|[https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf Ifop]
+| rowspan="2" {{Opdrts|31|1|Feb|2024|year}}
+| rowspan="2"|1,081
+|1.5%
+|1.5%
+|4%
+|14%
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+|2%
+| style="background:#FFF8CA;"| '''22%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|3%
+| –
+|5.5%
+| –
+|–
+|2.5%
+| – 
+| style="background:#C1CCE1;"| '''36%'''
+|6%
+|-
+|1.5%
+|1.5%
+|4.5%
+|14%
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+|2.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''22%'''
+|3%
+| –
+|4.5%
+| –
+|–
+|2.5%
+| – 
+| style="background:#C1CCE1;"| '''36%'''
+|6%
+|-
+| rowspan="4" style="background:#FFCCCC;"|[https://www.ifop.com/wp-content/uploads/2024/01/120560-Resultats.pdf Ifop]
+| rowspan="4" {{Opdrts|9|10|Jan|2024|year}}
+| rowspan="4"|1,144
+|1%
+|2%
+|5%
+|14.5%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|1%
+| style="background:#FFF8CA;"| '''24%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|2.5%
+| –
+|6%
+| –
+|–
+|3%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+|9%
+|-
+|0.5%
+|1.5%
+|6%
+|15%
+| –
+| –
+| –
+|3.5%
+| –
+| –
+| –
+| –
+|1.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+|2.5%
+| –
+|6%
+| –
+|–
+|2.5%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+|8%
+|-
+|0.5%
+|2%
+|6.5%
+|14%
+| –
+| –
+| –
+|3.5%
+| –
+| –
+| –
+| –
+|1.5%
+| style="background:#FFF8CA;"| '''23%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|2.5%
+| –
+|6%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|6.5%
+|-
+|0.5%
+|1.5%
+|6%
+|13%
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''25%'''
+|2.5%
+| –
+|5%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6.5%
+|-
+| rowspan="5" style="background:#FFCCCC;"|[https://www.ifop.com/wp-content/uploads/2023/10/119940-Rapport.pdf Ifop]
+| rowspan="5" {{Opdrts|24|25|Oct|2023|year}}
+| rowspan="5"|1,179
+|1%
+|1%
+|6%
+|14%
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+|2%
+| style="background:#FFF8CA;"| '''19%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|4%
+| –
+|6%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6%
+|-
+|1.5%
+|1.5%
+|6%
+|15%
+| –
+| –
+| –
+|6%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+| style="background:#FFF8CA;"| '''16%'''
+| –
+| –
+| –
+|3.5%
+| –
+|6%
+| –
+|–
+|2.5%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|7%
+|-
+|1.5%
+|1%
+|7%
+|15%
+| –
+| –
+| –
+|5.5%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFF8CA;"| '''18%'''
+| –
+| –
+|3%
+| –
+|6%
+| –
+|–
+|2.5%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|6.5%
+|-
+|1.5%
+|2%
+|7.5%
+| –
+|7%
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+|2.5%
+| –
+|6%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|6.5%
+|-
+|1%
+|2%
+|6%
+|14%
+| –
+| –
+| –
+|4%
+| –
+| –
+| –
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''25%'''
+|2.5%
+| –
+|5%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''31%'''
+|6.5%
+|-
+| rowspan="8" style="background:GreenYellow;"|[http://harris-interactive.fr/wp-content/uploads/sites/6/2023/09/Rapport-Toluna-Harris-IV-Presidentielle-2027-Challenges-septembre-2023.pdf Harris Interactive]
+| rowspan="8" {{Opdrts|1|4|Sep|2023|year}}
+| rowspan="8"|2,525
+|1%
+|2%
+|6%
+| style="background:#E6D8F3;"| '''16%'''
+| –
+|7%
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFF8CA;"| '''16%'''
+| –
+| –
+| –
+| –
+|7%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|6%
+|-
+|1%
+|2%
+|6%
+| style="background:#E6D8F3;"| '''16%'''
+| –
+|8%
+| –
+| –
+| –
+| –
+|6%
+| –
+| –
+| –
+| –
+| –
+| –
+|14%
+| –
+| –
+| –
+| –
+| –
+|7%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|6%
+|-
+|1%
+|2%
+|6%
+| style="background:#E6D8F3;"| '''16%'''
+| –
+|9%
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+|11%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|9%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6%
+|-
+|1%
+|2%
+|6%
+| style="background:#E6D8F3;"| '''17%'''
+| –
+|10%
+| –
+| –
+| –
+| –
+|7%
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|10%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6%
+|-
+|1%
+|2%
+|5%
+| style="background:#E6D8F3;"| '''16%'''
+| –
+|8%
+| –
+| –
+| –
+| –
+|7%
+| –
+| –
+|12%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|8%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|7%
+|-
+|1%
+|2%
+|6%
+| style="background:#E6D8F3;"| '''17%'''
+| –
+|9%
+| –
+| –
+| –
+| –
+|6%
+| –
+| –
+| –
+| –
+| –
+|9%
+| –
+| –
+| –
+| –
+| –
+| –
+|9%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6%
+|-
+|1%
+|2%
+|6%
+| style="background:#E6D8F3;"| '''16%'''
+| –
+|10%
+| –
+| –
+| –
+| –
+|6%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|8%
+| –
+| –
+| –
+|9%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+|6%
+|-
+|1%
+|2%
+|6%
+|16%
+| –
+|5%
+| –
+| –
+| –
+| –
+|5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''22%'''
+| –
+| –
+|5%
+| –
+|–
+|2%
+| –
+| style="background:#C1CCE1;"| '''30%'''
+|6%
+|-
+| style="background:#80fcd4;" ;"|[http://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9689-pres-ow-le-figaro-magazine.pdf OpinionWay]
+|{{Opdrts|12|13|Apr|2023|year}}
+|1,038
+| 1%
+| 3%
+| –
+| 17%
+| –
+| –
+| –
+| 6%
+| –
+| –
+| –
+| 2%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#BEBEDE;"| '''32%'''
+| –
+| –
+| 7%
+| –
+|–
+| –
+| style="background:#E0E5F0;"| '''23%'''
+| –
+| 9%
+|-
+| rowspan="4" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2023/04/Rapport-Harris-IV-Presidentielle-2027-Challenges-avril-2023.pdf Harris Interactive]
+| rowspan="4"| 6–7 Apr 2023
+| rowspan="4"| 1,320
+| 1%
+| 1%
+| 4%
+| 16%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| 4%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''24%'''
+| –
+| –
+| 5%
+| –
+|–
+| 2%
+| –
+| style="background:#C1CCE1;"| '''30%'''
+| 7%
+|-
+| 1%
+| 1%
+| 5%
+| style="background:#E6D8F3;"| '''18%'''
+| –
+| 7%
+| –
+| –
+| –
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| 5%
+| –
+|–
+| 2%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+| 7%
+|-
+| 1%
+| 1%
+| 5%
+| style="background:#E6D8F3;"| '''19%'''
+| –
+| 8%
+| –
+| –
+| –
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| –
+|–
+| 2%
+| –
+| style="background:#C1CCE1;"| '''33%'''
+| 8%
+|-
+| 1%
+| 1%
+| 4%
+| 17%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 4%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''24%'''
+| –
+| –
+| 5%
+| –
+|–
+| 2%
+| –
+| style="background:#C1CCE1;"| '''31%'''
+| 7%
+|-
+| rowspan="5" style="background:#FFCCCC;"|[https://www.lefigaro.fr/politique/presidentielle-le-sondage-qui-bouleverse-le-jeu-20230405 Ifop]
+| rowspan="5" {{Opdrts|30|31|Mar|2023|year}}
+| rowspan="5"|1,105
+|1%
+|2.5%
+|5%
+|17%
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''26%'''
+|2%
+| –
+|5%
+| –
+|–
+|2.5%
+| –
+| style="background:#C1CCE1;"| '''29%'''
+|6%
+|-
+|1%
+|2.5%
+| –
+|22%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;"| '''28%'''
+|2.5%
+| –
+|4%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''31%'''
+|6%
+|-
+|1%
+|2.5%
+|6%
+| style="background:#E6D8F3;"| '''20%'''
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+|18%
+| –
+| –
+|2.5%
+| –
+|6%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''32%'''
+|6%
+|-
+|0.5%
+|2.5%
+|5%
+| style="background:#E6D8F3;"| '''20%'''
+| –
+| –
+| –
+|3%
+| –
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+|11%
+| –
+| –
+| –
+|2%
+| –
+|8%
+| –
+|–
+|4%
+| –
+| style="background:#C1CCE1;"| '''35%'''
+|7%
+|-
+|1%
+|1.5%
+|6.5%
+| style="background:#E6D8F3;"| '''20%'''
+| –
+| –
+| –
+|2%
+| –
+| –
+| –
+| –
+|1%
+| –
+| –
+| –
+| –
+| –
+| –
+|9%
+| –
+|3%
+| –
+|10%
+| –
+|–
+|3%
+| –
+| style="background:#C1CCE1;"| '''36%'''
+|7%
+|- style="background:#E9E9E9;"
+|[[2022 French presidential election|2022 election]]
+|{{Opdrts||10|Apr|2022|year}}
+| –
+|0.56%
+|0.76%
+|2.28%
+|21.95%
+|
+| –
+| –
+| –
+| –
+| –
+|4.63%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|3.13%
+| –
+| –
+| –
+|–
+|2.06%
+| –
+| style="background:#E0E5F0;"| '''23.15%'''
+|7.07%
+|}
+
+== Second round ==
+This round occurs if no candidate earns an absolute majority of the votes (excluding blank and void ballots) in the first round. The two candidates who receive the most votes in the first round move on to the second round with the candidate who receives the most votes being declared the winner.
+
+===Philippe vs. Le Pen===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Edouard Philippe 3x4 crop.jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[Édouard Philippe|Philippe]]<br/>{{small|[[Horizons (political party)|HOR]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Horizons (political party)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#80fcd4;"|[https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
+| {{Opdrts|21|22|Oct|2026|year}}
+| 973
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf Harris Interactive]
+| {{Opdrts|19|21|October|2026|year}}
+| 2,094
+|43%
+|style="background:#C1CCE1;" |'''57%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf Ifop]
+| {{Opdrts|17|19|Oct|2026|year}}
+| 1,928
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:#CAD5F7;"|[https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html Elabe]
+| {{Opdrts|14|16|Oct|2026|year}}
+| 1,701
+|47.5%
+|style="background:#C1CCE1;" |'''52.5%'''
+|-
+| style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf YouGov]
+| {{Opdrts|12|15|Oct|2026|year}}
+| 1,094
+|48%
+|style="background:#C1CCE1;" |'''52%'''
+|-
+| style="background:#80fcd4;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf OpinionWay]
+| {{Opdrts|13|14|Oct|2026|year}}
+| 1,043
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf Harris Interactive]
+| {{Opdrts|5|8|October|2026|year}}
+| 2,004
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf Harris Interactive]
+| {{Opdrts|22|24|September|2026|year}}
+| 1,974
+|43%
+|style="background:#C1CCE1;" |'''57%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf Harris Interactive]
+| {{Opdrts|8|10|September|2026|year}}
+| 2,052
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf Ifop]
+| {{Opdrts|24|25|Aug|2026|year}}
+| 1,598
+|48%
+|style="background:#C1CCE1;" |'''52%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf Harris Interactive]
+| {{Opdrts|18|19|August|2026|year}}
+| 1,764
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:#d9fff6;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf Cluster17]
+| {{Opdrts|22|24|July|2026|year}}
+| 1,506
+|48%
+|style="background:#C1CCE1;" |'''52%'''
+|-
+| style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723 Harris Interactive]
+| {{Opdrts|7|8|July|2026|year}}
+| 1,582
+|49%
+|style="background:#C1CCE1;" |'''51%'''
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf Ifop]
+| {{Opdrts|7|8|July|2026|year}}
+| 984
+|46%
+|style="background:#C1CCE1;" |'''54%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| {{Opdrts|25|27|May|2026|year}}
+| 1,744
+|48%
+|style="background:#C1CCE1;" |'''52%'''
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| {{Opdrts|25|27|Mar|2026|year}}
+| 1,504
+| style="background:#AFAFD7;" |'''53%'''
+|47%
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+|{{Opdrts|23|24|Apr|2025|year}}
+|1,005
+| style="background:#AFAFD7;" |'''54%'''
+|46%
+|-
+|style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf Ifop]
+|{{Opdrts|20|24|Apr|2024|year}}
+|1,081
+|49%
+|style="background:#C1CCE1;" |'''51%'''
+|-
+|style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+|{{Opdrts|11|18|Apr|2025|year}}
+|9,128
+| style="background:#AFAFD7;" | '''52%'''
+|48%
+|-
+| rowspan="1" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf Ifop]
+| rowspan="1" {{Opdrts|31|1|Feb|2024|year}}
+| rowspan="1" |1,081
+| style="background:#D8D8F4;" |'''50%'''
+| style="background:#C1CCE1;" |'''50%'''
+|}
+
+===Attal vs. Le Pen===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Gabriel Attal 2025 (close crop).jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[Gabriel Attal|Attal]]<br/>{{small|[[Renaissance (French political party)|RE]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Renaissance (French political party)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf Ifop]
+| {{Opdrts|17|19|Oct|2026|year}}
+| 1,928
+|42%
+|style="background:#C1CCE1;" |'''58%'''
+|-
+| style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf YouGov]
+| {{Opdrts|12|15|Oct|2026|year}}
+| 1,094
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf Harris Interactive]
+| {{Opdrts|8|10|September|2026|year}}
+| 2,052
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf Ifop]
+| {{Opdrts|24|25|Aug|2026|year}}
+| 1,598
+|46%
+|style="background:#C1CCE1;" |'''54%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf Harris Interactive]
+| {{Opdrts|18|19|August|2026|year}}
+| 1,764
+|43%
+|style="background:#C1CCE1;" |'''57%'''
+|-
+| style="background:#d9fff6;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf Cluster17]
+| {{Opdrts|22|24|July|2026|year}}
+| 1,506
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723 Harris Interactive]
+| {{Opdrts|7|8|July|2026|year}}
+| 1,582
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf Ifop]
+| {{Opdrts|7|8|July|2026|year}}
+| 984
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| {{Opdrts|25|27|May|2026|year}}
+| 1,744
+|46%
+|style="background:#C1CCE1;" |'''54%'''
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| {{Opdrts|25|27|Mar|2026|year}}
+| 1,504
+|49%
+|style="background:#C1CCE1;" |'''51%'''
+|-
+|style="background:#FFCCCC;"  |[https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf Ifop]
+|{{Opdrts|20|24|Apr|2024|year}}
+||1,081
+|47%
+| style="background:#C1CCE1;" |'''53%'''
+|-
+|style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf Ifop]
+|{{Opdrts|31|1|Feb|2024|year}}
+||1,081
+|49%
+| style="background:#C1CCE1;" |'''51%'''
+|}
+
+===Glucksmann vs. Le Pen===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:1720448398743 20240708 GLUCKSMANN Raphael FR 006.jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[Raphaël Glucksmann|Glucksmann]]<br/>{{small|[[Place Publique|PP]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#80fcd4;"|[https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
+| {{Opdrts|21|22|Oct|2026|year}}
+| 973
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf Harris Interactive]
+| {{Opdrts|19|21|October|2026|year}}
+| 2,094
+|41%
+|style="background:#C1CCE1;" |'''59%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf Ifop]
+| {{Opdrts|17|19|Oct|2026|year}}
+| 1,928
+|43%
+|style="background:#C1CCE1;" |'''57%'''
+|-
+| style="background:#CAD5F7;"|[https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html Elabe]
+| {{Opdrts|14|16|Oct|2026|year}}
+| 1,701
+|46.5%
+|style="background:#C1CCE1;" |'''53.5%'''
+|-
+| style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf YouGov]
+| {{Opdrts|12|15|Oct|2026|year}}
+| 1,094
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:#80fcd4;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf OpinionWay]
+| {{Opdrts|13|14|Oct|2026|year}}
+| 1,043
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+|bgcolor=#CAD5F7| [https://elabe.fr/presidentielle-2027-aout/ Elabe]
+| {{Opdrts|26|28|Aug|2026|year}}
+| 1,501
+| 43%
+|bgcolor=C1CCE1| '''57%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf Ifop]
+| {{Opdrts|24|25|Aug|2026|year}}
+| 1,598
+|45%
+|style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:#d9fff6;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf Cluster17]
+| {{Opdrts|22|24|July|2026|year}}
+| 1,506
+|44%
+|style="background:#C1CCE1;" |'''56%'''
+|-
+|}
+
+=== Mélenchon vs. Le Pen ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Mélenchon 2027 - 55262255527 (cropped 3-4) (cropped).png|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+! style="background:{{party color|La France Insoumise}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+!{{small|[[Jean-Luc Mélenchon|Mélenchon]]<br/>{{small|[[La France Insoumise|LFI]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+| style="background:#80fcd4;"|[https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
+| {{Opdrts|21|22|Oct|2026|year}}
+| 973
+|31%
+|style="background:#C1CCE1;" |'''69%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf Harris Interactive]
+| {{Opdrts|19|21|October|2026|year}}
+| 2,094
+|30%
+|style="background:#C1CCE1;" |'''70%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf Ifop]
+| {{Opdrts|17|19|Oct|2026|year}}
+| 1,928
+|32%
+|style="background:#C1CCE1;" |'''68%'''
+|-
+| style="background:#CAD5F7;"|[https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html Elabe]
+| {{Opdrts|14|16|Oct|2026|year}}
+| 1,701
+|31%
+|style="background:#C1CCE1;" |'''69%'''
+|-
+| style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf YouGov]
+| {{Opdrts|12|15|Oct|2026|year}}
+| 1,094
+|32%
+|style="background:#C1CCE1;" |'''68%'''
+|-
+| style="background:#80fcd4;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf OpinionWay]
+| {{Opdrts|13|14|Oct|2026|year}}
+| 1,043
+|32%
+|style="background:#C1CCE1;" |'''68%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf Harris Interactive]
+| {{Opdrts|5|8|October|2026|year}}
+| 2,004
+|33%
+|style="background:#C1CCE1;" |'''67%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf Harris Interactive]
+| {{Opdrts|22|24|September|2026|year}}
+| 1,974
+|31%
+|style="background:#C1CCE1;" |'''69%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf Harris Interactive]
+| {{Opdrts|8|10|September|2026|year}}
+| 2,052
+|33%
+|style="background:#C1CCE1;" |'''67%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf Ifop]
+| {{Opdrts|24|25|Aug|2026|year}}
+| 1,598
+|33%
+|style="background:#C1CCE1;" |'''67%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf Harris Interactive]
+| {{Opdrts|18|19|August|2026|year}}
+| 1,764
+|32%
+|style="background:#C1CCE1;" |'''68%'''
+|-
+| style="background:#d9fff6;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf Cluster17]
+| {{Opdrts|22|24|July|2026|year}}
+| 1,506
+|39%
+|style="background:#C1CCE1;" |'''61%'''
+|-
+| style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723 Harris Interactive]
+| {{Opdrts|7|8|July|2026|year}}
+| 1,582
+|33%
+|style="background:#C1CCE1;" |'''67%'''
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf Ifop]
+| {{Opdrts|7|8|July|2026|year}}
+| 984
+|30%
+|style="background:#C1CCE1;" |'''70%'''
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| {{Opdrts|25|27|May|2026|year}}
+| 1,744
+|33%
+|style="background:#C1CCE1;" |'''67%'''
+|-
+| style="background:#d9fff6;" |[http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf Cluster17]
+| 2–5 Apr 2024
+|1,686
+|35%
+| style="background:#C1CCE1;" |'''65%'''
+|-
+| rowspan="1" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf Ifop]
+| rowspan="1" {{Opdrts|31|1|Feb|2024|year}}
+| rowspan="1" |1,081
+| 36%
+| style="background:#C1CCE1;" |'''64%'''
+|}
+
+=== Ruffin vs. Le Pen ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:François Ruffin (cropped).jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[François Ruffin|Ruffin]]<br/>{{small|{{ill|Picardie Debout|lt=PD|fr|Picardie debout}}}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Picardie debout}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#d9fff6;" rowspan="1" |[http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf Cluster17]
+| rowspan="1" | 2–5 Apr 2024
+| rowspan="1" |1,686
+| style="background:#FBD7D2;" |'''50%'''
+| style="background:#C1CCE1;" |'''50%'''
+|}
+
+=== Hollande vs. Le Pen ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:François Hollande - 2017 (27869823159) (cropped 2).jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[François Hollande|Hollande]]<br/>{{small|[[Parti Socialiste (France)|PS]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf Ifop]
+| {{Opdrts|17|19|Oct|2026|year}}
+| 1,928
+|41%
+|style="background:#C1CCE1;" |'''59%'''
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf Ifop]
+| {{Opdrts|24|25|Aug|2026|year}}
+| 1,598
+|46%
+|style="background:#C1CCE1;" |'''54%'''
+|}
+
+=== Retailleau vs. Le Pen ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Bruno Retailleau - Ministre de l'Intérieur français (cropped).jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[Bruno Retailleau|Retailleau]]<br/>{{small|[[The Republicans (France)|LR]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#FFCCCC;"|[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf Ifop]
+| {{Opdrts|24|25|Aug|2026|year}}
+| 1,598
+|42%
+|style="background:#C1CCE1;" |'''58%'''
+|-
+| style="background:#d9fff6;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf Cluster17]
+| {{Opdrts|22|24|July|2026|year}}
+| 1,506
+|43%
+|style="background:#C1CCE1;" |'''57%'''
+|}
+
+=== Declined to be candidates ===
+==== Philippe vs. Bardella ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Edouard Philippe 3x4 crop.jpg|80x80px]]
+![[File:MEP Jordan Bardella.jpg|80x80px]]
+|-
+!{{small|[[Édouard Philippe|Philippe]]<br/>{{small|[[Horizons (political party)|HOR]]}}}}
+!{{small|[[Jordan Bardella|Bardella]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Horizons (political party)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| {{Opdrts|25|27|May|2026|year}}
+| 1,744
+|46%
+|style="background:#C1CCE1;" |'''54%'''
+|-
+| rowspan=1 style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/ Odoxa]
+| rowspan=1 {{Opdrts|20|21|May|2026|year}}
+| rowspan=1 |1,005
+|48%
+| style="background:#C1CCE1;" |'''52%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/spectaculaire-come-back-dedouard-philippe-il-remporterait-aujourdhui-la-presidentielle/ Odoxa]
+| {{Opdrts|25|26|Mar|2026|year}}
+| 1,005
+| style="background:#AFAFD7;" |'''52%'''
+|48%
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| {{Opdrts|25|27|Mar|2026|year}}
+| 1,504
+| style="background:#AFAFD7;" |'''51.5%'''
+|48.5%
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/ Odoxa]
+|{{Opdrts|19|20|Nov|2025|year}}
+|1,300
+|47%
+| style="background:#C1CCE1;" |'''53%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+|{{Opdrts|23|24|Apr|2025|year}}
+|1,005
+| style="background:#AFAFD7;" |'''54%'''
+|46%
+|-
+|style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+|{{Opdrts|11|18|Apr|2025|year}}
+|9,128
+| style="background:#D8D8F4;" |'''50%'''
+| style="background:#C1CCE1;" |'''50%'''
+|}
+
+==== Attal vs. Bardella ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Gabriel Attal 2025 (close crop).jpg|80x80px]]
+![[File:MEP Jordan Bardella.jpg|80x80px]]
+|-
+!{{small|[[Gabriel Attal|Attal]]<br/>{{small|[[Renaissance (French political party)|RE]]}}}}
+!{{small|[[Jordan Bardella|Bardella]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Renaissance (French political party)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| {{Opdrts|25|27|May|2026|year}}
+| 1,744
+|43%
+|style="background:#C1CCE1;" |'''57%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+|{{Opdrts|19|20|Nov|2025|year}}
+|1,300
+|44%
+| style="background:#C1CCE1;" |'''56%'''
+|-
+|style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+|{{Opdrts|11|18|Apr|2025|year}}
+|9,128
+| 48%
+| style="background:#C1CCE1;" |'''52%'''
+|}
+
+==== Glucksmann vs. Bardella ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:1720448398743 20240708 GLUCKSMANN Raphael FR 006.jpg|80x80px]]
+![[File:MEP Jordan Bardella.jpg|80x80px]]
+|-
+!{{small|[[Raphaël Glucksmann|Glucksmann]]<br/>{{small|[[Place Publique|PP]]}}}}
+!{{small|[[Jordan Bardella|Bardella]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| {{Opdrts|25|27|Mar|2026|year}}
+| 1,504
+| 41.5%
+| style="background:#C1CCE1;" |'''58.5%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+|{{Opdrts|19|20|Nov|2025|year}}
+|1,300
+|42%
+| style="background:#C1CCE1;" |'''58%'''
+|}
+
+==== Mélenchon vs. Bardella ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Mélenchon 2027 - 55262255527 (cropped 3-4) (cropped).png|80x80px]]
+![[File:MEP Jordan Bardella.jpg|80x80px]]
+|-
+!{{small|[[Jean-Luc Mélenchon|Mélenchon]]<br/>{{small|[[La France Insoumise|LFI]]}}}}
+!{{small|[[Jordan Bardella|Bardella]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|La France Insoumise}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| {{Opdrts|25|27|May|2026|year}}
+| 1,744
+|32%
+|style="background:#C1CCE1;" |'''68%'''
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| {{Opdrts|25|27|Mar|2026|year}}
+| 1,504
+| 28.5%
+| style="background:#C1CCE1;" |'''71.5%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/ Odoxa]
+|{{Opdrts|19|20|Nov|2025|year}}
+|1,300
+|26%
+| style="background:#C1CCE1;" |'''74%'''
+|-
+|style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+|{{Opdrts|11|18|Apr|2025|year}}
+|9,128
+| 33%
+| style="background:#C1CCE1;" |'''67%'''
+|}
+
+==== Retailleau vs. Bardella ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="3" | Polling<br />firm
+! rowspan="3" |Fieldwork<br />date
+! rowspan="3" | Sample<br />size
+![[File:Bruno Retailleau - Ministre de l'Intérieur français (cropped).jpg|80x80px]]
+![[File:MEP Jordan Bardella.jpg|80x80px]]
+|-
+!{{small|[[Bruno Retailleau|Retailleau]]<br/>{{small|[[The Republicans (France)|LR]]}}}}
+!{{small|[[Jordan Bardella|Bardella]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#CAD5F7;"|[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| {{Opdrts|25|27|Mar|2026|year}}
+| 1,504
+| 42%
+| style="background:#C1CCE1;" |'''58%'''
+|-
+|style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+|{{Opdrts|11|18|Apr|2025|year}}
+|9,128
+| 47%
+| style="background:#C1CCE1;" |'''53%'''
+|}
+
+== Scenario polling ==
+=== Generic candidates ===
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|Generic EXG}}
+! {{vert header|mw=35px|stp=1|Generic LFI}}
+! {{vert header|mw=35px|stp=1|Generic NFP}}
+! {{vert header|mw=35px|stp=1|Generic PS/PP}}
+! {{vert header|mw=35px|stp=1|Generic ENS}}
+! {{vert header|mw=35px|stp=1|Generic DIV}}
+! {{vert header|mw=35px|stp=1|Generic LR}}
+! {{vert header|mw=35px|stp=1|Generic UDR}}
+! {{vert header|mw=35px|stp=1|Generic DLF}}
+! {{vert header|mw=35px|stp=1|Generic RN}}
+! {{vert header|mw=35px|stp=1|Generic REC!}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|New Popular Front}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Ensemble (political coalition)}};"|
+! style="background:{{party color|Others}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Union of the Right for the Republic}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| rowspan="3" style="background:GreenYellow;"|[https://harris-interactive.fr/wp-content/uploads/sites/6/2025/04/Rapport-Toluna-Lhypothese-dune-candidature-commune-de-la-gauche-Avril-2025-V2.pdf Harris Interactive]
+| rowspan="3" {{Opdrts|24|25|Apr|2025|year}}
+| rowspan="3"|1,035
+|3%
+|–
+| style="background:#FBD7D2;"| '''26%'''
+|–
+|19%
+|1%
+|10%
+|2%
+|2%
+|style="background:#C1CCE1;"| '''34%'''
+|3%
+|-
+|2%
+|8%
+| style="background:#FBD7D2;"| '''20%'''
+|–
+|18%
+|1%
+|10%
+|2%
+|2%
+|style="background:#C1CCE1;"| '''34%'''
+|3%
+|-
+|3%
+|–
+|16%
+|13%
+| style="background:#FFEF95;" | '''17%'''
+|1%
+|10%
+|1%
+|2%
+|style="background:#C1CCE1;"| '''34%'''
+|3%
+|}
+
+=== Bardella runs ===
+Due to the [[National Front assistants affair]] and her ensuing [[embezzlement]] conviction, [[Marine Le Pen]] was initially barred from running for public office for five years on 31 March 2025. Therefore, there was speculation that [[Jordan Bardella]] would run instead. However, on 7 July 2026, her election ban was shortened to 15 months, allowing her to run.
+=== Cluster 17 Poll ===
+The Cluster 17 study presents three scenarios featuring different candidates. Édouard Philippe appears in the first scenario but not Gabriel Attal; however, the latter is included in the second scenario. Raphaël Glucksmann is absent only from the third scenario, where he is replaced by François Hollande. Finally, Éric Zemmour appears in the first two scenarios but not the last, where he is replaced by David Lisnard.<ref>{{Cite web|date=2026-09-24|title= publicsenat.fr|url=https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-suivi-de-jean-luc-melenchon-et-edouard-philippe-a-egalite|access-date=2026-09-27|website=publicsenat.fr|language=fr-FR}}</ref>
+==== January – June 2026 ====
+
+{{sticky header}}
+{| class="wikitable sticky-header-multi sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2" | Polling<br />firm
+! rowspan="2" |Fieldwork<br />date
+! rowspan="2" | Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud|Arthaud]] [[Lutte Ouvrière|(LO)]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel|Roussel]] [[French Communist Party|(PCF)]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon|Mélenchon]] [[La France Insoumise|(LFI)]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin|Ruffin]] [[Debout!|(D!)]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure|Faure]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande|Hollande]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann|Glucksmann]] [[Place Publique|(PP)]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier|Tondelier]] [[The Ecologists|(LE)]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal|Attal]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Gérald Darmanin|Darmanin]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Sébastien Lecornu|Lecornu]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe|Philippe]] [[Horizons (France)|(HOR)]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin|de Villepin]] [[Humanist France|(LFH)]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau|Retailleau]] [[The Republicans (France)|(LR)]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan|Dupont-Aignan]] [[Debout la France|(DLF)]]}}
+! {{vert header|mw=35px|stp=1|[[Jordan Bardella|Bardella]] [[National Rally|(RN)]]}}
+! {{vert header|mw=35px|stp=1|[[Sarah Knafo|Knafo]] [[Reconquête|(R!)]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour|Zemmour]] [[Reconquête|(R!)]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};" |
+! style="background:{{party color|French Communist Party}};" |
+! style="background:{{party color|La France Insoumise}};" |
+! style="background:{{party color|Picardie debout}};" |
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};" |
+! style="background:{{party color|Renaissance (French political party)}};" |
+! style="background:{{party color|Renaissance (French political party)}};" |
+! style="background:{{party color|Renaissance (French political party)}};" |
+! style="background:{{party color|Horizons (political party)}};" |
+! style="background:{{party color|United Republic}};" |
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};" |
+! style="background:{{party color|Reconquête (political party)}};" |
+! style="background:{{party color|Reconquête (political party)}};" |    
+|-
+
+| rowspan="5" style="background:#FFCCCC;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10211-pres-iv-ifop-le-figaro-25-juin.pdf Ifop]
+| rowspan="5" {{Opdrts|22|24|Jun|2026|year}}
+| rowspan="5" |1,415
+|0.5%
+|3%
+|13%
+| –
+| –
+| –
+|10%
+|3.5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''19%'''
+| –
+|9%
+
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+|0.5%
+|3%
+|13%
+| –
+| –
+| –
+|9%
+|2.5%
+|8%
+| –
+|
+
+| style="background:#D8D8F4;" | '''14%'''
+| –
+|8%
+
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+|0.5%
+|2.5%
+|13%
+| –
+| –
+| –
+|11%
+|3.5%
+| style="background:#FFF8CA;" | '''15%'''
+| –
+| –
+
+| –
+| –
+|11%
+
+|2%
+| style="background:#C1CCE1;" |'''37%'''
+
+| –
+|4.5%
+
+|-
+|1.5%
+| –
+|15%
+| –
+| –
+|9%
+| –
+| –
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''21%'''
+| –
+|10%
+
+|3%
+| style="background:#C1CCE1;" |'''37%'''
+
+| –
+|3.5%
+
+|-
+|1.5%
+| –
+|14%
+| –
+| –
+| –
+|11%
+| –
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''20%'''
+| –
+|11%
+
+|2.5%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+| rowspan="3" style="background:#80fcd4;" |[https://www.lejdd.fr/politique/sondage-exclusif-presidentielle-un-premier-tour-plus-ouvert-que-jamais-176379 OpinionWay]
+| rowspan="3" {{Opdrts|10|11|June|2026|year}}
+| rowspan="3" |1,001
+| 1%
+| –
+| 16%
+| –
+| –
+| – 
+| 16%
+| –
+| –
+| –
+| – 
+|style="background:#D8D8F4;" | '''19%'''
+| –
+| 9%
+| 2%
+| style="background:#C1CCE1;" |'''34%'''
+| –
+| 3%
+|-
+| 1%
+| 3%
+| 13%
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''19%'''
+| –
+| 8%
+| 2%
+| style="background:#C1CCE1;" |'''33%'''
+| –
+| 3%
+|-
+| 1%
+| 4%
+| 13%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''14%'''
+| –
+| style="background:#FFF8CA;" | '''14%'''
+| –
+| –
+| –
+| –
+| 9%
+| 2%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| 4%
+|-
+| rowspan="6" style="background:#04FBF4;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10195-pres-ipsos-bva-le-parisien-1er-juin.pdf Ipsos]
+| rowspan="6" {{Opdrts|27|28|May|2026|year}}
+| rowspan="6" |1,500
+|1%
+|3%
+| style="background:#FBD7D2;" | '''13.5%'''
+| –
+| –
+| 7%
+|–
+|4%
+|9.5%
+| –
+| –
+
+| style="background:#D8D8F4;" | '''13.5%'''
+| –
+|8%
+
+|1.5%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|4%
+
+|-
+|1%
+|4%
+| style="background:#FBD7D2;" | '''13%'''
+| –
+| –
+| –
+|11%
+|4%
+|8.5%
+| –
+| –
+
+| style="background:#D8D8F4;" | '''13%'''
+| –
+|7.5%
+
+|1.5%
+| style="background:#C1CCE1;" |'''33.5%'''
+
+| –
+|4%
+
+|-
+|1%
+|3%
+|13.5%
+| –
+| –
+|7.5%
+| –
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''19%'''
+| –
+|9%
+
+|1.5%
+| style="background:#C1CCE1;" |'''35.5%'''
+
+| –
+|4%
+
+|-
+|1%
+|3.5%
+|13.5%
+| –
+| –
+|8%
+| –
+|5%
+|style="background:#FFF8CA;" | '''17.5%'''
+| –
+| –
+
+| –
+| –
+|10%
+
+|1.5%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+|1%
+|3%
+|13%
+| –
+| –
+| –
+|13%
+|4%
+| –
+| –
+| –
+
+|style="background:#D8D8F4;" | '''17.5%'''
+| –
+|9%
+
+|1.5%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|4%
+
+|-
+|1%
+|3%
+|13%
+| –
+| –
+| –
+|14%
+|4%
+|style="background:#FFF8CA;" | '''14.5%'''
+| –
+| –
+
+| –
+| –
+|10%
+
+|1.5%
+| style="background:#C1CCE1;" |'''35%'''
+
+| –
+|4%
+
+|-
+| rowspan="9" style="background:#FFCCCC;" |[https://www.sudradio.fr/wp-content/uploads/2026/05/Resultats-Intention-de-Vote-Presidentielle-au-29-mai-2026.pdf Ifop]
+| rowspan="9" {{Opdrts|26|28|May|2026|year}}
+| rowspan="9" |1,368
+|0.5%
+|3%
+|12.5%
+|3%
+| –
+| –
+|9%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''20%'''
+| –
+|9%
+
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|3%
+
+|-
+|0.5%
+|6%
+|13.5%
+| –
+|4%
+| –
+| –
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''21%'''
+| –
+|10%
+
+|2.5%
+| style="background:#C1CCE1;" |'''35%'''
+
+| –
+|3.5%
+
+|-
+|1%
+|3%
+|13.5%
+| –
+| –
+|8%
+| –
+|5%
+| style="background:#FFF8CA;" | '''18.5%'''
+| –
+| –
+
+| –
+| –
+|10%
+
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+
+| –
+|3.5%
+
+|-
+|0.5%
+|4%
+|14%
+| –
+| –
+|8%
+| –
+|5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''20%'''
+| –
+|9%
+
+|1.5%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|4%
+
+|-
+|1.5%
+| –
+|15%
+| –
+| –
+|11%
+| –
+| –
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''22%'''
+| –
+|10%
+
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|4%
+
+|-
+|1%
+| –
+|15%
+| –
+| –
+| –
+|12%
+| –
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''22%'''
+| –
+|10%
+
+|3%
+| style="background:#C1CCE1;" |'''33%'''
+
+| –
+|4%
+
+|-
+|0.5%
+|3%
+|13%
+| –
+| –
+| –
+|11%
+|4%
+| style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+
+| –
+|2.5%
+|10%
+
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|3%
+
+|-
+|0.5%
+|2.5%
+|13%
+| –
+| –
+| –
+|9%
+|4%
+|9%
+| –
+| –
+
+| style="background:#D8D8F4;" | '''14%'''
+| –
+|8%
+
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|4%
+
+|-
+|0.5%
+|3.5%
+|13%
+| –
+| –
+| –
+|10%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''18%'''
+|2.5%
+|9%
+
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|3.5%
+
+|-
+| rowspan="3" style="background:GreenYellow;" |[https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf Harris Interactive]
+| rowspan="3" {{Opdrts|25|27|May|2026|year}}
+| rowspan="3" |1,744
+|1%
+|3%
+| style="background:#FBD7D2;" | '''14%'''
+| –
+| –
+| –
+|10%
+|3%
+|9%
+| –
+| –
+
+| 13%
+| –
+|8%
+
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+
+| –
+|5%
+
+|-
+|1%
+|4%
+| style="background:#FBD7D2;" | '''15%'''
+| –
+| –
+| –
+|11%
+|3%
+|14%
+| –
+| –
+
+| –
+| –
+|10%
+
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|6%
+
+|-
+|1%
+|3%
+|15%
+| –
+| –
+| –
+|10%
+|3%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''17%'''
+| –
+|9%
+
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|6%
+
+|-
+| rowspan="1" style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/ Odoxa]
+| rowspan=1 {{Opdrts|20|21|May|2026|year}}
+| rowspan="1" |1,005
+|0.5%
+|2.5%
+|16%
+| –
+| –
+| –
+|11%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''17%'''
+| –
+|9%
+
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+
+| –
+| 6%
+
+|-
+| rowspan="2" style="background:GreenYellow;" |[https://tolunacorporate.com/wp-content/uploads/2026/04/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-1-M6-RTL-Avril-2026.pdf Harris Interactive]
+| rowspan="2" {{Opdrts|28|30|Apr|2026|year}}
+| rowspan="2" |1,725
+|1%
+|3%
+|13%
+| –
+| –
+| –
+|12%
+|4%
+| style="background:#FFF8CA;" | '''14%'''
+| –
+| –
+
+| –
+| –
+|12%
+
+|1%
+| style="background:#C1CCE1;" |'''35%'''
+
+| –
+|5%
+
+|-
+|1%
+|4%
+|12%
+| –
+| –
+| –
+|11%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''19%'''
+| –
+|9%
+
+|1%
+| style="background:#C1CCE1;" |'''34%'''
+
+| –
+|5%
+
+|-
+| rowspan="2" style="background:#80fcd4;" ;" |[https://www.lopinion.fr/politique/dune-election-a-lautre-ou-sont-les-idees-par-monique-canto-sperber OpinionWay]
+| rowspan="2" {{Opdrts|26|27|Mar|2026|year}}
+| rowspan="2" |1,009
+|1%
+| –
+|14%
+| –
+| –
+|12%
+| –
+| –
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''18%'''
+| –
+|11%
+
+| –
+| style="background:#C1CCE1;" |'''38%'''
+
+|5%
+| –
+
+|-
+|1%
+| –
+|13%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''15%'''
+| –
+| style="background:#FFF8CA;" | '''15%'''
+| –
+| –
+
+| –
+| –
+| 14%
+
+| –
+| style="background:#C1CCE1;" |'''38%'''
+
+|5%
+| –
+
+|-
+| rowspan="4" style="background:#CAD5F7;" |[https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/ Elabe]
+| rowspan="4" {{Opdrts|25|27|Mar|2026|year}}
+| rowspan="4" |1,504
+|1%
+|4%
+|12%
+| –
+|4.5%
+| –
+| –
+|4.5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''25.5%'''
+|3%
+| –
+
+|2.5%
+| style="background:#C1CCE1;" |'''38%'''
+
+|5%
+| –
+
+|-
+|0.5%
+|3%
+| style="background:#FBD7D2;" | '''13%'''
+| –
+| –
+| –
+|12.5%
+|5%
+| –
+|8%
+| –
+
+| –
+|5%
+|8.5%
+
+|2.5%
+| style="background:#C1CCE1;" |'''38.5%'''
+
+|3.5%
+| –
+
+|-
+|1%
+|3%
+|11%
+|8%
+| –
+| –
+| style="background:#FFF8CA;" | '''12%'''
+| –
+| –
+| –
+|6.5%
+
+| –
+|5.5%
+|9.5%
+
+|2.5%
+| style="background:#C1CCE1;" |'''37.5%'''
+
+| –
+|3.5%
+
+|-
+|0.5%
+|3%
+|10.5%
+| –
+| –
+| –
+|10.5%
+|4.5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''20.5%'''
+|3%
+|7%
+
+|2.5%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|3%
+
+|-
+| rowspan="2" style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/spectaculaire-come-back-dedouard-philippe-il-remporterait-aujourdhui-la-presidentielle/ Odoxa]
+| rowspan=2 {{Opdrts|25|26|Mar|2026|year}}
+| rowspan="2" |1,005
+|1%
+|2%
+|12%
+| –
+| –
+| –
+|10%
+|5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''21%'''
+| –
+|8%
+
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+
+|5%
+| –
+
+|-
+|1%
+|2%
+|13%
+| –
+| –
+| –
+|10%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''25%'''
+| –
+| –
+
+|2%
+| style="background:#C1CCE1;" |'''38%'''
+
+|5%
+| –
+
+|-
+| rowspan="2" style="background:GreenYellow;" |[https://tolunacorporate.com/wp-content/uploads/2026/03/Rapport-Toluna-Harris-Interactive-Intentions-de-vote-a-la-presidentielle-de-2027-Mars-2026.pdf Harris Interactive]
+| rowspan="2" {{Opdrts||22|Mar|2026|year}}
+| rowspan="2" |1,000
+|1%
+|3%
+|13%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''14%'''
+|5%
+|13%
+| –
+| –
+
+| –
+| –
+|10%
+
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|5%
+
+|-
+|1%
+|3%
+|11%
+| –
+| –
+| –
+|14%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''18%'''
+| –
+|7%
+
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+
+| –
+|5%
+
+|-
+| rowspan="8" style="background:#FFCCCC;" |[https://www.sudradio.fr/wp-content/uploads/2026/03/122319-Resultats-Intention-de-Vote-Presidentielle.pdf Ifop]
+| rowspan="8" {{Opdrts|26|27|Feb|2026|year}}
+| rowspan="8" |1,393
+|2%
+|3%
+|11%
+| –
+|5%
+| –
+| –
+|5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''19%'''
+| –
+|11%
+
+|3.5%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4.5%
+
+|-
+|2%
+|3%
+|11%
+| –
+| –
+|8%
+| –
+|5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''18%'''
+| –
+|11%
+
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+|2%
+|3%
+|10%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''12%'''
+|4%
+|11%
+| –
+| –
+
+| –
+|4%
+| style="background:#DFEEFF;" |'''12%'''
+
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+|1.5%
+|3%
+|10%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''13%'''
+|4%
+| –
+|8%
+| –
+
+| –
+|5%
+| style="background:#DFEEFF;" |'''13%'''
+
+|2.5%
+| style="background:#C1CCE1;" |'''37%'''
+
+|–
+|3%
+
+|-
+|2%
+|3%
+|10%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''13%'''
+|4.5%
+| –
+| –
+|6%
+
+| –
+|5%
+| style="background:#DFEEFF;" |'''13%'''
+
+|3%
+| style="background:#C1CCE1;" |'''37%'''
+
+|–
+|3.5%
+
+|-
+|1%
+|2%
+|11%
+| –
+| –
+| –
+|10%
+|4%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''16%'''
+|3.5%
+|10%
+
+|2.5%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|-
+|2%
+|2.5%
+|12%
+| –
+| –
+| –
+|11%
+|4.5%
+| –
+| –
+| –
+
+| style="background:#D8D8F4;" | '''23%'''
+| –
+| –
+
+|3%
+| style="background:#C1CCE1;" |'''37%'''
+
+| –
+|5%
+
+|-
+|2%
+|3%
+|12%
+| –
+| –
+| –
+|16%
+|5%
+| –
+| –
+| –
+
+| –
+| –
+| style="background:#DFEEFF;" |'''17%'''
+
+|3%
+| style="background:#C1CCE1;" |'''38%'''
+
+| –
+|4%
+
+|-
+| style="background:#FFCCCC;" |[https://www.commission-des-sondages.fr/notices/files/notices/2026/mars/10141-pres-vote-lgbt-ifop-tetu-9-mars.pdf Ifop]
+| {{Opdrts|1|6|Feb|2026|year}}
+| 1,137
+|1%
+|3%
+| style="background:#FBD7D2;" | '''13%'''
+| –
+| –
+| –
+|9%
+|3%
+|8%
+| –
+| –
+
+|11%
+|2%
+|6%
+
+|2%
+| style="background:#C1CCE1;" |'''36%'''
+
+| –
+|4%
+
+|}
+
+==== March – December 2025 ====
+
+{{sticky header}}
+{| class="wikitable sticky-header-multi sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br />firm
+! rowspan="2"|Fieldwork<br />date
+! rowspan="2"| Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud|Arthaud]] [[Lutte Ouvrière|(LO)]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou|Poutou]] [[New Anticapitalist Party|(NPA)]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel|Roussel]] [[French Communist Party|(PCF)]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon|Mélenchon]] [[La France Insoumise|(LFI)]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin|Ruffin]] [[Debout!|(D!)]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure|Faure]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande|Hollande]] [[Socialist Party (France)|(PS)]]}}
+! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann|Glucksmann]] [[Place Publique|(PP)]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Tondelier|Tondelier]] [[The Ecologists|(LE)]]}}
+! {{vert header|mw=35px|stp=1|[[Gabriel Attal|Attal]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Gérald Darmanin|Darmanin]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[Sébastien Lecornu|Lecornu]] [[Renaissance (French political party)|(RE)]]}}
+! {{vert header|mw=35px|stp=1|[[François Bayrou|Bayrou]] [[Democratic Movement (France)|(MD)]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe|Philippe]] [[Horizons (France)|(HOR)]]}}
+! {{vert header|mw=35px|stp=1|[[Dominique de Villepin|de Villepin]] [[Humanist France|(LFH)]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand|Bertrand]] [[Nous France|(NF)]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez|Wauquiez]] [[The Republicans (France)|(LR)]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau|Retailleau]] [[The Republicans (France)|(LR)]]}}
+! {{vert header|mw=35px|stp=1|[[Cyril Hanouna|Hanouna]] [[Independent politician|(DIV)]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan|Dupont-Aignan]] [[Debout la France|(DLF)]]}}
+! {{vert header|mw=35px|stp=1|[[Jordan Bardella|Bardella]] [[National Rally|(RN)]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe de Villiers|de Villiers]] [[Reconquête|(R!)]]}}
+! {{vert header|mw=35px|stp=1|[[Sarah Knafo|Knafo]] [[Reconquête|(R!)]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour|Zemmour]] [[Reconquête|(R!)]]}}
+! {{vert header|mw=35px|stp=1|[[Michel-Édouard Leclerc|Leclerc]] [[Independent politician|(DIV)]]}}
+! {{vert header|mw=35px|stp=1|[[Teddy Riner|Riner]] [[Independent politician|(DIV)]]}}
+! {{vert header|mw=35px|stp=1|[[Patrick Sébastien|Sébastien]] [[Independent politician|(DIV)]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Picardie debout}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|Place Publique}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Renaissance (French political party)}};"|
+! style="background:{{party color|Democratic Movement (France)}};" |
+! style="background:{{party color|Horizons (political party)}};" |
+! style="background:{{party color|United Republic}};"|
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Miscellaneous}};"|
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+! style="background:{{party color|Reconquête (political party)}};" |
+! style="background:{{party color|Reconquête (political party)}};" |
+! style="background:{{party color|Miscellaneous}};"|
+! style="background:{{party color|Miscellaneous}};"|
+! style="background:{{party color|Miscellaneous}};"|
+|-
+| rowspan=2 style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+| rowspan=2 {{Opdrts|19|20|Nov|2025|year}}
+| rowspan=2 |1,300
+|1%
+| –
+|3%
+|12%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''14.5%'''
+|6.5%
+|11%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|10%
+|–
+|3%
+| style="background:#C1CCE1;" |'''36%'''
+| –
+| –
+|3%
+| –
+| –
+| –
+|-
+|1%
+| –
+|3%
+|11%
+| –
+| –
+| –
+|13.5%
+|6%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+| –
+|8%
+|–
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| –
+|3.5%
+|–
+|–
+|–
+|-
+| rowspan=5 style="background:burlywood;" |[https://www.veriangroup.com/hubfs/Intentions%20de%20vote%20pr%C3%A9sidentielle%202027_Outsiders_LH%C3%A9micycle.pdf Verian]
+| rowspan=5 {{Opdrts|18|20|Nov|2025|year}}
+| rowspan=5 |938
+| –
+| –
+|3%
+|12%
+| –
+| –
+| –
+|13%
+|5.5%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+| –
+|7.5%
+| –
+|2%
+| style="background:#C1CCE1;" |'''36.5%'''
+| –
+| –
+|4%
+| –
+| –
+| –
+|-
+| –
+| –
+|3%
+|12%
+| –
+| –
+| –
+|13%
+|5%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+| –
+|7.5%
+|1%
+|2%
+| style="background:#C1CCE1;" |'''35.5%'''
+| –
+| –
+|4%
+| –
+| –
+| –
+|-
+| –
+| –
+|3%
+|12%
+| –
+| –
+| –
+|12.5%
+|5%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''16.5%'''
+| –
+| –
+| –
+|7.5%
+|–
+|2%
+| style="background:#C1CCE1;" |'''35.5%'''
+| –
+| –
+|4%
+|2%
+| –
+| –
+|-
+| –
+| –
+|3%
+|11.5%
+| –
+| –
+| –
+|11.5%
+|5%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+| –
+|7.5%
+| –
+|2%
+| style="background:#C1CCE1;" |'''35.5%'''
+| –
+| –
+|4%
+| –
+|3%
+| –
+|-
+| –
+| –
+|3%
+|11%
+| –
+| –
+| –
+|13%
+|5%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''17%'''
+| –
+| –
+| –
+|7.5%
+| –
+|2%
+| style="background:#C1CCE1;" |'''35.5%'''
+| –
+| –
+|4%
+| –
+| –
+|2%
+|-
+| rowspan="4" style="background:#CAD5F7;"|[https://elabe.fr/wp-content/uploads/2025/11/01112025_elabe_bfmtv_la-tribune-dimanche_election-presidentielle.pdf Elabe]
+| rowspan="4" {{Opdrts|30|31|Oct|2025|year}}
+| rowspan="4"|1,501
+|1%
+| –
+|4.5%
+|12.5%
+| –
+|5.5%
+| –
+| –
+|5.5%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''19.5%'''
+|4%
+| –
+|3%
+| –
+| –
+|2.5%
+|style="background:#C1CCE1;"| '''36.5%'''
+| –
+|6%
+| –
+| –
+| –
+| –
+|-
+|1%
+| –
+|3%
+|12%
+| –
+|–
+|6.5%
+| –
+|5.5%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''19%'''
+|4%
+|5.5%
+| –
+| –
+| –
+|2.5%
+|style="background:#C1CCE1;"| '''35%'''
+| –
+| –
+|6%
+| –
+| –
+| –
+|-
+|1.5%
+| –
+|3%
+| style="background:#FBD7D2;"| '''13%'''
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''13%'''
+|5%
+| –
+|7%
+| –
+| –
+| –
+|5%
+| –
+| –
+|8%
+| –
+|2%
+|style="background:#C1CCE1;"| '''37.5%'''
+|4.5%
+| –
+| –
+| –
+| –
+| –
+|-
+|1%
+| –
+|3%
+|12.5%
+| –
+| –
+| –
+|11%
+|4.5%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''15.5%'''
+|3%
+| –
+| –
+|8%
+| –
+|2%
+|style="background:#C1CCE1;"| '''35%'''
+| –
+| –
+|4.5%
+| –
+| –
+| –
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2025/10/Rapport-Toluna-Harris-Interactive-Intentions-de-vote-a-lelection-presidentielle-RTL-Octobre-2025.pdf Harris Interactive]
+| rowspan="2" {{Opdrts||7|Oct|2025|year}}
+| rowspan="2"|1,124
+|1%
+| –
+|3%
+| style="background:#FBD7D2;"| '''14%'''
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''14%'''
+|3%
+|12%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|11%
+| –
+|1%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| –
+|6%
+| –
+| –
+| –
+|-
+|1%
+| –
+|3%
+|14%
+| –
+| –
+| –
+|12%
+|3%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''15%'''
+| –
+| –
+| –
+|10%
+|–
+|1%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| –
+|6%
+| –
+| –
+| –
+|-
+| style="background:#d9fff6;" rowspan="3"|[https://cluster17.com/wp-content/uploads/2025/10/ITV-Presidentielle-Le-Point-Cluster17.pdf Cluster17]
+| rowspan="3" {{Opdrts|30|1|Oct|2025|year}}
+| rowspan="3"|1,534
+|1%
+| –
+|4%
+|14%
+| –
+|8%
+|–
+| –
+| –
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''19.5%'''
+| –
+|–
+| –
+|13%
+|–
+|4.5%
+| style="background:#C1CCE1;" |'''30%'''
+|–
+|–
+|5.5%
+|–
+|–
+|–
+|-
+|1%
+| –
+|3%
+| style="background:#FBD7D2;"| '''15%'''
+| –
+| –
+|–
+| style="background:#FFF8CA;" | '''15%'''
+| –
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''15%'''
+| –
+|–
+| –
+|12%
+|–
+|3.5%
+| style="background:#C1CCE1;" |'''30%'''
+|–
+|–
+|5.5%
+|–
+|–
+|–
+|-
+|1%
+| –
+|4%
+|15%
+| –
+| –
+|–
+| –
+|7.5%
+| –
+| –
+|–
+| –
+| style="background:#D8D8F4;" | '''19.5%'''
+| –
+|–
+| –
+|12.5%
+|–
+|4%
+| style="background:#C1CCE1;" |'''31%'''
+|–
+|–
+|5.5%
+|–
+|–
+|–
+|-
+| rowspan=5 style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2025/09/121308_39-resultats-intention-de-vote-presidentielle.pdf Ifop]
+| rowspan="5" {{Opdrts|24|25|Sep|2025|year}}
+| rowspan="5"|1,210
+|1%
+| –
+|5%
+|13%
+| –
+|7%
+|–
+| –
+| –
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''19%'''
+|4.5%
+|–
+| –
+|10%
+|–
+|2%
+| style="background:#C1CCE1;" |'''34%'''
+|–
+|–
+|4.5%
+|–
+|–
+|–
+|-
+|1.5%
+| –
+|4%
+|13%
+| –
+| –
+|–
+| style="background:#FFF8CA;" | '''14%'''
+| –
+|10%
+| –
+| –
+| –
+| –
+|4%
+| –
+| –
+|12%
+| –
+|2.5%
+| style="background:#C1CCE1;" |'''34%'''
+| –
+| –
+|5%
+| –
+| –
+| –
+|-
+|1%
+| –
+|4%
+|13%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+|7%
+| –
+| –
+| –
+|5%
+|–
+| –
+|13%
+| –
+|2%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| –
+|4%
+| –
+| –
+| –
+|-
+|2%
+| –
+|4%
+|13%
+| –
+| –
+| –
+| style="background:#FFF8CA;" | '''16%'''
+| –
+| –
+| –
+|–
+|3%
+| –
+|6%
+| –
+| –
+|13%
+|–
+|3%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| –
+|5%
+| –
+| –
+| –
+|-
+|1%
+| –
+|3.5%
+|12%
+| –
+| –
+| –
+|15%
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''16%'''
+|4%
+| –
+| –
+|9%
+| –
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+| –
+| –
+|4.5%
+| –
+| –
+| –
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2025/05/121647-Resultats-Intention-de-Vote-Presidentielle.pdf Ifop]
+| {{Opdrts|19|20|May|2025|year}}
+| 1,114
+|1%
+| –
+|3.5%
+|13%
+| –
+|4.5%
+|–
+| –
+|4.5%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''21%'''
+| –
+|–
+| –
+|16%
+|–
+|2%
+| style="background:#C1CCE1;" |'''31%'''
+|–
+|–
+|3.5%
+|–
+|–
+|–
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2025/05/Rapport-Toluna-Harris-Interactive-Intentions-de-vote-a-lelection-presidentielle-de-2027-LCI-Mai-2025.pdf Harris Interactive]
+| rowspan="2" {{Opdrts||19|May|2025|year}}
+| rowspan="2"|1,071
+|1%
+| –
+|3%
+|14%
+| –
+| –
+| –
+|11%
+|3%
+|15%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#DFEEFF;" |'''17%'''
+| –
+| –
+| style="background:#C1CCE1;" |'''31%'''
+| –
+| –
+|5%
+| –
+| –
+| –
+|-
+|1%
+| –
+|3%
+|14%
+| –
+| –
+| –
+|10%
+|3%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''21%'''
+| –
+| –
+| –
+|13%
+| –
+| –
+| style="background:#C1CCE1;" |'''30%'''
+| –
+| –
+|5%
+| –
+| –
+| –
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/ Odoxa]
+|{{Opdrts|23|24|Apr|2025|year}}
+|1,005
+|1%
+|2%
+|3%
+|12%
+| –
+| –
+|–
+|12%
+|4%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''20%'''
+| –
+|–
+| –
+|9.5%
+|–
+|2%
+| style="background:#C1CCE1;" |'''31.5%'''
+|–
+|–
+|3%
+|–
+|–
+|–
+|-
+| rowspan="7" style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
+| rowspan="7" {{Opdrts|11|18|Apr|2025|year}}
+| rowspan="7" |9,128
+|2%
+| –
+| –
+|12%
+|10%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''26%'''
+| –
+| –
+| –
+|10%
+| –
+|3%
+| style="background:#C1CCE1;" |'''33%'''
+| –
+| –
+|4%
+| –
+| –
+| –
+|-
+|1%
+|–
+|2.5%
+|10%
+|5%
+| –
+| –
+|10%
+|3%
+| style="background:#FFF8CA;" | '''14%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#DFEEFF;" |'''14%'''
+| –
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+| –
+| –
+|4%
+| –
+| –
+| –
+|-
+|1%
+|–
+|2.5%
+|10%
+|4.5%
+| –
+|–
+|9%
+|2%
+|8%
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''15%'''
+|2%
+|–
+| –
+|7.5%
+|–
+|2.5%
+| style="background:#C1CCE1;" |'''32%'''
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+|1%
+| –
+|2.5%
+|10%
+|5%
+| –
+| –
+|10%
+|3%
+| –
+| –
+| –
+| –
+| style="background:#D8D8F4;" | '''24%'''
+| –
+| –
+|3%
+| –
+| –
+|2.5%
+| style="background:#C1CCE1;" |'''35%'''
+| –
+| –
+|4%
+| –
+| –
+| –
+|-
+|1%
+|–
+|2.5%
+|10%
+|5%
+| –
+|–
+|10%
+|2.5%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''22%'''
+|2%
+|–
+| –
+|8%
+|–
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+|1%
+|–
+|2.5%
+|10%
+|5%
+| –
+|–
+|10%
+|2.5%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''22%'''
+| –
+|–
+| –
+|8%
+|–
+|2%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+|1.5%
+| –
+| –
+|13%
+| –
+| –
+|–
+|15%
+| –
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''22%'''
+| –
+|–
+| –
+|9%
+|–
+|2.5%
+| style="background:#C1CCE1;" |'''33%'''
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+| rowspan="3" style="background:#CAD5F7;"|[https://elabe.fr/wp-content/uploads/2025/04/05042025_elabe_bfmtv_la-tribune-dimanche_les-francais-et-lelection-presidentielle.pdf Elabe]
+| rowspan="3" {{Opdrts|2|4|Apr|2025|year}}
+| rowspan="3"|1,413
+|1.5%
+|2%
+|5.5%
+|10.5%
+| –
+|4%
+| –
+| –
+|4.5%
+| style="background:#FFF8CA;" | '''18%'''
+| –
+| –
+| –
+| –
+| –
+| –
+|4.5%
+| –
+| –
+|4%
+|style="background:#C1CCE1;"| '''35.5%'''
+| –
+| –
+|5%
+| –
+| –
+| –
+|-
+|1%
+|1.5%
+|5.5%
+|10%
+| –
+|6%
+|–
+| –
+|6%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''23%'''
+| –
+|–
+| –
+|9%
+|–
+|2.5%
+|style="background:#C1CCE1;"| '''31.5%'''
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+|1%
+|1.5%
+|4.5%
+|9.5%
+| –
+| –
+|–
+|10.5%
+|3.5%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''20.5%'''
+|2.5%
+|–
+| –
+|8.5%
+|–
+|3%
+|style="background:#C1CCE1;"| '''31%'''
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+| rowspan="2" style="background:GreenYellow;"|[https://www.rtl.fr/actu/politique/info-rtl-presidentielle-2027-jordan-bardella-largement-en-tete-des-intentions-de-vote-pour-le-1er-tour-7900489311 Harris Interactive]
+| rowspan="2" {{Opdrts||31|Mar|2025|year}}
+| rowspan="2"|1,162
+|1%
+|1%
+|4%
+|13%
+| –
+|5%
+|–
+| –
+|4%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''25%'''
+| –
+|–
+|4%
+| –
+|–
+|2%
+|style="background:#C1CCE1;"| '''36%'''
+|–
+|–
+|5%
+|–
+|–
+|–
+|-
+|1%
+|1%
+|4%
+|13%
+| –
+|5%
+|–
+| –
+|4%
+| –
+|–
+|–
+|–
+| style="background:#D8D8F4;" | '''23%'''
+| –
+|–
+| –
+|7%
+|–
+|2%
+|style="background:#C1CCE1;"| '''35%'''
+|–
+|–
+|5%
+|–
+|–
+|–
+|}
+
+=== Re-run of the 2022 election ===
+Macron is not eligible to run for a third consecutive term.
+
+==== First round ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2" | Polling<br />firm
+! rowspan="2" |Fieldwork<br />date
+! rowspan="2" | Sample<br />size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
+! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
+! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};" |
+! style="background:{{party color|New Anticapitalist Party}};" |
+! style="background:{{party color|French Communist Party}};" |
+! style="background:{{party color|La France Insoumise}};" |
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};" |
+! style="background:{{party color|Renaissance (French political party)}};" |
+! style="background:{{party color|Résistons!}};" |
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|Debout la France}};" |
+! style="background:{{party color|National Rally (France)}};" |
+! style="background:{{party color|Reconquête (political party)}};" |
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2023/10/1er-tour-de-la-presidentielle.pdf Cluster17]
+|{{Opdrts|18|20|Oct|2023|year}}
+|1,580
+|0.5%
+|0.5%
+|5%
+|17.5%
+|2%
+|5%
+| style="background:#FFF8CA;" |'''24.5%'''
+|3%
+|3.5%
+|3%
+| style="background:#C1CCE1;" |'''29.5%'''
+|6.5%
+|-
+| style="background:#FFCCFF;" |[http://www.odoxa.fr/sondage/si-on-refaisait-voter-aujourdhui-les-francais-ils-eliraient-nettement-marine-le-pen/ Odoxa]
+|{{Opdrts|5|6|Apr|2023|year}}
+|1,005
+|1%
+|1%
+|5%
+|19%
+|2%
+|4%
+| style="background:#FFF8CA;" |'''23%'''
+|3%
+|3%
+|2%
+| style="background:#C1CCE1;" |'''32%'''
+|5%
+|-
+| style="background:#CAD5F7;" |[https://elabe.fr/wp-content/uploads/2023/04/20230405_elabe_bfmtv_les-francais-et-le-climat-politique.pdf Elabe]
+|{{Opdrts|3|5|Apr|2023|year}}
+|1,808
+|0.5%
+|1%
+|4%
+|18.5%
+|1.5%
+|5%
+| style="background:#FFF8CA;" |'''23%'''
+|2.5%
+|3.5%
+|2.5%
+| style="background:#C1CCE1;" |'''31%'''
+|7%
+|-
+| style="background:#FFCCCC;" |[http://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9686-pres-ifop-7-04-fig-mag-sud-radio.pdf Ifop]
+|{{Opdrts|30|31|Mar|2023|year}}
+|1,105
+|0.5%
+|1%
+|5%
+|17%
+|2%
+|5%
+| style="background:#FFF8CA;" |'''25%'''
+|1.5%
+|4%
+|2%
+| style="background:#C1CCE1;" |'''31%'''
+|6%
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/11/sondage_presidentielle_081122_C17_Notice_technique_Commission_des.pdf Cluster17]
+|{{Opdrts|4|6|Nov|2022|year}}
+|2,151
+|0.5%
+|1%
+|3%
+|20%
+|1%
+|5%
+| style="background:#FFEF95;" |'''30%'''
+|2.5%
+|3%
+|2.5%
+| style="background:#E0E5F0;" |'''25.5%'''
+|6%
+|-
+| style="background:#FFCCCC;" |[https://www.lejdd.fr/Politique/macron-le-pen-melenchonsondage-voici-ce-que-donnerait-la-presidentielle-aujourdhui-4144105 Ifop]
+|{{Opdrts|25|26|Oct|2022|year}}
+|1,125
+|0.5%
+|1%
+|3%
+|17%
+|2%
+|6%
+| style="background:#FFF8CA;" |'''29%'''
+|1.5%
+|3%
+|2%
+| style="background:#C1CCE1;" |'''30%'''
+|5%
+|- style="background:#E9E9E9;"
+|[[2022 French presidential election|2022 election]]
+|{{Opdrts||10|Apr|2022|year}}
+|–
+|0.56%
+|0.76%
+|2.28%
+|21.95%
+|1.74%
+|4.63%
+| style="background:#FFEF95;" |'''27.85%'''
+|3.13%
+|4.78%
+|2.06%
+| style="background:#E0E5F0;" |'''23.15%'''
+|7.07%
+|}
+
+==== Second round ====
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="3" |Polling
+firm
+! rowspan="3" |Fieldwork
+date
+! rowspan="3" |Sample
+size
+! rowspan="3" |Abstention
+![[File:Emmanuel_Macron_in_2019(cropped).jpg|80x80px]]
+![[File:Marine Le Pen VIVA 24 (cropped).jpg|80x80px]]
+|-
+!{{small|[[Emmanuel Macron|Macron]]<br/>{{small|[[Renaissance (French political party)|RE]]}}}}
+!{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+! style="background:{{party color| Renaissance (French political party)}};" |
+! style="background:{{party color|National Rally (France)}};" |
+|-
+| style="background:#FFCCFF;" |[http://www.odoxa.fr/sondage/si-on-refaisait-voter-aujourdhui-les-francais-ils-eliraient-nettement-marine-le-pen/ Odoxa]
+|{{Opdrts|5|6|Apr|2023|year}}
+|1,005
+|–
+|46%
+| style="background:#C1CCE1;" |'''54%'''
+|-
+| style="background:#CAD5F7;" |[https://elabe.fr/wp-content/uploads/2023/04/20230405_elabe_bfmtv_les-francais-et-le-climat-politique.pdf Elabe]
+|{{Opdrts|3|5|Apr|2023|year}}
+|1,808
+|–
+|45%
+| style="background:#C1CCE1;" |'''55%'''
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/11/sondage_presidentielle_081122_C17_Notice_technique_Commission_des.pdf Cluster17]
+|{{Opdrts|4|6|Nov|2022|year}}
+|2,151
+|–
+| style="background:#FFEF95;" |'''51.5%'''
+|48.5%
+|-
+| style="background:#FFCCCC;" |[https://www.lejdd.fr/Politique/macron-le-pen-melenchonsondage-voici-ce-que-donnerait-la-presidentielle-aujourdhui-4144105 Ifop]
+|{{Opdrts|25|26|Oct|2022|year}}
+|1,125
+|–
+| style="background:#FFEF95;" |'''53%'''
+|47%
+|- style="background:#E9E9E9;"
+|[[2022 French presidential election|2022 election]]
+|{{Opdrts||24|Apr|2022|year}}
+|–
+|28.01%
+| style="background:#FFEF95;" |'''58.55%'''
+|41.45%
+|}
+
+== Footnotes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{2027 French presidential election}}
+{{Future opinion polling}}
+
+[[Category:Opinion polling for future elections|France]]
+[[Category:Opinion polling in France|2027]]

@@ -1,0 +1,3008 @@
+{
+ "_meta": {
+  "generated": "2026-11-06",
+  "unit": "% of suffrages exprimés, first round, France entière (metropole + outre-mer + Français de l'étranger where applicable)",
+  "bloc_rule": "Each party/list/nuance mapped to exactly one bloc. UNION_GAUCHE holds NUPES (2022) / Union de la gauche-NFP (2024) joint candidacies; when non-null, RADG+GAU+CEN+DRO+EXD+AUT+UNION_GAUCHE sums to ~100.",
+  "udi_choice": "UDI/Nouveau Centre/Parti radical/Alliance centriste mapped to DRO whenever they ran allied with UMP/LR (législatives 2007, 2012, 2017, 2022, 2024) and to CEN when they ran autonomous lists (européennes 2014 UDI-MoDem, 2019 Les Européens). 'Écologistes'/ECO nuance (non-Verts ecologists) mapped to AUT except 1997 (combined with Verts) and 2017 (ministry ECO nuance included EELV) where GAU. Sovereigntist right (MPF, RPF/Pasqua, DLR/DLF, UPR, Patriotes, DSV nuance) mapped to EXD per instructions. CPNT mapped to DRO per instructions."
+ },
+ "legislative": {
+  "1997": {
+   "date": "1997-05-25",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_1997&action=raw (table source: Assemblée nationale, http://www.assemblee-nationale.fr/connaissance/elections-1997.asp)",
+   "blocs": {
+    "RADG": 12.46,
+    "GAU": 34.58,
+    "CEN": 14.21,
+    "DRO": 22.3,
+    "EXD": 15.04,
+    "AUT": 1.39,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 99.98,
+   "parties": [
+    {
+     "name": "PS",
+     "label": "Parti socialiste",
+     "votes": 5961612,
+     "pct": 23.53,
+     "bloc": "GAU"
+    },
+    {
+     "name": "RPR",
+     "label": "Rassemblement pour la République",
+     "votes": 3977964,
+     "pct": 15.7,
+     "bloc": "DRO"
+    },
+    {
+     "name": "FN",
+     "label": "Front national",
+     "votes": 3785383,
+     "pct": 14.94,
+     "bloc": "EXD"
+    },
+    {
+     "name": "UDF",
+     "label": "Union pour la démocratie française",
+     "votes": 3601279,
+     "pct": 14.21,
+     "bloc": "CEN"
+    },
+    {
+     "name": "PCF",
+     "label": "Parti communiste français",
+     "votes": 2519281,
+     "pct": 9.94,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Écologistes (dont Verts)",
+     "label": "Écologistes (dont Les Verts)",
+     "votes": 1726018,
+     "pct": 6.81,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite",
+     "votes": 1671626,
+     "pct": 6.6,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DVG (dont MDC)",
+     "label": "Divers gauche (dont le MDC)",
+     "votes": 708605,
+     "pct": 2.8,
+     "bloc": "GAU"
+    },
+    {
+     "name": "EXG",
+     "label": "Extrême gauche",
+     "votes": 638710,
+     "pct": 2.52,
+     "bloc": "RADG"
+    },
+    {
+     "name": "PRG (Parti radical-socialiste)",
+     "label": "Parti radical-socialiste",
+     "votes": 366067,
+     "pct": 1.44,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers",
+     "votes": 351503,
+     "pct": 1.39,
+     "bloc": "AUT"
+    },
+    {
+     "name": "EXD",
+     "label": "Extrême droite",
+     "votes": 26438,
+     "pct": 0.1,
+     "bloc": "EXD"
+    }
+   ],
+   "notes": "UDF ran jointly with RPR (Union pour la France) but mapped CEN per instructions. 'Écologistes (dont Les Verts)' 6.81 combines Verts with other ecologists (incl. non-left ones like MEI/GE) -> GAU; ambiguous. MDC (Chevènement) included in DVG. MPF/sovereigntist candidates not separated (likely inside DVD) -> DVD in DRO. Table has no separate REG/ECO lines."
+  },
+  "2002": {
+   "date": "2002-06-09",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_2002&action=raw (table source: Assemblée nationale)",
+   "blocs": {
+    "RADG": 7.61,
+    "GAU": 32.44,
+    "CEN": 4.86,
+    "DRO": 39.03,
+    "EXD": 13.84,
+    "AUT": 2.2,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 99.98,
+   "parties": [
+    {
+     "name": "UMP",
+     "label": "Union pour la majorité présidentielle (UMP)",
+     "votes": 8408023,
+     "pct": 33.3,
+     "bloc": "DRO"
+    },
+    {
+     "name": "UDF",
+     "label": "Union pour la démocratie française (UDF)",
+     "votes": 1226462,
+     "pct": 4.86,
+     "bloc": "CEN"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite (DVD)",
+     "votes": 921973,
+     "pct": 3.65,
+     "bloc": "DRO"
+    },
+    {
+     "name": "MPF",
+     "label": "Mouvement pour la France (MPF)",
+     "votes": 202831,
+     "pct": 0.8,
+     "bloc": "EXD"
+    },
+    {
+     "name": "DL",
+     "label": "Démocratie libérale (DL)",
+     "votes": 104767,
+     "pct": 0.41,
+     "bloc": "DRO"
+    },
+    {
+     "name": "RPF (Pasqua)",
+     "label": "Rassemblement pour la France (RPF)",
+     "votes": 94222,
+     "pct": 0.37,
+     "bloc": "EXD"
+    },
+    {
+     "name": "PS",
+     "label": "Parti socialiste (PS)",
+     "votes": 6086599,
+     "pct": 24.11,
+     "bloc": "GAU"
+    },
+    {
+     "name": "PCF",
+     "label": "Parti communiste français (PCF)",
+     "votes": 1216178,
+     "pct": 4.82,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Verts",
+     "label": "Les Verts (LV)",
+     "votes": 1138222,
+     "pct": 4.51,
+     "bloc": "GAU"
+    },
+    {
+     "name": "PRG",
+     "label": "Parti radical de gauche (PRG)",
+     "votes": 388891,
+     "pct": 1.54,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Pôle républicain (Chevènement)",
+     "label": "Pôle républicain (PR)",
+     "votes": 299897,
+     "pct": 1.19,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DVG",
+     "label": "Divers gauche (DVG)",
+     "votes": 275553,
+     "pct": 1.09,
+     "bloc": "GAU"
+    },
+    {
+     "name": "FN",
+     "label": "Front national (FN)",
+     "votes": 2862960,
+     "pct": 11.34,
+     "bloc": "EXD"
+    },
+    {
+     "name": "CPNT",
+     "label": "Chasse, pêche, nature et traditions (CPNT)",
+     "votes": 422448,
+     "pct": 1.67,
+     "bloc": "DRO"
+    },
+    {
+     "name": "LCR",
+     "label": "Ligue communiste révolutionnaire (LCR)",
+     "votes": 320467,
+     "pct": 1.27,
+     "bloc": "RADG"
+    },
+    {
+     "name": "LO",
+     "label": "Lutte ouvrière (LO)",
+     "votes": 301984,
+     "pct": 1.2,
+     "bloc": "RADG"
+    },
+    {
+     "name": "ECO (autres écologistes)",
+     "label": "Autres écologistes (ECO)",
+     "votes": 295899,
+     "pct": 1.17,
+     "bloc": "AUT"
+    },
+    {
+     "name": "MNR",
+     "label": "Mouvement national républicain (MNR)",
+     "votes": 276376,
+     "pct": 1.09,
+     "bloc": "EXD"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers (DIV)",
+     "votes": 194946,
+     "pct": 0.77,
+     "bloc": "AUT"
+    },
+    {
+     "name": "EXG",
+     "label": "Extrême gauche (EXG)",
+     "votes": 81558,
+     "pct": 0.32,
+     "bloc": "RADG"
+    },
+    {
+     "name": "REG",
+     "label": "Régionalistes (REG)",
+     "votes": 66240,
+     "pct": 0.26,
+     "bloc": "AUT"
+    },
+    {
+     "name": "EXD",
+     "label": "Extrême droite (EXD)",
+     "votes": 59549,
+     "pct": 0.24,
+     "bloc": "EXD"
+    }
+   ],
+   "notes": "UDF ran separately from UMP (Bayrou) -> CEN. MPF and RPF (Pasqua) were in Chirac's majority but mapped EXD as sovereigntist right per instructions (together 1.17); alternative DRO. 'Autres écologistes' (ECO, non-Verts) -> AUT; ambiguous. Pôle républicain (Chevènement) -> GAU."
+  },
+  "2007": {
+   "date": "2007-06-10",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_2007&action=raw (table source: interieur.gouv.fr legislatives_2007)",
+   "blocs": {
+    "RADG": 7.7,
+    "GAU": 31.27,
+    "CEN": 7.61,
+    "DRO": 45.2,
+    "EXD": 5.88,
+    "AUT": 2.34,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 100.0,
+   "parties": [
+    {
+     "name": "UMP",
+     "label": "Union pour un mouvement populaire",
+     "votes": 10289028,
+     "pct": 39.54,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite",
+     "votes": 641600,
+     "pct": 2.47,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Nouveau Centre (allié UMP)",
+     "label": "Nouveau Centre",
+     "votes": 616443,
+     "pct": 2.37,
+     "bloc": "DRO"
+    },
+    {
+     "name": "MPF",
+     "label": "Mouvement pour la France",
+     "votes": 312587,
+     "pct": 1.2,
+     "bloc": "EXD"
+    },
+    {
+     "name": "PS",
+     "label": "Parti socialiste",
+     "votes": 6436136,
+     "pct": 24.73,
+     "bloc": "GAU"
+    },
+    {
+     "name": "PCF",
+     "label": "Parti communiste français",
+     "votes": 1115719,
+     "pct": 4.29,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Verts",
+     "label": "Les Verts",
+     "votes": 845884,
+     "pct": 3.25,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DVG (dont MRC)",
+     "label": "Divers gauche dont MRC",
+     "votes": 513457,
+     "pct": 1.97,
+     "bloc": "GAU"
+    },
+    {
+     "name": "PRG",
+     "label": "Parti radical de gauche",
+     "votes": 343580,
+     "pct": 1.32,
+     "bloc": "GAU"
+    },
+    {
+     "name": "UDF-MoDem",
+     "label": "UDF - Mouvement démocrate",
+     "votes": 1981121,
+     "pct": 7.61,
+     "bloc": "CEN"
+    },
+    {
+     "name": "FN",
+     "label": "Front national",
+     "votes": 1116005,
+     "pct": 4.29,
+     "bloc": "EXD"
+    },
+    {
+     "name": "EXG (dont LCR, LO)",
+     "label": "Extrême gauche dont LCR & LO",
+     "votes": 887887,
+     "pct": 3.41,
+     "bloc": "RADG"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers",
+     "votes": 267987,
+     "pct": 1.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "CPNT",
+     "label": "Chasse, pêche, nature et traditions",
+     "votes": 213448,
+     "pct": 0.82,
+     "bloc": "DRO"
+    },
+    {
+     "name": "ECO (autres écologistes)",
+     "label": "Écologistes",
+     "votes": 208465,
+     "pct": 0.8,
+     "bloc": "AUT"
+    },
+    {
+     "name": "REG",
+     "label": "Régionaliste",
+     "votes": 131585,
+     "pct": 0.51,
+     "bloc": "AUT"
+    },
+    {
+     "name": "EXD (dont MNR)",
+     "label": "Extrême droite dont MNR",
+     "votes": 102100,
+     "pct": 0.39,
+     "bloc": "EXD"
+    }
+   ],
+   "notes": "MoDem (UDF-Mouvement démocrate, Bayrou) -> CEN. Nouveau Centre (2.37) ran allied with UMP in the presidential majority -> DRO (alternative CEN). MPF was listed in 'droite parlementaire' but mapped EXD per instructions. DVG includes MRC. ECO (non-Verts) -> AUT."
+  },
+  "2012": {
+   "date": "2012-06-10",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_2012&action=raw (table source: interieur.gouv.fr LG2012/FE.html)",
+   "blocs": {
+    "RADG": 7.89,
+    "GAU": 39.86,
+    "CEN": 1.77,
+    "DRO": 34.67,
+    "EXD": 13.79,
+    "AUT": 2.04,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 100.02,
+   "parties": [
+    {
+     "name": "PS",
+     "label": "Parti socialiste",
+     "votes": 7618326,
+     "pct": 29.35,
+     "bloc": "GAU"
+    },
+    {
+     "name": "EELV",
+     "label": "Europe Écologie Les Verts",
+     "votes": 1418264,
+     "pct": 5.46,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DVG",
+     "label": "Divers gauche",
+     "votes": 881555,
+     "pct": 3.4,
+     "bloc": "GAU"
+    },
+    {
+     "name": "PRG",
+     "label": "Parti radical de gauche",
+     "votes": 428898,
+     "pct": 1.65,
+     "bloc": "GAU"
+    },
+    {
+     "name": "UMP",
+     "label": "Union pour un mouvement populaire",
+     "votes": 7037268,
+     "pct": 27.12,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite",
+     "votes": 910034,
+     "pct": 3.51,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Nouveau Centre (allié UMP)",
+     "label": "Nouveau Centre",
+     "votes": 569897,
+     "pct": 2.2,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Parti radical valoisien (allié UMP)",
+     "label": "Parti radical",
+     "votes": 321124,
+     "pct": 1.24,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Alliance centriste (alliée UMP)",
+     "label": "Alliance centriste",
+     "votes": 156026,
+     "pct": 0.6,
+     "bloc": "DRO"
+    },
+    {
+     "name": "FN",
+     "label": "Front national",
+     "votes": 3528663,
+     "pct": 13.6,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Front de gauche",
+     "label": "Front de gauche",
+     "votes": 1793192,
+     "pct": 6.91,
+     "bloc": "RADG"
+    },
+    {
+     "name": "MoDem (Le Centre pour la France)",
+     "label": "Le Centre pour la France",
+     "votes": 458098,
+     "pct": 1.77,
+     "bloc": "CEN"
+    },
+    {
+     "name": "EXG",
+     "label": "Extrême gauche",
+     "votes": 253386,
+     "pct": 0.98,
+     "bloc": "RADG"
+    },
+    {
+     "name": "ECO (autres écologistes)",
+     "label": "Écologistes",
+     "votes": 249068,
+     "pct": 0.96,
+     "bloc": "AUT"
+    },
+    {
+     "name": "REG",
+     "label": "Régionaliste",
+     "votes": 145809,
+     "pct": 0.56,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers",
+     "votes": 133752,
+     "pct": 0.52,
+     "bloc": "AUT"
+    },
+    {
+     "name": "EXD",
+     "label": "Extrême droite",
+     "votes": 49499,
+     "pct": 0.19,
+     "bloc": "EXD"
+    }
+   ],
+   "notes": "Nouveau Centre (2.20), Parti radical valoisien (1.24) and Alliance centriste (0.60) ran allied with UMP (pre-UDI centrists, joint investitures) -> DRO, total 4.04; alternative CEN (instructions list Alliance centriste in CEN). MoDem ran autonomously as 'Le Centre pour la France' -> CEN. ECO (non-EELV ecologists) -> AUT."
+  },
+  "2017": {
+   "date": "2017-06-11",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_2017&action=raw (table source: interieur.gouv.fr legislatives-2017 FE.html)",
+   "blocs": {
+    "RADG": 14.52,
+    "GAU": 13.81,
+    "CEN": 32.33,
+    "DRO": 21.56,
+    "EXD": 14.67,
+    "AUT": 3.11,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 100.0,
+   "parties": [
+    {
+     "name": "LREM",
+     "label": "La République en marche",
+     "votes": 6391269,
+     "pct": 28.21,
+     "bloc": "CEN"
+    },
+    {
+     "name": "LR",
+     "label": "Les Républicains",
+     "votes": 3573427,
+     "pct": 15.77,
+     "bloc": "DRO"
+    },
+    {
+     "name": "FN",
+     "label": "Front national",
+     "votes": 2990454,
+     "pct": 13.2,
+     "bloc": "EXD"
+    },
+    {
+     "name": "LFI",
+     "label": "La France insoumise",
+     "votes": 2497622,
+     "pct": 11.03,
+     "bloc": "RADG"
+    },
+    {
+     "name": "PS",
+     "label": "Parti socialiste",
+     "votes": 1685677,
+     "pct": 7.44,
+     "bloc": "GAU"
+    },
+    {
+     "name": "ECO (dont EELV)",
+     "label": "Écologistes",
+     "votes": 973527,
+     "pct": 4.3,
+     "bloc": "GAU"
+    },
+    {
+     "name": "MoDem",
+     "label": "Mouvement démocrate",
+     "votes": 932227,
+     "pct": 4.12,
+     "bloc": "CEN"
+    },
+    {
+     "name": "UDI (allié LR)",
+     "label": "Union des démocrates et indépendants",
+     "votes": 687225,
+     "pct": 3.03,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite",
+     "votes": 625345,
+     "pct": 2.76,
+     "bloc": "DRO"
+    },
+    {
+     "name": "PCF",
+     "label": "Parti communiste français",
+     "votes": 615487,
+     "pct": 2.72,
+     "bloc": "RADG"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers",
+     "votes": 500309,
+     "pct": 2.21,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DVG",
+     "label": "Divers gauche",
+     "votes": 362281,
+     "pct": 1.6,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DLF",
+     "label": "Debout la France",
+     "votes": 265420,
+     "pct": 1.17,
+     "bloc": "EXD"
+    },
+    {
+     "name": "REG",
+     "label": "Régionalistes",
+     "votes": 204049,
+     "pct": 0.9,
+     "bloc": "AUT"
+    },
+    {
+     "name": "EXG",
+     "label": "Extrême gauche",
+     "votes": 175214,
+     "pct": 0.77,
+     "bloc": "RADG"
+    },
+    {
+     "name": "PRG",
+     "label": "Parti radical de gauche",
+     "votes": 106311,
+     "pct": 0.47,
+     "bloc": "GAU"
+    },
+    {
+     "name": "EXD",
+     "label": "Extrême droite",
+     "votes": 68320,
+     "pct": 0.3,
+     "bloc": "EXD"
+    }
+   ],
+   "notes": "LREM (28.21) and MoDem (4.12) shown separately by the ministry; both CEN (Ensemble/majorité présidentielle total 32.33). UDI (3.03) ran under a national agreement with LR -> DRO (alternative CEN). ECO nuance (4.30) in 2017 included EELV candidates -> GAU (it also contains some non-left ecologists). DLF -> EXD."
+  },
+  "2022": {
+   "date": "2022-06-12",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_2022&action=raw (table source: interieur.gouv.fr legislatives-2022 FE.php, ministry nuances)",
+   "blocs": {
+    "RADG": 1.17,
+    "GAU": 3.7,
+    "CEN": 27.0,
+    "DRO": 13.62,
+    "EXD": 24.05,
+    "AUT": 4.8,
+    "UNION_GAUCHE": 25.66
+   },
+   "sum_check": 100.0,
+   "parties": [
+    {
+     "name": "Ensemble (ENS)",
+     "label": "Ensemble",
+     "votes": 5857364,
+     "pct": 25.75,
+     "bloc": "CEN"
+    },
+    {
+     "name": "NUPES",
+     "label": "Nouvelle Union populaire écologique et sociale",
+     "votes": 5836079,
+     "pct": 25.66,
+     "bloc": "UNION_GAUCHE"
+    },
+    {
+     "name": "RN",
+     "label": "Rassemblement national",
+     "votes": 4248537,
+     "pct": 18.68,
+     "bloc": "EXD"
+    },
+    {
+     "name": "LR",
+     "label": "Les Républicains",
+     "votes": 2370440,
+     "pct": 10.42,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Reconquête",
+     "label": "Reconquête",
+     "votes": 964775,
+     "pct": 4.24,
+     "bloc": "EXD"
+    },
+    {
+     "name": "DVG (incl. NUPES outre-mer/Corse)",
+     "label": "Divers gauche",
+     "votes": 713574,
+     "pct": 3.14,
+     "bloc": "GAU"
+    },
+    {
+     "name": "ECO (écologistes hors NUPES)",
+     "label": "Écologistes",
+     "votes": 608314,
+     "pct": 2.67,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite",
+     "votes": 530782,
+     "pct": 2.33,
+     "bloc": "DRO"
+    },
+    {
+     "name": "REG",
+     "label": "Régionaliste",
+     "votes": 291384,
+     "pct": 1.28,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DVC",
+     "label": "Divers centre",
+     "votes": 283612,
+     "pct": 1.25,
+     "bloc": "CEN"
+    },
+    {
+     "name": "DXG",
+     "label": "Divers extrême gauche",
+     "votes": 266412,
+     "pct": 1.17,
+     "bloc": "RADG"
+    },
+    {
+     "name": "DSV",
+     "label": "Droite souverainiste",
+     "votes": 249603,
+     "pct": 1.1,
+     "bloc": "EXD"
+    },
+    {
+     "name": "UDI (UDC, allié LR)",
+     "label": "Union des démocrates et indépendants",
+     "votes": 198062,
+     "pct": 0.87,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers",
+     "votes": 192624,
+     "pct": 0.85,
+     "bloc": "AUT"
+    },
+    {
+     "name": "RDG (PRG)",
+     "label": "Parti radical de gauche",
+     "votes": 126689,
+     "pct": 0.56,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DXD",
+     "label": "Divers extrême droite",
+     "votes": 6457,
+     "pct": 0.03,
+     "bloc": "EXD"
+    }
+   ],
+   "notes": "NUPES (ministry nuance NUP, 25.66) in UNION_GAUCHE; RADG/GAU exclude it. Ministry counts NUPES candidates in outre-mer/Corse under DVG (3.14 -> GAU), so true left alliance is understated (Le Monde computed 26.10). UDI (0.87) ran within Union de la droite et du centre with LR -> DRO. DVD includes Les Centristes. Ensemble includes LREM, MoDem, Horizons, Agir. ECO (UDE, Écologie au centre, Cap21, Parti animaliste...) -> AUT. DSV (DLF, Patriotes...) -> EXD.",
+   "union_gauche_split": {
+    "source": "https://fr.wikipedia.org/w/index.php?title=Élections_législatives_françaises_de_2022&action=raw (section 'Résultats par coalition')",
+    "coalition_total_pct": 26.51,
+    "by_bloc": {
+     "RADG": 17.17,
+     "GAU": 8.83,
+     "UG_OTHER": 0.51
+    },
+    "parties": [
+     {
+      "name": "LFI",
+      "label": "NUPES}}",
+      "votes": 3091129,
+      "pct": 13.59,
+      "bloc": "RADG"
+     },
+     {
+      "name": "EELV",
+      "label": "Europe Écologie Les Verts (EELV)",
+      "votes": 865637,
+      "pct": 3.81,
+      "bloc": "GAU"
+     },
+     {
+      "name": "PS",
+      "label": "Parti socialiste (PS)",
+      "votes": 860201,
+      "pct": 3.78,
+      "bloc": "GAU"
+     },
+     {
+      "name": "PCF",
+      "label": "Parti communiste français (PCF)",
+      "votes": 520092,
+      "pct": 2.29,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Génération.s",
+      "label": "Génération.s (G.s)",
+      "votes": 145610,
+      "pct": 0.64,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Génération écologie",
+      "label": "Génération écologie (GE)",
+      "votes": 106099,
+      "pct": 0.47,
+      "bloc": "GAU"
+     },
+     {
+      "name": "La France insoumise - Ensemble ! (LFI - E!)",
+      "label": "La France insoumise - Ensemble ! (LFI - E!)",
+      "votes": 104917,
+      "pct": 0.46,
+      "bloc": "RADG"
+     },
+     {
+      "name": "REV (Caron, LFI-aligned)",
+      "label": "Révolution écologique pour le vivant (REV)",
+      "votes": 97859,
+      "pct": 0.43,
+      "bloc": "RADG"
+     },
+     {
+      "name": "POI",
+      "label": "Parti ouvrier indépendant (POI)",
+      "votes": 51440,
+      "pct": 0.23,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Tavini huiraatira",
+      "label": "Tavini huiraatira",
+      "votes": 23490,
+      "pct": 0.1,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "La France insoumise - Picardie debout ! (LFI - PD)",
+      "label": "La France insoumise - Picardie debout ! (LFI - PD)",
+      "votes": 23022,
+      "pct": 0.1,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Pour La Réunion (PLR)",
+      "label": "Pour La Réunion (PLR)",
+      "votes": 20373,
+      "pct": 0.09,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Les Nouveaux Démocrates",
+      "label": "Les Nouveaux Démocrates (LND)",
+      "votes": 17937,
+      "pct": 0.08,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Territoires44 (T44)",
+      "label": "Territoires44 (T44)",
+      "votes": 17755,
+      "pct": 0.08,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "La France insoumise - Rézistan's Égalité 974 (LFI - RÉ974)",
+      "label": "La France insoumise - Rézistan's Égalité 974 (LFI - RÉ974)",
+      "votes": 16061,
+      "pct": 0.07,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Péyi-A",
+      "label": "Péyi-A",
+      "votes": 13487,
+      "pct": 0.06,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Le Progrès (P974)",
+      "label": "Le Progrès (P974)",
+      "votes": 13197,
+      "pct": 0.06,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "GDS",
+      "label": "Gauche démocratique et sociale (GDS)",
+      "votes": 11318,
+      "pct": 0.05,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Parti progressiste démocratique guadeloupéen (PPDG)",
+      "label": "Parti progressiste démocratique guadeloupéen (PPDG)",
+      "votes": 5532,
+      "pct": 0.02,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Mouvement pour le développement de Mayotte (MDM)",
+      "label": "Mouvement pour le développement de Mayotte (MDM)",
+      "votes": 1409,
+      "pct": 0.01,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Inseme a Manca-Ensemble ! (IAM-E!)",
+      "label": "Inseme a Manca-Ensemble ! (IAM-E!)",
+      "votes": 1046,
+      "pct": 0.0,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Péyi Guyane (Péyi G)",
+      "label": "Péyi Guyane (Péyi G)",
+      "votes": null,
+      "pct": 0.0,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Walwari",
+      "label": "Walwari",
+      "votes": null,
+      "pct": 0.0,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Indépendants",
+      "label": "Indépendants",
+      "votes": 19508,
+      "pct": 0.09,
+      "bloc": "UG_OTHER"
+     }
+    ],
+    "note": "Wikipedia editors' sum of per-constituency coalition results by party label (not an official ministry series). Its NUPES total is 26.51 vs 25.66 for the ministry NUP nuance because it also counts NUPES candidates the ministry classed DVG/REG (overseas, Corsica). Use for proportions only; shares are of all suffrages exprimés. UG_OTHER = overseas/local partners and independents."
+   }
+  },
+  "2024": {
+   "date": "2024-06-30",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_législatives_françaises_de_2024&action=raw (table source: resultats-elections.interieur.gouv.fr legislatives2024, ministry nuances)",
+   "blocs": {
+    "RADG": 1.19,
+    "GAU": 1.67,
+    "CEN": 21.98,
+    "DRO": 10.68,
+    "EXD": 34.44,
+    "AUT": 1.99,
+    "UNION_GAUCHE": 28.06
+   },
+   "sum_check": 100.01,
+   "parties": [
+    {
+     "name": "RN",
+     "label": "Rassemblement national",
+     "votes": 9379092,
+     "pct": 29.26,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Union de la gauche (NFP)",
+     "label": "Union de la gauche",
+     "votes": 8995226,
+     "pct": 28.06,
+     "bloc": "UNION_GAUCHE"
+    },
+    {
+     "name": "Ensemble (ENS)",
+     "label": "Ensemble",
+     "votes": 6425707,
+     "pct": 20.04,
+     "bloc": "CEN"
+    },
+    {
+     "name": "LR (non-Ciotti)",
+     "label": "Les Républicains",
+     "votes": 2106166,
+     "pct": 6.57,
+     "bloc": "DRO"
+    },
+    {
+     "name": "UXD (Ciotti LR-RN allies)",
+     "label": "Union de l'extrême droite",
+     "votes": 1268822,
+     "pct": 3.96,
+     "bloc": "EXD"
+    },
+    {
+     "name": "DVD",
+     "label": "Divers droite",
+     "votes": 1154785,
+     "pct": 3.6,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DVG (incl. NFP outre-mer)",
+     "label": "Divers gauche",
+     "votes": 490898,
+     "pct": 1.53,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DVC",
+     "label": "Divers centre",
+     "votes": 391423,
+     "pct": 1.22,
+     "bloc": "CEN"
+    },
+    {
+     "name": "EXG",
+     "label": "Extrême gauche",
+     "votes": 366594,
+     "pct": 1.14,
+     "bloc": "RADG"
+    },
+    {
+     "name": "REG",
+     "label": "Régionaliste",
+     "votes": 310727,
+     "pct": 0.97,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Reconquête",
+     "label": "Reconquête",
+     "votes": 238934,
+     "pct": 0.75,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Horizons (HOR)",
+     "label": "Horizons",
+     "votes": 231667,
+     "pct": 0.72,
+     "bloc": "CEN"
+    },
+    {
+     "name": "ECO (écologistes hors UG)",
+     "label": "Écologistes",
+     "votes": 182478,
+     "pct": 0.57,
+     "bloc": "AUT"
+    },
+    {
+     "name": "UDI",
+     "label": "Union des démocrates et indépendants",
+     "votes": 163072,
+     "pct": 0.51,
+     "bloc": "DRO"
+    },
+    {
+     "name": "DIV",
+     "label": "Divers",
+     "votes": 142871,
+     "pct": 0.45,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DSV",
+     "label": "Droite souverainiste",
+     "votes": 90110,
+     "pct": 0.28,
+     "bloc": "EXD"
+    },
+    {
+     "name": "EXD",
+     "label": "Extrême droite",
+     "votes": 59679,
+     "pct": 0.19,
+     "bloc": "EXD"
+    },
+    {
+     "name": "PS hors UG",
+     "label": "Parti socialiste hors UG",
+     "votes": 29242,
+     "pct": 0.09,
+     "bloc": "GAU"
+    },
+    {
+     "name": "RDG (PRG)",
+     "label": "Parti radical de gauche",
+     "votes": 12434,
+     "pct": 0.04,
+     "bloc": "GAU"
+    },
+    {
+     "name": "LFI hors UG",
+     "label": "La France insoumise hors UG",
+     "votes": 12224,
+     "pct": 0.04,
+     "bloc": "RADG"
+    },
+    {
+     "name": "PCF hors UG",
+     "label": "Parti communiste français hors UG",
+     "votes": 3125,
+     "pct": 0.01,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Les Écologistes hors UG",
+     "label": "Les Écologistes hors UG",
+     "votes": 2668,
+     "pct": 0.01,
+     "bloc": "GAU"
+    }
+   ],
+   "notes": "Union de la gauche (ministry nuance UG = NFP, 28.06) in UNION_GAUCHE. NFP candidates in outre-mer partly counted as DVG (1.53 -> GAU). UXD (3.96 = Ciotti 'Républicains à droite' and other LR-RN joint candidates) -> EXD. LR (6.57) = LR not following Ciotti -> DRO. LR dissidents running as DVD sit in DVD -> DRO. UDI (0.51) -> DRO (the coalition table shows it split roughly evenly between ENS-allied and LR/UDC-allied candidates; ambiguous). Horizons shown separately (0.72) -> CEN. ECO -> AUT. DVC (1.22; votes cell carried a footnote) -> CEN.",
+   "union_gauche_split": {
+    "source": "https://fr.wikipedia.org/w/index.php?title=Élections_législatives_françaises_de_2024&action=raw (section 'Résultats par coalition')",
+    "coalition_total_pct": 28.79,
+    "by_bloc": {
+     "RADG": 13.57,
+     "GAU": 14.25,
+     "UG_OTHER": 0.95
+    },
+    "parties": [
+     {
+      "name": "LFI",
+      "label": "NFP}}",
+      "votes": 3364445,
+      "pct": 10.49,
+      "bloc": "RADG"
+     },
+     {
+      "name": "PS",
+      "label": "Parti socialiste (PS)",
+      "votes": 2749903,
+      "pct": 8.58,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Les Écologistes",
+      "label": "Les Écologistes (LE)",
+      "votes": 1405725,
+      "pct": 4.38,
+      "bloc": "GAU"
+     },
+     {
+      "name": "PCF",
+      "label": "Parti communiste français (PCF)",
+      "votes": 753992,
+      "pct": 2.35,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Génération.s",
+      "label": "Génération.s (G.s)",
+      "votes": 238881,
+      "pct": 0.75,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Place publique",
+      "label": "Place publique (PP)",
+      "votes": 106259,
+      "pct": 0.33,
+      "bloc": "GAU"
+     },
+     {
+      "name": "REV (Caron, LFI-aligned)",
+      "label": "Révolution écologique pour le vivant (REV)",
+      "votes": 90214,
+      "pct": 0.28,
+      "bloc": "RADG"
+     },
+     {
+      "name": "POI",
+      "label": "Parti ouvrier indépendant (POI)",
+      "votes": 67623,
+      "pct": 0.21,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Péyi-A",
+      "label": "Péyi-A",
+      "votes": 41527,
+      "pct": 0.13,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Pour La Réunion (PLR)",
+      "label": "Pour La Réunion (PLR)",
+      "votes": 39962,
+      "pct": 0.12,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Sans étiquette allié au NFP (SE)",
+      "label": "Sans étiquette allié au NFP (SE)",
+      "votes": 35961,
+      "pct": 0.11,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Tavini huira'atira (Tavini)",
+      "label": "Tavini huira'atira (Tavini)",
+      "votes": 35888,
+      "pct": 0.11,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "La France insoumise - Pour une écologie populaire et sociale (LFI-PEPS)",
+      "label": "La France insoumise - Pour une écologie populaire et sociale (LFI-PEPS)",
+      "votes": 34341,
+      "pct": 0.11,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Territoires44 (T44)",
+      "label": "Territoires44 (T44)",
+      "votes": 26919,
+      "pct": 0.08,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Rézistan's Égalité 974 (RÉ974)",
+      "label": "Rézistan's Égalité 974 (RÉ974)",
+      "votes": 26387,
+      "pct": 0.08,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Génération écologie",
+      "label": "Génération écologie (GE)",
+      "votes": 25435,
+      "pct": 0.08,
+      "bloc": "GAU"
+     },
+     {
+      "name": "NPA-A",
+      "label": "Nouveau Parti anticapitaliste – L'Anticapitaliste (NPA-A)",
+      "votes": 23630,
+      "pct": 0.07,
+      "bloc": "RADG"
+     },
+     {
+      "name": "GRS",
+      "label": "Gauche républicaine et socialiste (GRS)",
+      "votes": 22742,
+      "pct": 0.07,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Le Progrès (P974)",
+      "label": "Le Progrès (P974)",
+      "votes": 22696,
+      "pct": 0.07,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Euskal Herria Bai (EH Bai)",
+      "label": "Euskal Herria Bai (EH Bai)",
+      "votes": 21650,
+      "pct": 0.07,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Nouvelle Donne",
+      "label": "Nouvelle Donne (ND)",
+      "votes": 19107,
+      "pct": 0.06,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Picardie debout ! (PD!)",
+      "label": "Picardie debout ! (PD!)",
+      "votes": 17850,
+      "pct": 0.06,
+      "bloc": "RADG"
+     },
+     {
+      "name": "Mouvement de décolonisation et d'émancipation sociale (MDES)",
+      "label": "Mouvement de décolonisation et d'émancipation sociale (MDES)",
+      "votes": 12895,
+      "pct": 0.04,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "La Seine-Saint-Denis au cœur (SSDAC)",
+      "label": "La Seine-Saint-Denis au cœur (SSDAC)",
+      "votes": 12141,
+      "pct": 0.04,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Parti progressiste démocratique guadeloupéen (PPDG)",
+      "label": "Parti progressiste démocratique guadeloupéen (PPDG)",
+      "votes": 10903,
+      "pct": 0.03,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Parti Croire et Oser (PCO)",
+      "label": "Parti Croire et Oser (PCO)",
+      "votes": 9083,
+      "pct": 0.03,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Agir pour le bien commun – Convergences citoyennes (ABC)",
+      "label": "Agir pour le bien commun – Convergences citoyennes (ABC)",
+      "votes": 7283,
+      "pct": 0.02,
+      "bloc": "UG_OTHER"
+     },
+     {
+      "name": "Bâtir notre île Ansanm (Banian)",
+      "label": "Bâtir notre île Ansanm (Banian)",
+      "votes": 5757,
+      "pct": 0.02,
+      "bloc": "UG_OTHER"
+     }
+    ],
+    "note": "Wikipedia editors' sum of per-constituency coalition results by party label (not an official ministry series). NFP total 28.79 vs 28.06 for the ministry UG nuance (overseas NFP candidates classed DVG by the ministry). Use for proportions only. UG_OTHER = overseas/local partners and allied independents."
+   }
+  }
+ },
+ "european": {
+  "1999": {
+   "date": "1999-06-13",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Élections_européennes_de_1999_en_France&action=raw (table cites JORF proclamation, legifrance)",
+   "blocs": {
+    "RADG": 11.96,
+    "GAU": 31.67,
+    "CEN": 9.29,
+    "DRO": 19.6,
+    "EXD": 22.04,
+    "AUT": 5.43,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 99.99,
+   "parties": [
+    {
+     "name": "PS-MDC-PRG (Hollande)",
+     "label": "François Hollande",
+     "votes": 3874231,
+     "pct": 21.95,
+     "bloc": "GAU"
+    },
+    {
+     "name": "RPF-MPF (Pasqua-Villiers)",
+     "label": "DSV}}",
+     "votes": 2304544,
+     "pct": 13.06,
+     "bloc": "EXD"
+    },
+    {
+     "name": "RPR-DL (Sarkozy)",
+     "label": "RPR}}",
+     "votes": 2263201,
+     "pct": 12.82,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Verts (Cohn-Bendit)",
+     "label": "Verts}}",
+     "votes": 1715729,
+     "pct": 9.72,
+     "bloc": "GAU"
+    },
+    {
+     "name": "UDF (Bayrou)",
+     "label": "UDF}}",
+     "votes": 1638999,
+     "pct": 9.29,
+     "bloc": "CEN"
+    },
+    {
+     "name": "PCF (Hue)",
+     "label": "PCF}}",
+     "votes": 1196491,
+     "pct": 6.78,
+     "bloc": "RADG"
+    },
+    {
+     "name": "CPNT",
+     "label": "CPNT}}",
+     "votes": 1195863,
+     "pct": 6.78,
+     "bloc": "DRO"
+    },
+    {
+     "name": "FN",
+     "label": "Jean-Marie Le Pen",
+     "votes": 1005285,
+     "pct": 5.7,
+     "bloc": "EXD"
+    },
+    {
+     "name": "LO-LCR",
+     "label": "Arlette Laguiller",
+     "votes": 914811,
+     "pct": 5.18,
+     "bloc": "RADG"
+    },
+    {
+     "name": "MN (Mégret)",
+     "label": "MNR}}",
+     "votes": 578837,
+     "pct": 3.28,
+     "bloc": "EXD"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": 312450,
+     "pct": 1.77,
+     "bloc": "AUT"
+    },
+    {
+     "name": "MEI (Waechter)",
+     "label": "MEI}}",
+     "votes": 268038,
+     "pct": 1.52,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": 178064,
+     "pct": 1.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": 124561,
+     "pct": 0.71,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": 71409,
+     "pct": 0.4,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": 1995,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "97.2 (régionaliste)",
+     "label": "REG}}",
+     "votes": 1707,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "DIV",
+     "label": "DIV}}",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    }
+   ],
+   "notes": "Pasqua-Villiers list (RPF + MPF + RPR dissidents, 13.06, ministry nuance DVD) mapped EXD as sovereigntist right per instructions; this is the single most consequential mapping choice for 1999 (alternative DRO would give DRO 32.66, EXD 9.0). UDF ran separately (Bayrou) -> CEN. PS list includes MDC and PRG. RPR-DL list included GE. CPNT -> DRO."
+  },
+  "2004": {
+   "date": "2004-06-13",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_européennes_France_2004&action=raw",
+   "blocs": {
+    "RADG": 9.21,
+    "GAU": 37.02,
+    "CEN": 11.96,
+    "DRO": 18.83,
+    "EXD": 18.49,
+    "AUT": 4.5,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 100.01,
+   "parties": [
+    {
+     "name": "PS",
+     "label": "Parti socialiste (PS)",
+     "votes": 4960756,
+     "pct": 28.9,
+     "bloc": "GAU"
+    },
+    {
+     "name": "UMP",
+     "label": "Union pour un mouvement populaire (UMP)",
+     "votes": 2856368,
+     "pct": 16.64,
+     "bloc": "DRO"
+    },
+    {
+     "name": "UDF",
+     "label": "Union pour la démocratie française (UDF)",
+     "votes": 2053446,
+     "pct": 11.96,
+     "bloc": "CEN"
+    },
+    {
+     "name": "FN",
+     "label": "Front national (FN)",
+     "votes": 1684947,
+     "pct": 9.81,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Verts et alliés régionalistes",
+     "label": "Les Verts et alliés régionalistes (LV)",
+     "votes": 1271394,
+     "pct": 7.41,
+     "bloc": "GAU"
+    },
+    {
+     "name": "MPF",
+     "label": "Mouvement pour la France (MPF)",
+     "votes": 1145839,
+     "pct": 6.67,
+     "bloc": "EXD"
+    },
+    {
+     "name": "PCF et alliés ultramarins",
+     "label": "Parti communiste français et alliés ultramarins (PCF)",
+     "votes": 1009976,
+     "pct": 5.88,
+     "bloc": "RADG"
+    },
+    {
+     "name": "LO-LCR",
+     "label": "Lutte ouvrière - Ligue communiste révolutionnaire (LO-LCR)",
+     "votes": 440134,
+     "pct": 2.56,
+     "bloc": "RADG"
+    },
+    {
+     "name": "CPNT",
+     "label": "Chasse, pêche, nature et traditions (CPNT)",
+     "votes": 297273,
+     "pct": 1.73,
+     "bloc": "DRO"
+    },
+    {
+     "name": "RPF",
+     "label": "Rassemblement pour la France (RPF)",
+     "votes": 291234,
+     "pct": 1.7,
+     "bloc": "EXD"
+    },
+    {
+     "name": "La France d'en bas (LFDB)",
+     "label": "La France d'en bas (LFDB)",
+     "votes": 266538,
+     "pct": 1.55,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Rassemblement des contribuables français (RCF)",
+     "label": "Rassemblement des contribuables français (RCF)",
+     "votes": 147943,
+     "pct": 0.86,
+     "bloc": "AUT"
+    },
+    {
+     "name": "PT",
+     "label": "Parti des travailleurs (PT)",
+     "votes": 131434,
+     "pct": 0.77,
+     "bloc": "RADG"
+    },
+    {
+     "name": "PRG",
+     "label": "Parti radical de gauche (PRG)",
+     "votes": 121573,
+     "pct": 0.71,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Citoyenneté, action, participation pour le XXI{{e}} siècle (Cap21)",
+     "label": "Citoyenneté, action, participation pour le XXI{{e}} siècle (Cap21)",
+     "votes": 98700,
+     "pct": 0.57,
+     "bloc": "AUT"
+    },
+    {
+     "name": "UMP dissident",
+     "label": "Union pour un mouvement populaire dissident (UMP {{Abrd|diss.|dissident}})",
+     "votes": 79529,
+     "pct": 0.46,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Mouvement écologiste indépendant (MEI)",
+     "label": "Mouvement écologiste indépendant (MEI)",
+     "votes": 61457,
+     "pct": 0.36,
+     "bloc": "AUT"
+    },
+    {
+     "name": "MNR",
+     "label": "Mouvement national républicain (MNR)",
+     "votes": 53606,
+     "pct": 0.31,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Automobiliste vache à lait ras le bol",
+     "label": "Automobiliste vache à lait ras le bol",
+     "votes": null,
+     "pct": 0.31,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Coordination des appels pour une paix juste au Proche-Orient (CAPJPO)",
+     "label": "Coordination des appels pour une paix juste au Proche-Orient (CAPJPO)",
+     "votes": 50037,
+     "pct": 0.29,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Vivre mieux avec l'Europe (VMAE)",
+     "label": "Vivre mieux avec l'Europe (VMAE)",
+     "votes": 26950,
+     "pct": 0.16,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Europe Démocratie Espéranto (EDE)",
+     "label": "Europe Démocratie Espéranto (EDE)",
+     "votes": 25067,
+     "pct": 0.15,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Les régionalistes : Occitanie - Catalogne - Euskadi",
+     "label": "Les régionalistes : Occitanie - Catalogne - Euskadi",
+     "votes": 9249,
+     "pct": 0.05,
+     "bloc": "AUT"
+    },
+    {
+     "name": "La Terre, sinon rien...",
+     "label": "La Terre, sinon rien...",
+     "votes": null,
+     "pct": 0.04,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Alliance royale (AR)",
+     "label": "Alliance royale (AR)",
+     "votes": 5248,
+     "pct": 0.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Herritarren zerrenda (HZ)",
+     "label": "Herritarren zerrenda (HZ)",
+     "votes": 5157,
+     "pct": 0.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Solidarité et progrès (S&P)",
+     "label": "Solidarité et progrès (S&P)",
+     "votes": 3129,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Diversité pour l'Europe (DPE)",
+     "label": "Diversité pour l'Europe (DPE)",
+     "votes": 2807,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Non au racisme en Europe en France et outre-mer",
+     "label": "Non au racisme en Europe en France et outre-mer",
+     "votes": null,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti fédéraliste (PF)",
+     "label": "Parti fédéraliste (PF)",
+     "votes": 1890,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Nous sommes tous Européens",
+     "label": "Nous sommes tous Européens",
+     "votes": null,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Ligue savoisienne (LS)",
+     "label": "Ligue savoisienne (LS)",
+     "votes": 1155,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Union française pour la cohésion nationale",
+     "label": "Union française pour la cohésion nationale",
+     "votes": null,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Action pour tous",
+     "label": "Action pour tous",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti des socioprofessionnels (PSP)",
+     "label": "Parti des socioprofessionnels (PSP)",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Pôle des libertés (PDL)",
+     "label": "Pôle des libertés (PDL)",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Jus cogens",
+     "label": "Jus cogens",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti humaniste (PH)",
+     "label": "Parti humaniste (PH)",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "France unie des travailleurs salariés et indépendants (FUTSI)",
+     "label": "France unie des travailleurs salariés et indépendants (FUTSI)",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Pour une France indépendante, écologique et solidaire dans une Europe des nation",
+     "label": "Pour une France indépendante, écologique et solidaire dans une Europe des nation",
+     "votes": null,
+     "pct": 0.0,
+     "bloc": "AUT"
+    }
+   ],
+   "notes": "UDF autonomous (Bayrou) -> CEN. MPF (6.67) and RPF (1.70) -> EXD as sovereigntist right. CPNT (1.73) -> DRO. Verts list includes regionalist allies; PCF list includes overseas allies. Cap21 (0.57), MEI (0.36) -> AUT. Several tiny lists have % only (no vote count in the table)."
+  },
+  "2009": {
+   "date": "2009-06-07",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Résultats_des_élections_européennes_de_2009_en_France&action=raw",
+   "blocs": {
+    "RADG": 12.55,
+    "GAU": 32.76,
+    "CEN": 8.46,
+    "DRO": 27.88,
+    "EXD": 12.91,
+    "AUT": 5.44,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 100.0,
+   "parties": [
+    {
+     "name": "Majorité présidentielle (UMP-NC-LGM)",
+     "label": "Majorité présidentielle (UMP-NC-LGM)",
+     "votes": 4799908,
+     "pct": 27.88,
+     "bloc": "DRO"
+    },
+    {
+     "name": "PS",
+     "label": "PS",
+     "votes": 2838160,
+     "pct": 16.48,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Europe Écologie (Verts-R&PS)",
+     "label": "Europe Écologie (Verts-R&PS)",
+     "votes": 2803759,
+     "pct": 16.28,
+     "bloc": "GAU"
+    },
+    {
+     "name": "MoDem",
+     "label": "MoDem",
+     "votes": 1455841,
+     "pct": 8.46,
+     "bloc": "CEN"
+    },
+    {
+     "name": "Front de gauche (PCF-PG-GU)",
+     "label": "Front de gauche (PCF-PG-GU)",
+     "votes": 1041911,
+     "pct": 6.05,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Alliance des Outre-mers (soutenue par FG)",
+     "label": "Alliance des Outre-mers (soutenue par FG)",
+     "votes": 73110,
+     "pct": 0.42,
+     "bloc": "RADG"
+    },
+    {
+     "name": "FN",
+     "label": "FN",
+     "votes": 1091691,
+     "pct": 6.34,
+     "bloc": "EXD"
+    },
+    {
+     "name": "NPA",
+     "label": "NPA",
+     "votes": 840833,
+     "pct": 4.88,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Libertas (MPF-CPNT)",
+     "label": "Libertas (MPF-CPNT)",
+     "votes": 826357,
+     "pct": 4.8,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Alliance écologiste indépendante (MEI-GE-LFA)",
+     "label": "Alliance écologiste indépendante (MEI-GE-LFA)",
+     "votes": 625375,
+     "pct": 3.63,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Debout la République",
+     "label": "Debout la République",
+     "votes": 304585,
+     "pct": 1.77,
+     "bloc": "EXD"
+    },
+    {
+     "name": "LO",
+     "label": "LO",
+     "votes": 205975,
+     "pct": 1.2,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Autres",
+     "label": "Autres",
+     "votes": 311109,
+     "pct": 1.81,
+     "bloc": "AUT"
+    }
+   ],
+   "notes": "Majorité présidentielle list = UMP + Nouveau Centre + Gauche moderne -> DRO (NC inside). MoDem autonomous -> CEN. Libertas (MPF + CPNT, 4.80) -> EXD (MPF-led; CPNT component would be DRO by the rule, not separable). Debout la République -> EXD. Alliance des Outre-mers (0.42, overseas only, backed by FG) -> RADG. Alliance écologiste indépendante -> AUT."
+  },
+  "2014": {
+   "date": "2014-05-25",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Élections_européennes_de_2014_en_France&action=raw (table cites interieur.gouv.fr ER2014/FE.html)",
+   "blocs": {
+    "RADG": 8.19,
+    "GAU": 25.83,
+    "CEN": 9.94,
+    "DRO": 21.55,
+    "EXD": 29.09,
+    "AUT": 5.38,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 99.98,
+   "parties": [
+    {
+     "name": "FN-RBM",
+     "label": "Front national - Rassemblement bleu Marine",
+     "votes": 4712461,
+     "pct": 24.86,
+     "bloc": "EXD"
+    },
+    {
+     "name": "UMP",
+     "label": "Union pour un mouvement populaire",
+     "votes": 3943819,
+     "pct": 20.81,
+     "bloc": "DRO"
+    },
+    {
+     "name": "PS-PRG",
+     "label": "Parti socialiste - Parti radical de gauche",
+     "votes": 2650357,
+     "pct": 13.98,
+     "bloc": "GAU"
+    },
+    {
+     "name": "UDI-MoDem (L'Alternative)",
+     "label": "L'Alternative • Union des démocrates et indépendants - Mouvement démocrat",
+     "votes": 1884565,
+     "pct": 9.94,
+     "bloc": "CEN"
+    },
+    {
+     "name": "EELV",
+     "label": "Europe Écologie Les Verts",
+     "votes": 1696442,
+     "pct": 8.95,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Front de gauche - Union pour les Outremer",
+     "label": "Front de gauche - L'Union pour les Outremer",
+     "votes": 1252730,
+     "pct": 6.61,
+     "bloc": "RADG"
+    },
+    {
+     "name": "DLR",
+     "label": "Debout la République",
+     "votes": 724441,
+     "pct": 3.82,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Nouvelle Donne",
+     "label": "Nouvelle Donne",
+     "votes": 549734,
+     "pct": 2.9,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Nous Citoyens",
+     "label": "Nous Citoyens",
+     "votes": 266343,
+     "pct": 1.41,
+     "bloc": "AUT"
+    },
+    {
+     "name": "LO",
+     "label": "Lutte ouvrière",
+     "votes": 222491,
+     "pct": 1.17,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Alliance écologiste indépendante",
+     "label": "Alliance écologiste indépendante",
+     "votes": 211759,
+     "pct": 1.12,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Force vie (PCD)",
+     "label": "Force vie • Parti chrétien-démocrate - Maison de la vie et des libertés -",
+     "votes": 138708,
+     "pct": 0.74,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Cap21",
+     "label": "Cap21",
+     "votes": 127849,
+     "pct": 0.67,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti du vote blanc",
+     "label": "Parti du vote blanc",
+     "votes": 110090,
+     "pct": 0.58,
+     "bloc": "AUT"
+    },
+    {
+     "name": "UPR (Asselineau)",
+     "label": "Union populaire républicaine",
+     "votes": 76907,
+     "pct": 0.41,
+     "bloc": "EXD"
+    },
+    {
+     "name": "NPA",
+     "label": "Nouveau Parti anticapitaliste",
+     "votes": 74770,
+     "pct": 0.39,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Régions et peuples solidaires",
+     "label": "Régions et peuples solidaires",
+     "votes": 65054,
+     "pct": 0.34,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti pirate",
+     "label": "Parti pirate",
+     "votes": 39338,
+     "pct": 0.21,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Europe Démocratie Espéranto",
+     "label": "Europe Démocratie Espéranto",
+     "votes": 33115,
+     "pct": 0.17,
+     "bloc": "AUT"
+    },
+    {
+     "name": "« Féministes pour une Europe solidaire »",
+     "label": "« Féministes pour une Europe solidaire »",
+     "votes": 27119,
+     "pct": 0.14,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti fédéraliste",
+     "label": "Parti fédéraliste",
+     "votes": 17812,
+     "pct": 0.09,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Europe Décroissance",
+     "label": "Europe Décroissance",
+     "votes": 4638,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Communistes",
+     "label": "Communistes",
+     "votes": 4547,
+     "pct": 0.02,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Démocratie réelle",
+     "label": "Démocratie réelle",
+     "votes": 4450,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Alliance royale",
+     "label": "Alliance royale",
+     "votes": 3127,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Autres",
+     "label": "Autres",
+     "votes": 111903,
+     "pct": 0.59,
+     "bloc": "AUT"
+    }
+   ],
+   "notes": "UDI-MoDem joint list 'L'Alternative' (9.94) ran separately from UMP -> CEN. Nouvelle Donne (2.90, Larrouturou) -> GAU (ambiguous; could be AUT). DLR -> EXD. UPR (0.41) -> EXD as sovereigntist (ambiguous; self-described neither left nor right). Force vie (PCD, 0.74) -> DRO. Nous Citoyens, AEI, Cap21, Parti du vote blanc, R&PS etc. -> AUT."
+  },
+  "2019": {
+   "date": "2019-05-26",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_européennes_de_2019_en_France&action=raw",
+   "blocs": {
+    "RADG": 9.59,
+    "GAU": 22.94,
+    "CEN": 24.92,
+    "DRO": 8.48,
+    "EXD": 28.7,
+    "AUT": 5.38,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 100.01,
+   "parties": [
+    {
+     "name": "RN",
+     "label": "Prenez le pouvoir, liste soutenue par Marine Le Pen Rassemblement nat",
+     "votes": 5286939,
+     "pct": 23.34,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Renaissance (LREM-MoDem)",
+     "label": "Renaissance soutenue par La République en marche, le MoDem et ses partenaires <b",
+     "votes": 5079015,
+     "pct": 22.42,
+     "bloc": "CEN"
+    },
+    {
+     "name": "EELV",
+     "label": "Europe Écologie Europe Écologie Les Verts, Alliance écologiste indépe",
+     "votes": 3055023,
+     "pct": 13.48,
+     "bloc": "GAU"
+    },
+    {
+     "name": "LR-LC-CPNT (UDC)",
+     "label": "Union de la droite et du centre Les Républicains, Les Centristes et C",
+     "votes": 1920407,
+     "pct": 8.48,
+     "bloc": "DRO"
+    },
+    {
+     "name": "LFI",
+     "label": "La France insoumise La France insoumise, Parti de gauche, Gauche répu",
+     "votes": 1428548,
+     "pct": 6.31,
+     "bloc": "RADG"
+    },
+    {
+     "name": "PS-Place publique",
+     "label": "Envie d'Europe écologique et sociale Parti socialiste, Place publique",
+     "votes": 1403170,
+     "pct": 6.19,
+     "bloc": "GAU"
+    },
+    {
+     "name": "DLF",
+     "label": "Le courage de défendre les Français avec Nicolas Dupont-Aignan. Debout la France",
+     "votes": 795508,
+     "pct": 3.51,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Génération.s (Hamon)",
+     "label": "Liste citoyenne du Printemps européen avec Benoît Hamon soutenue par Génération.",
+     "votes": 741772,
+     "pct": 3.27,
+     "bloc": "GAU"
+    },
+    {
+     "name": "UDI (Les Européens)",
+     "label": "Les Européens Union des démocrates et indépendants, Force européenne",
+     "votes": 566057,
+     "pct": 2.5,
+     "bloc": "CEN"
+    },
+    {
+     "name": "PCF",
+     "label": "Pour l'Europe des gens, contre l'Europe de l'argent Parti communiste",
+     "votes": 564949,
+     "pct": 2.49,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Parti animaliste Parti animaliste",
+     "label": "Parti animaliste Parti animaliste",
+     "votes": 490074,
+     "pct": 2.16,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Urgence écologie Génération écologie, Mouvement écologiste indépendan",
+     "label": "Urgence écologie Génération écologie, Mouvement écologiste indépendan",
+     "votes": 412136,
+     "pct": 1.82,
+     "bloc": "AUT"
+    },
+    {
+     "name": "UPR (Asselineau)",
+     "label": "Ensemble pour le Frexit Union populaire républicaine",
+     "votes": 265469,
+     "pct": 1.17,
+     "bloc": "EXD"
+    },
+    {
+     "name": "LO",
+     "label": "Lutte ouvrière – contre le grand capital, le camp des travailleurs Lu",
+     "votes": 176339,
+     "pct": 0.78,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Les Patriotes",
+     "label": "Ensemble Patriotes et Gilets jaunes : pour la France, sortons de l'Union europée",
+     "votes": 147140,
+     "pct": 0.65,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Alliance jaune, la révolte par le vote Sans étiquette",
+     "label": "Alliance jaune, la révolte par le vote Sans étiquette",
+     "votes": 121209,
+     "pct": 0.54,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Les oubliés de l'Europe – artisans, commerçants, professions libérales et indépe",
+     "label": "Les oubliés de l'Europe – artisans, commerçants, professions libérales et indépe",
+     "votes": 51240,
+     "pct": 0.23,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti pirate Parti pirate",
+     "label": "Parti pirate Parti pirate",
+     "votes": 30105,
+     "pct": 0.13,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Union pour une Europe au service des peuples Union des démocrates mus",
+     "label": "Union pour une Europe au service des peuples Union des démocrates mus",
+     "votes": 28469,
+     "pct": 0.13,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Espéranto – langue commune équitable pour l'Europe Europe Démocratie",
+     "label": "Espéranto – langue commune équitable pour l'Europe Europe Démocratie",
+     "votes": 18587,
+     "pct": 0.08,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti fédéraliste européen – Pour une Europe qui protège ses citoyens <small",
+     "label": "Parti fédéraliste européen – Pour une Europe qui protège ses citoyens <small",
+     "votes": 12146,
+     "pct": 0.05,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Décroissance 2019 Décroissance Élections",
+     "label": "Décroissance 2019 Décroissance Élections",
+     "votes": 10352,
+     "pct": 0.05,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Allons enfants Allons enfants, le parti de la jeunesse",
+     "label": "Allons enfants Allons enfants, le parti de la jeunesse",
+     "votes": 8062,
+     "pct": 0.04,
+     "bloc": "AUT"
+    },
+    {
+     "name": "À voix égales Sans étiquette",
+     "label": "À voix égales Sans étiquette",
+     "votes": 7825,
+     "pct": 0.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "PACE – Parti des citoyens européens Parti des citoyens européens</sma",
+     "label": "PACE – Parti des citoyens européens Parti des citoyens européens</sma",
+     "votes": 6663,
+     "pct": 0.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Mouvement pour l'initiative citoyenne Mouvement pour l'initiative cit",
+     "label": "Mouvement pour l'initiative citoyenne Mouvement pour l'initiative cit",
+     "votes": 5882,
+     "pct": 0.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Union démocratique pour la liberté, égalité, fraternité (UDLEF) Union",
+     "label": "Union démocratique pour la liberté, égalité, fraternité (UDLEF) Union",
+     "votes": 4912,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Dissidence française",
+     "label": "Liste de la reconquête Dissidence française",
+     "votes": 4569,
+     "pct": 0.02,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Une France royale au cœur de l'Europe Alliance royale",
+     "label": "Une France royale au cœur de l'Europe Alliance royale",
+     "votes": 3150,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Démocratie représentative Démocratie représentative",
+     "label": "Démocratie représentative Démocratie représentative",
+     "votes": 3084,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Évolution citoyenne Sans étiquette",
+     "label": "Évolution citoyenne Sans étiquette",
+     "votes": 2061,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "SIEL/Parti de l'in-nocence",
+     "label": "La ligne claire Parti de l'in-nocence et Souveraineté, identité et li",
+     "votes": 1578,
+     "pct": 0.01,
+     "bloc": "EXD"
+    },
+    {
+     "name": "PRC",
+     "label": "Parti révolutionnaire Communistes Parti révolutionnaire Communistes</",
+     "votes": 1413,
+     "pct": 0.01,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Neutre et actif Sans étiquette",
+     "label": "Neutre et actif Sans étiquette",
+     "votes": 1321,
+     "pct": 0.01,
+     "bloc": "AUT"
+    }
+   ],
+   "notes": "Renaissance list = LREM + MoDem + Agir + MR -> CEN. UDI ran autonomously ('Les Européens', 2.50) -> CEN. LR list (UDC, with Les Centristes and CPNT) -> DRO. PS-Place publique-Nouvelle Donne list -> GAU; Hamon (Génération.s) -> GAU. LFI list (incl. GRS) -> RADG. Urgence écologie (GE/MEI, 1.82) -> AUT (ambiguous). UPR, Patriotes, DLF -> EXD. Parti animaliste (2.16) -> AUT."
+  },
+  "2024": {
+   "date": "2024-06-09",
+   "source": "https://fr.wikipedia.org/w/index.php?title=Modèle:Élections_européennes_de_2024_en_France&action=raw (table cites resultats-elections.interieur.gouv.fr europeennes2024)",
+   "blocs": {
+    "RADG": 12.93,
+    "GAU": 19.64,
+    "CEN": 14.6,
+    "DRO": 7.25,
+    "EXD": 38.81,
+    "AUT": 6.76,
+    "UNION_GAUCHE": null
+   },
+   "sum_check": 99.99,
+   "parties": [
+    {
+     "name": "RN",
+     "label": "La France revient ! Avec Jordan Bardella et Marine Le Pen Rassembleme",
+     "votes": 7765936,
+     "pct": 31.37,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Ensemble (Renaissance-MoDem-Horizons)",
+     "label": "Besoin d’Europe Ensemble (Renaissance, Mouvement démocrate, Horizons,",
+     "votes": 3614646,
+     "pct": 14.6,
+     "bloc": "CEN"
+    },
+    {
+     "name": "PS-Place publique",
+     "label": "Réveiller l'Europe Place publique, Parti socialiste",
+     "votes": 3424216,
+     "pct": 13.83,
+     "bloc": "GAU"
+    },
+    {
+     "name": "LFI",
+     "label": "La France insoumise – Union populaire La France insoumise, Parti de g",
+     "votes": 2448703,
+     "pct": 9.89,
+     "bloc": "RADG"
+    },
+    {
+     "name": "LR",
+     "label": "La droite pour faire entendre la voix de la France en Europe Les Répu",
+     "votes": 1794171,
+     "pct": 7.25,
+     "bloc": "DRO"
+    },
+    {
+     "name": "Les Écologistes",
+     "label": "Europe Écologie Les Écologistes – EÉLV, Alternative alsacienne</small",
+     "votes": 1361883,
+     "pct": 5.5,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Reconquête",
+     "label": "La France fière, menée par Marion Maréchal et soutenue par Éric Zemmour <sma",
+     "votes": 1353127,
+     "pct": 5.47,
+     "bloc": "EXD"
+    },
+    {
+     "name": "PCF",
+     "label": "Gauche unie pour le monde du travail soutenue par Fabien Roussel Part",
+     "votes": 584067,
+     "pct": 2.36,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Alliance rurale Résistons",
+     "label": "Alliance rurale Résistons",
+     "votes": 582901,
+     "pct": 2.35,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Parti animaliste – Les animaux comptent, votre voix aussi Parti anima",
+     "label": "Parti animaliste – Les animaux comptent, votre voix aussi Parti anima",
+     "votes": 495936,
+     "pct": 2.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Écologie au centre Écologie au centre, Égalité Europe Écologie, Régio",
+     "label": "Écologie au centre Écologie au centre, Égalité Europe Écologie, Régio",
+     "votes": 316136,
+     "pct": 1.28,
+     "bloc": "AUT"
+    },
+    {
+     "name": "UPR (Asselineau)",
+     "label": "Liste Asselineau-Frexit, pour le pouvoir d'achat et pour la paix Unio",
+     "votes": 253036,
+     "pct": 1.02,
+     "bloc": "EXD"
+    },
+    {
+     "name": "Les Patriotes",
+     "label": "L'Europe ça suffit ! Les Patriotes, Via, la voie du peuple",
+     "votes": 229190,
+     "pct": 0.93,
+     "bloc": "EXD"
+    },
+    {
+     "name": "LO",
+     "label": "Lutte ouvrière le camp des travailleurs Lutte ouvrière, Combat ouvrie",
+     "votes": 121281,
+     "pct": 0.49,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Écologie positive et territoires Écologie positive, Cap21, France Éco",
+     "label": "Écologie positive et territoires Écologie positive, Cap21, France Éco",
+     "votes": 104954,
+     "pct": 0.42,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Équinoxe : écologie pratique et renouveau démocratique Équinoxe</smal",
+     "label": "Équinoxe : écologie pratique et renouveau démocratique Équinoxe</smal",
+     "votes": 73002,
+     "pct": 0.29,
+     "bloc": "AUT"
+    },
+    {
+     "name": "PRG-ETE",
+     "label": "Europe Territoires Écologie Parti radical de gauche, {{nobr|Régions}}",
+     "votes": 63482,
+     "pct": 0.26,
+     "bloc": "GAU"
+    },
+    {
+     "name": "NPA-Révolutionnaires",
+     "label": "Pour un monde sans frontières ni patrons, urgence révolution ! Nouvea",
+     "votes": 37434,
+     "pct": 0.15,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Parti pirate Parti pirate",
+     "label": "Parti pirate Parti pirate",
+     "votes": 28119,
+     "pct": 0.11,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Free Palestine Union des démocrates musulmans français",
+     "label": "Free Palestine Union des démocrates musulmans français",
+     "votes": 14986,
+     "pct": 0.06,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Nous le peuple République souveraine, L'Appel au peuple",
+     "label": "Nous le peuple République souveraine, L'Appel au peuple",
+     "votes": 13886,
+     "pct": 0.06,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Nouvelle Donne",
+     "label": "Changer l'Europe Nouvelle Donne, Allons enfants",
+     "votes": 13068,
+     "pct": 0.05,
+     "bloc": "GAU"
+    },
+    {
+     "name": "Espéranto langue commune Europe Démocratie Espéranto",
+     "label": "Espéranto langue commune Europe Démocratie Espéranto",
+     "votes": 10349,
+     "pct": 0.04,
+     "bloc": "AUT"
+    },
+    {
+     "name": "PACE - Parti des citoyens européens, pour l'armée européenne, pour l'Europe soci",
+     "label": "PACE - Parti des citoyens européens, pour l'armée européenne, pour l'Europe soci",
+     "votes": 7397,
+     "pct": 0.03,
+     "bloc": "AUT"
+    },
+    {
+     "name": "France LibreFrance libre, Union de la Résistance, Alliance Révolution",
+     "label": "France LibreFrance libre, Union de la Résistance, Alliance Révolution",
+     "votes": 5474,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Défendre les enfants Sans parti",
+     "label": "Défendre les enfants Sans parti",
+     "votes": 5214,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Les Nationalistes",
+     "label": "Forteresse Europe — Liste d'unité nationaliste Les Nationalistes</sma",
+     "votes": 5096,
+     "pct": 0.02,
+     "bloc": "EXD"
+    },
+    {
+     "name": "POI",
+     "label": "« Pour le pain, la paix, la liberté ! » présentée par le Parti des travailleurs",
+     "votes": 4120,
+     "pct": 0.02,
+     "bloc": "RADG"
+    },
+    {
+     "name": "La ruche citoyenne La ruche citoyenne (Nouvelle organisation unie et",
+     "label": "La ruche citoyenne La ruche citoyenne (Nouvelle organisation unie et",
+     "votes": 4038,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Paix et décroissanceÉcologie politique, pacifisme et objection de cro",
+     "label": "Paix et décroissanceÉcologie politique, pacifisme et objection de cro",
+     "votes": 3726,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Pour une autre Europe Fédération citoyenne",
+     "label": "Pour une autre Europe Fédération citoyenne",
+     "votes": 3688,
+     "pct": 0.02,
+     "bloc": "AUT"
+    },
+    {
+     "name": "PCRF-communistes",
+     "label": "Non à l'UE et à l'OTAN, communistes pour la paix et le progrès social <small",
+     "votes": 3078,
+     "pct": 0.01,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Non ! Prenons-nous en mains Rester libre",
+     "label": "Non ! Prenons-nous en mains Rester libre",
+     "votes": 1507,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "PRC",
+     "label": "Parti révolutionnaire Communistes {{Lien|trad=Communist Revolutionary",
+     "votes": 1497,
+     "pct": 0.01,
+     "bloc": "RADG"
+    },
+    {
+     "name": "Pour une démocratie réelle : décidons nous-mêmes ! Décidons nous-même",
+     "label": "Pour une démocratie réelle : décidons nous-mêmes ! Décidons nous-même",
+     "votes": 1443,
+     "pct": 0.01,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Pour une humanité souveraine Changement citoyen",
+     "label": "Pour une humanité souveraine Changement citoyen",
+     "votes": 1230,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Liberté démocratique française Liberté démocratique française, Nouvel",
+     "label": "Liberté démocratique française Liberté démocratique française, Nouvel",
+     "votes": 1007,
+     "pct": 0.0,
+     "bloc": "AUT"
+    },
+    {
+     "name": "Démocratie représentative Démocratie représentative",
+     "label": "Démocratie représentative Démocratie représentative",
+     "votes": 749,
+     "pct": 0.0,
+     "bloc": "AUT"
+    }
+   ],
+   "notes": "Ensemble list (Renaissance, MoDem, Horizons, UDI, PRV) -> CEN; UDI was inside it this time. PS-Place publique (Glucksmann) -> GAU. Alliance rurale (Lassalle list incl. ex-CPNT, 2.35) -> AUT (ambiguous: CPNT rule would say DRO). Écologie au centre (1.28), Équinoxe, Écologie positive -> AUT. UPR, Patriotes, Reconquête, Les Nationalistes -> EXD. 'Nous le peuple' (left sovereigntist) -> AUT. Nouvelle Donne list -> GAU."
+  }
+ },
+ "municipal": {
+  "available": false,
+  "explanation": "A national first-round aggregate by list nuance exists only for 2014 and 2020 (communes with >=1,000 inhabitants, list ballot; ministry data, reproduced on fr.wikipedia). For 2001 and 2008 I found no national vote aggregate by nuance in the sources checked (fr.wikipedia pages give only city-by-city results and mayors/seats by family; ministry 2001/2008 national pages for communes >=3,500 were not retrieved) and did not pursue further. Even where available, the series is not a meaningful bloc prior: (1) local labels dominate - in 2014 DVD+DVG+DIV = 50.4% and 'Union de la gauche/droite' lists mix parties; in 2020 'Sans étiquette' alone is 25.9% plus DIV 7.0%, DVD 17.5%, DVG 15.1%, DVC 8.4%, so party/bloc identity is largely erased; (2) nuance attribution rules changed between years (2020 circular, partly suspended by the Conseil d'État, removed nuances for communes <9,000 inhabitants), so years are not comparable; (3) coverage is communes >=1,000 only and many large-city races are uncontested by RN/LFI; (4) 2020 first round was held on 15 March 2020 under COVID with ~42% turnout. Raw tables are included below for audit only; their bloc sums should not be used as a predictor.",
+  "data": {
+   "2014": {
+    "date": "2014-03-23",
+    "source": "https://fr.wikipedia.org/w/index.php?title=Élections_municipales_françaises_de_2014&action=raw (table cites interieur.gouv.fr MN2014/FE.html)",
+    "blocs": {
+     "RADG": 3.73,
+     "GAU": 35.07,
+     "CEN": 3.3,
+     "DRO": 43.08,
+     "EXD": 4.88,
+     "AUT": 9.96,
+     "UNION_GAUCHE": null
+    },
+    "sum_check": 100.02,
+    "parties": [
+     {
+      "name": "DVD",
+      "label": "Divers droite",
+      "votes": 5405378,
+      "pct": 24.57,
+      "bloc": "DRO"
+     },
+     {
+      "name": "DVG",
+      "label": "Divers gauche",
+      "votes": 3494896,
+      "pct": 15.89,
+      "bloc": "GAU"
+     },
+     {
+      "name": "UD",
+      "label": "Union de la droite",
+      "votes": 2554108,
+      "pct": 11.61,
+      "bloc": "DRO"
+     },
+     {
+      "name": "UG (union de la gauche; mixes PS/PCF/EELV)",
+      "label": "Union de la gauche",
+      "votes": 2507417,
+      "pct": 11.4,
+      "bloc": "GAU"
+     },
+     {
+      "name": "DIV",
+      "label": "Divers",
+      "votes": 2190739,
+      "pct": 9.96,
+      "bloc": "AUT"
+     },
+     {
+      "name": "UMP",
+      "label": "UMP",
+      "votes": 1518167,
+      "pct": 6.9,
+      "bloc": "DRO"
+     },
+     {
+      "name": "PS",
+      "label": "Parti socialiste",
+      "votes": 1455487,
+      "pct": 6.62,
+      "bloc": "GAU"
+     },
+     {
+      "name": "FN",
+      "label": "Front national",
+      "votes": 1046603,
+      "pct": 4.76,
+      "bloc": "EXD"
+     },
+     {
+      "name": "UDI",
+      "label": "UDI",
+      "votes": 511541,
+      "pct": 2.33,
+      "bloc": "CEN"
+     },
+     {
+      "name": "FG",
+      "label": "Front de gauche",
+      "votes": 417618,
+      "pct": 1.9,
+      "bloc": "RADG"
+     },
+     {
+      "name": "EELV",
+      "label": "EELV",
+      "votes": 254828,
+      "pct": 1.16,
+      "bloc": "GAU"
+     },
+     {
+      "name": "PCF",
+      "label": "Parti communiste",
+      "votes": 200937,
+      "pct": 0.91,
+      "bloc": "RADG"
+     },
+     {
+      "name": "EXG",
+      "label": "Extrême gauche",
+      "votes": 132420,
+      "pct": 0.6,
+      "bloc": "RADG"
+     },
+     {
+      "name": "MoDem",
+      "label": "MoDem",
+      "votes": 107748,
+      "pct": 0.49,
+      "bloc": "CEN"
+     },
+     {
+      "name": "UC",
+      "label": "Union du centre",
+      "votes": 104879,
+      "pct": 0.48,
+      "bloc": "CEN"
+     },
+     {
+      "name": "PG",
+      "label": "Parti de gauche",
+      "votes": 69523,
+      "pct": 0.32,
+      "bloc": "RADG"
+     },
+     {
+      "name": "EXD",
+      "label": "Extrême droite",
+      "votes": 26400,
+      "pct": 0.12,
+      "bloc": "EXD"
+     }
+    ],
+    "notes": "Communes >=1,000 inhabitants only. UDI here -> CEN (local lists, no national alliance rule). NOT recommended as a prior.",
+    "usable": false
+   },
+   "2020": {
+    "date": "2020-03-15",
+    "source": "https://fr.wikipedia.org/w/index.php?title=Élections_municipales_françaises_de_2020&action=raw (table cites data.gouv.fr ministry file 2020-05-18-resultats-communes-de-1000-et-plus.xlsx and BFMTV)",
+    "blocs": {
+     "RADG": 1.97,
+     "GAU": 24.38,
+     "CEN": 12.44,
+     "DRO": 24.38,
+     "EXD": 2.5,
+     "AUT": 34.33,
+     "UNION_GAUCHE": null
+    },
+    "sum_check": 100.0,
+    "parties": [
+     {
+      "name": "DVD",
+      "label": "Divers droite",
+      "votes": 2761796,
+      "pct": 17.49,
+      "bloc": "DRO"
+     },
+     {
+      "name": "DVG",
+      "label": "Divers gauche",
+      "votes": 2377358,
+      "pct": 15.06,
+      "bloc": "GAU"
+     },
+     {
+      "name": "DVC",
+      "label": "Divers centre",
+      "votes": 1325094,
+      "pct": 8.39,
+      "bloc": "CEN"
+     },
+     {
+      "name": "DIV",
+      "label": "Divers",
+      "votes": 1111077,
+      "pct": 7.04,
+      "bloc": "AUT"
+     },
+     {
+      "name": "UG",
+      "label": "Union de la gauche",
+      "votes": 806534,
+      "pct": 5.11,
+      "bloc": "GAU"
+     },
+     {
+      "name": "LR",
+      "label": "Les Républicains",
+      "votes": 733099,
+      "pct": 4.64,
+      "bloc": "DRO"
+     },
+     {
+      "name": "EELV",
+      "label": "Europe Écologie Les Verts",
+      "votes": 373959,
+      "pct": 2.37,
+      "bloc": "GAU"
+     },
+     {
+      "name": "RN",
+      "label": "Rassemblement national",
+      "votes": 363699,
+      "pct": 2.3,
+      "bloc": "EXD"
+     },
+     {
+      "name": "UD",
+      "label": "Union de la droite",
+      "votes": 355326,
+      "pct": 2.25,
+      "bloc": "DRO"
+     },
+     {
+      "name": "PS",
+      "label": "Parti socialiste",
+      "votes": 287180,
+      "pct": 1.82,
+      "bloc": "GAU"
+     },
+     {
+      "name": "UC",
+      "label": "Union du centre",
+      "votes": 261675,
+      "pct": 1.66,
+      "bloc": "CEN"
+     },
+     {
+      "name": "LREM",
+      "label": "La République en marche",
+      "votes": 261235,
+      "pct": 1.65,
+      "bloc": "CEN"
+     },
+     {
+      "name": "PCF",
+      "label": "Parti communiste français",
+      "votes": 166703,
+      "pct": 1.06,
+      "bloc": "RADG"
+     },
+     {
+      "name": "ECO",
+      "label": "Écologiste",
+      "votes": 137540,
+      "pct": 0.87,
+      "bloc": "AUT"
+     },
+     {
+      "name": "UDI",
+      "label": "Union des démocrates et indépendants",
+      "votes": 95945,
+      "pct": 0.61,
+      "bloc": "CEN"
+     },
+     {
+      "name": "REG",
+      "label": "Régionaliste",
+      "votes": 79390,
+      "pct": 0.5,
+      "bloc": "AUT"
+     },
+     {
+      "name": "EXG",
+      "label": "Extrême gauche",
+      "votes": 76499,
+      "pct": 0.48,
+      "bloc": "RADG"
+     },
+     {
+      "name": "LFI",
+      "label": "La France insoumise",
+      "votes": 68208,
+      "pct": 0.43,
+      "bloc": "RADG"
+     },
+     {
+      "name": "EXD",
+      "label": "Extrême droite",
+      "votes": 26266,
+      "pct": 0.17,
+      "bloc": "EXD"
+     },
+     {
+      "name": "MoDem",
+      "label": "Modem",
+      "votes": 20050,
+      "pct": 0.13,
+      "bloc": "CEN"
+     },
+     {
+      "name": "DLF",
+      "label": "Debout la France",
+      "votes": 4732,
+      "pct": 0.03,
+      "bloc": "EXD"
+     },
+     {
+      "name": "PRG",
+      "label": "Parti radical de gauche",
+      "votes": 3403,
+      "pct": 0.02,
+      "bloc": "GAU"
+     },
+     {
+      "name": "Gilets jaunes",
+      "label": "Gilets jaunes",
+      "votes": 3258,
+      "pct": 0.02,
+      "bloc": "AUT"
+     },
+     {
+      "name": "Sans étiquette (LDIV/SE)",
+      "label": "Sans étiquette",
+      "votes": 4088605,
+      "pct": 25.9,
+      "bloc": "AUT"
+     }
+    ],
+    "notes": "Communes >=1,000 inhabitants only. 'Sans étiquette' 25.9% -> AUT dominates. NOT recommended as a prior.",
+    "usable": false
+   }
+  }
+ }
+}

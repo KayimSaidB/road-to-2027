@@ -1,0 +1,998 @@
+{
+"Philippe vs. Le Pen": [
+{
+"firm": "OpinionWay",
+"url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"date": "2026-10-22",
+"sample": 973,
+"scenarios": [
+{
+"Édouard Philippe": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"date": "2026-10-21",
+"sample": 2094,
+"scenarios": [
+{
+"Édouard Philippe": 43.0,
+"Marine Le Pen": 57.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"date": "2026-10-19",
+"sample": 1928,
+"scenarios": [
+{
+"Édouard Philippe": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"date": "2026-10-16",
+"sample": 1701,
+"scenarios": [
+{
+"Édouard Philippe": 47.5,
+"Marine Le Pen": 52.5
+}
+]
+},
+{
+"firm": "YouGov",
+"url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"date": "2026-10-15",
+"sample": 1094,
+"scenarios": [
+{
+"Édouard Philippe": 48.0,
+"Marine Le Pen": 52.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+"date": "2026-10-14",
+"sample": 1043,
+"scenarios": [
+{
+"Édouard Philippe": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf",
+"date": "2026-10-08",
+"sample": 2004,
+"scenarios": [
+{
+"Édouard Philippe": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf",
+"date": "2026-09-24",
+"sample": 1974,
+"scenarios": [
+{
+"Édouard Philippe": 43.0,
+"Marine Le Pen": 57.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf",
+"date": "2026-09-10",
+"sample": 2052,
+"scenarios": [
+{
+"Édouard Philippe": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"Édouard Philippe": 48.0,
+"Marine Le Pen": 52.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf",
+"date": "2026-08-19",
+"sample": 1764,
+"scenarios": [
+{
+"Édouard Philippe": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"date": "2026-07-24",
+"sample": 1506,
+"scenarios": [
+{
+"Édouard Philippe": 48.0,
+"Marine Le Pen": 52.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"date": "2026-07-08",
+"sample": 1582,
+"scenarios": [
+{
+"Édouard Philippe": 49.0,
+"Marine Le Pen": 51.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"date": "2026-07-08",
+"sample": 984,
+"scenarios": [
+{
+"Édouard Philippe": 46.0,
+"Marine Le Pen": 54.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Édouard Philippe": 48.0,
+"Marine Le Pen": 52.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Édouard Philippe": 53.0,
+"Marine Le Pen": 47.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"date": "2025-04-24",
+"sample": 1005,
+"scenarios": [
+{
+"Édouard Philippe": 54.0,
+"Marine Le Pen": 46.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf",
+"date": "2024-04-24",
+"sample": 1081,
+"scenarios": [
+{
+"Édouard Philippe": 49.0,
+"Marine Le Pen": 51.0
+}
+]
+},
+{
+"firm": "Ifop/Hexagone",
+"url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"date": "2025-04-18",
+"sample": 9128,
+"scenarios": [
+{
+"Édouard Philippe": 52.0,
+"Marine Le Pen": 48.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"date": "2024-02-01",
+"sample": 1081,
+"scenarios": [
+{
+"Édouard Philippe": 50.0,
+"Marine Le Pen": 50.0
+}
+]
+}
+],
+"Attal vs. Le Pen": [
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"date": "2026-10-19",
+"sample": 1928,
+"scenarios": [
+{
+"Gabriel Attal": 42.0,
+"Marine Le Pen": 58.0
+}
+]
+},
+{
+"firm": "YouGov",
+"url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"date": "2026-10-15",
+"sample": 1094,
+"scenarios": [
+{
+"Gabriel Attal": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf",
+"date": "2026-09-10",
+"sample": 2052,
+"scenarios": [
+{
+"Gabriel Attal": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"Gabriel Attal": 46.0,
+"Marine Le Pen": 54.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf",
+"date": "2026-08-19",
+"sample": 1764,
+"scenarios": [
+{
+"Gabriel Attal": 43.0,
+"Marine Le Pen": 57.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"date": "2026-07-24",
+"sample": 1506,
+"scenarios": [
+{
+"Gabriel Attal": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"date": "2026-07-08",
+"sample": 1582,
+"scenarios": [
+{
+"Gabriel Attal": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"date": "2026-07-08",
+"sample": 984,
+"scenarios": [
+{
+"Gabriel Attal": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Gabriel Attal": 46.0,
+"Marine Le Pen": 54.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Gabriel Attal": 49.0,
+"Marine Le Pen": 51.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf",
+"date": "2024-04-24",
+"sample": 1081,
+"scenarios": [
+{
+"Gabriel Attal": 47.0,
+"Marine Le Pen": 53.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"date": "2024-02-01",
+"sample": 1081,
+"scenarios": [
+{
+"Gabriel Attal": 49.0,
+"Marine Le Pen": 51.0
+}
+]
+}
+],
+"Glucksmann vs. Le Pen": [
+{
+"firm": "OpinionWay",
+"url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"date": "2026-10-22",
+"sample": 973,
+"scenarios": [
+{
+"Raphaël Glucksmann": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"date": "2026-10-21",
+"sample": 2094,
+"scenarios": [
+{
+"Raphaël Glucksmann": 41.0,
+"Marine Le Pen": 59.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"date": "2026-10-19",
+"sample": 1928,
+"scenarios": [
+{
+"Raphaël Glucksmann": 43.0,
+"Marine Le Pen": 57.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"date": "2026-10-16",
+"sample": 1701,
+"scenarios": [
+{
+"Raphaël Glucksmann": 46.5,
+"Marine Le Pen": 53.5
+}
+]
+},
+{
+"firm": "YouGov",
+"url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"date": "2026-10-15",
+"sample": 1094,
+"scenarios": [
+{
+"Raphaël Glucksmann": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+"date": "2026-10-14",
+"sample": 1043,
+"scenarios": [
+{
+"Raphaël Glucksmann": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/presidentielle-2027-aout/",
+"date": "2026-08-28",
+"sample": 1501,
+"scenarios": [
+{
+"Raphaël Glucksmann": 43.0,
+"Marine Le Pen": 57.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"Raphaël Glucksmann": 45.0,
+"Marine Le Pen": 55.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"date": "2026-07-24",
+"sample": 1506,
+"scenarios": [
+{
+"Raphaël Glucksmann": 44.0,
+"Marine Le Pen": 56.0
+}
+]
+}
+],
+"Mélenchon vs. Le Pen": [
+{
+"firm": "OpinionWay",
+"url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"date": "2026-10-22",
+"sample": 973,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 31.0,
+"Marine Le Pen": 69.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"date": "2026-10-21",
+"sample": 2094,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 30.0,
+"Marine Le Pen": 70.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"date": "2026-10-19",
+"sample": 1928,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Marine Le Pen": 68.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"date": "2026-10-16",
+"sample": 1701,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 31.0,
+"Marine Le Pen": 69.0
+}
+]
+},
+{
+"firm": "YouGov",
+"url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"date": "2026-10-15",
+"sample": 1094,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Marine Le Pen": 68.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+"date": "2026-10-14",
+"sample": 1043,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Marine Le Pen": 68.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf",
+"date": "2026-10-08",
+"sample": 2004,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 33.0,
+"Marine Le Pen": 67.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf",
+"date": "2026-09-24",
+"sample": 1974,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 31.0,
+"Marine Le Pen": 69.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf",
+"date": "2026-09-10",
+"sample": 2052,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 33.0,
+"Marine Le Pen": 67.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 33.0,
+"Marine Le Pen": 67.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf",
+"date": "2026-08-19",
+"sample": 1764,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Marine Le Pen": 68.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"date": "2026-07-24",
+"sample": 1506,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 39.0,
+"Marine Le Pen": 61.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"date": "2026-07-08",
+"sample": 1582,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 33.0,
+"Marine Le Pen": 67.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"date": "2026-07-08",
+"sample": 984,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 30.0,
+"Marine Le Pen": 70.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 33.0,
+"Marine Le Pen": 67.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+"date": "2024-04-05",
+"sample": 1686,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 35.0,
+"Marine Le Pen": 65.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"date": "2024-02-01",
+"sample": 1081,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 36.0,
+"Marine Le Pen": 64.0
+}
+]
+}
+],
+"Ruffin vs. Le Pen": [
+{
+"firm": "Cluster17",
+"url": "http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+"date": "2024-04-05",
+"sample": 1686,
+"scenarios": [
+{
+"François Ruffin": 50.0,
+"Marine Le Pen": 50.0
+}
+]
+}
+],
+"Hollande vs. Le Pen": [
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"date": "2026-10-19",
+"sample": 1928,
+"scenarios": [
+{
+"François Hollande": 41.0,
+"Marine Le Pen": 59.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"François Hollande": 46.0,
+"Marine Le Pen": 54.0
+}
+]
+}
+],
+"Retailleau vs. Le Pen": [
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"Bruno Retailleau": 42.0,
+"Marine Le Pen": 58.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"date": "2026-07-24",
+"sample": 1506,
+"scenarios": [
+{
+"Bruno Retailleau": 43.0,
+"Marine Le Pen": 57.0
+}
+]
+}
+],
+"Philippe vs. Bardella": [
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Édouard Philippe": 46.0,
+"Jordan Bardella": 54.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/",
+"date": "2026-05-21",
+"sample": 1005,
+"scenarios": [
+{
+"Édouard Philippe": 48.0,
+"Jordan Bardella": 52.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/spectaculaire-come-back-dedouard-philippe-il-remporterait-aujourdhui-la-presidentielle/",
+"date": "2026-03-26",
+"sample": 1005,
+"scenarios": [
+{
+"Édouard Philippe": 52.0,
+"Jordan Bardella": 48.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Édouard Philippe": 51.5,
+"Jordan Bardella": 48.5
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+"date": "2025-11-20",
+"sample": 1300,
+"scenarios": [
+{
+"Édouard Philippe": 47.0,
+"Jordan Bardella": 53.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"date": "2025-04-24",
+"sample": 1005,
+"scenarios": [
+{
+"Édouard Philippe": 54.0,
+"Jordan Bardella": 46.0
+}
+]
+},
+{
+"firm": "Ifop/Hexagone",
+"url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"date": "2025-04-18",
+"sample": 9128,
+"scenarios": [
+{
+"Édouard Philippe": 50.0,
+"Jordan Bardella": 50.0
+}
+]
+}
+],
+"Attal vs. Bardella": [
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Gabriel Attal": 43.0,
+"Jordan Bardella": 57.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"date": "2025-11-20",
+"sample": 1300,
+"scenarios": [
+{
+"Gabriel Attal": 44.0,
+"Jordan Bardella": 56.0
+}
+]
+},
+{
+"firm": "Ifop/Hexagone",
+"url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"date": "2025-04-18",
+"sample": 9128,
+"scenarios": [
+{
+"Gabriel Attal": 48.0,
+"Jordan Bardella": 52.0
+}
+]
+}
+],
+"Glucksmann vs. Bardella": [
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Raphaël Glucksmann": 41.5,
+"Jordan Bardella": 58.5
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"date": "2025-11-20",
+"sample": 1300,
+"scenarios": [
+{
+"Raphaël Glucksmann": 42.0,
+"Jordan Bardella": 58.0
+}
+]
+}
+],
+"Mélenchon vs. Bardella": [
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Jordan Bardella": 68.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 28.5,
+"Jordan Bardella": 71.5
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+"date": "2025-11-20",
+"sample": 1300,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 26.0,
+"Jordan Bardella": 74.0
+}
+]
+},
+{
+"firm": "Ifop/Hexagone",
+"url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"date": "2025-04-18",
+"sample": 9128,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 33.0,
+"Jordan Bardella": 67.0
+}
+]
+}
+],
+"Retailleau vs. Bardella": [
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Bruno Retailleau": 42.0,
+"Jordan Bardella": 58.0
+}
+]
+},
+{
+"firm": "Ifop/Hexagone",
+"url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"date": "2025-04-18",
+"sample": 9128,
+"scenarios": [
+{
+"Bruno Retailleau": 47.0,
+"Jordan Bardella": 53.0
+}
+]
+}
+]
+}

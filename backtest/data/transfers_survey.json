@@ -1,0 +1,73 @@
+{
+ "note": "Ipsos / Sopra Steria, sondage jour du vote du 2nd tour. « Les reports de voix tiennent compte à la fois des résultats du sondage et des éléments issus de l'analyse des transferts de voix dans les 500 bureaux de vote ayant servi à l'estimation des résultats 2nd tour. » Tableaux recopiés du PDF (pdftotext), page 3.",
+ "2017": {
+  "source": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/ipsos_sopra_steria_sociologie_des_electorats_7_mai_20h15_0.pdf",
+  "rows": {
+   "François Fillon": {
+    "Emmanuel Macron": 0.48,
+    "Marine Le Pen": 0.2,
+    "blank_null": 0.15,
+    "abs": 0.17
+   },
+   "Jean-Luc Mélenchon": {
+    "Emmanuel Macron": 0.52,
+    "Marine Le Pen": 0.07,
+    "blank_null": 0.17,
+    "abs": 0.24
+   },
+   "Benoît Hamon": {
+    "Emmanuel Macron": 0.71,
+    "Marine Le Pen": 0.02,
+    "blank_null": 0.1,
+    "abs": 0.17
+   },
+   "Nicolas Dupont-Aignan": {
+    "Emmanuel Macron": 0.27,
+    "Marine Le Pen": 0.3,
+    "blank_null": 0.2,
+    "abs": 0.23
+   }
+  }
+ },
+ "2022": {
+  "source": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos%20Sopra%20Steria_Sociologie%20des%20e%CC%81lectorats%20et%20profil%20des%20abstentionnistes_24%20Avril%2020h.pdf",
+  "rows": {
+   "Jean-Luc Mélenchon": {
+    "Emmanuel Macron": 0.42,
+    "Marine Le Pen": 0.17,
+    "blank_null": 0.17,
+    "abs": 0.24
+   },
+   "Yannick Jadot": {
+    "Emmanuel Macron": 0.65,
+    "Marine Le Pen": 0.06,
+    "blank_null": 0.13,
+    "abs": 0.16
+   },
+   "Emmanuel Macron": {
+    "Emmanuel Macron": 0.98,
+    "Marine Le Pen": 0.01,
+    "blank_null": 0.0,
+    "abs": 0.01
+   },
+   "Valérie Pécresse": {
+    "Emmanuel Macron": 0.53,
+    "Marine Le Pen": 0.18,
+    "blank_null": 0.14,
+    "abs": 0.15
+   },
+   "Marine Le Pen": {
+    "Emmanuel Macron": 0.03,
+    "Marine Le Pen": 0.91,
+    "blank_null": 0.01,
+    "abs": 0.05
+   },
+   "Éric Zemmour": {
+    "Emmanuel Macron": 0.1,
+    "Marine Le Pen": 0.73,
+    "blank_null": 0.03,
+    "abs": 0.14
+   }
+  }
+ }
+}

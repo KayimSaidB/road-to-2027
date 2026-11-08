@@ -1,0 +1,3339 @@
+[
+{
+"firm": "Ifop",
+"url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html",
+"date": "2026-10-29",
+"sample": 1928,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 9.5,
+"David Lisnard": 7.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 9.0,
+"David Lisnard": 7.5,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.5,
+"Fabien Roussel": 1.5,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 11.5,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Édouard Philippe": 15.0,
+"David Lisnard": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/presidentielle-2027-melenchon-progresse-le-pen-reste-en-tete",
+"date": "2026-10-22",
+"sample": 1500,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 4.0,
+"Édouard Philippe": 13.0,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 14.0,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 15.5,
+"Gabriel Attal": 9.5,
+"Bruno Retailleau": 11.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 13.0,
+"Édouard Philippe": 14.0,
+"David Lisnard": 6.5,
+"Bruno Retailleau": 5.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"date": "2026-10-22",
+"sample": 973,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.25,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 1.0,
+"Karim Bouamrane": 0.25,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 4.0,
+"Édouard Philippe": 12.0,
+"David Lisnard": 6.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://cluster17.com/wp-content/uploads/2026/10/ITV-Politico-Octobre-C17.pdf",
+"date": "2026-10-22",
+"sample": 3000,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 13.0,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 19.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 12.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 3.5,
+"Marine Le Pen": 32.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 19.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.5,
+"François Hollande": 6.5,
+"Édouard Philippe": 17.0,
+"David Lisnard": 8.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 30.5,
+"Éric Zemmour": 3.5
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"date": "2026-10-21",
+"sample": 2094,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 15.0,
+"Dominique de Villepin": 1.0,
+"David Lisnard": 7.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 10.0,
+"Dominique de Villepin": 2.0,
+"David Lisnard": 8.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 13.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 13.0,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 11.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 6.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-presidentielle-2027-apres-les-violences-du-17-octobre-ce-que-revele-notre-derniere-enquete-2471007.html",
+"date": "2026-10-19",
+"sample": 1928,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.5,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.5,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 12.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.5,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 14.0,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 16.0,
+"Gabriel Attal": 13.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.0,
+"Raphaël Glucksmann": 16.0,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 20.0,
+"François Hollande": 10.0,
+"Gabriel Attal": 6.5,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.0,
+"François Ruffin": 1.5,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 4.0,
+"Édouard Philippe": 12.0,
+"Dominique de Villepin": 1.5,
+"David Lisnard": 5.5,
+"Bruno Retailleau": 5.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 13.0,
+"David Lisnard": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.0,
+"François Ruffin": 2.0,
+"Marine Tondelier": 3.0,
+"Natacha Polony": 1.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 6.0,
+"Édouard Philippe": 12.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.5
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"date": "2026-10-16",
+"sample": 1701,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 1.5,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 15.5,
+"Édouard Philippe": 16.5,
+"Dominique de Villepin": 2.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 32.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 16.5,
+"Gabriel Attal": 10.5,
+"Dominique de Villepin": 3.0,
+"Bruno Retailleau": 9.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.5,
+"Fabien Roussel": 1.5,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 15.0,
+"Édouard Philippe": 15.5,
+"David Lisnard": 5.5,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.5,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 1.5,
+"François Ruffin": 3.0,
+"Raphaël Glucksmann": 16.5,
+"Gabriel Attal": 9.5,
+"David Lisnard": 6.5,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Jean-Luc Mélenchon": 15.5,
+"Fabien Roussel": 1.5,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 15.5,
+"Gabriel Attal": 4.5,
+"Édouard Philippe": 13.5,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 32.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 2.5,
+"Natacha Polony": 1.5,
+"Raphaël Glucksmann": 16.0,
+"Édouard Philippe": 16.5,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://cluster17.com/presidentielle-2027-le-pen-en-tete-dans-tous-les-scenarios-lisnard-a-egalite-avec-retailleau/",
+"date": "2026-10-15",
+"sample": 1263,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 1.5,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 11.0,
+"Édouard Philippe": 17.0,
+"David Lisnard": 7.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 20.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 20.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 35.5,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 20.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 16.0,
+"Bruno Retailleau": 17.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 20.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 16.0,
+"David Lisnard": 17.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 20.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 13.5,
+"Gabriel Attal": 17.0,
+"Nicolas Dupont-Aignan": 3.5,
+"Marine Le Pen": 35.5,
+"Éric Zemmour": 5.5
+}
+]
+},
+{
+"firm": "YouGov",
+"url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"date": "2026-10-15",
+"sample": 1094,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 6.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 6.0,
+"Édouard Philippe": 10.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 6.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 10.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 6.0,
+"Raphaël Glucksmann": 13.0,
+"Édouard Philippe": 13.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 6.0,
+"François Hollande": 9.0,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.0,
+"Jean-Luc Mélenchon": 13.0,
+"Fabien Roussel": 2.0,
+"François Ruffin": 2.0,
+"Marine Tondelier": 5.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 6.0,
+"Édouard Philippe": 8.0,
+"Dominique de Villepin": 1.0,
+"David Lisnard": 4.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020",
+"date": "2026-10-14",
+"sample": 1043,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 2.0,
+"Karim Bouamrane": 0.25,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 12.0,
+"David Lisnard": 4.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 14.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 7.0,
+"Édouard Philippe": 12.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 16.0,
+"Gabriel Attal": 11.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 15.0,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.sudradio.fr/ifop/exclu-presidentielle-2027-glucksmann-grignote-le-pen-reste-intouchable",
+"date": "2026-10-14",
+"sample": 1525,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"François Ruffin": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 11.5,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 13.0,
+"Dominique de Villepin": 1.5,
+"David Lisnard": 6.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 16.0,
+"Gabriel Attal": 13.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 13.5,
+"Édouard Philippe": 18.0,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 6.0,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf",
+"date": "2026-10-08",
+"sample": 2004,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 10.0,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 13.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 12.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 4.0,
+"François Hollande": 7.0,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 5.0,
+"François Hollande": 7.0,
+"Gabriel Attal": 12.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 5.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+"date": "2026-10-07",
+"sample": 12005,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 9.5,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 10.5,
+"Gabriel Attal": 11.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 4.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf",
+"date": "2026-09-29",
+"sample": 1393,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Édouard Philippe": 21.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 15.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 5.5,
+"Olivier Faure": 4.0,
+"Gabriel Attal": 17.0,
+"Bruno Retailleau": 11.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 5.0,
+"Olivier Faure": 3.0,
+"Édouard Philippe": 23.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 6.0,
+"Ségolène Royal": 3.0,
+"Édouard Philippe": 24.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 5.5,
+"Jérôme Guedj": 3.0,
+"Édouard Philippe": 23.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 6.0,
+"Emmanuel Maurel": 1.0,
+"Édouard Philippe": 23.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 5.0,
+"François Hollande": 8.0,
+"Édouard Philippe": 22.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 14.0,
+"Fabien Roussel": 2.0,
+"François Ruffin": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 9.0,
+"Gabriel Attal": 7.0,
+"Édouard Philippe": 15.0,
+"Dominique de Villepin": 2.0,
+"David Lisnard": 3.5,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf",
+"date": "2026-09-24",
+"sample": 1974,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Gabriel Attal": 5.0,
+"Édouard Philippe": 13.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 12.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 4.0,
+"François Hollande": 7.0,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 5.0,
+"François Hollande": 8.0,
+"Gabriel Attal": 13.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 5.0
+}
+]
+},
+{
+"firm": "YouGov",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+"date": "2026-09-21",
+"sample": 1103,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 8.0,
+"Gabriel Attal": 9.0,
+"Édouard Philippe": 12.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 9.0,
+"Bruno Le Maire": 3.0,
+"Édouard Philippe": 13.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 9.0,
+"Gabriel Attal": 14.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 7.0,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 4.0,
+"Olivier Faure": 5.0,
+"Gabriel Attal": 9.0,
+"Édouard Philippe": 12.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 1.0,
+"François Ruffin": 2.0,
+"Marine Tondelier": 2.0,
+"François Hollande": 4.0,
+"Raphaël Glucksmann": 5.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 10.0,
+"Dominique de Villepin": 2.0,
+"Xavier Bertrand": 1.0,
+"David Lisnard": 2.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 5.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://cluster17.com/presidentielle-2027-le-pen-largement-en-tete-melenchon-et-philippe-au-coude-a-coude/",
+"date": "2026-09-16",
+"sample": 1943,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 20.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 13.5,
+"Bruno Retailleau": 9.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.5,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"François Hollande": 7.5,
+"Édouard Philippe": 19.5,
+"David Lisnard": 5.0,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 4.0,
+"Marine Le Pen": 30.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+"date": "2026-09-10",
+"sample": 1001,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Karim Bouamrane": 1.0,
+"François Hollande": 7.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 16.0,
+"David Lisnard": 2.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 2.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 4.0,
+"Marine Tondelier": 3.0,
+"Ségolène Royal": 3.0,
+"Karim Bouamrane": 1.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 16.0,
+"David Lisnard": 2.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 2.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Karim Bouamrane": 1.0,
+"Raphaël Glucksmann": 9.0,
+"Gabriel Attal": 7.0,
+"Édouard Philippe": 15.0,
+"David Lisnard": 2.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 2.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-en-leger-recul-pour-la-premiere-fois-jean-luc-melenchon-se-stabilise-aux-portes-du-second-tour-7900671878",
+"date": "2026-09-10",
+"sample": 2052,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 9.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 14.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 4.0,
+"François Hollande": 7.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 4.0,
+"François Hollande": 7.0,
+"Gabriel Attal": 15.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 5.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10259-pres-presitrack-v2-opinionway-les-echos-10-septembre.pdf",
+"date": "2026-09-09",
+"sample": 1001,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 9.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 14.0,
+"Bruno Retailleau": 12.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.ipsos.com/fr-fr/presidentielle-2027-le-point-7-mois-du-scrutin",
+"date": "2026-09-09",
+"sample": 13060,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.5,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 11.5,
+"Gabriel Attal": 6.0,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.5,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 12.5,
+"Édouard Philippe": 17.5,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.5,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 4.5,
+"Raphaël Glucksmann": 13.5,
+"Gabriel Attal": 13.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.5,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 5.0,
+"Olivier Faure": 4.5,
+"Gabriel Attal": 7.5,
+"Édouard Philippe": 16.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 16.5,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 5.5,
+"Olivier Faure": 5.0,
+"Édouard Philippe": 21.0,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 5.5,
+"Olivier Faure": 5.5,
+"Gabriel Attal": 15.5,
+"Bruno Retailleau": 10.5,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.5
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.lejdd.fr/politique/sondage-presidentielle-marine-le-pen-le-poids-detre-favorite-182718",
+"date": "2026-09-03",
+"sample": 1003,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 13.0,
+"Bruno Retailleau": 11.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 20.0,
+"Bruno Retailleau": 8.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 7.0,
+"Édouard Philippe": 15.0,
+"Bruno Retailleau": 7.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10250-pres-iv-ipsos-bva-le-parisien-5-septembre.pdf",
+"date": "2026-09-02",
+"sample": 1500,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 11.5,
+"Gabriel Attal": 7.5,
+"Édouard Philippe": 14.5,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 15.0,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 4.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 14.0,
+"Bruno Retailleau": 9.5,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 5.0,
+"Olivier Faure": 4.5,
+"Gabriel Attal": 8.5,
+"Édouard Philippe": 16.5,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.5,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 5.0,
+"Olivier Faure": 4.5,
+"Édouard Philippe": 22.5,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 5.5,
+"Olivier Faure": 5.5,
+"Gabriel Attal": 15.5,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.5
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://www.lepoint.fr/politique/jean-luc-melenchon-aux-portes-du-second-tour-selon-un-sondage-cluster-17-pour-le-point-37HISKBJDRBZZFYP2EYB7PDIXA/",
+"date": "2026-09-01",
+"sample": 1711,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 11.5,
+"Édouard Philippe": 18.0,
+"Dominique de Villepin": 3.5,
+"Bruno Retailleau": 7.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 30.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.5,
+"Raphaël Glucksmann": 11.5,
+"Gabriel Attal": 13.5,
+"Dominique de Villepin": 4.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"François Ruffin": 4.0,
+"Raphaël Glucksmann": 11.0,
+"Édouard Philippe": 17.0,
+"Dominique de Villepin": 3.5,
+"David Lisnard": 4.0,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 29.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+"date": "2026-08-28",
+"sample": 1501,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 14.0,
+"Raphaël Glucksmann": 11.5,
+"Marine Tondelier": 3.5,
+"Édouard Philippe": 17.0,
+"Dominique de Villepin": 2.0,
+"Bruno Retailleau": 6.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 14.0,
+"Raphaël Glucksmann": 14.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 12.0,
+"Dominique de Villepin": 2.5,
+"Bruno Retailleau": 9.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 2.0,
+"Fabien Roussel": 3.5,
+"Jean-Luc Mélenchon": 14.0,
+"François Hollande": 7.5,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 19.5,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 14.0,
+"François Ruffin": 6.0,
+"François Hollande": 8.0,
+"Gabriel Attal": 12.5,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 4.5,
+"Jean-Luc Mélenchon": 14.5,
+"Olivier Faure": 3.5,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 20.5,
+"Dominique de Villepin": 2.5,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 35.5,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 14.5,
+"Raphaël Glucksmann": 12.5,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 6.5,
+"Édouard Philippe": 14.5,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.sudradio.fr/sud-radio/marine-le-pen-vainqueure-de-la-presidentielle-2027-dans-tous-les-scenarios",
+"date": "2026-08-25",
+"sample": 1598,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 16.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 14.5,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"Raphaël Glucksmann": 15.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 14.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"Raphaël Glucksmann": 12.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 18.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"Raphaël Glucksmann": 18.0,
+"Marine Tondelier": 3.0,
+"Bruno Retailleau": 12.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Raphaël Glucksmann": 15.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Jean-Luc Mélenchon": 18.5,
+"Raphaël Glucksmann": 17.0,
+"Gabriel Attal": 15.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Jean-Luc Mélenchon": 19.0,
+"François Hollande": 12.0,
+"Édouard Philippe": 21.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 2.5
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-un-duel-le-pen-melenchon-la-candidate-rn-largement-en-tete-le-leader-insoumis-mieux-place-que-jamais-pour-le-second-tour-7900664150",
+"date": "2026-08-19",
+"sample": 1764,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 16.0,
+"Raphaël Glucksmann": 10.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"François Hollande": 8.0,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 14.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 17.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 15.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"Raphaël Glucksmann": 10.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"François Hollande": 8.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://legrandcontinent.eu/fr/2026/08/31/marine-le-pen-peut-elle-encore-perdre-lelection-presidentielle/",
+"date": "2026-07-24",
+"sample": 1506,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 18.0,
+"Raphaël Glucksmann": 10.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 18.0,
+"Dominique de Villepin": 3.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 30.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 18.0,
+"Raphaël Glucksmann": 10.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 14.0,
+"Dominique de Villepin": 4.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 4.0,
+"Marine Le Pen": 30.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/45944749344411/sondage-presidentielle-le-pen-en-tete-melenchon-progresse",
+"date": "2026-07-10",
+"sample": 1503,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.5,
+"Jean-Luc Mélenchon": 16.0,
+"Raphaël Glucksmann": 10.5,
+"Marine Tondelier": 3.5,
+"Édouard Philippe": 16.5,
+"Dominique de Villepin": 2.5,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 2.5,
+"Jean-Luc Mélenchon": 14.5,
+"Raphaël Glucksmann": 11.5,
+"Marine Tondelier": 3.5,
+"Gabriel Attal": 13.5,
+"Dominique de Villepin": 3.5,
+"Bruno Retailleau": 11.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 2.5,
+"Jean-Luc Mélenchon": 14.5,
+"François Ruffin": 6.0,
+"François Hollande": 9.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 2.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 2.5,
+"Jean-Luc Mélenchon": 15.0,
+"François Ruffin": 6.0,
+"François Hollande": 8.0,
+"Gabriel Attal": 15.5,
+"Bruno Retailleau": 11.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.5,
+"Jean-Luc Mélenchon": 14.5,
+"Raphaël Glucksmann": 8.5,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 7.5,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 8.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 2.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 15.0,
+"François Hollande": 8.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 18.0,
+"Dominique de Villepin": 3.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 34.5,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Verian",
+"url": "https://lhemicycle.com/2026/07/10/jordan-bardella-toujours-le-favori-pour-representer-le-rn/",
+"date": "2026-07-10",
+"sample": 1047,
+"scenarios": [
+{
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 17.0,
+"Bruno Retailleau": 7.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.lesechos.fr/elections/presidentielle/sondage-exclusif-presidentielle-2027-marine-le-pen-largement-en-tete-avantage-edouard-philippe-a-droite-et-au-centre-2241680",
+"date": "2026-07-09",
+"sample": 963,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 13.0,
+"Raphaël Glucksmann": 9.0,
+"Marine Tondelier": 5.0,
+"Gabriel Attal": 7.0,
+"Édouard Philippe": 18.0,
+"Bruno Retailleau": 8.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 9.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 22.0,
+"Bruno Retailleau": 9.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 10.0,
+"Marine Tondelier": 5.0,
+"Gabriel Attal": 16.0,
+"Bruno Retailleau": 12.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"date": "2026-07-08",
+"sample": 1582,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 16.0,
+"Raphaël Glucksmann": 10.0,
+"Marine Tondelier": 2.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 16.0,
+"François Hollande": 8.0,
+"Marine Tondelier": 5.0,
+"Gabriel Attal": 16.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 16.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 16.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 16.0,
+"François Hollande": 8.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 20.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 16.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 20.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"date": "2026-07-08",
+"sample": 984,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 12.0,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 15.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 9.0,
+"Marine Tondelier": 3.5,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ipsos",
+"url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10195-pres-ipsos-bva-le-parisien-1er-juin.pdf",
+"date": "2026-05-28",
+"sample": 1500,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 13.5,
+"François Hollande": 7.0,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 9.5,
+"Édouard Philippe": 14.5,
+"Bruno Retailleau": 8.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 32.0,
+"Sarah Knafo": 4.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 13.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 8.5,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 8.5,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 31.0,
+"Sarah Knafo": 4.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.sudradio.fr/wp-content/uploads/2026/05/Resultats-Intention-de-Vote-Presidentielle-au-29-mai-2026.pdf",
+"date": "2026-05-28",
+"sample": 1368,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 13.0,
+"Raphaël Glucksmann": 11.5,
+"Marine Tondelier": 3.5,
+"Gabriel Attal": 16.0,
+"Bruno Retailleau": 11.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Sarah Knafo": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 13.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 33.0,
+"Sarah Knafo": 4.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"date": "2026-05-27",
+"sample": 1744,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 15.0,
+"Bruno Retailleau": 11.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Sarah Knafo": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 14.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 19.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Sarah Knafo": 6.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"date": "2026-03-27",
+"sample": 1504,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.5,
+"Jean-Luc Mélenchon": 12.0,
+"Raphaël Glucksmann": 12.5,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 11.5,
+"Dominique de Villepin": 6.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 34.0,
+"Sarah Knafo": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 3.5,
+"Jean-Luc Mélenchon": 11.5,
+"François Hollande": 8.5,
+"Marine Tondelier": 5.0,
+"Édouard Philippe": 22.0,
+"Dominique de Villepin": 2.5,
+"Bruno Retailleau": 8.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.5,
+"Éric Zemmour": 3.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://docs.google.com/viewerng/viewer?url=https://www.sudradio.fr/wp-content/uploads/2026/03/122319-Resultats-Intention-de-Vote-Presidentielle.pdf",
+"date": "2026-02-27",
+"sample": 1393,
+"scenarios": [
+{
+"Nathalie Arthaud": 2.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 11.0,
+"Raphaël Glucksmann": 12.0,
+"Marine Tondelier": 4.5,
+"Gabriel Attal": 10.0,
+"Dominique de Villepin": 4.5,
+"Bruno Retailleau": 12.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 35.0,
+"Sarah Knafo": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 10.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 16.0,
+"Dominique de Villepin": 5.0,
+"Bruno Retailleau": 11.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Sarah Knafo": 4.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/wp-content/uploads/2025/11/01112025_elabe_bfmtv_la-tribune-dimanche_election-presidentielle.pdf",
+"date": "2025-10-31",
+"sample": 1501,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 11.5,
+"Raphaël Glucksmann": 12.0,
+"Marine Tondelier": 4.5,
+"Gabriel Attal": 12.5,
+"Dominique de Villepin": 5.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 34.0,
+"Sarah Knafo": 6.5
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "https://cluster17.com/wp-content/uploads/2025/10/ITV-Presidentielle-Le-Point-Cluster17.pdf",
+"date": "2025-10-01",
+"sample": 1534,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 15.0,
+"Gabriel Attal": 12.0,
+"Bruno Retailleau": 14.0,
+"Nicolas Dupont-Aignan": 3.5,
+"Marine Le Pen": 30.5,
+"Éric Zemmour": 5.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2025/09/121308_39-resultats-intention-de-vote-presidentielle.pdf",
+"date": "2025-09-25",
+"sample": 1210,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 12.0,
+"Raphaël Glucksmann": 15.0,
+"Édouard Philippe": 16.0,
+"Dominique de Villepin": 5.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2025/05/121647-Resultats-Intention-de-Vote-Presidentielle.pdf",
+"date": "2025-05-20",
+"sample": 1114,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 13.5,
+"Olivier Faure": 4.5,
+"Marine Tondelier": 5.0,
+"Édouard Philippe": 21.0,
+"Bruno Retailleau": 16.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"date": "2025-04-24",
+"sample": 1005,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 12.0,
+"Raphaël Glucksmann": 11.5,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 20.5,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Ifop/Hexagone",
+"url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"date": "2025-04-18",
+"sample": 9128,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 10.0,
+"François Ruffin": 5.5,
+"Raphaël Glucksmann": 10.0,
+"Édouard Philippe": 21.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Elabe",
+"url": "https://elabe.fr/wp-content/uploads/2025/04/05042025_elabe_bfmtv_la-tribune-dimanche_les-francais-et-lelection-presidentielle.pdf",
+"date": "2025-04-04",
+"sample": 1413,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 10.0,
+"Olivier Faure": 5.5,
+"Marine Tondelier": 5.5,
+"Édouard Philippe": 23.5,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 9.5,
+"Raphaël Glucksmann": 10.5,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 24.0,
+"Laurent Wauquiez": 4.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.5,
+"Jean-Luc Mélenchon": 11.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 6.0,
+"Gabriel Attal": 18.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 3.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2025/03/121520-Resultats-Intention-de-Vote-Presidentielle-1.pdf",
+"date": "2025-03-27",
+"sample": 1119,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 12.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 25.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 4.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 13.0,
+"Olivier Faure": 5.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 21.0,
+"Bruno Retailleau": 11.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 13.0,
+"Olivier Faure": 5.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 20.0,
+"Laurent Wauquiez": 8.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 2.0,
+"Jean-Luc Mélenchon": 13.0,
+"Raphaël Glucksmann": 11.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 20.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/12/121270-Resultats.pdf",
+"date": "2024-12-09",
+"sample": 1101,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 12.0,
+"Olivier Faure": 5.0,
+"Marine Tondelier": 4.5,
+"Gabriel Attal": 20.0,
+"Jean Lassalle": 1.0,
+"Laurent Wauquiez": 8.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 11.0,
+"François Hollande": 7.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 24.0,
+"Jean Lassalle": 1.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 12.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 4.5,
+"Édouard Philippe": 25.0,
+"Jean Lassalle": 1.0,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 3.5,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 0.5,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 12.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 5.0,
+"Édouard Philippe": 26.0,
+"Jean Lassalle": 1.5,
+"Laurent Wauquiez": 6.5,
+"Nicolas Dupont-Aignan": 3.5,
+"Jordan Bardella": 34.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.challenges.fr/politique/presidentielle-2027-le-sondage-confidentiel-qui-a-de-quoi-inquieter-attal-et-melenchon_905503",
+"date": "2024-09-12",
+"sample": 1009,
+"scenarios": [
+{
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 10.0,
+"Raphaël Glucksmann": 14.0,
+"Sandrine Rousseau": 1.0,
+"Édouard Philippe": 26.0,
+"Laurent Wauquiez": 5.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Jean-Luc Mélenchon": 15.0,
+"Édouard Philippe": 31.0,
+"Xavier Bertrand": 7.0,
+"Marine Le Pen": 40.0,
+"Éric Zemmour": 4.0
+},
+{
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 10.0,
+"Raphaël Glucksmann": 12.0,
+"Sandrine Rousseau": 1.0,
+"Gabriel Attal": 8.0,
+"Édouard Philippe": 23.0,
+"Laurent Wauquiez": 5.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Jean-Luc Mélenchon": 14.0,
+"Gabriel Attal": 10.0,
+"Édouard Philippe": 25.0,
+"Laurent Wauquiez": 6.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 4.0
+},
+{
+"Jean-Luc Mélenchon": 4.0,
+"François Ruffin": 10.0,
+"Raphaël Glucksmann": 14.0,
+"Sandrine Rousseau": 1.0,
+"Édouard Philippe": 28.0,
+"Laurent Wauquiez": 4.0,
+"Jordan Bardella": 35.0,
+"Éric Zemmour": 4.0
+},
+{
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 10.0,
+"Raphaël Glucksmann": 14.0,
+"Sandrine Rousseau": 1.0,
+"Édouard Philippe": 27.0,
+"Michel Barnier": 4.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/09/121066-Resultats.pdf",
+"date": "2024-09-09",
+"sample": 1107,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 10.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 6.0,
+"Gabriel Attal": 24.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 10.0,
+"François Hollande": 8.0,
+"Marine Tondelier": 5.0,
+"Gabriel Attal": 22.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 9.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 5.0,
+"Édouard Philippe": 27.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 4.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 9.5,
+"François Hollande": 7.0,
+"Marine Tondelier": 5.0,
+"Édouard Philippe": 26.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 4.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2024/07/Rapport-Harris-IV-Presidentielle-2027-Challenges-Juillet-2024.pdf",
+"date": "2024-07-08",
+"sample": 2496,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 14.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 20.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 3.0,
+"Jean-Luc Mélenchon": 15.0,
+"Raphaël Glucksmann": 14.0,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 22.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 16.0,
+"Olivier Faure": 6.0,
+"Marine Tondelier": 4.0,
+"Gabriel Attal": 23.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 17.0,
+"Olivier Faure": 5.0,
+"Marine Tondelier": 4.0,
+"Édouard Philippe": 24.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"date": "2024-04-18",
+"sample": 1090,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 13.0,
+"Olivier Faure": 3.0,
+"Marine Tondelier": 2.0,
+"Gabriel Attal": 22.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 8.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Jordan Bardella": 30.0,
+"Éric Zemmour": 9.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 0.5,
+"Fabien Roussel": 4.5,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 3.0,
+"Marine Tondelier": 2.0,
+"Édouard Philippe": 26.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Jordan Bardella": 33.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 2.0,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 15.0,
+"Olivier Faure": 5.5,
+"Marine Tondelier": 3.0,
+"Gérald Darmanin": 12.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 8.5,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 6.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 16.0,
+"Olivier Faure": 4.5,
+"Marine Tondelier": 2.5,
+"Bruno Le Maire": 14.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 8.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 3.0,
+"Gabriel Attal": 20.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 4.5,
+"Jean-Luc Mélenchon": 13.0,
+"Olivier Faure": 4.5,
+"Marine Tondelier": 2.0,
+"Édouard Philippe": 24.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 13.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 2.5,
+"Édouard Philippe": 24.0,
+"Jean Lassalle": 2.0,
+"Xavier Bertrand": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.5,
+"Jean-Luc Mélenchon": 12.0,
+"François Hollande": 8.0,
+"Édouard Philippe": 24.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.0,
+"François Ruffin": 7.0,
+"Olivier Faure": 3.5,
+"Marine Tondelier": 3.0,
+"Édouard Philippe": 26.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 6.5
+}
+]
+},
+{
+"firm": "Cluster17",
+"url": "http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+"date": "2024-04-05",
+"sample": 1686,
+"scenarios": [
+{
+"Philippe Poutou": 2.0,
+"François Ruffin": 29.0,
+"Édouard Philippe": 25.0,
+"Laurent Wauquiez": 4.5,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 6.5
+},
+{
+"Philippe Poutou": 3.0,
+"Jean-Luc Mélenchon": 18.0,
+"Édouard Philippe": 31.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 4.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 7.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"date": "2024-02-01",
+"sample": 1081,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 2.0,
+"Marine Tondelier": 2.0,
+"Gabriel Attal": 22.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 5.5,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 4.5,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 2.0,
+"Marine Tondelier": 2.5,
+"Édouard Philippe": 22.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 4.5,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 6.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/01/120560-Resultats.pdf",
+"date": "2024-01-10",
+"sample": 1144,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 14.5,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 1.0,
+"Gabriel Attal": 24.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Jordan Bardella": 28.0,
+"Éric Zemmour": 9.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 15.0,
+"Olivier Faure": 3.5,
+"Marine Tondelier": 1.5,
+"Édouard Philippe": 26.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Jordan Bardella": 27.0,
+"Éric Zemmour": 8.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.5,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 3.5,
+"Marine Tondelier": 1.5,
+"Gabriel Attal": 23.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 13.0,
+"Olivier Faure": 3.0,
+"Marine Tondelier": 2.0,
+"Édouard Philippe": 25.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.5
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2023/10/119940-Rapport.pdf",
+"date": "2023-10-25",
+"sample": 1179,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 5.0,
+"Marine Tondelier": 2.0,
+"Gabriel Attal": 19.0,
+"Jean Lassalle": 4.0,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 15.0,
+"Olivier Faure": 6.0,
+"Marine Tondelier": 2.0,
+"Gérald Darmanin": 16.0,
+"Jean Lassalle": 3.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 7.0,
+"Jean-Luc Mélenchon": 15.0,
+"Olivier Faure": 5.5,
+"Marine Tondelier": 2.0,
+"Bruno Le Maire": 18.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.5
+},
+{
+"Nathalie Arthaud": 1.5,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 7.5,
+"François Ruffin": 7.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 2.0,
+"Édouard Philippe": 26.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 14.0,
+"Olivier Faure": 4.0,
+"Marine Tondelier": 1.0,
+"Édouard Philippe": 25.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 6.5
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2023/09/Rapport-Toluna-Harris-IV-Presidentielle-2027-Challenges-septembre-2023.pdf",
+"date": "2023-09-04",
+"sample": 2525,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 7.0,
+"Yannick Jadot": 5.0,
+"Bruno Le Maire": 16.0,
+"Laurent Wauquiez": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 8.0,
+"Yannick Jadot": 6.0,
+"Gérald Darmanin": 14.0,
+"Laurent Wauquiez": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 9.0,
+"Yannick Jadot": 5.0,
+"Élisabeth Borne": 11.0,
+"Laurent Wauquiez": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 17.0,
+"Bernard Cazeneuve": 10.0,
+"Yannick Jadot": 7.0,
+"Yaël Braun-Pivet": 5.0,
+"Laurent Wauquiez": 10.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 8.0,
+"Yannick Jadot": 7.0,
+"Gabriel Attal": 12.0,
+"Laurent Wauquiez": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 17.0,
+"Bernard Cazeneuve": 9.0,
+"Yannick Jadot": 6.0,
+"Jean Castex": 9.0,
+"Laurent Wauquiez": 9.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 10.0,
+"Yannick Jadot": 6.0,
+"François Bayrou": 8.0,
+"Laurent Wauquiez": 9.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.0,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 5.0,
+"Yannick Jadot": 5.0,
+"Édouard Philippe": 22.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 30.0,
+"Éric Zemmour": 6.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "http://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9689-pres-ow-le-figaro-magazine.pdf",
+"date": "2023-04-13",
+"sample": 1038,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 3.0,
+"Jean-Luc Mélenchon": 17.0,
+"Olivier Faure": 6.0,
+"Sandrine Rousseau": 2.0,
+"Édouard Philippe": 32.0,
+"Laurent Wauquiez": 7.0,
+"Jordan Bardella": 23.0,
+"Éric Zemmour": 9.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
+"url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2023/04/Rapport-Harris-IV-Presidentielle-2027-Challenges-avril-2023.pdf",
+"date": "2023-04-07",
+"sample": 1320,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 16.0,
+"Bernard Cazeneuve": 5.0,
+"Yannick Jadot": 4.0,
+"Édouard Philippe": 24.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 30.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 18.0,
+"Bernard Cazeneuve": 7.0,
+"Yannick Jadot": 5.0,
+"Bruno Le Maire": 16.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 19.0,
+"Bernard Cazeneuve": 8.0,
+"Yannick Jadot": 5.0,
+"Gérald Darmanin": 10.0,
+"Laurent Wauquiez": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 8.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.0,
+"Fabien Roussel": 4.0,
+"Jean-Luc Mélenchon": 17.0,
+"Carole Delga": 3.0,
+"Yannick Jadot": 4.0,
+"Édouard Philippe": 24.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 7.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.lefigaro.fr/politique/presidentielle-le-sondage-qui-bouleverse-le-jeu-20230405",
+"date": "2023-03-31",
+"sample": 1105,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.5,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 17.0,
+"Olivier Faure": 3.0,
+"Marine Tondelier": 1.0,
+"Édouard Philippe": 26.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 5.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 29.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.5,
+"Jean-Luc Mélenchon": 22.0,
+"Édouard Philippe": 28.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 4.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 2.5,
+"Fabien Roussel": 6.0,
+"Jean-Luc Mélenchon": 20.0,
+"Olivier Faure": 2.0,
+"Marine Tondelier": 1.0,
+"Bruno Le Maire": 18.0,
+"Jean Lassalle": 2.5,
+"Laurent Wauquiez": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 6.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Philippe Poutou": 2.5,
+"Fabien Roussel": 5.0,
+"Jean-Luc Mélenchon": 20.0,
+"Olivier Faure": 3.0,
+"Marine Tondelier": 2.0,
+"Gérald Darmanin": 11.0,
+"Jean Lassalle": 2.0,
+"Laurent Wauquiez": 8.0,
+"Nicolas Dupont-Aignan": 4.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 7.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Philippe Poutou": 1.5,
+"Fabien Roussel": 6.5,
+"Jean-Luc Mélenchon": 20.0,
+"Olivier Faure": 2.0,
+"Marine Tondelier": 1.0,
+"François Bayrou": 9.0,
+"Jean Lassalle": 3.0,
+"Laurent Wauquiez": 10.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 7.0
+}
+]
+}
+]

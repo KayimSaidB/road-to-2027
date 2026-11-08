@@ -1,0 +1,1899 @@
+{
+ "horizons": [
+  163,
+  120,
+  90,
+  60,
+  30,
+  7
+ ],
+ "elections": {
+  "2002": {
+   "date": "2002-04-21",
+   "result": {
+    "Arlette Laguiller": 5.72,
+    "Daniel Gluckstein": 0.47,
+    "Olivier Besancenot": 4.25,
+    "Robert Hue": 3.37,
+    "Lionel Jospin": 16.18,
+    "Christiane Taubira": 2.32,
+    "Jean-Pierre Chevènement": 5.33,
+    "Noël Mamère": 5.25,
+    "Corinne Lepage": 1.88,
+    "François Bayrou": 6.84,
+    "Jacques Chirac": 19.88,
+    "Alain Madelin": 3.91,
+    "Christine Boutin": 1.19,
+    "Jean Saint-Josse": 4.23,
+    "Bruno Mégret": 2.34,
+    "Jean-Marie Le Pen": 16.86
+   },
+   "second": {
+    "Jacques Chirac": 82.21,
+    "Jean-Marie Le Pen": 17.79
+   },
+   "by_horizon": {
+    "163": {
+     "n_polls": 3,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Jacques Chirac",
+      "Lionel Jospin"
+     ],
+     "real_top2": [
+      "Jacques Chirac",
+      "Jean-Marie Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Arlette Laguiller": [
+       6.0,
+       5.72
+      ],
+      "Lionel Jospin": [
+       22.7,
+       16.18
+      ],
+      "Jean-Pierre Chevènement": [
+       10.8,
+       5.33
+      ],
+      "Noël Mamère": [
+       5.8,
+       5.25
+      ],
+      "François Bayrou": [
+       4.7,
+       6.84
+      ],
+      "Jacques Chirac": [
+       25.7,
+       19.88
+      ],
+      "Jean-Marie Le Pen": [
+       8.7,
+       16.86
+      ]
+     },
+     "sim": {
+      "sigma_used": 9.17,
+      "p_real_pair": 0.051,
+      "p_qualify": {
+       "Jacques Chirac": 0.852,
+       "Lionel Jospin": 0.787,
+       "Jean-Pierre Chevènement": 0.172,
+       "Jean-Marie Le Pen": 0.09,
+       "Arlette Laguiller": 0.028,
+       "Noël Mamère": 0.026
+      },
+      "fav_pair": [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      "p_fav_pair": 0.651
+     }
+    },
+    "120": {
+     "n_polls": 3,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Jacques Chirac",
+      "Lionel Jospin"
+     ],
+     "real_top2": [
+      "Jacques Chirac",
+      "Jean-Marie Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Arlette Laguiller": [
+       6.7,
+       5.72
+      ],
+      "Lionel Jospin": [
+       22.0,
+       16.18
+      ],
+      "Jean-Pierre Chevènement": [
+       10.3,
+       5.33
+      ],
+      "Noël Mamère": [
+       7.0,
+       5.25
+      ],
+      "François Bayrou": [
+       4.0,
+       6.84
+      ],
+      "Jacques Chirac": [
+       26.3,
+       19.88
+      ],
+      "Jean-Marie Le Pen": [
+       8.5,
+       16.86
+      ]
+     },
+     "sim": {
+      "sigma_used": 8.04,
+      "p_real_pair": 0.041,
+      "p_qualify": {
+       "Jacques Chirac": 0.9,
+       "Lionel Jospin": 0.816,
+       "Jean-Pierre Chevènement": 0.131,
+       "Jean-Marie Le Pen": 0.065,
+       "Noël Mamère": 0.034,
+       "Arlette Laguiller": 0.029
+      },
+      "fav_pair": [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      "p_fav_pair": 0.724
+     }
+    },
+    "90": {
+     "n_polls": 10,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Jacques Chirac",
+      "Lionel Jospin"
+     ],
+     "real_top2": [
+      "Jacques Chirac",
+      "Jean-Marie Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Arlette Laguiller": [
+       6.3,
+       5.72
+      ],
+      "Lionel Jospin": [
+       22.6,
+       16.18
+      ],
+      "Jean-Pierre Chevènement": [
+       10.2,
+       5.33
+      ],
+      "Noël Mamère": [
+       6.5,
+       5.25
+      ],
+      "François Bayrou": [
+       4.1,
+       6.84
+      ],
+      "Jacques Chirac": [
+       26.4,
+       19.88
+      ],
+      "Jean-Marie Le Pen": [
+       9.1,
+       16.86
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.0,
+      "p_real_pair": 0.041,
+      "p_qualify": {
+       "Jacques Chirac": 0.939,
+       "Lionel Jospin": 0.874,
+       "Jean-Pierre Chevènement": 0.089,
+       "Jean-Marie Le Pen": 0.059,
+       "Noël Mamère": 0.017,
+       "Arlette Laguiller": 0.013
+      },
+      "fav_pair": [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      "p_fav_pair": 0.815
+     }
+    },
+    "60": {
+     "n_polls": 12,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Jacques Chirac",
+      "Lionel Jospin"
+     ],
+     "real_top2": [
+      "Jacques Chirac",
+      "Jean-Marie Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Arlette Laguiller": [
+       6.4,
+       5.72
+      ],
+      "Lionel Jospin": [
+       21.8,
+       16.18
+      ],
+      "Jean-Pierre Chevènement": [
+       11.2,
+       5.33
+      ],
+      "Noël Mamère": [
+       6.0,
+       5.25
+      ],
+      "François Bayrou": [
+       3.5,
+       6.84
+      ],
+      "Jacques Chirac": [
+       24.1,
+       19.88
+      ],
+      "Jean-Marie Le Pen": [
+       9.4,
+       16.86
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.33,
+      "p_real_pair": 0.035,
+      "p_qualify": {
+       "Jacques Chirac": 0.923,
+       "Lionel Jospin": 0.877,
+       "Jean-Pierre Chevènement": 0.12,
+       "Jean-Marie Le Pen": 0.058,
+       "Arlette Laguiller": 0.009,
+       "Noël Mamère": 0.008
+      },
+      "fav_pair": [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      "p_fav_pair": 0.802
+     }
+    },
+    "30": {
+     "n_polls": 14,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Jacques Chirac",
+      "Lionel Jospin"
+     ],
+     "real_top2": [
+      "Jacques Chirac",
+      "Jean-Marie Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Arlette Laguiller": [
+       8.6,
+       5.72
+      ],
+      "Lionel Jospin": [
+       21.6,
+       16.18
+      ],
+      "Jean-Pierre Chevènement": [
+       8.8,
+       5.33
+      ],
+      "Noël Mamère": [
+       5.6,
+       5.25
+      ],
+      "François Bayrou": [
+       3.8,
+       6.84
+      ],
+      "Jacques Chirac": [
+       23.7,
+       19.88
+      ],
+      "Jean-Marie Le Pen": [
+       9.8,
+       16.86
+      ]
+     },
+     "sim": {
+      "sigma_used": 5.44,
+      "p_real_pair": 0.033,
+      "p_qualify": {
+       "Jacques Chirac": 0.962,
+       "Lionel Jospin": 0.933,
+       "Jean-Marie Le Pen": 0.049,
+       "Jean-Pierre Chevènement": 0.027,
+       "Arlette Laguiller": 0.024,
+       "Noël Mamère": 0.002
+      },
+      "fav_pair": [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      "p_fav_pair": 0.896
+     }
+    },
+    "7": {
+     "n_polls": 17,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Jacques Chirac",
+      "Lionel Jospin"
+     ],
+     "real_top2": [
+      "Jacques Chirac",
+      "Jean-Marie Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Arlette Laguiller": [
+       9.2,
+       5.72
+      ],
+      "Lionel Jospin": [
+       19.2,
+       16.18
+      ],
+      "Jean-Pierre Chevènement": [
+       7.5,
+       5.33
+      ],
+      "Noël Mamère": [
+       6.2,
+       5.25
+      ],
+      "François Bayrou": [
+       5.2,
+       6.84
+      ],
+      "Jacques Chirac": [
+       21.1,
+       19.88
+      ],
+      "Jean-Marie Le Pen": [
+       11.6,
+       16.86
+      ]
+     },
+     "sim": {
+      "sigma_used": 3.49,
+      "p_real_pair": 0.041,
+      "p_qualify": {
+       "Jacques Chirac": 0.983,
+       "Lionel Jospin": 0.954,
+       "Jean-Marie Le Pen": 0.055,
+       "Arlette Laguiller": 0.007,
+       "Jean-Pierre Chevènement": 0.001,
+       "Noël Mamère": 0.0
+      },
+      "fav_pair": [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      "p_fav_pair": 0.937
+     }
+    }
+   }
+  },
+  "2007": {
+   "date": "2007-04-22",
+   "result": {
+    "Gérard Schivardi": 0.34,
+    "Arlette Laguiller": 1.33,
+    "Olivier Besancenot": 4.08,
+    "Marie-George Buffet": 1.93,
+    "José Bové": 1.32,
+    "Ségolène Royal": 25.87,
+    "Dominique Voynet": 1.57,
+    "Frédéric Nihous": 1.15,
+    "François Bayrou": 18.57,
+    "Nicolas Sarkozy": 31.18,
+    "Philippe de Villiers": 2.23,
+    "Jean-Marie Le Pen": 10.44
+   },
+   "second": {
+    "Nicolas Sarkozy": 53.06,
+    "Ségolène Royal": 46.94
+   },
+   "by_horizon": {
+    "163": {
+     "n_polls": 2,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "real_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Ségolène Royal": [
+       31.5,
+       25.87
+      ],
+      "François Bayrou": [
+       7.0,
+       18.57
+      ],
+      "Nicolas Sarkozy": [
+       32.0,
+       31.18
+      ],
+      "Jean-Marie Le Pen": [
+       14.0,
+       10.44
+      ]
+     },
+     "sim": {
+      "sigma_used": 8.01,
+      "p_real_pair": 0.864,
+      "p_qualify": {
+       "Nicolas Sarkozy": 0.937,
+       "Ségolène Royal": 0.926,
+       "Jean-Marie Le Pen": 0.125,
+       "François Bayrou": 0.01,
+       "Olivier Besancenot": 0.001,
+       "Marie-George Buffet": 0.0
+      },
+      "fav_pair": [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      "p_fav_pair": 0.864
+     }
+    },
+    "120": {
+     "n_polls": 7,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "real_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "top2_ok": true,
+     "leader_ok": false,
+     "scored": {
+      "Ségolène Royal": [
+       35.4,
+       25.87
+      ],
+      "François Bayrou": [
+       7.6,
+       18.57
+      ],
+      "Nicolas Sarkozy": [
+       30.6,
+       31.18
+      ],
+      "Jean-Marie Le Pen": [
+       11.0,
+       10.44
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.27,
+      "p_real_pair": 0.95,
+      "p_qualify": {
+       "Ségolène Royal": 0.986,
+       "Nicolas Sarkozy": 0.965,
+       "Jean-Marie Le Pen": 0.041,
+       "François Bayrou": 0.008,
+       "Olivier Besancenot": 0.0,
+       "Arlette Laguiller": 0.0
+      },
+      "fav_pair": [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      "p_fav_pair": 0.95
+     }
+    },
+    "90": {
+     "n_polls": 17,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "real_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Ségolène Royal": [
+       29.1,
+       25.87
+      ],
+      "François Bayrou": [
+       8.4,
+       18.57
+      ],
+      "Nicolas Sarkozy": [
+       32.1,
+       31.18
+      ],
+      "Jean-Marie Le Pen": [
+       15.4,
+       10.44
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.5,
+      "p_real_pair": 0.882,
+      "p_qualify": {
+       "Nicolas Sarkozy": 0.958,
+       "Ségolène Royal": 0.925,
+       "Jean-Marie Le Pen": 0.112,
+       "François Bayrou": 0.006,
+       "Marie-George Buffet": 0.0,
+       "Arlette Laguiller": 0.0
+      },
+      "fav_pair": [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      "p_fav_pair": 0.882
+     }
+    },
+    "60": {
+     "n_polls": 20,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "real_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Ségolène Royal": [
+       26.7,
+       25.87
+      ],
+      "François Bayrou": [
+       14.1,
+       18.57
+      ],
+      "Nicolas Sarkozy": [
+       32.3,
+       31.18
+      ],
+      "Jean-Marie Le Pen": [
+       12.3,
+       10.44
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.82,
+      "p_real_pair": 0.829,
+      "p_qualify": {
+       "Nicolas Sarkozy": 0.952,
+       "Ségolène Royal": 0.876,
+       "François Bayrou": 0.112,
+       "Jean-Marie Le Pen": 0.06,
+       "Marie-George Buffet": 0.0,
+       "José Bové": 0.0
+      },
+      "fav_pair": [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      "p_fav_pair": 0.829
+     }
+    },
+    "30": {
+     "n_polls": 37,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "real_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Ségolène Royal": [
+       25.6,
+       25.87
+      ],
+      "François Bayrou": [
+       20.4,
+       18.57
+      ],
+      "Nicolas Sarkozy": [
+       29.5,
+       31.18
+      ],
+      "Jean-Marie Le Pen": [
+       12.8,
+       10.44
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.0,
+      "p_real_pair": 0.615,
+      "p_qualify": {
+       "Nicolas Sarkozy": 0.876,
+       "Ségolène Royal": 0.736,
+       "François Bayrou": 0.355,
+       "Jean-Marie Le Pen": 0.033,
+       "Gérard Schivardi": 0.0,
+       "Arlette Laguiller": 0.0
+      },
+      "fav_pair": [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      "p_fav_pair": 0.615
+     }
+    },
+    "7": {
+     "n_polls": 35,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "real_top2": [
+      "Nicolas Sarkozy",
+      "Ségolène Royal"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Ségolène Royal": [
+       24.2,
+       25.87
+      ],
+      "François Bayrou": [
+       18.8,
+       18.57
+      ],
+      "Nicolas Sarkozy": [
+       29.4,
+       31.18
+      ],
+      "Jean-Marie Le Pen": [
+       13.4,
+       10.44
+      ]
+     },
+     "sim": {
+      "sigma_used": 3.86,
+      "p_real_pair": 0.804,
+      "p_qualify": {
+       "Nicolas Sarkozy": 0.971,
+       "Ségolène Royal": 0.833,
+       "François Bayrou": 0.187,
+       "Jean-Marie Le Pen": 0.009,
+       "Gérard Schivardi": 0.0,
+       "Arlette Laguiller": 0.0
+      },
+      "fav_pair": [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      "p_fav_pair": 0.804
+     }
+    }
+   }
+  },
+  "2012": {
+   "date": "2012-04-22",
+   "result": {
+    "Nathalie Arthaud": 0.56,
+    "Philippe Poutou": 1.15,
+    "Jean-Luc Mélenchon": 11.1,
+    "François Hollande": 28.63,
+    "Eva Joly": 2.31,
+    "François Bayrou": 9.13,
+    "Nicolas Sarkozy": 27.18,
+    "Nicolas Dupont-Aignan": 1.79,
+    "Marine Le Pen": 17.9,
+    "Jacques Cheminade": 0.25
+   },
+   "second": {
+    "François Hollande": 51.64,
+    "Nicolas Sarkozy": 48.36
+   },
+   "by_horizon": {
+    "163": {
+     "n_polls": 4,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "real_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       5.9,
+       11.1
+      ],
+      "François Hollande": [
+       35.6,
+       28.63
+      ],
+      "François Bayrou": [
+       6.8,
+       9.13
+      ],
+      "Nicolas Sarkozy": [
+       24.6,
+       27.18
+      ],
+      "Marine Le Pen": [
+       17.5,
+       17.9
+      ]
+     },
+     "sim": {
+      "sigma_used": 9.12,
+      "p_real_pair": 0.63,
+      "p_qualify": {
+       "François Hollande": 0.918,
+       "Nicolas Sarkozy": 0.71,
+       "Marine Le Pen": 0.336,
+       "François Bayrou": 0.019,
+       "Jean-Luc Mélenchon": 0.011,
+       "Eva Joly": 0.006
+      },
+      "fav_pair": [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      "p_fav_pair": 0.63
+     }
+    },
+    "120": {
+     "n_polls": 6,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "real_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       6.4,
+       11.1
+      ],
+      "François Hollande": [
+       29.2,
+       28.63
+      ],
+      "François Bayrou": [
+       11.8,
+       9.13
+      ],
+      "Nicolas Sarkozy": [
+       25.0,
+       27.18
+      ],
+      "Marine Le Pen": [
+       16.9,
+       17.9
+      ]
+     },
+     "sim": {
+      "sigma_used": 8.4,
+      "p_real_pair": 0.592,
+      "p_qualify": {
+       "François Hollande": 0.845,
+       "Nicolas Sarkozy": 0.738,
+       "Marine Le Pen": 0.309,
+       "François Bayrou": 0.097,
+       "Jean-Luc Mélenchon": 0.01,
+       "Eva Joly": 0.001
+      },
+      "fav_pair": [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      "p_fav_pair": 0.592
+     }
+    },
+    "90": {
+     "n_polls": 18,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "real_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       7.3,
+       11.1
+      ],
+      "François Hollande": [
+       28.1,
+       28.63
+      ],
+      "François Bayrou": [
+       12.8,
+       9.13
+      ],
+      "Nicolas Sarkozy": [
+       24.1,
+       27.18
+      ],
+      "Marine Le Pen": [
+       19.3,
+       17.9
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.42,
+      "p_real_pair": 0.515,
+      "p_qualify": {
+       "François Hollande": 0.822,
+       "Nicolas Sarkozy": 0.682,
+       "Marine Le Pen": 0.399,
+       "François Bayrou": 0.09,
+       "Jean-Luc Mélenchon": 0.007,
+       "Eva Joly": 0.0
+      },
+      "fav_pair": [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      "p_fav_pair": 0.515
+     }
+    },
+    "60": {
+     "n_polls": 28,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "real_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       8.1,
+       11.1
+      ],
+      "François Hollande": [
+       30.4,
+       28.63
+      ],
+      "François Bayrou": [
+       12.1,
+       9.13
+      ],
+      "Nicolas Sarkozy": [
+       25.7,
+       27.18
+      ],
+      "Marine Le Pen": [
+       17.6,
+       17.9
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.97,
+      "p_real_pair": 0.681,
+      "p_qualify": {
+       "François Hollande": 0.896,
+       "Nicolas Sarkozy": 0.781,
+       "Marine Le Pen": 0.26,
+       "François Bayrou": 0.055,
+       "Jean-Luc Mélenchon": 0.007,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      "p_fav_pair": 0.681
+     }
+    },
+    "30": {
+     "n_polls": 32,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "real_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       10.0,
+       11.1
+      ],
+      "François Hollande": [
+       28.4,
+       28.63
+      ],
+      "François Bayrou": [
+       12.6,
+       9.13
+      ],
+      "Nicolas Sarkozy": [
+       27.4,
+       27.18
+      ],
+      "Marine Le Pen": [
+       16.1,
+       17.9
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.1,
+      "p_real_pair": 0.79,
+      "p_qualify": {
+       "François Hollande": 0.905,
+       "Nicolas Sarkozy": 0.882,
+       "Marine Le Pen": 0.155,
+       "François Bayrou": 0.046,
+       "Jean-Luc Mélenchon": 0.012,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      "p_fav_pair": 0.79
+     }
+    },
+    "7": {
+     "n_polls": 38,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "real_top2": [
+      "François Hollande",
+      "Nicolas Sarkozy"
+     ],
+     "top2_ok": true,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       13.9,
+       11.1
+      ],
+      "François Hollande": [
+       27.5,
+       28.63
+      ],
+      "François Bayrou": [
+       10.3,
+       9.13
+      ],
+      "Nicolas Sarkozy": [
+       27.9,
+       27.18
+      ],
+      "Marine Le Pen": [
+       15.5,
+       17.9
+      ]
+     },
+     "sim": {
+      "sigma_used": 3.92,
+      "p_real_pair": 0.957,
+      "p_qualify": {
+       "Nicolas Sarkozy": 0.979,
+       "François Hollande": 0.977,
+       "Marine Le Pen": 0.032,
+       "Jean-Luc Mélenchon": 0.011,
+       "François Bayrou": 0.0,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      "p_fav_pair": 0.957
+     }
+    }
+   }
+  },
+  "2017": {
+   "date": "2017-04-23",
+   "result": {
+    "Nathalie Arthaud": 0.64,
+    "Philippe Poutou": 1.09,
+    "Jean-Luc Mélenchon": 19.58,
+    "Benoît Hamon": 6.36,
+    "Emmanuel Macron": 24.01,
+    "Jean Lassalle": 1.21,
+    "François Fillon": 20.01,
+    "Nicolas Dupont-Aignan": 4.7,
+    "François Asselineau": 0.92,
+    "Marine Le Pen": 21.3,
+    "Jacques Cheminade": 0.18
+   },
+   "second": {
+    "Emmanuel Macron": 66.1,
+    "Marine Le Pen": 33.9
+   },
+   "by_horizon": {
+    "163": {
+     "n_polls": 1,
+     "missing_from_field": [
+      "Benoît Hamon",
+      "François Fillon"
+     ],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       13.0,
+       19.58
+      ],
+      "Emmanuel Macron": [
+       14.0,
+       24.01
+      ],
+      "Marine Le Pen": [
+       28.0,
+       21.3
+      ]
+     },
+     "sim": {
+      "sigma_used": 8.36,
+      "p_real_pair": 0.495,
+      "p_qualify": {
+       "Marine Le Pen": 0.944,
+       "Emmanuel Macron": 0.549,
+       "Jean-Luc Mélenchon": 0.478,
+       "Nicolas Dupont-Aignan": 0.025,
+       "Philippe Poutou": 0.003,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.495
+     }
+    },
+    "120": {
+     "n_polls": 2,
+     "missing_from_field": [
+      "Benoît Hamon"
+     ],
+     "poll_top2": [
+      "François Fillon",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       14.0,
+       19.58
+      ],
+      "Emmanuel Macron": [
+       14.5,
+       24.01
+      ],
+      "François Fillon": [
+       25.5,
+       20.01
+      ],
+      "Marine Le Pen": [
+       24.5,
+       21.3
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.82,
+      "p_real_pair": 0.098,
+      "p_qualify": {
+       "François Fillon": 0.805,
+       "Marine Le Pen": 0.775,
+       "Emmanuel Macron": 0.224,
+       "Jean-Luc Mélenchon": 0.195,
+       "Nicolas Dupont-Aignan": 0.0,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.594
+     }
+    },
+    "90": {
+     "n_polls": 8,
+     "missing_from_field": [],
+     "poll_top2": [
+      "François Fillon",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       13.0,
+       19.58
+      ],
+      "Benoît Hamon": [
+       6.6,
+       6.36
+      ],
+      "Emmanuel Macron": [
+       19.9,
+       24.01
+      ],
+      "François Fillon": [
+       24.7,
+       20.01
+      ],
+      "Marine Le Pen": [
+       25.6,
+       21.3
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.27,
+      "p_real_pair": 0.223,
+      "p_qualify": {
+       "Marine Le Pen": 0.747,
+       "François Fillon": 0.715,
+       "Emmanuel Macron": 0.438,
+       "Jean-Luc Mélenchon": 0.097,
+       "Benoît Hamon": 0.004,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.48
+     }
+    },
+    "60": {
+     "n_polls": 41,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       11.6,
+       19.58
+      ],
+      "Benoît Hamon": [
+       15.0,
+       6.36
+      ],
+      "Emmanuel Macron": [
+       20.9,
+       24.01
+      ],
+      "François Fillon": [
+       19.2,
+       20.01
+      ],
+      "Marine Le Pen": [
+       25.7,
+       21.3
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.23,
+      "p_real_pair": 0.401,
+      "p_qualify": {
+       "Marine Le Pen": 0.803,
+       "Emmanuel Macron": 0.565,
+       "François Fillon": 0.428,
+       "Benoît Hamon": 0.161,
+       "Jean-Luc Mélenchon": 0.042,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.401
+     }
+    },
+    "30": {
+     "n_polls": 47,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       11.7,
+       19.58
+      ],
+      "Benoît Hamon": [
+       13.2,
+       6.36
+      ],
+      "Emmanuel Macron": [
+       25.1,
+       24.01
+      ],
+      "François Fillon": [
+       18.8,
+       20.01
+      ],
+      "Marine Le Pen": [
+       26.1,
+       21.3
+      ]
+     },
+     "sim": {
+      "sigma_used": 5.35,
+      "p_real_pair": 0.648,
+      "p_qualify": {
+       "Marine Le Pen": 0.837,
+       "Emmanuel Macron": 0.806,
+       "François Fillon": 0.295,
+       "Benoît Hamon": 0.043,
+       "Jean-Luc Mélenchon": 0.019,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.648
+     }
+    },
+    "7": {
+     "n_polls": 53,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": false,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       16.9,
+       19.58
+      ],
+      "Benoît Hamon": [
+       9.2,
+       6.36
+      ],
+      "Emmanuel Macron": [
+       24.0,
+       24.01
+      ],
+      "François Fillon": [
+       18.7,
+       20.01
+      ],
+      "Marine Le Pen": [
+       24.0,
+       21.3
+      ]
+     },
+     "sim": {
+      "sigma_used": 3.85,
+      "p_real_pair": 0.65,
+      "p_qualify": {
+       "Emmanuel Macron": 0.823,
+       "Marine Le Pen": 0.819,
+       "François Fillon": 0.241,
+       "Jean-Luc Mélenchon": 0.116,
+       "Benoît Hamon": 0.0,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.65
+     }
+    }
+   }
+  },
+  "2022": {
+   "date": "2022-04-10",
+   "result": {
+    "Nathalie Arthaud": 0.56,
+    "Philippe Poutou": 0.76,
+    "Fabien Roussel": 2.28,
+    "Jean-Luc Mélenchon": 21.95,
+    "Anne Hidalgo": 1.74,
+    "Yannick Jadot": 4.63,
+    "Emmanuel Macron": 27.85,
+    "Valérie Pécresse": 4.78,
+    "Jean Lassalle": 3.13,
+    "Nicolas Dupont-Aignan": 2.06,
+    "Marine Le Pen": 23.15,
+    "Éric Zemmour": 7.07
+   },
+   "second": {
+    "Emmanuel Macron": 58.55,
+    "Marine Le Pen": 41.45
+   },
+   "by_horizon": {
+    "163": {
+     "n_polls": 10,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       8.8,
+       21.95
+      ],
+      "Emmanuel Macron": [
+       25.3,
+       27.85
+      ],
+      "Marine Le Pen": [
+       17.1,
+       23.15
+      ],
+      "Éric Zemmour": [
+       16.1,
+       7.07
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.6,
+      "p_real_pair": 0.393,
+      "p_qualify": {
+       "Emmanuel Macron": 0.855,
+       "Marine Le Pen": 0.511,
+       "Éric Zemmour": 0.441,
+       "Valérie Pécresse": 0.093,
+       "Jean-Luc Mélenchon": 0.056,
+       "Yannick Jadot": 0.04
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.393
+     }
+    },
+    "120": {
+     "n_polls": 12,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       9.5,
+       21.95
+      ],
+      "Emmanuel Macron": [
+       24.2,
+       27.85
+      ],
+      "Marine Le Pen": [
+       17.2,
+       23.15
+      ],
+      "Éric Zemmour": [
+       13.7,
+       7.07
+      ]
+     },
+     "sim": {
+      "sigma_used": 7.01,
+      "p_real_pair": 0.379,
+      "p_qualify": {
+       "Emmanuel Macron": 0.835,
+       "Marine Le Pen": 0.502,
+       "Valérie Pécresse": 0.332,
+       "Éric Zemmour": 0.254,
+       "Jean-Luc Mélenchon": 0.06,
+       "Yannick Jadot": 0.015
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.379
+     }
+    },
+    "90": {
+     "n_polls": 16,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Valérie Pécresse"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": false,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       10.0,
+       21.95
+      ],
+      "Emmanuel Macron": [
+       24.9,
+       27.85
+      ],
+      "Marine Le Pen": [
+       16.1,
+       23.15
+      ],
+      "Éric Zemmour": [
+       13.1,
+       7.07
+      ]
+     },
+     "sim": {
+      "sigma_used": 6.03,
+      "p_real_pair": 0.338,
+      "p_qualify": {
+       "Emmanuel Macron": 0.892,
+       "Valérie Pécresse": 0.436,
+       "Marine Le Pen": 0.418,
+       "Éric Zemmour": 0.196,
+       "Jean-Luc Mélenchon": 0.053,
+       "Yannick Jadot": 0.005
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      "p_fav_pair": 0.358
+     }
+    },
+    "60": {
+     "n_polls": 44,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       9.9,
+       21.95
+      ],
+      "Emmanuel Macron": [
+       24.4,
+       27.85
+      ],
+      "Marine Le Pen": [
+       17.0,
+       23.15
+      ],
+      "Éric Zemmour": [
+       13.6,
+       7.07
+      ]
+     },
+     "sim": {
+      "sigma_used": 5.35,
+      "p_real_pair": 0.397,
+      "p_qualify": {
+       "Emmanuel Macron": 0.9,
+       "Marine Le Pen": 0.476,
+       "Valérie Pécresse": 0.399,
+       "Éric Zemmour": 0.192,
+       "Jean-Luc Mélenchon": 0.032,
+       "Yannick Jadot": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.397
+     }
+    },
+    "30": {
+     "n_polls": 46,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       11.4,
+       21.95
+      ],
+      "Emmanuel Macron": [
+       27.6,
+       27.85
+      ],
+      "Marine Le Pen": [
+       17.1,
+       23.15
+      ],
+      "Éric Zemmour": [
+       13.3,
+       7.07
+      ]
+     },
+     "sim": {
+      "sigma_used": 4.75,
+      "p_real_pair": 0.571,
+      "p_qualify": {
+       "Emmanuel Macron": 0.979,
+       "Marine Le Pen": 0.588,
+       "Éric Zemmour": 0.189,
+       "Valérie Pécresse": 0.169,
+       "Jean-Luc Mélenchon": 0.075,
+       "Yannick Jadot": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.571
+     }
+    },
+    "7": {
+     "n_polls": 74,
+     "missing_from_field": [],
+     "poll_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "real_top2": [
+      "Emmanuel Macron",
+      "Marine Le Pen"
+     ],
+     "top2_ok": true,
+     "leader_ok": true,
+     "scored": {
+      "Jean-Luc Mélenchon": [
+       13.8,
+       21.95
+      ],
+      "Emmanuel Macron": [
+       28.6,
+       27.85
+      ],
+      "Marine Le Pen": [
+       18.9,
+       23.15
+      ],
+      "Éric Zemmour": [
+       11.1,
+       7.07
+      ]
+     },
+     "sim": {
+      "sigma_used": 2.97,
+      "p_real_pair": 0.903,
+      "p_qualify": {
+       "Emmanuel Macron": 1.0,
+       "Marine Le Pen": 0.904,
+       "Jean-Luc Mélenchon": 0.084,
+       "Éric Zemmour": 0.009,
+       "Valérie Pécresse": 0.004,
+       "Nathalie Arthaud": 0.0
+      },
+      "fav_pair": [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      "p_fav_pair": 0.903
+     }
+    }
+   }
+  }
+ },
+ "sigma": {
+  "163": 8.44,
+  "120": 7.71,
+  "90": 6.85,
+  "60": 6.36,
+  "30": 5.55,
+  "7": 3.63
+ },
+ "mae": {
+  "163": 5.31,
+  "120": 4.85,
+  "90": 4.39,
+  "60": 3.95,
+  "30": 3.36,
+  "7": 2.37
+ },
+ "calibration": {
+  "163": {
+   "brier": 0.0585,
+   "bins": {
+    "0-20%": {
+     "n": 32,
+     "mean_p": 0.02,
+     "observed": 0.03
+    },
+    "20-40%": {
+     "n": 1,
+     "mean_p": 0.34,
+     "observed": 0
+    },
+    "40-60%": {
+     "n": 4,
+     "mean_p": 0.49,
+     "observed": 0.5
+    },
+    "60-80%": {
+     "n": 2,
+     "mean_p": 0.75,
+     "observed": 0.5
+    },
+    "80-100%": {
+     "n": 6,
+     "mean_p": 0.91,
+     "observed": 1
+    }
+   }
+  },
+  "120": {
+   "brier": 0.0742,
+   "bins": {
+    "0-20%": {
+     "n": 34,
+     "mean_p": 0.02,
+     "observed": 0.03
+    },
+    "20-40%": {
+     "n": 4,
+     "mean_p": 0.28,
+     "observed": 0.25
+    },
+    "40-60%": {
+     "n": 1,
+     "mean_p": 0.5,
+     "observed": 1
+    },
+    "60-80%": {
+     "n": 2,
+     "mean_p": 0.76,
+     "observed": 1
+    },
+    "80-100%": {
+     "n": 7,
+     "mean_p": 0.88,
+     "observed": 0.71
+    }
+   }
+  },
+  "90": {
+   "brier": 0.0707,
+   "bins": {
+    "0-20%": {
+     "n": 36,
+     "mean_p": 0.02,
+     "observed": 0.03
+    },
+    "20-40%": {
+     "n": 1,
+     "mean_p": 0.4,
+     "observed": 0
+    },
+    "40-60%": {
+     "n": 3,
+     "mean_p": 0.43,
+     "observed": 0.67
+    },
+    "60-80%": {
+     "n": 3,
+     "mean_p": 0.71,
+     "observed": 0.67
+    },
+    "80-100%": {
+     "n": 6,
+     "mean_p": 0.9,
+     "observed": 0.83
+    }
+   }
+  },
+  "60": {
+   "brier": 0.0541,
+   "bins": {
+    "0-20%": {
+     "n": 38,
+     "mean_p": 0.02,
+     "observed": 0.03
+    },
+    "20-40%": {
+     "n": 2,
+     "mean_p": 0.33,
+     "observed": 0
+    },
+    "40-60%": {
+     "n": 3,
+     "mean_p": 0.49,
+     "observed": 0.67
+    },
+    "60-80%": {
+     "n": 1,
+     "mean_p": 0.78,
+     "observed": 1
+    },
+    "80-100%": {
+     "n": 7,
+     "mean_p": 0.89,
+     "observed": 0.86
+    }
+   }
+  },
+  "30": {
+   "brier": 0.0468,
+   "bins": {
+    "0-20%": {
+     "n": 40,
+     "mean_p": 0.02,
+     "observed": 0.03
+    },
+    "20-40%": {
+     "n": 2,
+     "mean_p": 0.33,
+     "observed": 0
+    },
+    "40-60%": {
+     "n": 1,
+     "mean_p": 0.59,
+     "observed": 1
+    },
+    "60-80%": {
+     "n": 1,
+     "mean_p": 0.74,
+     "observed": 1
+    },
+    "80-100%": {
+     "n": 8,
+     "mean_p": 0.9,
+     "observed": 0.88
+    }
+   }
+  },
+  "7": {
+   "brier": 0.0389,
+   "bins": {
+    "0-20%": {
+     "n": 41,
+     "mean_p": 0.01,
+     "observed": 0.02
+    },
+    "20-40%": {
+     "n": 1,
+     "mean_p": 0.24,
+     "observed": 0
+    },
+    "80-100%": {
+     "n": 10,
+     "mean_p": 0.92,
+     "observed": 0.9
+    }
+   }
+  }
+ }
+}

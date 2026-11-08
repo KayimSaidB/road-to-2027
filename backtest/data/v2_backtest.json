@@ -1,0 +1,2054 @@
+{
+ "163": {
+  "2002": {
+   "a": 0.0,
+   "k": 1.0,
+   "sigma": 9.23,
+   "sigma_duel": 3.74,
+   "v1": {
+    "p_real_pair": 0.046,
+    "brier_qual": 0.10073095925925926,
+    "p_winner": 0.5651486841959295,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.5651486841959295,
+    "fallback_share": 0.3450000000000001,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.655
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.094
+     ],
+     [
+      [
+       "Jean-Pierre Chevènement",
+       "Lionel Jospin"
+      ],
+      0.066
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.014333333333333333,
+    "brier_qual": 0.11010549629629628,
+    "p_winner": 0.5783904801412193,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.5783904801412193,
+    "fallback_share": 0.2473333333333333,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.753
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.122
+     ],
+     [
+      [
+       "Jean-Pierre Chevènement",
+       "Lionel Jospin"
+      ],
+      0.036
+     ]
+    ]
+   }
+  },
+  "2007": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 8.07,
+   "sigma_duel": 4.12,
+   "v1": {
+    "p_real_pair": 0.8593333333333333,
+    "brier_qual": 0.0024116111111111152,
+    "p_winner": 0.42245788273942103,
+    "fav": "Ségolène Royal",
+    "p_fav": 0.5774844771164296,
+    "fallback_share": 0.14066666666666672,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.859
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.069
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Ségolène Royal"
+      ],
+      0.059
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.8628333333333333,
+    "brier_qual": 0.002257631313131313,
+    "p_winner": 0.4187083404093665,
+    "fav": "Ségolène Royal",
+    "p_fav": 0.5810700600234244,
+    "fallback_share": 0.13716666666666666,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.863
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.062
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Ségolène Royal"
+      ],
+      0.061
+     ]
+    ]
+   }
+  },
+  "2012": {
+   "a": 0.7,
+   "k": 1.0,
+   "sigma": 9.17,
+   "sigma_duel": 2.97,
+   "v1": {
+    "p_real_pair": 0.631,
+    "brier_qual": 0.02509536458333334,
+    "p_winner": 0.9152650096027668,
+    "fav": "François Hollande",
+    "p_fav": 0.9152650096027668,
+    "fallback_share": 0.369,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.631
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.257
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.075
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.6671666666666667,
+    "brier_qual": 0.022051333333333336,
+    "p_winner": 0.9444182076548902,
+    "fav": "François Hollande",
+    "p_fav": 0.9444182076548902,
+    "fallback_share": 0.3328333333333333,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.667
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.257
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.051
+     ]
+    ]
+   }
+  },
+  "2017": {
+   "a": 0.7,
+   "k": 1.0,
+   "sigma": 8.41,
+   "sigma_duel": 3.72,
+   "v1": {
+    "p_real_pair": 0.501,
+    "brier_qual": 0.05272327083333335,
+    "p_winner": 0.04316434185470418,
+    "fav": "Marine Le Pen",
+    "p_fav": 0.937740337377248,
+    "fallback_share": 0.9999999999999998,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.501
+     ],
+     [
+      [
+       "Jean-Luc Mélenchon",
+       "Marine Le Pen"
+      ],
+      0.415
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Jean-Luc Mélenchon"
+      ],
+      0.057
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.516,
+    "brier_qual": 0.052535065972222225,
+    "p_winner": 0.027450965184902438,
+    "fav": "Marine Le Pen",
+    "p_fav": 0.962050921337925,
+    "fallback_share": 0.9999999999999998,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.516
+     ],
+     [
+      [
+       "Jean-Luc Mélenchon",
+       "Marine Le Pen"
+      ],
+      0.431
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Jean-Luc Mélenchon"
+      ],
+      0.036
+     ]
+    ]
+   }
+  },
+  "2022": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.62,
+   "sigma_duel": 4.07,
+   "v1": {
+    "p_real_pair": 0.401,
+    "brier_qual": 0.04594127777777778,
+    "p_winner": 0.8113218947421198,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.8113218947421198,
+    "fallback_share": 0.17300000000000001,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.401
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.323
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Éric Zemmour"
+      ],
+      0.082
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.3775,
+    "brier_qual": 0.04467870555555556,
+    "p_winner": 0.7924499062232563,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.7924499062232563,
+    "fallback_share": 0.20783333333333337,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.378
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.274
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Éric Zemmour"
+      ],
+      0.114
+     ]
+    ]
+   }
+  }
+ },
+ "120": {
+  "2002": {
+   "a": 0.0,
+   "k": 1.0,
+   "sigma": 8.09,
+   "sigma_duel": 3.74,
+   "v1": {
+    "p_real_pair": 0.04466666666666667,
+    "brier_qual": 0.1028326074074074,
+    "p_winner": 0.6352584130142096,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.6352584130142096,
+    "fallback_share": 0.16266666666666676,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.715
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.08
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.045
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.013666666666666667,
+    "brier_qual": 0.1119296074074074,
+    "p_winner": 0.6595331777955495,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.6595331777955495,
+    "fallback_share": 0.07833333333333334,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.798
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.101
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Noël Mamère"
+      ],
+      0.033
+     ]
+    ]
+   }
+  },
+  "2007": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.31,
+   "sigma_duel": 4.12,
+   "v1": {
+    "p_real_pair": 0.9486666666666667,
+    "brier_qual": 0.0003212525252525255,
+    "p_winner": 0.4583373543959783,
+    "fav": "Ségolène Royal",
+    "p_fav": 0.541097658085444,
+    "fallback_share": 0.0011666666666666668,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.949
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Ségolène Royal"
+      ],
+      0.031
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.013
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.9471666666666667,
+    "brier_qual": 0.0003009999999999992,
+    "p_winner": 0.4592447674831567,
+    "fav": "Ségolène Royal",
+    "p_fav": 0.539925076758738,
+    "fallback_share": 0.0005,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.947
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Ségolène Royal"
+      ],
+      0.027
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.013
+     ]
+    ]
+   }
+  },
+  "2012": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 8.44,
+   "sigma_duel": 2.97,
+   "v1": {
+    "p_real_pair": 0.5961666666666666,
+    "brier_qual": 0.024078750000000003,
+    "p_winner": 0.8438406069746247,
+    "fav": "François Hollande",
+    "p_fav": 0.8438406069746247,
+    "fallback_share": 0.4038333333333334,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.596
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.189
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.107
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.597,
+    "brier_qual": 0.023782118055555558,
+    "p_winner": 0.842164072581539,
+    "fav": "François Hollande",
+    "p_fav": 0.842164072581539,
+    "fallback_share": 0.403,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.597
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.185
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.106
+     ]
+    ]
+   }
+  },
+  "2017": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.87,
+   "sigma_duel": 3.72,
+   "v1": {
+    "p_real_pair": 0.1065,
+    "brier_qual": 0.1634770486111111,
+    "p_winner": 0.1206108560605214,
+    "fav": "François Fillon",
+    "p_fav": 0.7948201987650289,
+    "fallback_share": 0.2978333333333333,
+    "top_pairs": [
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.596
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.108
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.106
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.1025,
+    "brier_qual": 0.16512161805555553,
+    "p_winner": 0.11794654372566542,
+    "fav": "François Fillon",
+    "p_fav": 0.7986536662992907,
+    "fallback_share": 0.2975,
+    "top_pairs": [
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.6
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.107
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.102
+     ]
+    ]
+   }
+  },
+  "2022": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.03,
+   "sigma_duel": 4.07,
+   "v1": {
+    "p_real_pair": 0.38616666666666666,
+    "brier_qual": 0.0437188,
+    "p_winner": 0.7511601620191486,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.7511601620191486,
+    "fallback_share": 0.1698333333333334,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.386
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.221
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.179
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.38033333333333336,
+    "brier_qual": 0.04314729444444444,
+    "p_winner": 0.7348003098205532,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.7348003098205532,
+    "fallback_share": 0.18550000000000003,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.38
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.255
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.127
+     ]
+    ]
+   }
+  }
+ },
+ "90": {
+  "2002": {
+   "a": 0.0,
+   "k": 1.0,
+   "sigma": 7.03,
+   "sigma_duel": 3.74,
+   "v1": {
+    "p_real_pair": 0.04466666666666667,
+    "brier_qual": 0.10959710370370371,
+    "p_winner": 0.6438798715805462,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.6438798715805462,
+    "fallback_share": 0.10033333333333334,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.813
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.057
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.045
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.014,
+    "brier_qual": 0.11866828888888886,
+    "p_winner": 0.6568690758835504,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.6568690758835504,
+    "fallback_share": 0.041999999999999996,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.877
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.067
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.014
+     ]
+    ]
+   }
+  },
+  "2007": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 6.52,
+   "sigma_duel": 4.12,
+   "v1": {
+    "p_real_pair": 0.8815,
+    "brier_qual": 0.001884398989898991,
+    "p_winner": 0.5638174455652025,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.5638174455652025,
+    "fallback_share": 0.0003333333333333333,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.881
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.077
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Ségolène Royal"
+      ],
+      0.035
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.878,
+    "brier_qual": 0.0019486262626262625,
+    "p_winner": 0.5591327808234411,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.5591327808234411,
+    "fallback_share": 0.00016666666666666666,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.878
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.074
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Ségolène Royal"
+      ],
+      0.041
+     ]
+    ]
+   }
+  },
+  "2012": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.44,
+   "sigma_duel": 2.97,
+   "v1": {
+    "p_real_pair": 0.5213333333333333,
+    "brier_qual": 0.036431569444444444,
+    "p_winner": 0.8156941366744727,
+    "fav": "François Hollande",
+    "p_fav": 0.8156941366744727,
+    "fallback_share": 0.47866666666666674,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.521
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.245
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.135
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.524,
+    "brier_qual": 0.035586333333333324,
+    "p_winner": 0.8166491113250047,
+    "fav": "François Hollande",
+    "p_fav": 0.8166491113250047,
+    "fallback_share": 0.47600000000000003,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.524
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.241
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.136
+     ]
+    ]
+   }
+  },
+  "2017": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.29,
+   "sigma_duel": 3.72,
+   "v1": {
+    "p_real_pair": 0.21716666666666667,
+    "brier_qual": 0.11555163194444444,
+    "p_winner": 0.3852311430918342,
+    "fav": "François Fillon",
+    "p_fav": 0.5708085465184825,
+    "fallback_share": 0.10450000000000001,
+    "top_pairs": [
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.487
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.217
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.191
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.2265,
+    "brier_qual": 0.1122297986111111,
+    "p_winner": 0.3981802528279146,
+    "fav": "François Fillon",
+    "p_fav": 0.5588615395092845,
+    "fallback_share": 0.10083333333333334,
+    "top_pairs": [
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.477
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.227
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.196
+     ]
+    ]
+   }
+  },
+  "2022": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 6.03,
+   "sigma_duel": 4.07,
+   "v1": {
+    "p_real_pair": 0.3455,
+    "brier_qual": 0.058004788888888895,
+    "p_winner": 0.8054789888181332,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.8054789888181332,
+    "fallback_share": 0.10566666666666666,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.358
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.345
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.148
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.3465,
+    "brier_qual": 0.0572778,
+    "p_winner": 0.7962368645223268,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.7962368645223268,
+    "fallback_share": 0.10916666666666666,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.386
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.346
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.11
+     ]
+    ]
+   }
+  }
+ },
+ "60": {
+  "2002": {
+   "a": 0.0,
+   "k": 1.0,
+   "sigma": 6.36,
+   "sigma_duel": 3.74,
+   "v1": {
+    "p_real_pair": 0.03916666666666667,
+    "brier_qual": 0.11096804074074072,
+    "p_winner": 0.5980886863450784,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.5980886863450784,
+    "fallback_share": 0.0818333333333333,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.8
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.072
+     ],
+     [
+      [
+       "Jean-Pierre Chevènement",
+       "Lionel Jospin"
+      ],
+      0.046
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.009666666666666667,
+    "brier_qual": 0.11935965555555555,
+    "p_winner": 0.6103498191605954,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.6103498191605954,
+    "fallback_share": 0.028166666666666666,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.863
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.082
+     ],
+     [
+      [
+       "Jean-Pierre Chevènement",
+       "Lionel Jospin"
+      ],
+      0.027
+     ]
+    ]
+   }
+  },
+  "2007": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 6.84,
+   "sigma_duel": 4.12,
+   "v1": {
+    "p_real_pair": 0.8255,
+    "brier_qual": 0.0032511969696969686,
+    "p_winner": 0.7335730266461942,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.7335730266461942,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.826
+     ],
+     [
+      [
+       "François Bayrou",
+       "Nicolas Sarkozy"
+      ],
+      0.084
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.046
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.8293333333333334,
+    "brier_qual": 0.003136772727272727,
+    "p_winner": 0.7365473653729545,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.7365473653729545,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.829
+     ],
+     [
+      [
+       "François Bayrou",
+       "Nicolas Sarkozy"
+      ],
+      0.083
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.046
+     ]
+    ]
+   }
+  },
+  "2012": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 7.0,
+   "sigma_duel": 2.97,
+   "v1": {
+    "p_real_pair": 0.6761666666666667,
+    "brier_qual": 0.0164700625,
+    "p_winner": 0.888513855343815,
+    "fav": "François Hollande",
+    "p_fav": 0.888513855343815,
+    "fallback_share": 0.32383333333333336,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.676
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.173
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.083
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.6831666666666667,
+    "brier_qual": 0.015870923611111108,
+    "p_winner": 0.8916201564575646,
+    "fav": "François Hollande",
+    "p_fav": 0.8916201564575646,
+    "fallback_share": 0.31683333333333336,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.683
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.172
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.079
+     ]
+    ]
+   }
+  },
+  "2017": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 6.26,
+   "sigma_duel": 3.72,
+   "v1": {
+    "p_real_pair": 0.3958333333333333,
+    "brier_qual": 0.05644138888888888,
+    "p_winner": 0.544258062671041,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.544258062671041,
+    "fallback_share": 0.20099999999999998,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.396
+     ],
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.284
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.119
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.4048333333333333,
+    "brier_qual": 0.053892694444444444,
+    "p_winner": 0.5582898890638444,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.5582898890638444,
+    "fallback_share": 0.2058333333333333,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.405
+     ],
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.272
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.117
+     ]
+    ]
+   }
+  },
+  "2022": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 5.35,
+   "sigma_duel": 4.07,
+   "v1": {
+    "p_real_pair": 0.4073333333333333,
+    "brier_qual": 0.04718062222222222,
+    "p_winner": 0.8199613675262336,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.8199613675262336,
+    "fallback_share": 0.09299999999999999,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.407
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.325
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.148
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.414,
+    "brier_qual": 0.04565210555555557,
+    "p_winner": 0.810004120697781,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.810004120697781,
+    "fallback_share": 0.09783333333333331,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.414
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.352
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.102
+     ]
+    ]
+   }
+  }
+ },
+ "30": {
+  "2002": {
+   "a": 0.0,
+   "k": 1.0,
+   "sigma": 5.46,
+   "sigma_duel": 3.74,
+   "v1": {
+    "p_real_pair": 0.029166666666666667,
+    "brier_qual": 0.1190349962962963,
+    "p_winner": 0.4281473755782616,
+    "fav": "Lionel Jospin",
+    "p_fav": 0.5698823156100952,
+    "fallback_share": 0.07283333333333332,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.899
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.029
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.018
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.01,
+    "brier_qual": 0.12646777407407406,
+    "p_winner": 0.42262610439514886,
+    "fav": "Lionel Jospin",
+    "p_fav": 0.5762172634423465,
+    "fallback_share": 0.02683333333333333,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.948
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Pierre Chevènement"
+      ],
+      0.021
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.01
+     ]
+    ]
+   }
+  },
+  "2007": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 6.02,
+   "sigma_duel": 4.12,
+   "v1": {
+    "p_real_pair": 0.612,
+    "brier_qual": 0.019826257575757577,
+    "p_winner": 0.5142225899110193,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.5142225899110193,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.612
+     ],
+     [
+      [
+       "François Bayrou",
+       "Nicolas Sarkozy"
+      ],
+      0.246
+     ],
+     [
+      [
+       "François Bayrou",
+       "Ségolène Royal"
+      ],
+      0.11
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.6143333333333333,
+    "brier_qual": 0.019488762626262635,
+    "p_winner": 0.5187999418303544,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.5187999418303544,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.614
+     ],
+     [
+      [
+       "François Bayrou",
+       "Nicolas Sarkozy"
+      ],
+      0.246
+     ],
+     [
+      [
+       "François Bayrou",
+       "Ségolène Royal"
+      ],
+      0.105
+     ]
+    ]
+   }
+  },
+  "2012": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 6.12,
+   "sigma_duel": 2.97,
+   "v1": {
+    "p_real_pair": 0.795,
+    "brier_qual": 0.0057642430555555554,
+    "p_winner": 0.8763015039406278,
+    "fav": "François Hollande",
+    "p_fav": 0.8763015039406278,
+    "fallback_share": 0.205,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.795
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.079
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.068
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.7931666666666667,
+    "brier_qual": 0.005814270833333331,
+    "p_winner": 0.8763661656092614,
+    "fav": "François Hollande",
+    "p_fav": 0.8763661656092614,
+    "fallback_share": 0.2068333333333333,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.793
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.08
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.066
+     ]
+    ]
+   }
+  },
+  "2017": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 5.37,
+   "sigma_duel": 3.72,
+   "v1": {
+    "p_real_pair": 0.635,
+    "brier_qual": 0.02106328472222222,
+    "p_winner": 0.7970287174945153,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.7970287174945153,
+    "fallback_share": 0.0595,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.635
+     ],
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.166
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.14
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.6351666666666667,
+    "brier_qual": 0.02076072222222222,
+    "p_winner": 0.7931953487523672,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.7931953487523672,
+    "fallback_share": 0.06283333333333332,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.635
+     ],
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.165
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.137
+     ]
+    ]
+   }
+  },
+  "2022": {
+   "a": 0.4,
+   "k": 0.0,
+   "sigma": 4.76,
+   "sigma_duel": 4.07,
+   "v1": {
+    "p_real_pair": 0.5778333333333333,
+    "brier_qual": 0.023235905555555568,
+    "p_winner": 0.9524672040349551,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.9524672040349551,
+    "fallback_share": 0.017499999999999998,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.578
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.176
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.155
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.5851666666666666,
+    "brier_qual": 0.02214350000000001,
+    "p_winner": 0.9504018602411288,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.9504018602411288,
+    "fallback_share": 0.019166666666666665,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.585
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.159
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.155
+     ]
+    ]
+   }
+  }
+ },
+ "7": {
+  "2002": {
+   "a": 0.0,
+   "k": 1.0,
+   "sigma": 3.5,
+   "sigma_duel": 3.74,
+   "v1": {
+    "p_real_pair": 0.036166666666666666,
+    "brier_qual": 0.12091091481481481,
+    "p_winner": 0.5028924207959704,
+    "fav": "Jacques Chirac",
+    "p_fav": 0.5028924207959704,
+    "fallback_share": 0.06066666666666667,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.939
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.036
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Lionel Jospin"
+      ],
+      0.017
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.013166666666666667,
+    "brier_qual": 0.12899293703703704,
+    "p_winner": 0.4960909679078851,
+    "fav": "Lionel Jospin",
+    "p_fav": 0.5032106830247669,
+    "fallback_share": 0.019999999999999997,
+    "top_pairs": [
+     [
+      [
+       "Jacques Chirac",
+       "Lionel Jospin"
+      ],
+      0.98
+     ],
+     [
+      [
+       "Jacques Chirac",
+       "Jean-Marie Le Pen"
+      ],
+      0.013
+     ],
+     [
+      [
+       "Jean-Marie Le Pen",
+       "Lionel Jospin"
+      ],
+      0.004
+     ]
+    ]
+   }
+  },
+  "2007": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 3.86,
+   "sigma_duel": 4.12,
+   "v1": {
+    "p_real_pair": 0.7985,
+    "brier_qual": 0.006193954545454545,
+    "p_winner": 0.6742068992258056,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.6742068992258056,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.798
+     ],
+     [
+      [
+       "François Bayrou",
+       "Nicolas Sarkozy"
+      ],
+      0.166
+     ],
+     [
+      [
+       "François Bayrou",
+       "Ségolène Royal"
+      ],
+      0.026
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.8033333333333333,
+    "brier_qual": 0.005972020202020203,
+    "p_winner": 0.6769509956163445,
+    "fav": "Nicolas Sarkozy",
+    "p_fav": 0.6769509956163445,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Nicolas Sarkozy",
+       "Ségolène Royal"
+      ],
+      0.803
+     ],
+     [
+      [
+       "François Bayrou",
+       "Nicolas Sarkozy"
+      ],
+      0.165
+     ],
+     [
+      [
+       "François Bayrou",
+       "Ségolène Royal"
+      ],
+      0.022
+     ]
+    ]
+   }
+  },
+  "2012": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 3.92,
+   "sigma_duel": 2.97,
+   "v1": {
+    "p_real_pair": 0.9596666666666667,
+    "brier_qual": 0.00022405555555555614,
+    "p_winner": 0.9056634516038636,
+    "fav": "François Hollande",
+    "p_fav": 0.9056634516038636,
+    "fallback_share": 0.04033333333333334,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.96
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.017
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.012
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.9608333333333333,
+    "brier_qual": 0.00020613888888888898,
+    "p_winner": 0.9070762520967093,
+    "fav": "François Hollande",
+    "p_fav": 0.9070762520967093,
+    "fallback_share": 0.03916666666666667,
+    "top_pairs": [
+     [
+      [
+       "François Hollande",
+       "Nicolas Sarkozy"
+      ],
+      0.961
+     ],
+     [
+      [
+       "Marine Le Pen",
+       "Nicolas Sarkozy"
+      ],
+      0.015
+     ],
+     [
+      [
+       "François Hollande",
+       "Marine Le Pen"
+      ],
+      0.012
+     ]
+    ]
+   }
+  },
+  "2017": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 3.85,
+   "sigma_duel": 3.72,
+   "v1": {
+    "p_real_pair": 0.6386666666666667,
+    "brier_qual": 0.018322305555555553,
+    "p_winner": 0.8121804854182655,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.8121804854182655,
+    "fallback_share": 0.0,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.639
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.128
+     ],
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.121
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.6336666666666667,
+    "brier_qual": 0.018767180555555554,
+    "p_winner": 0.8091774054755236,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.8091774054755236,
+    "fallback_share": 0.00016666666666666666,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.634
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "François Fillon"
+      ],
+      0.126
+     ],
+     [
+      [
+       "François Fillon",
+       "Marine Le Pen"
+      ],
+      0.123
+     ]
+    ]
+   }
+  },
+  "2022": {
+   "a": 0.7,
+   "k": 0.0,
+   "sigma": 2.96,
+   "sigma_duel": 4.07,
+   "v1": {
+    "p_real_pair": 0.9016666666666666,
+    "brier_qual": 0.0017017833333333352,
+    "p_winner": 0.9525164951137345,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.9525164951137345,
+    "fallback_share": 0.0003333333333333333,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.902
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Jean-Luc Mélenchon"
+      ],
+      0.085
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Éric Zemmour"
+      ],
+      0.01
+     ]
+    ]
+   },
+   "v2": {
+    "p_real_pair": 0.9105,
+    "brier_qual": 0.0015080277777777787,
+    "p_winner": 0.9520565437412489,
+    "fav": "Emmanuel Macron",
+    "p_fav": 0.9520565437412489,
+    "fallback_share": 0.0003333333333333333,
+    "top_pairs": [
+     [
+      [
+       "Emmanuel Macron",
+       "Marine Le Pen"
+      ],
+      0.91
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Jean-Luc Mélenchon"
+      ],
+      0.084
+     ],
+     [
+      [
+       "Emmanuel Macron",
+       "Valérie Pécresse"
+      ],
+      0.004
+     ]
+    ]
+   }
+  }
+ }
+}

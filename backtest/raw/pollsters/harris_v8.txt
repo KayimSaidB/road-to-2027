@@ -1,0 +1,1470 @@
+Intentions de vote
+à l’élection présidentielle
+Vague 8 – 23 octobre 2026
+Sommaire
+
+
+
+           Méthodologie d’enquête                                                  P.3
+
+
+
+    1      Eléments de contexte                                                    P.5
+
+
+
+    2      L’état d’esprit des Français concernant l’élection présidentielle       P.7
+
+
+
+    3      Intentions de vote pour le 1er tour de l’élection présidentielle 2027   P.11
+
+
+
+    4      Intentions de vote pour le 2nd tour de l’élection présidentielle 2027   P.30
+
+
+
+    5      Qualification du vote au 1er tour de l’élection présidentielle          P.40
+
+
+
+    6      Qualificatifs associés à Bruno Retailleau et David Lisnard              P.48
+
+
+
+
+                                                                                          2
+Méthodologie d’enquête
+
+
+
+
+                Terrain                                            Échantillon                                               Quotas
+ Enquête réalisée en ligne du 19 au 21              Échantillon de 2 094 personnes                       Méthode des quotas et redressement
+ octobre 2026.                                      inscrites sur les listes électorales, issu           appliqués aux variables suivantes : sexe,
+                                                    d’un échantillon de 2 500 personnes,                 âge, catégorie socioprofessionnelle,
+                                                    représentatif de la population                       région de résidence de l’interviewé(e) et
+                                                    française âgée de 18 ans et plus.                    comportement électoral aux élections
+                                                                                                         antérieures.
+
+
+            Aide à la lecture des résultats détaillés :
+            • Les rappels sont issus des précédentes vagues du baromètre « Intentions de vote à l’élection présidentielle » réalisées pour M6 et RTL dans les
+              mêmes conditions méthodologiques.
+            • Les chiffres présentés sont exprimés en pourcentage.
+            • Les intentions de vote mesurent un rapport de force à un moment donné. Elles ne peuvent en aucun cas être considérées comme étant
+              prédictives des résultats du scrutin.
+            • Pour rappel, tout sondage est affecté de marges d’erreur. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+              ou moins 1,4 et 3,1 points. Aucune reprise de ce sondage ne peut être faite sans que soit reprise également la mention relative aux marges
+              d’erreur.
+            • Une notice pour cette étude est consultable sur le site de la Commission des sondages : https://www.commission-des-sondages.fr/
+            • Lors des reprises de ce sondage, merci de mentionner le nom de l’institut et du commanditaire « Toluna Harris Interactive pour M6 et RTL »
+
+
+
+                                                                                                                                                                3
+Intervalle de confiance
+
+L’intervalle de confiance (parfois appelé « marge d’erreur ») permet de déterminer la confiance qui peut être attribuée à une valeur, en prenant en compte la valeur observée et la
+taille de l’échantillon. Si le calcul de l’intervalle de confiance concerne les sondages réalisés avec la méthode aléatoire, il est communément admis qu’il est proche pour les
+sondages réalisés avec la méthode des quotas.
+
+ Taille de l’échantillon               5% ou 95%               10% ou 90%              20% ou 80%              30% ou 70%               40% ou 60%                  50%
+
+ 100 interviews                             4,4                     6,0                     8,0                     9,2                      9,8                     10
+
+ 200 interviews                             3,1                     4,3                     5,7                     6,5                      6,9                     7,1
+
+ 300 interviews                             2,5                     3,5                     4,6                     5,3                      5,7                     5,8
+
+ 400 interviews                             2,2                     3,0                     4,0                     4,6                      4,9                     5,0
+
+ 500 interviews                             2,0                     2,7                     3,6                     4,1                      4,4                     4,5
+
+ 600 interviews                             1,8                     2,4                     3,3                     3,8                      4,0                     4,1
+
+ 800 interviews                             1,5                     2,1                     2,8                     3,2                      3,4                     3,5
+
+ 1 000 interviews                           1,4                     1,8                     2,5                     2,9                      3,0                     3,1
+
+ 2 000 interviews                           1,0                     1,3                     1,8                     2,1                      2,2                     2,3
+
+ 3 000 interviews                           0,8                     1,1                     1,5                     1,7                      1,8                     1,8
+
+ 4 000 interviews                           0,7                     0,9                     1,3                     1,5                      1,6                     1,6
+
+ 6 000 interviews                           0,6                     0,8                     1,1                     1,3                      1,4                     1,4
+
+
+Note de lecture : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré est de 10%, la marge d’erreur est égale à 1,3. Il y a donc 95% de chances que le
+pourcentage réel soit compris entre 8,7% et 11,3% (plus ou moins 1,3 point).
+
+
+                                                                                                                                                                                      4
+Éléments de contexte
+
+
+
+                       5
+Pour mémoire : résultats de l’élection présidentielle de 2022
+
+
+
+                                Vote au 1er tour    % Exprimés    Vote au 2nd tour   % Exprimés
+
+                               Nathalie Arthaud        0,6%      Emmanuel Macron       58,6%
+
+                                Philippe Poutou        0,8%       Marine Le Pen        41,4%
+
+                                Fabien Roussel         2,3%
+
+                            Jean-Luc Mélenchon        21,9%
+
+                                    Anne Hidalgo       1,7%
+
+                                Yannick Jadot          4,6%
+
+                             Emmanuel Macron          27,9%
+
+                               Valérie Pécresse        4,8%
+
+                           Nicolas Dupont-Aignan       2,1%
+
+                                Marine Le Pen         23,1%
+
+                                    Eric Zemmour       7,1%
+
+                                    Jean Lassalle      3,1%
+
+
+
+
+Source : ministère de l’Intérieur
+En % de votes exprimés                                                                            6
+      L’état d’esprit des
+   Français concernant
+l’élection présidentielle
+
+
+
+                            7
+L’intérêt à l’égard de l’élection présidentielle de 2027
+
+
+
+
+                                                                             47
+                 Intéressés par l’élection
+               présidentielle de 2027 : 79
+
+
+
+                                                             1
+                                                             5
+                                                                                                                  Beaucoup
+                                                                                           32                     Assez
+                                                                   15
+                                                                                                                  Pas vraiment
+              Pas intéressés par l’élection
+                                                                                                                  Pas du tout
+              présidentielle de 2027 : 20
+                                                                                                                  Ne se prononce pas
+
+
+
+
+Diriez-vous que l’élection présidentielle de 2027 vous intéresse beaucoup, assez, pas vraiment ou pas du tout ?
+Base : A tous, en %
+
+                                                                                                                                       8
+L’intérêt à l’égard de l’élection présidentielle de 2027 – Évolutions
+
+
+
+
+       80                                   81                80                                                      80
+                                                                                79                79                                 79
+                          77
+                                                                                                                                                Intéressés
+
+
+
+
+                          22                                                                      21
+       19                                                     19                20                                    19             20         Pas intéressés
+                                            18
+
+
+
+
+     28-30              25-27                7-8            18-19             8-10              22-24                 5-8           19-21
+    avril 2026         mai 2026         juillet 2026      août 2026      septembre 2026    septembre 2026         octobre 2026   octobre 2026
+
+
+Diriez-vous que l’élection présidentielle de 2027 vous intéresse beaucoup, assez, pas vraiment ou pas du tout ?
+Base : A tous, en %
+
+                                                                                                                                                                 9
+Évocations spontanées de l’élection présidentielle de 2027
+
+
+
+
+                                                                                                                                                         “
+Le nuage de mots est automatiquement généré à partir de l’exhaustivité des réponses spontanées à la question ouverte.
+La taille d’un mot dans le visuel représente sa fréquence d’utilisation : le mot écrit en plus gros caractères est celui qui a été le plus utilisé par
+les sondés dans leurs réponses. L’emplacement d’un mot au sein du nuage n’a pas de signification particulière, pas plus que sa couleur.
+
+
+
+                                                                                                                                                         « Remettre le pays dans la bonne
+                                                                                                                                                         voie »
+
+
+
+
+                                                                                                                                                         “
+                                                                                                                                                         « J’espère qu’on sera mieux
+                                                                                                                                                         gouverné »
+
+
+
+
+                                                                                                                                                         “
+                                                                                                                                                         « Il y a trop de candidats »
+
+
+
+
+                                                                                                                                                         “
+   Rappel 22-24 septembre 2026                                                  Rappel 5-8 octobre 2026
+
+                                                                                                                                                         « J’attends un changement
+                                                                                                                                                         significatif »
+
+
+
+Quels sont tous les mots, toutes les idées qui vous viennent à l’esprit lorsque vous pensez à la prochaine élection présidentielle qui aura lieu en 2027 ?
+Base : A tous, en %
+
+                                                                                                                                                                                            10
+Intentions de vote pour
+ le 1 tour de l’élection
+     er
+     présidentielle 2027
+
+
+
+                           11
+Récapitulatif – Intentions de vote pour le 1er tour de l’élection
+présidentielle de 2027
+                                  Hypothèse                       Hypothèse                                                          Hypothèse                      Hypothèse
+                                                                                                      Hypothèse
+                              Édouard Philippe,                 Gabriel Attal,                                                    Édouard Philippe                 Gabriel Attal
+                                                                                                     Gabriel Attal et
+                            Dominique de Villepin et        Dominique de Villepin et                                             candidat unique du             candidat unique du
+                                                                                                    Édouard Philippe
+                                David Lisnard                   David Lisnard                                                          centre                         centre
+
+              Nathalie Arthaud       1                               1                                 1                              1                             1
+          Jean-Luc Mélenchon                  17                               17                                17                            17                              19
+                 Fabien Roussel       2                              2                                 1                              2                              2
+               Marine Tondelier       2                              2                                 2                              2                              2
+          Raphaël Glucksmann                 12                                14                               12                            13                              13
+                   Gabriel Attal    Non testé                                 10                           5                        Non testé                                11
+               Édouard Philippe              15                    Non testé                                    13                            16                   Non testé
+         Dominique de Villepin       1                               2                               Non testé                      Non testé                      Non testé
+                   David Lisnard       7                                   8                         Non testé                      Non testé                      Non testé
+                Bruno Retailleau      4                                   5                                 6                             7                              9
+        Nicolas Dupont-Aignan        1                               1                                  2                             2                              2
+                  Marine Le Pen                        33                                33                              35                            35                            35
+                  Éric Zemmour           5                                5                                 6                             5                              6
+                                                                                    Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+Intentions de vote pour le 1er tour de l’élection présidentielle
+                                                                                    ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+                                                                                    scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+                                                                                    ou moins 1,4 et 2,9 points                                                                       12
+Intention de vote au 1er tour de l’élection présidentielle
+Hypothèse Édouard Philippe, Dominique de Villepin et David Lisnard
+
+
+                                   Nathalie Arthaud         1
+                              Jean-Luc Mélenchon                              17
+                                      Fabien Roussel         2
+                                    Marine Tondelier         2
+                              Raphaël Glucksmann                         12
+                                   Édouard Philippe                       15
+                             Dominique de Villepin          1
+                                       David Lisnard                 7
+                                    Bruno Retailleau             4
+                            Nicolas Dupont-Aignan           1
+                                      Marine Le Pen                                         33
+                                       Éric Zemmour              5
+
+                                                                                   Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                                   ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                                   scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 1er tour de l’élection présidentielle                   ou moins 1,4 et 2,9 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                                    13
+Reports de voix au 1er tour de l’élection présidentielle
+Hypothèse Édouard Philippe, Dominique de Villepin et David Lisnard
+
+
+
+                                                                                  Vote au 1er tour de l’élection présidentielle 2022
+
+
+                                                                           Jean-Luc                   Emmanuel                    Marine
+                                                                          MÉLENCHON                    MACRON                     LE PEN
+
+
+                                     Jean-Luc Mélenchon                      77                           5                            1
+
+                                     Raphaël Glucksmann                      12                          15                            1
+
+                                          Édouard Philippe                    1                          47                            1
+
+                                               David Lisnard                  -                           9                            4
+
+                                           Bruno Retailleau                   -                           5                            1
+
+                                              Marine Le Pen                   3                          12                            90
+
+                                               Éric Zemmour                   -                           2                            2
+
+ Note de lecture : Parmi les électeurs d’Emmanuel Macron au 1er tour de l’élection présidentielle 2022 exprimant une intention de vote pour l’élection présidentielle
+ 2027, 47% auraient l’intention de voter pour Édouard Philippe au 1er tour dans cette configuration.
+
+
+
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        14
+Intention de vote au 1er tour de l’élection présidentielle
+Hypothèse Gabriel Attal, Dominique de Villepin et David Lisnard
+
+
+                                   Nathalie Arthaud         1
+                              Jean-Luc Mélenchon                               17
+                                      Fabien Roussel         2
+                                    Marine Tondelier         2
+                              Raphaël Glucksmann                              14
+                                        Gabriel Attal                    10
+                             Dominique de Villepin           2
+                                       David Lisnard                 8
+                                    Bruno Retailleau             5
+                            Nicolas Dupont-Aignan           1
+                                      Marine Le Pen                                          33
+                                       Éric Zemmour              5
+
+                                                                                    Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                                    ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                                    scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 1er tour de l’élection présidentielle                    ou moins 1,4 et 2,9 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                                     15
+Reports de voix au 1er tour de l’élection présidentielle
+Hypothèse Gabriel Attal, Dominique de Villepin et David Lisnard
+
+
+
+                                                                                  Vote au 1er tour de l’élection présidentielle 2022
+
+
+                                                                           Jean-Luc                   Emmanuel                    Marine
+                                                                          MÉLENCHON                    MACRON                     LE PEN
+
+
+                                     Jean-Luc Mélenchon                      77                           5                            1
+
+                                     Raphaël Glucksmann                      13                          20                            -
+
+                                                Gabriel Attal                 1                          29                            1
+
+                                               David Lisnard                  -                          14                            3
+
+                                           Bruno Retailleau                   -                           9                            1
+
+                                              Marine Le Pen                   2                          12                            91
+
+                                               Éric Zemmour                   2                           2                            2
+
+ Note de lecture : Parmi les électeurs d’Emmanuel Macron au 1er tour de l’élection présidentielle 2022 exprimant une intention de vote pour l’élection présidentielle
+ 2027, 29% auraient l’intention de voter pour Gabriel Attal au 1er tour dans cette configuration.
+
+
+
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        16
+Intention de vote au 1er tour de l’élection présidentielle
+Hypothèse Gabriel Attal et Édouard Philippe
+
+
+                                   Nathalie Arthaud         1
+                              Jean-Luc Mélenchon                               17
+                                      Fabien Roussel        1
+                                    Marine Tondelier         2
+                              Raphaël Glucksmann                      12
+                                        Gabriel Attal            5
+                                   Édouard Philippe                       13
+                                    Bruno Retailleau             6
+                            Nicolas Dupont-Aignan            2
+                                      Marine Le Pen                                            35
+                                       Éric Zemmour              6
+
+                                                                                    Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                                    ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                                    scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 1er tour de l’élection présidentielle                    ou moins 1,4 et 2,9 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                                     17
+Intention de vote au 1er tour de l’élection présidentielle – Évolutions
+Hypothèse Gabriel Attal et Édouard Philippe
+
+                                                                                                                          Nathalie Arthaud
+                                    35                                          35              35             35
+         35                                                33                                                             Jean-Luc Mélenchon
+
+                                                                                                                          Fabien Roussel
+
+                                                                                                                          Marine Tondelier
+
+                                                                                                                          Raphaël Glucksmann
+                                                                                                18
+                                                                                17                             17
+                                    16                     16                                                             Gabriel Attal
+         16
+                                   14                      14                   13              13             13
+         14                                                                                                               Édouard Philippe
+                                    10                                          10              10
+         10                                                9                                                   12
+                                    8                      8                                                              Bruno Retailleau
+          8                                                7                    7               7
+          7                         6                                                                        6 6
+                                                           5                     5            5 5                         Nicolas Dupont-Aignan
+                                    3 3                    3                         5                              5
+          4                         2 2                  2 2                                  2 2            2 2
+          2                                                1                         3          1
+          2                         1                                                22                                   Marine Le Pen
+          1                                                                                                    1 1
+          1                                                                          1
+         7-8 juillet           18-19 août           8-10 septembre        22-24 septembre   5-8 octobre   19-21 octobre
+           2026                   2026                    2026                  2026            2026          2026        Éric Zemmour
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                  18
+Reports de voix au 1er tour de l’élection présidentielle
+Hypothèse Gabriel Attal et Édouard Philippe
+
+
+
+                                                                                  Vote au 1er tour de l’élection présidentielle 2022
+
+
+                                                                           Jean-Luc                   Emmanuel                    Marine
+                                                                          MÉLENCHON                    MACRON                     LE PEN
+
+
+                                     Jean-Luc Mélenchon                      78                           5                            1
+
+                                     Raphaël Glucksmann                      12                          14                            -
+
+                                                Gabriel Attal                 1                          12                            1
+
+                                          Édouard Philippe                    -                          42                            1
+
+                                           Bruno Retailleau                   -                           9                            1
+
+                                              Marine Le Pen                   4                          12                            92
+
+                                               Éric Zemmour                   -                           3                            3
+
+ Note de lecture : Parmi les électeurs d’Emmanuel Macron au 1er tour de l’élection présidentielle 2022 exprimant une intention de vote pour l’élection présidentielle
+ 2027, 42% auraient l’intention de voter pour Édouard Philippe au 1er tour dans cette configuration.
+
+
+
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        19
+Intention de vote au 1er tour de l’élection présidentielle
+Hypothèse Édouard Philippe candidat unique du centre
+
+
+                                   Nathalie Arthaud         1
+                              Jean-Luc Mélenchon                               17
+                                      Fabien Roussel         2
+                                    Marine Tondelier         2
+                              Raphaël Glucksmann                          13
+                                   Édouard Philippe                        16
+                                    Bruno Retailleau                 7
+                            Nicolas Dupont-Aignan            2
+                                      Marine Le Pen                                            35
+                                       Éric Zemmour              5
+
+                                                                                    Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                                    ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                                    scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 1er tour de l’élection présidentielle                    ou moins 1,4 et 2,9 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                                     20
+Intention de vote au 1er tour de l’élection présidentielle – Évolutions
+Hypothèse Édouard Philippe candidat unique du centre
+
+                                                                                                               36                        Nathalie Arthaud
+                                                              35                               35                             35
+                                            34                                 34
+                                                                                                                                         Jean-Luc Mélenchon
+      32                   31
+
+                                                                                                                                         Fabien Roussel
+
+                                                                                                                                         Marine Tondelier
+
+                                            20                                                                                           Raphaël Glucksmann
+                           19
+      19                                                                                       18              18
+                                                              17 17         17 17                                             17
+                                            16                                                                                           Édouard Philippe
+                           14                                                                                  17
+                                                                                               16                             16
+                           11               11                                                                                           Bruno Retailleau
+      12                                                      10               10              10              10             13
+      11
+      10                                     8                                                 8
+                           10                                  7                7                              7              7          Nicolas Dupont-Aignan
+                            6
+       6                                                                        5              5                              5
+                                             4                 4                                               4
+       4                   3                 3                 3 33           3 3 3                                                      Marine Le Pen
+       4                   2                 2                                                     3            3         2 2 2
+       1                                     1                 1                1                    22        22
+                           1                 1
+       1                                                                                            1           1                  1     Éric Zemmour
+     28-30 avril       25-27 mai         7-8 juillet      18-19 août      8-10 septembre 22-24 septembre   5-8 octobre   19-21 octobre
+       2026              2026              2026              2026               2026           2026            2026          2026
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                 21
+Reports de voix au 1er tour de l’élection présidentielle
+Hypothèse Édouard Philippe candidat unique du centre
+
+
+
+
+                                                                                  Vote au 1er tour de l’élection présidentielle 2022
+
+
+                                                                           Jean-Luc                   Emmanuel                    Marine
+                                                                          MÉLENCHON                    MACRON                     LE PEN
+
+
+                                     Jean-Luc Mélenchon                      78                           5                            1
+
+                                     Raphaël Glucksmann                      12                          16                            1
+
+                                          Édouard Philippe                    2                          50                            1
+
+                                           Bruno Retailleau                   -                          11                            1
+
+                                              Marine Le Pen                   2                          12                            92
+
+ Note de lecture : Parmi les électeurs d’Emmanuel Macron au 1er tour de l’élection présidentielle 2022 exprimant une intention de vote pour l’élection présidentielle
+ 2027, 50% auraient l’intention de voter pour Édouard Philippe au 1er tour dans cette configuration.
+
+
+
+
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        22
+Intention de vote au 1er tour de l’élection présidentielle
+Hypothèse Gabriel Attal candidat unique du centre
+
+
+                                   Nathalie Arthaud         1
+                              Jean-Luc Mélenchon                               19
+                                      Fabien Roussel         2
+                                    Marine Tondelier         2
+                              Raphaël Glucksmann                          13
+                                        Gabriel Attal                    11
+                                    Bruno Retailleau                 9
+                            Nicolas Dupont-Aignan            2
+                                      Marine Le Pen                                        35
+                                       Éric Zemmour              6
+
+                                                                                Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                                ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                                scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 1er tour de l’élection présidentielle                ou moins 1,4 et 2,9 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                                 23
+Intention de vote au 1er tour de l’élection présidentielle – Évolutions
+Hypothèse Gabriel Attal candidat unique du centre
+
+                                                              37                                                                         Nathalie Arthaud
+                                            36                                                 36              36
+                                                                               35                                             35
+
+                           32                                                                                                            Jean-Luc Mélenchon
+      33
+
+                                                                                                                                         Fabien Roussel
+
+                                                                                                                                         Marine Tondelier
+
+                                                                                                                                         Raphaël Glucksmann
+                                                                                                                              19
+                                                                                                               18
+                                                              17               17              17
+                                         16 16                                                                                           Gabriel Attal
+                       15 15                                  15               14
+      14                                                                                                                      13
+      13                                                                       12                   12         12                        Bruno Retailleau
+      12               11 11                11                11
+      12                                                                                            11          11
+                                             9                 9                9                                             11
+                                                                                                    10                                   Nicolas Dupont-Aignan
+                           6                                                                   6               10             9
+                                                                                5                               5
+       5                   4                 4
+                           3                 3                 3 3                3            3                3             6          Marine Le Pen
+       4                                                       2 2              22                              22        2 2 2
+       4                   2                 1                 1                1                               1
+       2                   1                 1                                                     22
+       1                                                                                           1                          1          Éric Zemmour
+     28-30 avril       25-27 mai         7-8 juillet      18-19 août      8-10 septembre 22-24 septembre   5-8 octobre   19-21 octobre
+       2026              2026              2026              2026               2026           2026            2026          2026
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                 24
+Reports de voix au 1er tour de l’élection présidentielle
+Hypothèse Gabriel Attal candidat unique du centre
+
+
+
+
+                                                                                  Vote au 1er tour de l’élection présidentielle 2022
+
+
+                                                                           Jean-Luc                   Emmanuel                    Marine
+                                                                          MÉLENCHON                    MACRON                     LE PEN
+
+
+                                     Jean-Luc Mélenchon                      81                           5                            2
+
+                                     Raphaël Glucksmann                      11                          21                            -
+
+                                                Gabriel Attal                 -                          35                            1
+
+                                           Bruno Retailleau                   -                          16                            2
+
+                                              Marine Le Pen                   2                          15                            90
+
+ Note de lecture : Parmi les électeurs d’Emmanuel Macron au 1er tour de l’élection présidentielle 2022 exprimant une intention de vote pour l’élection présidentielle
+ 2027, 35% auraient l’intention de voter pour Gabriel Attal au 1er tour dans cette configuration.
+
+
+
+
+Intentions de vote pour le 1er tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        25
+Le potentiel électoral des principales personnalités politiques (1/2)
+
+                                                                                                                                                     Note moyenne      Rappel 5-8 octobre
+                                                                                                                                                                              2026
+
+                  Marine Le Pen                          51                          10        11                          28                             4,3                 4,3
+               Édouard Philippe                               60                                    21                     11                8            2,9                 3,0
+                   David Lisnard                                65                                       18                 9                8            2,8             Non posé
+           Raphaël Glucksmann                                 62                                     22                     10               6            2,8                 2,6
+                Bruno Retailleau                               63                                    20                     9                8            2,7                 2,8
+                    Gabriel Attal                               66                                        22                         8           4        2,5                 2,6
+           Jean-Luc Mélenchon                                        73                                       7        6             14                   2,4                 2,5
+               François Hollande                                    71                                            19                 7           3        2,2                 2,4
+          Dominique de Villepin                                      73                                            19                    5 3              2,1             Non posé
+
+                   Éric Zemmour                                      74                                           13             6           7            2,0                 2,1
+
+         Nicolas Dupont-Aignan                                       75                                            16                    6       3        2,0                 2,1
+
+                Marine Tondelier                                     75                                            15                5       5            1,9                 2,0
+
+                  Fabien Roussel                                     75                                                18                4 3              1,9                 2,0
+
+               Nathalie Arthaud                                           80                                                15               32           1,6                 1,8
+
+                    Notes de 0 à 3                      Notes de 4 à 6                      Notes de 7 à 8                                           Notes de 9 à 10
+Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ? – Échelle de réponse
+de 0 à 10
+Base : Aux inscrits sur les listes électorales, résultats présentés en % et en moyenne
+                                                                                                                                                                                       26
+Le potentiel électoral des principales personnalités politiques (2/2)
+
+
+
+                     Certitude de voter pour cette personnalité (Note 10)                Certitude de ne pas voter pour cette personnalité (Note 0)
+
+           Marine Le Pen                                                        23
+                                                                                                      37
+   Jean-Luc Mélenchon                                   11
+                                                                                                                                                 56
+            David Lisnard                           6
+                                                                                                                  43
+        Édouard Philippe                        5
+                                                                                                                42
+            Éric Zemmour                        5
+                                                                                                                                                     57
+   Raphaël Glucksmann                       4
+                                                                                                                  43
+         Marine Tondelier                   4
+                                                                                                                                           53
+         Bruno Retailleau               3
+                                                                                                                  43
+             Gabriel Attal              3
+                                                                                                                       45
+  Dominique de Villepin             2
+                                                                                                                            47
+       François Hollande            2
+                                                                                                                                 49
+           Fabien Roussel           2
+                                                                                                                                      51
+ Nicolas Dupont-Aignan              2
+                                                                                                                                      51
+        Nathalie Arthaud            2
+                                                                                                                                                55
+
+Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ? – Échelle de réponse
+de 0 à 10
+Base : Aux inscrits sur les listes électorales, résultats présentés en % et en moyenne
+                                                                                                                                                                      27
+Le potentiel électoral des principales personnalités politiques – Évolutions de la
+note 10 (certains de voter pour chacune des personnalités)
+
+               28-30 avril 2026                                   25-27 mai 2026                                   7-8 juillet 2026                                  18-19 août 2026
+               8-10 septembre 2026                                22-24 septembre 2026                             5-8 octobre 2026                                  19-21 octobre 2026
+
+                23 22 23 23 23
+      20 21
+ 18
+
+
+                                         9   10 10 10 10 11 11
+                                    7                                 6   6   6   6   6   5   5   5   5   5    4    4   5   5   5   5   4   4        4   4   4   5   4                4               4
+                                                                                                                                                 3                        2   2   2       3   2   3
+
+
+          Marine Le Pen                 Jean-Luc Mélenchon                Édouard Philippe                    Éric Zemmour              Raphaël Glucksmann                    Marine Tondelier
+
+
+
+
+  4   4             4   5   5       4    4        4   4       4                   4           4
+           3    3               3             3           3       3           3       3   3       2   2   2    2    2   2   2   3   2   2   2    2   3   2   2   3   2        2   2   2   2   2   2   2
+                                                                                                                                                                          1
+
+
+      Bruno Retailleau                       Gabriel Attal                François Hollande           Nicolas Dupont-Aignan                     Fabien Roussel                Nathalie Arthaud
+Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ? – Échelle de réponse
+de 0 à 10
+Base : Aux inscrits sur les listes électorales, résultats présentés en % de « certains de voter pour cette personne (note 10) »
+                                                                                                                                                                                                          28
+Le potentiel électoral des principales personnalités politiques – Évolutions de la
+note 0 (certains de ne pas voter pour chacune des personnalités)
+
+           28-30 avril 2026                            25-27 mai 2026                                7-8 juillet 2026                            18-19 août 2026
+           8-10 septembre 2026                         22-24 septembre 2026                          5-8 octobre 2026                            19-21 octobre 2026
+
+         58 58 55 57 57 57                56 54 56 57 56
+ 53 56                         52 54 55                           51 52 54 54
+                                                                                56 55 55
+                                                                                                51 51 52 52 54 53 53                        51 51 51           50 48 50 52 50 51
+                                                             46                            46                                 47 47 49 49              45 47
+                                                                                                                         42
+
+
+
+
+         Éric Zemmour           Jean-Luc Mélenchon                Nathalie Arthaud              Marine Tondelier               Fabien Roussel          Nicolas Dupont-Aignan
+
+
+
+
+                          49
+         45 46 45 46 48                           44 44 45        43 44 46 44 46 46 43                        45 44 43                      44 42 42
+                                    39 38 41 41              39                                 40 42 42 43                   38 39 39 39
+                               35                                                          36                                                          36 39 39 36 39 38 38 37
+                                                                                                                         32
+
+
+
+
+     François Hollande                Gabriel Attal           Raphaël Glucksmann                Bruno Retailleau              Édouard Philippe             Marine Le Pen
+Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ? – Échelle de réponse
+de 0 à 10
+Base : Aux inscrits sur les listes électorales, résultats présentés en % de « certains de ne pas voter pour cette personne (note 0) »
+                                                                                                                                                                                   29
+Intentions de vote pour
+le 2 tour de l’élection
+    nd
+     présidentielle 2027
+
+
+
+                           30
+Récapitulatif – Intentions de vote pour le 2nd tour de l’élection
+présidentielle de 2027
+
+
+                                                                      Hypothèse                 Hypothèse                  Hypothèse
+                                                                       Jean-Luc                  Raphaël                    Édouard
+                                                                      Mélenchon                Glucksmann                   Philippe
+
+
+                                 Jean-Luc Mélenchon                       30
+
+
+                                Raphaël Glucksmann                                                    41
+
+
+                                    Édouard Philippe                                                                             43
+
+
+                                      Marine Le Pen                       70                          59                         57
+
+
+
+
+                                                                               Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+Intentions de vote pour le 2nd tour de l’élection présidentielle
+                                                                               ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+                                                                               scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+                                                                               ou moins 2,9 et 3,1 points                                                                       31
+Intention de vote au 2nd tour de l’élection présidentielle
+Hypothèse Marine Le Pen et Jean-Luc Mélenchon
+
+
+
+
+     Jean-Luc Mélenchon                                             30
+
+
+
+
+               Marine Le Pen                                                                        70
+
+
+
+                                                                          Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                          ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                          scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 2nd tour de l’élection présidentielle          ou moins 2,9 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                           32
+Intention de vote au 2nd tour de l’élection présidentielle – Évolutions
+Hypothèse Marine Le Pen et Jean-Luc Mélenchon
+
+
+
+
+                                                                                        69                             70
+           67                  67                   68                    67                            67
+
+                                                                                                                                  Marine Le Pen
+
+
+
+
+                                                                                                                                  Jean-Luc Mélenchon
+
+           33                  33                   32                    33                            33
+                                                                                        31                             30
+
+
+
+
+       25-27 mai            7-8 juillet        18-19 août        8-10 septembre   22-24 septembre   5-8 octobre   19-21 octobre
+         2026                 2026                2026                 2026             2026            2026          2026
+Intentions de vote pour le 2nd tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                       33
+Reports de voix au 2nd tour de l’élection présidentielle
+Hypothèse Marine Le Pen et Jean-Luc Mélenchon
+
+
+
+
+                                                                          Intention de vote au 1er tour de l’élection présidentielle 2027
+                                                                             Hypothèse Gabriel Attal et Édouard Philippe candidats
+
+                                                 Jean-Luc            Raphaël                Gabriel            Édouard             Bruno      Marine
+                                                MÉLENCHON          GLUCKSMANN                ATTAL             PHILIPPE          RETAILLEAU   LE PEN
+
+
+                            Jean-Luc
+                                                     93                    23                 15                  6                  1          1
+                           Mélenchon
+
+                        Marine Le Pen                3                     14                 28                 33                  70        98
+
+                       N’exprime pas
+                  d’intention de vote
+                                                     4                     63                 57                 61                  29         1
+                  (vote blanc, nul ou
+                          abstention)
+ Note de lecture : Parmi les Français exprimant une intention de vote pour Raphaël Glucksmann au 1er tour de l’élection présidentielle 2027, 23% auraient l’intention
+ de voter pour Jean-Luc Mélenchon au 2nd tour dans cette configuration.
+
+
+
+
+Intentions de vote pour le 2nd tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        34
+Intention de vote au 2nd tour de l’élection présidentielle
+Hypothèse Marine Le Pen et Raphaël Glucksmann
+
+
+
+
+    Raphaël Glucksmann                                                    41
+
+
+
+
+               Marine Le Pen                                                              59
+
+
+
+                                                                          Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                          ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                          scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 2nd tour de l’élection présidentielle          ou moins 3,0 et 3,1 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                           35
+Reports de voix au 2nd tour de l’élection présidentielle
+Hypothèse Marine Le Pen et Raphaël Glucksmann
+
+
+
+
+                                                                          Intention de vote au 1er tour de l’élection présidentielle 2027
+                                                                             Hypothèse Gabriel Attal et Édouard Philippe candidats
+
+                                                 Jean-Luc            Raphaël                Gabriel            Édouard             Bruno      Marine
+                                                MÉLENCHON          GLUCKSMANN                ATTAL             PHILIPPE          RETAILLEAU   LE PEN
+
+
+
+               Raphaël Glucksmann                    43                    92                 52                 60                  18         1
+
+
+                        Marine Le Pen                 8                    4                  14                 16                  58        98
+
+                       N’exprime pas
+                  d’intention de vote
+                                                     49                    4                  34                 24                  24         1
+                  (vote blanc, nul ou
+                          abstention)
+ Note de lecture : Parmi les Français exprimant une intention de vote pour Raphaël Glucksmann au 1er tour de l’élection présidentielle 2027, 92% auraient l’intention
+ de voter pour Raphaël Glucksmann au 2nd tour dans cette configuration.
+
+
+
+
+Intentions de vote pour le 2nd tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        36
+Intention de vote au 2nd tour de l’élection présidentielle
+Hypothèse Marine Le Pen et Édouard Philippe
+
+
+
+
+           Édouard Philippe                                               43
+
+
+
+
+               Marine Le Pen                                                            57
+
+
+
+                                                                          Rappel : Les intentions de vote mesurent un rapport de force à un moment donné. Elles
+                                                                          ne peuvent en aucun cas être considérées comme étant prédictives des résultats du
+                                                                          scrutin. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus
+Intentions de vote pour le 2nd tour de l’élection présidentielle          ou moins 3,0 et 3,1 points
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                           37
+Intention de vote au 2nd tour de l’élection présidentielle – Évolutions
+Hypothèse Marine Le Pen et Édouard Philippe
+
+
+
+
+                                                                                        57                             57         Marine Le Pen
+                                                    55                    55                            56
+           52                  51
+
+
+           48                  49
+                                                    45                    45                            44
+                                                                                        43                             43
+                                                                                                                                  Édouard Philippe
+
+
+
+
+       25-27 mai            7-8 juillet        18-19 août        8-10 septembre   22-24 septembre   5-8 octobre   19-21 octobre
+         2026                 2026                2026                 2026             2026            2026          2026
+Intentions de vote pour le 2nd tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                     38
+Reports de voix au 2nd tour de l’élection présidentielle
+Hypothèse Marine Le Pen et Édouard Philippe
+
+
+
+
+                                                                          Intention de vote au 1er tour de l’élection présidentielle 2027
+                                                                            Hypothèse Édouard Philippe candidat unique du centre
+
+                                                      Jean-Luc                Raphaël                Édouard                Bruno           Marine
+                                                     MÉLENCHON              GLUCKSMANN               PHILIPPE             RETAILLEAU        LE PEN
+
+
+
+                        Édouard Philippe                  35                     59                     93                    41              1
+
+
+                            Marine Le Pen                 11                     10                     4                     46             97
+
+                           N’exprime pas
+                      d’intention de vote
+                                                          54                     31                     3                     13              2
+                      (vote blanc, nul ou
+                              abstention)
+
+ Note de lecture : Parmi les Français exprimant une intention de vote pour Raphaël Glucksmann au 1er tour de l’élection présidentielle 2027, 59% auraient l’intention
+ de voter pour Édouard Philippe au 2nd tour dans cette configuration.
+
+
+
+
+Intentions de vote pour le 2nd tour de l’élection présidentielle
+Base : Aux inscrits sur les listes électorales, en % des votes exprimés
+
+                                                                                                                                                                        39
+  Qualification du vote
+au 1 tour de l’élection
+    er
+          présidentielle
+
+
+
+                           40
+   Les thèmes qui comptent le plus dans le choix de vote à l’élection présidentielle
+   de 2027                                                                                                                                          Rappel 5-8 octobre 2026
+                                                                  Rappel 5-8 octobre 2026
+
+
+              Le pouvoir d’achat                                  56         56                          L’accès au logement                   12             13
+
+
+                    L’immigration                           38               34                           La guerre en Ukraine             10                 11
+
+
+                          La santé                          36               40                     L’égalité femmes-hommes                10                 11
+
+
+                       Les retraites                   30                    30
+                                                                                                     La réforme des institutions           10                 10
+
+                                                                                             La prise en charge des personnes
+            Les impôts, la fiscalité                   28                    33                                         âgées
+                                                                                                                                           9                  10
+
+  La lutte contre les déficits et la                                                                                  L’Europe             9                  10
+                   dette publique
+                                                       28                    26
+
+La sécurité des personnes et des                                                            La politique étrangère de la France            9                  8
+                                                       28                    25
+                              biens
+                                                                                               La compétitivité des entreprises
+     L’éducation et la formation                  22                         22                                     françaises
+                                                                                                                                       6                      7
+
+
+                          L’emploi               21                          21              La moralisation de la vie politique       6                      7
+
+          L’environnement et le                                                             Les tensions au Proche et Moyen
+                                             17                              19                                        Orient
+                                                                                                                                       6                      6
+        développement durable
+                                                                                         Les propositions de développement
+     La lutte contre les inégalités         15                               17                               de référendum
+                                                                                                                                   3                          3
+
+
+     La lutte contre le terrorisme          15                               15
+                                                                                                            La décentralisation    2                          2
+
+
+
+
+   Parmi la liste suivante, quels sont les thèmes qui vont le plus compter dans votre choix de vote au 1er tour de l’élection présidentielle ?
+   5 réponses possibles
+   Base : Aux inscrits sur les listes électorales, en %
+
+                                                                                                                                                                              41
+Les thèmes qui comptent le plus dans le choix de vote à l’élection présidentielle
+de 2027 – Évolution des 7 principaux thèmes
+
+             28-30 avril 2026                                            25-27 mai 2026                                      7-8 juillet 2026                                         18-19 août 2026
+             8-10 septembre 2026                                         22-24 septembre 2026                                5-8 octobre 2026                                         19-21 octobre 2026
+
+
+
+
+                       56 56 56
+                  54
+52 53        52
+        50
+                                                                         44 43
+                                                                    41           42
+                                       40 40 39                                       39 40 40
+                                  37                           38
+                                                  35 36   34
+                                                                                                 36
+                                                                                                                                                        33
+                                                                                                                 31 30 31 30 30 31           31 30 31                                                      31
+                                                                                                      28 28 29                       28 28                   28                              28 28 28 28        27 27        28
+                                                                                                                                                                  25              26 26 26                              25
+                                                                                                                                                                       23 24 24
+
+
+
+
+   Le pouvoir d’achat                   L’immigration                        La santé                      Les retraites        Les impôts, la fiscalité          La lutte contre les déficits La sécurité des personnes
+                                                                                                                                                                  et la dette publique         et des biens
+
+Parmi la liste suivante, quels sont les thèmes qui vont le plus compter dans votre choix de vote au 1er tour de l’élection présidentielle ?
+5 réponses possibles
+Base : Aux inscrits sur les listes électorales, en %
+
+                                                                                                                                                                                                                                  42
+Top 5 des thèmes qui comptent le plus dans le choix de vote à l’élection
+présidentielle de 2027
+Selon la proximité politique
+
+
+                          Sympathisants                                       Sympathisants                                              Sympathisants
+
+
+
+
+                                                                                                                    L'environnement et le
+  Le pouvoir d'achat                          55              Le pouvoir d'achat                        58         développement durable                    51
+
+
+             La santé                    41                             La santé                   47                    Le pouvoir d'achat                 50
+
+
+    L'éducation et la                                           L'éducation et la
+        formation                     39                            formation                   43                                  La santé               43
+
+                                                           L'environnement et le
+    La lutte contre les                                                                                                    L'éducation et la
+         inégalités                  36                       développement                   35                               formation              29
+                                                                   durable
+                                                                                                                          La lutte contre les
+              L'emploi              32                               Les retraites         27                             déficits et la dette        28
+                                                                                                                               publique
+
+
+
+
+Parmi la liste suivante, quels sont les thèmes qui vont le plus compter dans votre choix de vote au 1er tour de l’élection présidentielle ? - 5 réponses possibles
+Base : Aux inscrits sur les listes électorales, en %
+
+
+                                                                                                                                                                     43
+Top 5 des thèmes qui comptent le plus dans le choix de vote à l’élection
+présidentielle de 2027
+Selon la proximité politique
+
+
+                        Sympathisants                                           Sympathisants                                           Sympathisants
+
+
+
+
+     Le pouvoir d'achat                       54                     L'immigration                    57                    L'immigration                      70
+
+     La lutte contre les
+     déficits et la dette                43                   Le pouvoir d'achat                      54               Le pouvoir d'achat                    62
+          publique
+                                                               La lutte contre les
+  Les impôts, la fiscalité          32                         déficits et la dette                  48                       Les retraites           36
+                                                                    publique
+
+                                                              La sécurité des                                          La sécurité des
+            Les retraites           32                    personnes et des biens                 43                personnes et des biens            34
+
+
+                La santé           31                       Les impôts, la fiscalité            34                               La santé           29
+
+
+
+
+Parmi la liste suivante, quels sont les thèmes qui vont le plus compter dans votre choix de vote au 1er tour de l’élection présidentielle ? - 5 réponses possibles
+Base : Aux inscrits sur les listes électorales, en %
+
+
+                                                                                                                                                                     44
+       Les motivations qui joueront dans le choix de vote à l’élection présidentielle de
+       2027                                       Rappel 5-8 octobre 2026
+                                                                                                                                                                 Rappel 5-8 octobre 2026
+                                                                                       La capacité de votre candidat(e) à porter l’image de la
+              L’honnêteté de votre candidat(e)                              60   61                                       France à l’étranger                         48   45
+
+
+                                                                                                            La personnalité de votre candidat(e)                  44       46
+                 Le projet de votre candidat(e)                             60   60
+
+                                                                                      Le souhait d’empêcher un autre candidat de se qualifier
+                                                                                                                                                                 42        41
+                                                                                                    pour le 2nd tour de l’élection présidentielle
+               Les valeurs de votre candidat(e)                         58       58
+
+
+      Le souhait que votre candidat(e) gagne
+                                                                                         Le parti ou mouvement politique de votre candidat(e)                 41           42
+                       l’élection présidentielle                        58       56
+                                                                                       La capacité de votre candidat(e) à remporter l’élection
+                                                                                      présidentielle s’il se qualifiait au 2nd tour face à Marine Le          41           41
+ La capacité de votre candidat(e) à parler de                                                                                                   Pen
+                         vos préoccupations                            55        55
+
+                                                                                               L’expérience et le parcours de votre candidat(e)              40            42
+  Le souhait d’empêcher Jean-Luc Mélenchon
+                de se qualifier pour le 2nd tour                    54           51
+                                                                                                                    Le bilan de votre candidat(e)            38            39
+La capacité de votre candidat(e) à porter des
+                              idées nouvelles                      52            54
+                                                                                      Le souhait d’empêcher Marine Le Pen de se qualifier pour
+                                                                                                                                  le 2nd tour               36             37
+La volonté de s’assurer que votre candidat(e)
+                      soit présent au 2nd tour                     52            51
+                                                                                                               La notoriété de votre candidat(e)        32                 33
+La capacité de votre candidat(e) à remporter
+ l’élection présidentielle s’il se qualifiait au 2nd               52            51
+              tour face à Jean-Luc Mélenchon                                                    Les personnes qui soutiennent votre candidat(e)        30                  31
+
+La capacité de votre candidat(e) à rassembler                     50             47
+                                                                                               Le score de votre candidat(e) dans les sondages         28                  30
+       Plus précisément, diriez-vous que chacune des motivations suivantes va jouer beaucoup, assez, peu ou pas du tout dans votre choix de vote au premier tour de
+       l’élection présidentielle ?
+       Base : Aux inscrits sur les listes électorales, en % de « Beaucoup »
+
+                                                                                                                                                                                      45
+Top 5 des motivations qui joueront dans le choix de vote à l’élection présidentielle
+de 2027
+Selon la proximité politique
+                         Sympathisants                                     Sympathisants                                          Sympathisants
+
+
+
+
+        Le souhait que votre
+                                                            L’honnêteté de votre                                L’honnêteté de votre
+        candidat(e) gagne                 69                    candidat(e)                     75                  candidat(e)                    66
+      l’élection présidentielle
+
+
+
+            Le projet de votre                                  Le projet de votre                                Les valeurs de votre
+               candidat(e)                67                       candidat(e)               69                       candidat(e)                  64
+
+
+
+        L’honnêteté de votre                                  Les valeurs de votre                                  Le projet de votre
+            candidat(e)                   65                      candidat(e)                66                        candidat(e)                61
+
+                                                                                                              La capacité de votre
+                                                                                                            candidat(e) à remporter
+         Les valeurs de votre                             La capacité de votre
+             candidat(e)                 64             candidat(e) à rassembler           60            l’élection présidentielle s’il se        58
+                                                                                                          qualifiait au 2nd tour face à
+                                                                                                                  Marine Le Pen
+
+     Le souhait d’empêcher                             Le souhait d’empêcher                               Le souhait d’empêcher
+      Marine Le Pen de se                62          Marine Le Pen de se qualifier         60            Marine Le Pen de se qualifier            56
+     qualifier pour le 2nd tour                            pour le 2nd tour                                    pour le 2nd tour
+
+
+
+Plus précisément, diriez-vous que chacune des motivations suivantes va jouer beaucoup, assez, peu ou pas du tout dans votre choix de vote au premier tour de
+l’élection présidentielle ?
+Base : Aux inscrits sur les listes électorales, en % de « Beaucoup »
+
+                                                                                                                                                               46
+Top 5 des motivations qui joueront dans le choix de vote à l’élection présidentielle
+de 2027
+Selon la proximité politique
+                            Sympathisants                                       Sympathisants                                      Sympathisants
+
+
+
+
+     Le souhait d’empêcher                               Le souhait d’empêcher                                  Le souhait que votre
+   Jean-Luc Mélenchon de se                      68    Jean-Luc Mélenchon de se                  72             candidat(e) gagne                   77
+    qualifier pour le 2nd tour                          qualifier pour le 2nd tour                            l’élection présidentielle
+
+
+          Le souhait que votre                                                                             Le souhait d’empêcher
+                                                                  Le projet de votre
+          candidat(e) gagne                  63                      candidat(e)                68       Jean-Luc Mélenchon de se                  74
+        l’élection présidentielle                                                                         qualifier pour le 2nd tour
+
+       La capacité de votre                                La capacité de votre                              La capacité de votre
+     candidat(e) à remporter                             candidat(e) à remporter                           candidat(e) à remporter
+  l’élection présidentielle s’il se         58        l’élection présidentielle s’il se         67      l’élection présidentielle s’il se          73
+   qualifiait au 2nd tour face à                       qualifiait au 2nd tour face à                     qualifiait au 2nd tour face à
+       Jean-Luc Mélenchon                                  Jean-Luc Mélenchon                                Jean-Luc Mélenchon
+        La capacité de votre
+      candidat(e) à remporter                                 Le souhait que votre                       La volonté de s’assurer que
+   l’élection présidentielle s’il se        58                candidat(e) gagne                 64          votre candidat(e) soit                 72
+    qualifiait au 2nd tour face à                           l’élection présidentielle                        présent au 2nd tour
+            Marine Le Pen
+
+   La volonté de s’assurer que                                                                             La capacité de votre
+                                                              L’honnêteté de votre
+      votre candidat(e) soit                56                    candidat(e)                   64       candidat(e) à parler de vos               71
+       présent au 2nd tour                                                                                    préoccupations
+
+
+
+Plus précisément, diriez-vous que chacune des motivations suivantes va jouer beaucoup, assez, peu ou pas du tout dans votre choix de vote au premier tour de
+l’élection présidentielle ?
+Base : Aux inscrits sur les listes électorales, en % de « Beaucoup »
+
+                                                                                                                                                               47
+Qualificatifs associés à
+   Bruno Retailleau et
+          David Lisnard
+
+
+
+                           48
+Les traits d’image comparés de Bruno Retailleau et David Lisnard
+Résultats auprès de l’ensemble des Français
+
+
+                                Bruno Retailleau                                                                       David Lisnard
+                         51                                                      Ambitieux                                                     49
+                              43                                                 Courageux                                              41
+                              43                                         Sait faire preuve d'autorité                                  39
+                               41                                                 Honnête                                              39
+                               41                                               Dynamique                                                 44
+                               41                                               Compétent                                             38
+                               41                                                Sait où il va                                         39
+                                39                       Capable de défendre les intérêts de la France à l'étranger                  37
+                                 38                                  A de bonnes idées pour la France                                  39
+                                 37                                 Capable de tenir ses engagements                                 37
+                                 37                                  Respecte les opinions des Français                               38
+                                  36                                           Sympathique                                             39
+                                  36                                             Diplomate                                             39
+                                  36                                              Crédible                                           37
+                                  36                               Représente bien la France à l'étranger                            36
+                                  36                          Comprend bien les préoccupations des Français                          37
+                                  35                               Peut réformer le pays dans le bon sens                           35
+                                  35                     Capable de protéger les Français des crises internationales                35
+                                   34                             Ferait un bon président de la République                          34
+                                    33                                            Rassurant                                         35
+                                    32                              Capable de rassembler les Français                              34
+
+Pour chacun des qualificatifs suivants, estimez-vous qu’il correspond très bien, assez bien, assez mal ou très mal à Bruno Retailleau / David Lisnard ?
+Base : Aux inscrits sur les listes électorales, en % de « Correspond bien »
+
+                                                                                                                                                          49
+Les traits d’image comparés de Bruno Retailleau et David Lisnard
+Résultats auprès des sympathisants Les Républicains
+
+
+                                Bruno Retailleau                                                                       David Lisnard
+        84                                                           A de bonnes idées pour la France                                                     68
+        84                                               Capable de défendre les intérêts de la France à l'étranger                                 63
+        83                                                                      Compétent                                                           63
+         81                                                                       Honnête                                                                 69
+         81                                                              Sait faire preuve d'autorité                                               63
+           79                                                                    Courageux                                                           65
+           79                                                 Comprend bien les préoccupations des Français                                          65
+           79                                                        Respecte les opinions des Français                                                68
+           79                                            Capable de protéger les Français des crises internationales                                63
+           78                                                                   Dynamique                                                             66
+           78                                                                     Crédible                                                           65
+           78                                                                    Sait où il va                                                         67
+           78                                                      Peut réformer le pays dans le bon sens                                           62
+            77                                                                   Diplomate                                                            66
+            77                                                                   Ambitieux                                                                     73
+            77                                                    Ferait un bon président de la République                                        59
+            76                                                                 Sympathique                                                                68
+            76                                                      Capable de tenir ses engagements                                                63
+            76                                                     Représente bien la France à l'étranger                                           63
+             75                                                                   Rassurant                                                         63
+              73                                                    Capable de rassembler les Français                                              64
+
+Pour chacun des qualificatifs suivants, estimez-vous qu’il correspond très bien, assez bien, assez mal ou très mal à Bruno Retailleau / David Lisnard ?
+Base : Aux inscrits sur les listes électorales se déclarant proches de LR, en % de « Correspond bien »
+
+                                                                                                                                                                    50
+Contacts Toluna – Harris Interactive en France :                                      Merci de noter que toute diffusion de ces
+                                                                                      résultats doit être accompagnée des éléments
+                                                                                      techniques suivants : le nom de l’institut, le nom
+Jean-Daniel Lévy
+                                                                                      du commanditaire de l’étude, la méthode
+Directeur délégué – Stratégies politiques et d’opinion
+                                                                                      d’enquête, les dates de réalisation et la taille de
+jdlevy@toluna.com                                                                     l’échantillon.
+
+Jean-Philippe Dubrulle
+                                                                                      Copyright © Toluna
+Directeur des études politiques et d’opinion                                          All rights reserved. Nothing from this report is allowed to be
+jphilippe.dubrulle@toluna.com                                                         multiplied, to be stored in an automated file, or to be made
+                                                                                      public electronically, mechanical, by photocopies, recording
+                                                                                      or any other manner, without written consent of Toluna.
+
+
+
+
+                                                         www.tolunacorporate.com/fr
+                                                          www.tolunacorporate.com
+
