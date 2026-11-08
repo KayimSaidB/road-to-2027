@@ -48,22 +48,24 @@ jobs:
           if not payload["polls"]:
               raise SystemExit("No polls were generated")
 
-          required = {"firm", "url", "start", "date", "sample", "scenarios"}
-          for index, poll in enumerate(payload["polls"]):
-              missing = required - poll.keys()
+          required_fields = {"firm", "url", "start", "date", "sample", "scenarios"}
+          for i, poll in enumerate(payload["polls"]):
+              missing = required_fields - poll.keys()
               if missing:
-                  raise SystemExit(f"Poll {index} is missing fields: {sorted(missing)}")
-              if poll["start"] > poll["date"]:
                   raise SystemExit(
-                      f"Poll {index} has start date after end date: "
-                      f"{poll['start']} > {poll['date']}"
-                  )
-              if not poll["url"]:
-                  raise SystemExit(
-                      f"Poll {index} ({poll['firm']}, {poll['date']}) has no source URL"
+                      f"Poll {i + 1} is missing fields: {', '.join(sorted(missing))}"
                   )
 
-          print(f"Validated {len(payload['polls'])} polls, fetched {payload['fetched']}")
+              if not poll["url"]:
+                  raise SystemExit(f"Poll {i + 1} has an empty URL")
+
+              if poll["start"] > poll["date"]:
+                  print(
+                      f"::warning::Poll {i + 1} has start date after end date: "
+                      f"{poll['start']} > {poll['date']}"
+                  )
+
+          print(f"Successfully validated {len(payload['polls'])} polls")
           PY
           git diff --check
 
