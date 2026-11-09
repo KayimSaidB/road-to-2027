@@ -33,10 +33,18 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Collect site files
+        # Only what the browser loads: no backtest data, scripts or workflows.
+        run: |
+          mkdir -p _site/data
+          cp index.html app.js sandbox.js _site/
+          cp data/*.js _site/data/
+          ls -R _site
+
       - name: Upload static files
         uses: actions/upload-pages-artifact@v4
         with:
-          path: .
+          path: _site
 
       - name: Deploy
         id: deployment
