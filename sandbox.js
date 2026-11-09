@@ -25,9 +25,22 @@
     dynamique: { label: "Dynamique de fin de campagne (type Mélenchon 2022 : +5 pts)", apply: () => -5 },
   };
 
-  // Horizons with a fitted poll error (backtest), longest first; "today" = the closest one.
+  // Days left, counted in the viewer's browser (the model file may be a few days old).
+  const DAYS_LEFT = (() => {
+    const d = new Date(), t0 = Date.UTC(d.getFullYear(), d.getMonth(), d.getDate());
+    return Math.max(0, Math.round((Date.parse(M.election + "T00:00:00Z") - t0) / 864e5));
+  })();
+  // Horizons with a fitted poll error (backtest), longest first. Any other horizon is
+  // interpolated linearly between the two closest ones (clamped at both ends).
   const HORIZONS = Object.keys(M.sigma_first).map(Number).sort((a, b) => b - a);
-  const HZ_TODAY = HORIZONS.reduce((best, h) => Math.abs(h - M.horizon_days) < Math.abs(best - M.horizon_days) ? h : best);
+  function sigmaAt(h) {
+    const hs = [...HORIZONS].reverse();                      // shortest first
+    if (h <= hs[0]) return M.sigma_first[hs[0]];
+    if (h >= hs.at(-1)) return M.sigma_first[hs.at(-1)];
+    const i = hs.findIndex(x => x >= h), lo = hs[i - 1], hi = hs[i];
+    return M.sigma_first[lo] + (M.sigma_first[hi] - M.sigma_first[lo]) * (h - lo) / (hi - lo);
+  }
+  const HZ_TODAY = DAYS_LEFT;
 
   const DEFAULT = () => ({
     field: new Set(M.default_in), bardella: false,
@@ -159,7 +172,7 @@
 
   function run(st, n = 8000) {
     const { shares, field } = firstRound(st);
-    const ids = [...field], sig = M.sigma_first[st.horizon];
+    const ids = [...field], sig = sigmaAt(st.horizon);
     const r = rng(2027), pairs = new Map(), qual = {};
     for (let i = 0; i < n; i++) {
       let a = null, b = null, va = -1, vb = -1;
@@ -215,7 +228,7 @@
     main.append(
       h("a", { class: "back", href: "#" }, "← Les huit candidats"),
       h("section", { class: "sb-head" },
-        h("p", { class: "eyebrow" }, "Présidentielle 2027 · J-" + M.horizon_days + " · simulation, pas un sondage"),
+        h("p", { class: "eyebrow" }, "Présidentielle 2027 · J-" + DAYS_LEFT + " · simulation, pas un sondage"),
         h("h1", null, "Simulateur"),
         h("p", { class: "lead" }, "Retirez des candidats, formez des alliances, rejouez des chocs de campagne et changez les hypothèses de report de voix. Les probabilités se recalculent à chaque changement, à partir des sondages des 21 derniers jours (" + M.n_polls + " sondages) et de l'erreur historique des sondages entre 2002 et 2022."),
         h("p", { class: "sb-warn" }, "À lire avant de jouer : cinq mois avant le vote, le favori des sondages a gagné 3 fois sur 5 depuis 2002. Ce modèle ne prévoit pas les événements de campagne ; c'est à vous de les ajouter.")),
@@ -269,7 +282,8 @@
           check("corr", "Corriger les duels avec le RN de 3,5 pts (sondages trop favorables à Le Pen en 2002, 2017 et 2022)", st.lepenCorr, v => { st.lepenCorr = v; })),
         fieldset("5. Incertitude",
           select("hz", "Erreur des sondages comme à", String(st.horizon),
-            HORIZONS.filter(h => h <= HZ_TODAY).map(h => [String(h), "J-" + h + (h === HZ_TODAY ? " (aujourd'hui)" : "")]), v => { st.horizon = +v; }),
+            [[String(HZ_TODAY), "Aujourd'hui (J-" + HZ_TODAY + ")"]].concat(
+              HORIZONS.filter(h => h < HZ_TODAY).map(h => [String(h), "J-" + h])), v => { st.horizon = +v; }),
           h("p", { class: "sb-help" }, "Choisir J-30 montre ce que donneraient les mêmes sondages s'ils restaient stables jusqu'à un mois du vote.")),
         h("button", { type: "button", class: "sb-reset", onclick: () => { st = DEFAULT(); build(); update(); } }, "Revenir à la situation actuelle"));
     }
