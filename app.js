@@ -3,6 +3,10 @@
   "use strict";
   const SITE = window.SITE, POLLS = (window.POLLS && window.POLLS.polls) || [];
   const SOCIAL = window.SOCIAL || { followers: {}, members: {} };
+  // Last update = the most recent date among the data files (polls and followers are
+  // refreshed by the workflow; data/site.js only by hand). ISO strings compare as dates.
+  const LAST_UPDATE = [SITE.updated, window.POLLS && window.POLLS.fetched, SOCIAL.updated, window.MODEL && window.MODEL.asof]
+    .filter(Boolean).sort().at(-1);
   const DAY = 864e5;
   const CANDS = SITE.candidates;
   const BY_ID = Object.fromEntries(CANDS.map(c => [c.id, c]));
@@ -270,7 +274,7 @@
   let rt;
   new ResizeObserver(() => { clearTimeout(rt); rt = setTimeout(() => redraws.forEach(f => f()), 120); }).observe(main);
   window.addEventListener("hashchange", route);
-  document.getElementById("upd").textContent = "Mise à jour du " + fmtD(SITE.updated);
+  document.getElementById("upd").textContent = "Mise à jour du " + fmtD(LAST_UPDATE);
 
   const daysLeft = () => Math.max(0, Math.ceil((T(SITE.election.date) - today()) / DAY));
 
@@ -340,7 +344,7 @@
     legend.append(h("li", { class: "hint" }, "Cliquez sur un nom pour le mettre en avant."));
     const note = h("p", { class: "note" });
     function drawRace() {
-      const x0 = rangeFrom(), x1 = Math.max(today(), T(SITE.updated)) + 2 * DAY;
+      const x0 = rangeFrom(), x1 = Math.max(today(), T(LAST_UPDATE)) + 2 * DAY;
       const polls = POLLS.filter(p => T(p.date) >= x0 && (state.firm === "all" || p.firm === state.firm));
       const S = CANDS.map(c => ({ key: c.id, label: c.short, color: color(c), dim: state.focus && state.focus !== c.id, points: series(c.id, polls) }));
       note.textContent = polls.length + " sondage" + (polls.length > 1 ? "s" : "") + " affiché" + (polls.length > 1 ? "s" : "") +
@@ -392,7 +396,7 @@
   const POLLS_INDEX = () => window.POLLS.index;
 
   function latestPerFirm() {
-    const cutoff = T(SITE.updated) - 45 * DAY;
+    const cutoff = T(LAST_UPDATE) - 45 * DAY;
     const latest = [];
     for (const f of FIRMS) {
       const p = [...POLLS].reverse().find(q => q.firm === f);
@@ -495,7 +499,7 @@
     const sel = h("select", { id: "firm-filter-c", onchange: e => { state.firm = e.target.value; save(); draw(); } },
       h("option", { value: "all" }, "Tous les instituts"), FIRMS.map(f => h("option", { value: f, selected: state.firm === f }, f)));
     function draw() {
-      const x0 = rangeFrom(), x1 = Math.max(today(), T(SITE.updated)) + 2 * DAY;
+      const x0 = rangeFrom(), x1 = Math.max(today(), T(LAST_UPDATE)) + 2 * DAY;
       const polls = POLLS.filter(p => T(p.date) >= x0 && (state.firm === "all" || p.firm === state.firm));
       const pts_ = series(c.id, polls);
       lineChart(host, {
