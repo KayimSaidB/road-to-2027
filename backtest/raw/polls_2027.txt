@@ -21,11 +21,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
 ! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
 ! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
-! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
 ! {{vert header|mw=35px|stp=1|[[Natacha Polony]]}}
+! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
 ! {{vert header|mw=35px|stp=1|[[Karim Bouamrane]]}}
-! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
 ! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
 ! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
 ! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
 ! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
@@ -41,11 +41,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Lutte Ouvrière}};"|
 ! style="background:{{party color|La France Insoumise}};"|
 ! style="background:{{party color|French Communist Party}};"|
-! style="background:{{party color|Picardie debout}};"|
 ! style="background:{{party color|Left Front (France)}};"|
+! style="background:{{party color|Picardie debout}};"|
 ! style="background:{{party color|Génération.s}};"|
-! style="background:{{party color|Socialist Party (France)}};"|
 ! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
 ! style="background:{{party color|Place Publique}};" |
 ! style="background:{{party color|Together (coalition)}};"|
 ! style="background:{{party color|Horizons (political party)}};"|
@@ -57,6 +57,109 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Debout la République}};"|
 ! style="background:{{party color|National Rally (France)}};"|
 ! style="background:{{party color|Reconquête (political party)}};"|
+|-
+| rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
+| rowspan="5" {{Opdrts|3|5|Nov|2026|year}}
+| rowspan="5"|2,101
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|1%
+| –
+| –
+| –
+|2%
+| –
+|11%
+| –
+|12%
+| –
+| –
+|2%
+|9%
+|5%
+|1%
+| style="background:#C1CCE1;" | '''34%'''
+|3%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|1%
+| –
+| –
+| –
+|2%
+| –
+|12%
+|9%
+| –
+| –
+| –
+|2%
+|9%
+|6%
+|1%
+| style="background:#C1CCE1;" | '''35%'''
+|3%
+|-
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|2%
+| –
+| –
+| –
+|2%
+| –
+|11%
+|6%
+|11%
+| –
+| –
+| –
+| –
+|7%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+| –
+| –
+|2%
+| –
+|12%
+| –
+|14%
+| –
+| –
+| –
+| –
+|8%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+| –
+| –
+|3%
+| –
+|13%
+|10%
+| –
+| –
+| –
+| –
+| –
+|10%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+|4%
 |-
 |}
 

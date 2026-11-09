@@ -1,5 +1,78 @@
 [
 {
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"date": "2026-11-05",
+"sample": 2101,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 11.0,
+"Édouard Philippe": 12.0,
+"Dominique de Villepin": 2.0,
+"David Lisnard": 9.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 12.0,
+"Gabriel Attal": 9.0,
+"Dominique de Villepin": 2.0,
+"David Lisnard": 9.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 35.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 6.0,
+"Édouard Philippe": 11.0,
+"Bruno Retailleau": 7.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 14.0,
+"Bruno Retailleau": 8.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 10.0,
+"Bruno Retailleau": 10.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 36.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
 "firm": "Ifop",
 "url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html",
 "date": "2026-10-29",

@@ -1,6 +1,7 @@
 """Export everything the simulator needs to data/model.js (read by sandbox.js).
 
-Usage: python3 backtest/export_model.py   (after update of polls_2027.json / duels_2027.json)
+Usage: python3 backtest/export_model.py [YYYY-MM-DD]
+       (after update of polls_2027.json / duels_2027.json; the date defaults to today, UTC)
 Every number here comes from backtest/data/*.json; assumptions are labelled "hypothese".
 """
 import json, os, statistics as st, datetime as dt, sys
@@ -11,7 +12,7 @@ from simulate import fit_sigma, fit_sigma_duel, ELECTIONS
 def J(p): return json.load(open(os.path.join(HERE, "data", p), encoding="utf-8"))
 def D(s): return dt.date.fromisoformat(s)
 
-TODAY = D("2026-11-06")
+TODAY = D(sys.argv[1]) if len(sys.argv) > 1 else dt.datetime.now(dt.timezone.utc).date()
 EDAY = D("2027-04-18")
 WINDOW = 21
 
