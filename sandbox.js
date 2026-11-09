@@ -25,11 +25,15 @@
     dynamique: { label: "Dynamique de fin de campagne (type Mélenchon 2022 : +5 pts)", apply: () => -5 },
   };
 
+  // Horizons with a fitted poll error (backtest), longest first; "today" = the closest one.
+  const HORIZONS = Object.keys(M.sigma_first).map(Number).sort((a, b) => b - a);
+  const HZ_TODAY = HORIZONS.reduce((best, h) => Math.abs(h - M.horizon_days) < Math.abs(best - M.horizon_days) ? h : best);
+
   const DEFAULT = () => ({
     field: new Set(M.default_in), bardella: false,
     centre: "", gauche: "", droite: "", radicale: false, follow: 60,
     shocks: [], utile: { GAUCHE: false, CENTRE: false, DROITE: false },
-    horizon: 163, wPoll: 50, ctx: 50, lepenCorr: true,
+    horizon: HZ_TODAY, wPoll: 50, ctx: 50, lepenCorr: true,
   });
 
   const PRESETS = [
@@ -264,7 +268,8 @@
           slider("ctx", "Contexte de barrage contre le RN", st.ctx, 0, 100, "faible (2022)", "fort (2024)", v => { st.ctx = v; }),
           check("corr", "Corriger les duels avec le RN de 3,5 pts (sondages trop favorables à Le Pen en 2002, 2017 et 2022)", st.lepenCorr, v => { st.lepenCorr = v; })),
         fieldset("5. Incertitude",
-          select("hz", "Erreur des sondages comme à", String(st.horizon), [["163", "J-163 (aujourd'hui)"], ["90", "J-90"], ["30", "J-30"], ["7", "J-7"]], v => { st.horizon = +v; }),
+          select("hz", "Erreur des sondages comme à", String(st.horizon),
+            HORIZONS.filter(h => h <= HZ_TODAY).map(h => [String(h), "J-" + h + (h === HZ_TODAY ? " (aujourd'hui)" : "")]), v => { st.horizon = +v; }),
           h("p", { class: "sb-help" }, "Choisir J-30 montre ce que donneraient les mêmes sondages s'ils restaient stables jusqu'à un mois du vote.")),
         h("button", { type: "button", class: "sb-reset", onclick: () => { st = DEFAULT(); build(); update(); } }, "Revenir à la situation actuelle"));
     }

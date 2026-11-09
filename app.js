@@ -245,8 +245,8 @@
 
   /* ---------- state & routing ---------- */
   const state = { range: "campagne", firm: "all", focus: null };
-  try { const s = JSON.parse(localStorage.getItem("peloton-filters") || "{}"); if (s.range) state.range = s.range; if (s.firm && FIRMS.includes(s.firm)) state.firm = s.firm; } catch (e) { /* storage unavailable */ }
-  const save = () => { try { localStorage.setItem("peloton-filters", JSON.stringify({ range: state.range, firm: state.firm })); } catch (e) { /* ignore */ } };
+  try { const s = JSON.parse(localStorage.getItem("road-to-2027-filters") || "{}"); if (s.range) state.range = s.range; if (s.firm && FIRMS.includes(s.firm)) state.firm = s.firm; } catch (e) { /* storage unavailable */ }
+  const save = () => { try { localStorage.setItem("road-to-2027-filters", JSON.stringify({ range: state.range, firm: state.firm })); } catch (e) { /* ignore */ } };
   const RANGES = [
     { id: "campagne", label: "Depuis juillet 2026", from: () => T("2026-07-01") },
     { id: "12m", label: "12 mois", from: () => today() - 365 * DAY },
@@ -281,7 +281,7 @@
     main.append(h("section", { class: "hero" },
       h("div", null,
         h("p", { class: "eyebrow" }, "Présidentielle 2027 · J-" + daysLeft() + " avant le " + SITE.election.label),
-        h("h1", null, "Etat des lieux"),
+        h("h1", null, "État des lieux"),
       ),
       h("div", null,
         h("p", { class: "lead" }, "Huit candidats suivis sur trois indicateurs publics : intentions de vote, audience sur les réseaux sociaux, adhérents des partis. Chaque chiffre renvoie à sa source."),
@@ -470,7 +470,7 @@
 
   /* ---------- candidate page ---------- */
   function renderCandidate(c) {
-    document.title = c.name + "Road to 2027";
+    document.title = c.name + " · Road to 2027";
     const s = summary(c.id);
     const col = color(c);
     main.append(h("a", { class: "back", href: "#" }, "← Les huit candidats"));
