@@ -431,7 +431,8 @@
         h("p", null, "Abonnés aux comptes personnels des candidats, au dernier relevé daté. Les réseaux ne s'additionnent pas : une même personne peut suivre plusieurs comptes."))),
       any ? h("div", { class: "tbl" }, h("table", null, h("thead", null, h("tr", null, h("th", null, "Candidat"), NETWORKS.map(n => h("th", null, n.label)))), tb))
         : h("p", { class: "empty-state" }, "Relevés en cours de collecte."),
-      h("p", { class: "note" }, "≈ : valeur arrondie ou date approximative. Cliquez sur un chiffre pour voir sa source."));
+      h("p", { class: "note" }, "≈ : valeur arrondie ou date approximative. Cliquez sur un chiffre pour voir sa source. X, Instagram, TikTok et Facebook : relevés de ",
+        h("a", { href: "https://lepodium2027.fr/", target: "_blank", rel: "noopener" }, "Le Podium 2027"), ", repris deux fois par semaine ; YouTube : relevés manuels."));
   }
 
   function membersSection() {
