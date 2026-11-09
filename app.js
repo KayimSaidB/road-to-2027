@@ -245,8 +245,8 @@
 
   /* ---------- state & routing ---------- */
   const state = { range: "campagne", firm: "all", focus: null };
-  try { const s = JSON.parse(localStorage.getItem("peloton-filters") || "{}"); if (s.range) state.range = s.range; if (s.firm && FIRMS.includes(s.firm)) state.firm = s.firm; } catch (e) { /* storage unavailable */ }
-  const save = () => { try { localStorage.setItem("peloton-filters", JSON.stringify({ range: state.range, firm: state.firm })); } catch (e) { /* ignore */ } };
+  try { const s = JSON.parse(localStorage.getItem("road-to-2027-filters") || "{}"); if (s.range) state.range = s.range; if (s.firm && FIRMS.includes(s.firm)) state.firm = s.firm; } catch (e) { /* storage unavailable */ }
+  const save = () => { try { localStorage.setItem("road-to-2027-filters", JSON.stringify({ range: state.range, firm: state.firm })); } catch (e) { /* ignore */ } };
   const RANGES = [
     { id: "campagne", label: "Depuis juillet 2026", from: () => T("2026-07-01") },
     { id: "12m", label: "12 mois", from: () => today() - 365 * DAY },
@@ -281,7 +281,7 @@
     main.append(h("section", { class: "hero" },
       h("div", null,
         h("p", { class: "eyebrow" }, "Présidentielle 2027 · J-" + daysLeft() + " avant le " + SITE.election.label),
-        h("h1", null, "Etat des lieux"),
+        h("h1", null, "État des lieux"),
       ),
       h("div", null,
         h("p", { class: "lead" }, "Huit candidats suivis sur trois indicateurs publics : intentions de vote, audience sur les réseaux sociaux, adhérents des partis. Chaque chiffre renvoie à sa source."),
@@ -431,7 +431,8 @@
         h("p", null, "Abonnés aux comptes personnels des candidats, au dernier relevé daté. Les réseaux ne s'additionnent pas : une même personne peut suivre plusieurs comptes."))),
       any ? h("div", { class: "tbl" }, h("table", null, h("thead", null, h("tr", null, h("th", null, "Candidat"), NETWORKS.map(n => h("th", null, n.label)))), tb))
         : h("p", { class: "empty-state" }, "Relevés en cours de collecte."),
-      h("p", { class: "note" }, "≈ : valeur arrondie ou date approximative. Cliquez sur un chiffre pour voir sa source."));
+      h("p", { class: "note" }, "≈ : valeur arrondie ou date approximative. Cliquez sur un chiffre pour voir sa source. X, Instagram, TikTok et Facebook : relevés de ",
+        h("a", { href: "https://lepodium2027.fr/", target: "_blank", rel: "noopener" }, "Le Podium 2027"), ", repris deux fois par semaine ; YouTube : relevés manuels."));
   }
 
   function membersSection() {
@@ -470,7 +471,7 @@
 
   /* ---------- candidate page ---------- */
   function renderCandidate(c) {
-    document.title = c.name + "Road to 2027";
+    document.title = c.name + " · Road to 2027";
     const s = summary(c.id);
     const col = color(c);
     main.append(h("a", { class: "back", href: "#" }, "← Les huit candidats"));

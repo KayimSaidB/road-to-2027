@@ -30,7 +30,7 @@ TRACKED = {
 if len(sys.argv) > 1:
     text = open(sys.argv[1], encoding="utf-8").read()
 else:
-    req = urllib.request.Request(RAW, headers={"User-Agent": "peloton-2027-poll-updater/1.0"})
+    req = urllib.request.Request(RAW, headers={"User-Agent": "road-to-2027-poll-updater/1.0"})
     text = urllib.request.urlopen(req, timeout=30).read().decode("utf-8")
 start = text.index("== First round ==")
 end = text.index("== Second round ==")
@@ -77,8 +77,14 @@ def parse_date(c):
         d1, m1, d2, m2, yr = p[0], p[1], p[2], p[3], p[4]
         return f"{int(yr):04d}-{month(m2):02d}-{int(d2):02d}", f"{int(yr):04d}-{month(m1):02d}-{int(d1):02d}"
     end = f"{int(yr):04d}-{month(mo):02d}-{int(d2):02d}"
-    st = f"{int(yr):04d}-{month(mo):02d}-{int(d1):02d}" if d1.strip() else end
-    return end, st
+    if not d1.strip():
+        return end, end
+    # "{{Opdrts|31|1|Sep|2026}}" = 31 Aug to 1 Sep: a first day larger than the last one
+    # means the fieldwork started in the previous month (and year, for January).
+    sy, sm = int(yr), month(mo)
+    if int(d1) > int(d2):
+        sy, sm = (sy - 1, 12) if sm == 1 else (sy, sm - 1)
+    return end, f"{sy:04d}-{sm:02d}-{int(d1):02d}"
 
 def parse_firm(c):
     m = re.search(r"\[(https?://\S+)\s+([^\]]+)\]", c)
