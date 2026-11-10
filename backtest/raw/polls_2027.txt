@@ -28,6 +28,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
 ! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
 ! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
+! {{vert header|mw=35px|stp=1|[[Teddy Riner]]}}
 ! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
 ! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
 ! {{vert header|mw=35px|stp=1|[[Christine Lagarde]]}}
@@ -48,6 +49,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Socialist Party (France)}};"|
 ! style="background:{{party color|Place Publique}};" |
 ! style="background:{{party color|Together (coalition)}};"|
+! style="background:{{party color|Sans étiquette}};"|
 ! style="background:{{party color|Horizons (political party)}};"|
 ! style="background:{{party color|Union of Democrats and Independents}};"|
 ! style="background:{{party color|The Centrists}};"|
@@ -57,6 +59,10 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Debout la République}};"|
 ! style="background:{{party color|National Rally (France)}};"|
 ! style="background:{{party color|Reconquête (political party)}};"|
+|-
+|
+|9 Nov 2026
+| colspan="23" |[[Teddy Riner]] announces his candidacy.
 |-
 | rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
 | rowspan="5" {{Opdrts|3|5|Nov|2026|year}}
@@ -70,6 +76,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |2%
 | –
 |11%
+| –
 | –
 |12%
 | –
@@ -94,6 +101,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 | –
+| –
 |2%
 |9%
 |6%
@@ -111,6 +119,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 |11%
 |6%
+| –
 |11%
 | –
 | –
@@ -130,6 +139,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |2%
 | –
 |12%
+| –
 | –
 |14%
 | –
@@ -151,6 +161,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 |13%
 |10%
+| –
 | –
 | –
 | –
