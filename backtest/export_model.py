@@ -16,34 +16,28 @@ TODAY = D(sys.argv[1]) if len(sys.argv) > 1 else dt.datetime.now(dt.timezone.utc
 EDAY = D("2027-04-18")
 WINDOW = 21
 
-# candidates offered in the simulator: id, full name, short, bloc (voter family), type (as a finalist)
-CANDS = [
-    ("arthaud", "Nathalie Arthaud", "Arthaud", "GAUCHE", "RADG"),
-    ("melenchon", "Jean-Luc Mélenchon", "Mélenchon", "GAUCHE", "LFI"),
-    ("roussel", "Fabien Roussel", "Roussel", "GAUCHE", "RADG"),
-    ("tondelier", "Marine Tondelier", "Tondelier", "GAUCHE", "GAUCHE"),
-    ("glucksmann", "Raphaël Glucksmann", "Glucksmann", "GAUCHE", "GAUCHE"),
-    ("attal", "Gabriel Attal", "Attal", "CENTRE", "CENTRE"),
-    ("philippe", "Édouard Philippe", "Philippe", "CENTRE", "CENTRE"),
-    ("villepin", "Dominique de Villepin", "Villepin", "CENTRE", "CENTRE"),
-    ("lisnard", "David Lisnard", "Lisnard", "DROITE", "DROITE"),
-    ("retailleau", "Bruno Retailleau", "Retailleau", "DROITE", "DROITE"),
-    ("dupontaignan", "Nicolas Dupont-Aignan", "Dupont-Aignan", "RN_ALLIES", "EXD"),
-    ("lepen", "Marine Le Pen", "Le Pen", "RN_ALLIES", "EXD"),
-    ("bardella", "Jordan Bardella", "Bardella", "RN_ALLIES", "EXD"),
-    ("zemmour", "Éric Zemmour", "Zemmour", "RN_ALLIES", "EXD"),
-]
-NAME2ID = {c[1]: c[0] for c in CANDS}
+from candidates_2027 import CANDS, NAME2ID   # id, full name, short, bloc, type
+from candidates_2027 import OTHERS
+WARN_AT = 1.0   # % : an unlisted candidate polled at least this high triggers a workflow warning
 
 # ---- first round: average of each poll's most complete hypothesis over the last 21 days ----
 polls = [p for p in J("polls_2027.json") if "election" not in p["firm"].lower()]
 win = [p for p in polls if TODAY - dt.timedelta(days=WINDOW) < D(p["date"]) <= TODAY]
-vals, firms = {}, set()
+vals, firms, unlisted = {}, set(), {}
 for p in win:
     best = max(p["scenarios"], key=lambda s: sum(1 for c in s if c in NAME2ID))
     tot = sum(best.values()); firms.add(p["firm"])
+    other = 0.0
     for c, v in best.items():
         if c in NAME2ID: vals.setdefault(NAME2ID[c], []).append(100 * v / tot)
+        else:   # polled but not in candidates_2027.py: kept as "Autres" so nobody else is inflated
+            other += 100 * v / tot
+            unlisted.setdefault(c, []).append(100 * v / tot)
+    vals.setdefault(OTHERS[0], []).append(other)
+for c, v in sorted(unlisted.items(), key=lambda kv: -st.mean(kv[1])):
+    if st.mean(v) >= WARN_AT:
+        print(f"::warning::{c} polled at {st.mean(v):.1f} % on average ({len(v)} polls) but missing from "
+              f"backtest/candidates_2027.py: counted in 'Autres candidats' until added")
 # candidates absent from most-complete hypotheses: use every hypothesis that includes them
 for p in win:
     for s in p["scenarios"]:
@@ -57,7 +51,8 @@ for k, v in vals.items():
     if cid not in base: base[cid] = {"v": round(st.mean(v), 2), "n": len(v)}
 # Bardella: 90 % of Le Pen's score in the 4 polls that tested both in the same survey (2024)
 base["bardella"] = {"v": round(0.90 * base["lepen"]["v"], 2), "n": 4, "note": "0,90 x Le Pen (4 sondages testant les deux, 2024)"}
-DEFAULT_IN = [cid for cid in base if cid != "bardella" and base[cid]["n"] >= 2]
+DEFAULT_IN = [cid for cid in base if cid != "bardella" and base[cid]["n"] >= 2
+              and (cid != OTHERS[0] or base[cid]["v"] >= 0.5)]
 
 # ---- withdrawal transfers measured inside polls (same poll with and without X), since July 2026 ----
 recent = [p for p in polls if D(p["date"]) >= D("2026-07-01")]
@@ -124,7 +119,8 @@ model = {
     "n_polls": len(win), "firms": sorted(firms),
     "candidates": [{"id": c[0], "name": c[1], "short": c[2], "bloc": c[3], "type": c[4],
                     "base": base.get(c[0], {}).get("v"), "n": base.get(c[0], {}).get("n", 0),
-                    "note": base.get(c[0], {}).get("note")} for c in CANDS if c[0] in base],
+                    "note": base.get(c[0], {}).get("note"), "aggregate": c is OTHERS or None}
+                   for c in CANDS + [OTHERS] if c[0] in base and (c is not OTHERS or base[c[0]]["v"] >= 0.5)],
     "default_in": DEFAULT_IN,
     "withdraw": withdraw,
     "duels": duels,
