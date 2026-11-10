@@ -37,6 +37,7 @@ window.SITE = {
     {date: "2026-08-27", label: "Premier débat à sept : Retailleau, Glucksmann, Le Pen, Philippe, Mélenchon, Tondelier, Attal", short: "1er débat", who: ["glucksmann", "lepen", "philippe", "melenchon", "tondelier", "attal"]},
     {date: "2026-09-06", label: "Fabien Roussel annonce sa candidature", short: "Roussel candidat", who: ["roussel"]},
     {date: "2026-10-11", label: "Raphaël Glucksmann remporte la primaire socialiste", short: "Primaire PS", who: ["glucksmann"]},
-    {date: "2026-10-17", end: "2026-10-18", label: "Émeutes des 17 et 18 octobre", short: "Émeutes", who: []}
+    {date: "2026-10-17", end: "2026-10-18", label: "Émeutes des 17 et 18 octobre", short: "Émeutes", who: []},
+    {date: "2026-11-09", label: "Teddy Riner annonce sa candidature (sans étiquette)", short: "Riner candidat", who: []}
   ]
 };

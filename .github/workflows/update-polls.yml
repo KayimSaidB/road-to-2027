@@ -116,7 +116,9 @@ jobs:
             `backtest/export_model.py` (simulator).
 
             Please review the latest polls against their original sources, and any
-            follower warning in the workflow log, before merging.
+            warning in the workflow log before merging: follower jumps, or a polled
+            candidate missing from `backtest/candidates_2027.py` (counted in
+            "Autres candidats" until added there).
           add-paths: |
             data/polls.js
             data/social.js

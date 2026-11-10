@@ -37,6 +37,7 @@ CANDIDATE_BLOC = {
     "Sarah Knafo": "EXD", "Marion Maréchal": "EXD", "Charles Pasqua": "EXD",
     # other
     "Jacques Cheminade": "AUT", "Jean Lassalle": "AUT", "François Asselineau": "AUT",
+    "Teddy Riner": "AUT",  # sans étiquette, candidate since 9 Nov 2026
 }
 
 def bloc_of(name):

@@ -11,11 +11,13 @@
   const pp = v => (v < 0.005 ? "< 1" : v > 0.995 ? "> 99" : Math.round(100 * v)) + " %";
 
   /* Proximity of a voter family (bloc) to a finalist type, used only where nothing was measured. Assumption. */
+  // AUTRES / AUTRE: candidates with no established family yet (e.g. Riner): neutral, 0.30 everywhere.
   const PROX = {
-    GAUCHE: { RADG: .80, LFI: .75, GAUCHE: .85, CENTRE: .45, DROITE: .12, EXD: .08 },
-    CENTRE: { RADG: .10, LFI: .10, GAUCHE: .50, CENTRE: .95, DROITE: .60, EXD: .15 },
-    DROITE: { RADG: .03, LFI: .03, GAUCHE: .20, CENTRE: .55, DROITE: .95, EXD: .45 },
-    RN_ALLIES: { RADG: .05, LFI: .05, GAUCHE: .05, CENTRE: .12, DROITE: .45, EXD: .95 },
+    GAUCHE: { RADG: .80, LFI: .75, GAUCHE: .85, CENTRE: .45, DROITE: .12, EXD: .08, AUTRE: .30 },
+    CENTRE: { RADG: .10, LFI: .10, GAUCHE: .50, CENTRE: .95, DROITE: .60, EXD: .15, AUTRE: .30 },
+    DROITE: { RADG: .03, LFI: .03, GAUCHE: .20, CENTRE: .55, DROITE: .95, EXD: .45, AUTRE: .30 },
+    RN_ALLIES: { RADG: .05, LFI: .05, GAUCHE: .05, CENTRE: .12, DROITE: .45, EXD: .95, AUTRE: .30 },
+    AUTRES: { RADG: .30, LFI: .30, GAUCHE: .30, CENTRE: .30, DROITE: .30, EXD: .30, AUTRE: .30 },
   };
   const LEFT = t => t === "LFI" || t === "RADG" || t === "GAUCHE";
 
@@ -144,11 +146,14 @@
   }
   function transferDuel(A, B, s, k) {
     const ea = C[A].type === "EXD", eb = C[B].type === "EXD";
-    let va = s[A] * 0.97 + s[B] * 0.01, vb = s[B] * 0.97 + s[A] * 0.01, measured = ea !== eb;
+    // Legislative transfer tables exist only for an RN finalist facing a left, centre or right
+    // candidate; a finalist with no established family ("AUTRE") falls back to proximity.
+    const measured = ea !== eb && C[ea ? B : A].type !== "AUTRE";
+    let va = s[A] * 0.97 + s[B] * 0.01, vb = s[B] * 0.97 + s[A] * 0.01;
     for (const c in s) {
       if (c === A || c === B) continue;
       let ra, rb;
-      if (ea !== eb) {
+      if (measured) {
         const O = ea ? B : A, r = rates(c, O, k);
         if (O === A) { ra = r[0]; rb = r[1]; } else { ra = r[1]; rb = r[0]; }
       } else {      // no far-right finalist (or two): proximity assumption
@@ -177,6 +182,7 @@
     for (let i = 0; i < n; i++) {
       let a = null, b = null, va = -1, vb = -1;
       for (const c of ids) {
+        if (C[c].aggregate) continue;   // "Autres candidats" is a group, never a finalist
         const v = shares[c] + sig * Math.sqrt(Math.max(shares[c], 1) / 20) * gauss(r);
         if (v > va) { b = a; vb = va; a = c; va = v; } else if (v > vb) { b = c; vb = v; }
       }
@@ -214,7 +220,9 @@
     for (const kid of kids.flat()) if (kid != null && kid !== false) el.append(kid.nodeType ? kid : document.createTextNode(String(kid)));
     return el;
   }
-  const ORDER = ["arthaud", "melenchon", "roussel", "tondelier", "glucksmann", "attal", "philippe", "villepin", "lisnard", "retailleau", "dupontaignan", "lepen", "bardella", "zemmour"].filter(id => C[id]);
+  // Left-to-right order for the known field; newcomers and "Autres candidats" follow, in export order.
+  const KNOWN = ["arthaud", "melenchon", "roussel", "tondelier", "glucksmann", "attal", "philippe", "villepin", "lisnard", "retailleau", "dupontaignan", "lepen", "bardella", "zemmour"];
+  const ORDER = KNOWN.filter(id => C[id]).concat(M.candidates.map(c => c.id).filter(id => !KNOWN.includes(id)));
 
   window.__sandbox = { run, DEFAULT, PRESETS };  // exposed for tests
   window.renderSandbox = function (main) {
