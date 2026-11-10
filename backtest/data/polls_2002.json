@@ -23,7 +23,8 @@
 "Bruno Mégret": 2.34,
 "Jean-Marie Le Pen": 16.86
 }
-]
+],
+"abs": 28.4
 },
 {
 "firm": "BVA",
@@ -3609,7 +3610,8 @@
 "Jean-Marie Le Pen": 15.0,
 "Jacques Cheminade": 0.28
 }
-]
+],
+"abs": 21.62
 },
 {
 "firm": "2002 election",
@@ -3635,7 +3637,8 @@
 "Bruno Mégret": 1.02,
 "Jean-Marie Le Pen": 9.35
 }
-]
+],
+"abs": 29.81
 },
 {
 "firm": "Ipsos",
@@ -3686,7 +3689,8 @@
 "Bruno Mégret": 0.87,
 "Jean-Marie Le Pen": 3.81
 }
-]
+],
+"abs": 43.68
 },
 {
 "firm": "Ipsos",

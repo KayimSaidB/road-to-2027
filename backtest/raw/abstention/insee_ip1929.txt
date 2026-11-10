@@ -1,0 +1,341 @@
+                               Vingt ans de participation électorale :
+                               en 2022, les écarts selon l’âge et
+                               le diplôme continuent de se creuser
+
+
+                                                                                  Insee Première • n° 1929 • Novembre 2022
+
+
+                                                    Voter la même année à tous les tours des élections nationales (présidentielle et
+                                                    législatives) était le comportement de vote dominant lors des élections de 2002 à 2012
+                                                    (48 % ou plus des inscrits sur les listes électorales). Depuis 2017, le vote intermittent
+                                                    dépasse désormais le vote systématique (respectivement 47 % et 37 % des inscrits en
+                                                    2022). Ne voter à aucun des tours des élections nationales devient plus fréquent au fil
+                                                    des scrutins, à l’exception des élections de 2007. L’abstention systématique concerne
+                                                    16 % des électeurs en 2022, contre 9 % en 2007 (12 % en 2002).
+                                                    Les écarts de participation selon l’âge, déjà très marqués en 2002, se sont accrus
+                                                    en vingt ans, surtout pour les législatives. Seuls 28 % des moins 30 ans ont voté au
+                                                    second tour des législatives en 2022, contre 59 % des 65 ans ou plus, soit 31 points
+                                                    d’écart. C’était 25 points en 2002 (45 % contre 70 %).
+                                                    Les écarts selon le diplôme se sont aussi creusés. En 2022, hors étudiants, 29 % des
+                                                    inscrits sans diplôme ont voté à tous les tours de la présidentielle et des législatives,
+                                                    contre 44 % des diplômés de l’enseignement supérieur, soit 15 points d’écart. C’était
+                                                    9 points en 2002 (46 % contre 55 %).
+
+
+
+
+Depuis 2002, les Français sont appelés              2017, le vote intermittent devient ainsi                      L’abstention systématique progresse de
+à participer tous les cinq ans à deux               le comportement le plus fréquent,                             3 points. Particulièrement élevée en 2002
+scrutins nationaux la même année,                   concernant la moitié des électeurs                            (12 % des électeurs n’ont voté à aucun
+l’élection présidentielle et les élections          et en hausse d’environ 10 points par                          tour de la présidentielle et à aucun tour
+législatives. En 2002, 48 % des inscrits            rapport aux élections précédentes. La                         des législatives), l’abstention systématique
+sur les listes électorales cette année-là           participation aux votes en 2022 ressemble                     a ensuite diminué entre 2002 et 2007
+et résidant en France métropolitaine                à celle de 2017. Le vote intermittent (47 %                   (9 %). Elle augmente de façon régulière
+(champ différent de celui du ministère de           en 2022), bien qu’en recul de 4 points                        depuis, de 2 ou 3 points d’une séquence
+l’Intérieur    sources) ont voté à tous les         par rapport à 2017, reste nettement                           électorale à l’autre, pour atteindre 16 %
+tours des élections nationales (aux deux            au-dessus du vote systématique (37 %).                        en 2022.
+tours de la présidentielle et aux deux tours
+des législatives de 2002). En 2022, cette
+proportion de votants systématiques
+passe à 37 %, soit une baisse de 11 points            1. Vote systématique, vote intermittent et abstention systématique
+en vingt ans. Cette baisse s’est faite au                de 2002 à 2022
+profit de l’abstention systématique, et
+surtout du vote intermittent (voter à au                   en %
+moins un tour des élections nationales une            60
+
+année donnée, mais pas à tous)          figure 1.                                          Vote systématique
+                                                      50
+
+
+Depuis les élections de 2017,                         40
+                                                                                           Vote intermittent
+le vote intermittent devance
+                                                      30
+le vote systématique
+                                                      20
+Entre 2002 et 2022, l’évolution des
+                                                                                           Abstention systématique
+comportements de vote n’est pas linéaire :
+                                                      10
+les changements interviennent surtout
+entre 2012 et 2017. De 2002 à 2012,
+                                                       0
+le vote systématique domine : c’est le                             2002                  2007                  2012                  2017                  2022
+comportement adopté par 48 % des
+électeurs pour les élections nationales               Lecture : en 2022, 47,2 % des inscrits ont voté à au moins un mais pas tous les tours des élections nationales
+                                                      cette année-là (vote intermittent).
+de 2012. En 2017, ce taux chute à 36 %,               Champ : personnes inscrites sur les listes électorales et résidant en France métropolitaine.
+principalement à cause de la baisse                   Source : Insee, enquêtes sur la participation électorale de 2002 à 2022.
+de la participation aux législatives. En
+Entre 2017 et 2022, seule                            2. Comportements de participation de 2002 à 2022
+la participation au second tour                                                                                                                                             en %
+
+des législatives augmente                                                                                                       2002       2007       2012     2017       2022
+                                                  Tour par tour
+                                                  Présidentielle - 1er tour                                                      73,6      86,2       82,2      81,2      77,9
+Si la prédominance du vote intermittent,
+                                                  Présidentielle - 2d tour                                                       81,8      86,1       83,6      78,0      75,5
+nouveauté en 2017, s’est confirmée en             Législatives - 1er tour                                                        65,8      61,6       60,2      52,2      50,6
+2022, la diminution entre 2017 et 2022            Législatives - 2d tour1                                                        61,4      60,9       58,6      45,4      48,5
+du vote intermittent et la stabilisation du       Ensemble des tours
+vote systématique sont des évolutions             Vote systématique                                                              47,6      50,9       47,8      35,9      37,0
+singulières par rapport aux tendances             Les deux tours de l'élection présidentielle et aucun tour des législatives      8,6      17,4       15,3      20,5      18,3
+                                                  Tous les tours des élections nationales sauf le 2d tour des législatives        8,2       7,0        7,8      11,4       8,4
+antérieures. C’est en effet la première fois
+                                                  Tous les tours des élections nationales sauf le 1er tour des législatives       4,8       6,3        6,5       5,6       6,5
+depuis vingt ans que le vote intermittent         Un seul tour de la présidentielle et aucun tour des législatives                6,3       5,1        5,9       7,3       7,5
+diminue. La participation à la présidentielle     Autres votes intermittents                                                     12,2       4,7        5,7       5,9       6,6
+a baissé en 2022 (de 3 points environ,            Abstention systématique                                                        12,2       8,6       10,9      13,4      15,8
+au premier comme au second tour),                 1 En dehors des situations où le député a été élu au premier tour.
+même si, comme en 2017 et aux élections           Lecture : en 2002, 8,6 % des inscrits ont voté aux deux tours de l'élection présidentielle, mais pas aux élections législatives.
+précédentes, la présidentielle conduit            Champ : personnes inscrites sur les listes électorales et résidant en France métropolitaine.
+                                                  Source : Insee, enquêtes sur la participation électorale de 2002 à 2022.
+toujours nettement plus les électeurs
+aux urnes que les législatives     figure 2.
+Aux élections législatives de 2022, la               3. Comportements de vote en 2002 et 2022 selon l'âge
+participation au premier tour a diminué
+de 2 points par rapport à 2017 mais elle
+a au contraire augmenté de 3 points au                                 Vote systématique            Vote intermittent             Abstention systématique
+                                                                              2002                         2002                          2002
+second tour. Cette hausse singulière ne                                       2022                         2022                          2022
+semble pas avoir été le fait d’une catégorie               en %
+particulière d’électeurs, en matière                 70
+
+d’âge, de niveau de diplôme, d’activité              60
+professionnelle ou de lieu de résidence.
+                                                     50
+En dehors de la Corse (– 2 points), toutes
+les régions ont connu une hausse de                  40
+
+la participation au second tour des                  30
+législatives, comprise entre 1 point (en
+                                                     20
+Occitanie et dans les Hauts-de-France) et
+6 points (en Bretagne). Autre exemple,               10
+la participation a augmenté aussi bien                0
+parmi les personnes diplômées du                            18-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 75-79 80-84 85-89 90 ou
+supérieur (+ 5 points) que parmi celles non                                                                                                       plus
+                                                                                                                                         âge, en années
+diplômées, quoique plus modérément
+(+ 2 points).                                        Lecture : en 2022, 60,3 % des inscrits ayant entre 18 et 24 ans ont voté à au moins un mais pas tous les tours
+                                                     des élections nationales cette année-là (vote intermittent).
+                                                     Champ : personnes inscrites sur les listes électorales et résidant en France métropolitaine.
+                                                     Source : Insee, enquêtes sur la participation électorale de 2002 et 2022.
+Seuls les septuagénaires
+continuent de voter en majorité
+de façon systématique
+                                                     4. Comportements de vote de 2002 à 2022 selon l'âge
+Les écarts de comportements électoraux
+selon l’âge sont très marqués, en 2022                                        18-29 ans            30-64 ans              65 ans ou plus               Ensemble
+[Bloch, 2022] comme vingt ans auparavant.            70
+                                                           en %
+
+
+En 2022, le vote systématique est le plus            60
+élevé parmi les électeurs âgés de 70 à
+                                                     50
+79 ans (54 %) et le plus rare chez les inscrits
+les plus jeunes (17 % des moins de 25 ans)           40
+et les plus âgés (21 % de ceux de 90 ans
+ou plus)     figure 3. De son côté, le vote          30
+
+intermittent décroît avec l’avancée en âge :         20
+en 2022, 60 % des électeurs de 18 à 24 ans
+ont voté de façon intermittente, contre              10
+23 % de ceux âgés de 90 ans ou plus.
+                                                       0
+                                                            2002 2007 2012 2017 2022                2002 2007 2012 2017 2022                  2002 2007 2012 2017 2022
+En vingt ans, le vote systématique a                              Vote systématique                        Vote intermittent                      Abstention systématique
+cependant diminué à tous les âges : en
+                                                     Lecture : en 2022, 59,0 % des inscrits ayant entre 18 et 29 ans ont voté à au moins un mais pas tous les tours des
+2002, plus de la moitié des électeurs entre          élections nationales cette année-là (vote intermittent).
+45 et 84 ans votaient systématiquement.              Champ : personnes inscrites sur les listes électorales et résidant en France métropolitaine.
+Seuls les septuagénaires sont encore dans            Source : Insee, enquêtes sur la participation électorale de 2002 à 2022.
+ce cas en 2022. À l’inverse, l’abstention
+systématique et le vote intermittent ont
+augmenté à tous les âges : l’abstention              figure 4. Entre 2017 et 2022, l’évolution                      Les écarts de participation selon l’âge sont
+systématique surtout avant 40 ans et              a été similaire à tout âge : hausse de                            les plus marqués aux élections législatives,
+le vote intermittent entre 30 et 64 ans           l’abstention et baisse du vote intermittent.                      le vote intermittent des jeunes consistant,
+
+
+Insee Première l n° 1929 l Novembre 2022
+encore plus souvent que les autres, à voter      Ce creusement se voit encore davantage                             tour des deux élections, contre 17 % des
+à l’élection présidentielle mais pas aux         sur l’abstention systématique, qui en                              jeunes diplômés du supérieur, soit un écart
+élections législatives. Ces écarts se sont       2022 concerne 7 % des cadres et 20 % des                           de 33 points, en forte hausse par rapport
+accentués en vingt ans. En 2022, 67 % des        ouvriers, contre respectivement 5 % et                             à 2002 (32 % contre 11 %, soit 21 points).
+électeurs de 18-29 ans ont voté au premier       13 % en 2002.                                                      L’évolution est similaire parmi ceux qui sont
+tour de l’élection présidentielle, contre                                                                           étudiants, en fonction du dernier diplôme
+77 % des 65 ans ou plus, soit 10 points                                                                             qu’ils ont en poche : 6 points d’écart en
+d’écart ; au second tour des élections           En vingt ans, l’abstention systématique                            2002, 14 points d’écart en 2022 entre non-
+législatives, seuls 28 % des électeurs de        est devenue majoritaire parmi                                      diplômés et diplômés du supérieur. Pour les
+moins de 30 ans ont voté et 59 % des             les jeunes non diplômés                                            jeunes, l’alternative se fait désormais plutôt
+65 ans ou plus, soit 31 points d’écart.                                                                             entre le vote intermittent et l’abstention
+Les écarts étaient moindres en 2002 :            Dans l’ensemble, la participation parmi                            systématique, le vote systématique étant
+respectivement de 7 points (66 % contre          les jeunes adultes de 18 à 29 ans est plus                         devenu rare à ces âges.
+73 %) et 25 points (45 % contre 70 %).           faible que dans les autres tranches d’âge, et
+                                                 elle a diminué depuis 2002, de façon plus                          Contrairement au diplôme, la situation
+                                                 prononcée que parmi les autres tranches                            professionnelle ne semble pas avoir un
+Les écarts de participation selon                d’âge. L’écart sur le vote systématique s’est                      rôle croissant depuis 2002, mais elle reste
+le niveau de diplôme se sont creusés             stabilisé entre jeunes diplômés du supérieur                       déterminante. En 2002 comme en 2022,
+                                                 et jeunes non diplômés. En revanche,                               les étudiants et les jeunes ayant un emploi
+En 2002 comme en 2022, plus un électeur          l’écart sur l’abstention systématique s’est                        participent davantage que ceux qui sont
+est diplômé, plus il est fréquent qu’il vote     creusé : hors étudiants, en 2022, 50 % des                         chômeurs ou inactifs. Au sein de ceux qui
+systématiquement figure 5. Le vote               jeunes sans diplôme n’ont voté à aucun                             ont un emploi, les cadres ou ceux exerçant
+intermittent est le plus répandu parmi
+ceux ayant un baccalauréat ou un diplôme
+équivalent. Enfin, moins une personne              5. Comportements de vote de 2002 à 2022 selon le niveau de diplôme
+est diplômée, plus souvent elle s’abstient
+systématiquement.
+                                                                          Aucun diplôme            Diplôme inférieur au baccalauréat                  Baccalauréat
+                                                                          Diplôme de l'enseignement supérieur                 Ensemble
+Les écarts de participation selon le diplôme
+                                                         en %
+se sont accrus entre 2002 et 2022 : hors           60
+étudiants, la part de votants systématiques
+parmi les non-diplômés est inférieure de           50
+
+9 points en 2002 à celle parmi les diplômés
+                                                   40
+de l’enseignement supérieur (46 % contre
+55 %) et de 15 points en 2022 (29 % contre         30
+44 %). Les écarts selon le diplôme sont
+                                                   20
+encore plus importants parmi les électeurs
+d’un groupe d’âge donné ; les plus jeunes          10
+inscrits sont en moyenne plus diplômés
+que les plus âgés car la poursuite d’études         0
+                                                           2002    2012     2017     2022           2002     2012     2017     2022            2002     2012   2017     2022
+s’est développée au fil des générations,
+                                                                Vote systématique                          Vote intermittent                   Abstention systématique
+mais ils votent moins. L’écart de 15 points
+sur le vote systématique entre les électeurs       Lecture : en 2022, 40,8 % des personnes inscrites sur les listes électorales, sans diplôme et non étudiantes, ont
+très diplômés et ceux sans diplôme en 2022         voté à au moins un mais pas tous les tours des élections nationales cette année-là (vote intermittent).
+                                                   Champ : personnes inscrites sur les listes électorales, hors étudiants, et résidant en France métropolitaine.
+correspond ainsi à un écart de 20 points           Source : Insee, enquêtes sur la participation électorale de 2002 à 2022.
+chez les 18-29 ans, 16 points parmi les
+30-64 ans et 22 points parmi les plus de
+65 ans. Au sein des 18-29 ans, les écarts
+selon le niveau de diplôme sont restés
+                                                   6. Vote systématique selon l'âge et le type de lieu de résidence en 2002
+stables depuis 2002, à un niveau élevé.
+                                                      et 2022
+Au contraire, parmi les inscrits de 30 à
+64 ans et, plus encore, parmi ceux qui
+                                                                                   Rural non périurbain             Rural périurbain           Urbain
+participent le plus aujourd’hui, à savoir les
+inscrits de 65 ans ou plus, les écarts de vote           en %
+                                                    60
+systématique selon le niveau de diplôme
+continuent de s’accroître.                          50
+
+                                                    40
+Les écarts de participation ont
+également augmenté entre groupes                    30
+socioprofessionnels. Les agriculteurs et
+                                                    20
+les cadres restent ceux qui pratiquent le
+plus le vote systématique (la moitié des            10
+inscrits ont voté à tous les tours en 2022),
+                                                    0
+et les ouvriers et les inactifs non retraités
+                                                            2002            2022            2002          2022         2002            2022           2002           2022
+ceux qui le pratiquent le moins (un quart
+                                                                  18-29 ans                    30-64 ans                 65 ans ou plus                  Ensemble
+des inscrits seulement). Les écarts se sont
+creusés : 20 points d’écart entre cadres et        Lecture : en 2022, 39 % des personnes inscrites sur les listes électorales et résidant dans une zone rurale non
+                                                   périurbaine ont voté à tous les tours des élections nationales cette année-là (vote systématique).
+ouvriers sur la proportion des inscrits qui
+                                                   Champ : personnes inscrites sur les listes électorales et résidant en France métropolitaine.
+votent systématiquement en 2022, contre            Source : Insee, enquêtes sur la participation électorale de 2002 et 2022.
+17 points en 2002 et 13 points en 2012.
+
+
+                                                                                                                                      Insee Première l n° 1929 l Novembre 2022
+une profession intermédiaire participent                Par ailleurs, l’effet d’entraînement à aller              d’ailleurs rapproché de celui des habitants du
+plus souvent de façon systématique et les               voter observé entre conjoints (les personnes              rural non périurbain.
+ouvriers ou employés ont plus souvent des               en couple votent plus souvent que celles
+comportements de vote intermittent.                     sans conjoint [Bloch, 2022]) se transmet                  Pour les jeunes, comme pour l’ensemble
+                                                        également aux jeunes électeurs résidant                   des électeurs, la localisation urbaine ou
+                                                        dans le logement. Parmi les jeunes qui                    rurale ne semble pas beaucoup jouer sur
+Les jeunes femmes participent                           résidaient chez leurs parents deux ans                    les comportements de participation.
+davantage que les jeunes hommes                         auparavant, soit la majorité d’entre eux,                 Néanmoins, alors qu’en 2002 jeunes
+                                                        ceux qui ne vivent qu’avec un seul de leurs               urbains et jeunes vivant dans le rural non
+En 2002, de 18 à 29 ans, les jeunes femmes              parents participent en effet nettement                    périurbain votaient systématiquement
+participaient davantage que les jeunes                  moins aux votes. Cette différence est là                  dans les mêmes proportions, il existe
+hommes : + 3 points de vote systématique,               encore croissante depuis 2002 : l’écart sur               désormais un écart de 4 points en faveur
+– 3 points d’abstention systématique.                   l’abstention systématique était de 4 points en            des jeunes urbains. Pour les électeurs plus
+L’écart sur l’abstention systématique                   2002, il est de 11 points en 2022.                        âgés, l’écart est au contraire en faveur des
+s’est accru avec le temps pour atteindre                                                                          zones rurales, en 2002 comme en 2022.
+7 points en 2022 (20 % des jeunes femmes
+et 27 % des jeunes hommes). Entre 2012                  En 2002 comme en 2022, davantage                          Élisabeth Algava, Kilian Bloch (Insee)
+et 2017, la hausse du vote intermittent a               de vote systématique dans les zones
+davantage concerné les jeunes femmes,                   rurales que dans les zones urbaines
+                                                                                                                         Retrouvez plus de données en
+tandis que l’abstention systématique a                                                                                   téléchargement sur www.insee.fr
+beaucoup augmenté parmi les jeunes                      En 2002 comme en 2022, le vote
+hommes. Ces différences selon le sexe                   systématique est moins fréquent dans les
+perdurent en 2022. Certes, les jeunes                   zones urbaines que dans les zones rurales
+femmes sont davantage diplômées que                     non périurbaines. Les différences sont
+les jeunes hommes. Néanmoins, parmi                     toutefois modestes (6 points en 2002 et
+les 18-29 ans ayant achevé leurs études                 3 points en 2022), et s’expliquent surtout                     Définitions
+et titulaires d’un diplôme du supérieur,                par les différences d’âges en fonction des                  L’abstention systématique désigne
+il existe des différences importantes et                zones d’habitation      figure 6. En 2002                   le comportement d’un électeur qui n’a
+croissantes entre femmes et hommes :                    comme en 2022, l’âge moyen des personnes                    participé à aucun des quatre tours des
+14 % des femmes diplômées du supérieur                  inscrites est de 4 ans supérieur dans le                    scrutins organisés dans l’année (ou
+s’abstiennent de façon systématique                     rural non périurbain (55 ans en 2022) par                   trois pour les circonscriptions ayant
+                                                                                                                    élu leur député dès le premier tour). À
+contre 22 % des hommes, alors que l’écart               rapport à l’urbain (51 ans en 2022). Le niveau
+                                                                                                                    l’opposé, le vote systématique désigne le
+n’était que de 1 point en 2002. Au-delà de              de participation dans le rural périurbain                   comportement électoral d’une personne
+30 ans, les écarts de taux de participation             était en 2002 plutôt proche des zones                       ayant voté à tous les scrutins. Les votants
+entre femmes et hommes sont très faibles,               urbaines, il s’est aujourd’hui rapproché des                intermittents sont ceux qui ont voté au
+à part pour les plus âgés : les femmes de               zones rurales. En vingt ans, l’âge moyen                    moins une fois et se sont abstenus à au
+                                                                                                                    moins un tour de scrutin.
+80 ans ou plus participent moins.                       des habitants dans le rural périurbain s’est
+                                                                                                                    Dans cette étude, les actifs désignent les
+                                                                                                                    personnes qui occupent un emploi ou
+                                                                                                                    qui sont au chômage, mais qui ont déjà
+                                                                                                                    travaillé (afin de pouvoir analyser leurs
+                                                                                                                    comportements de vote par catégorie
+      Sources                                                                                                       socioprofessionnelle). Les inactifs
+                                                                                                                    englobent donc par convention toutes les
+  L’Insee réalise régulièrement des enquêtes sur la participation électorale. Depuis 2002, les                      autres personnes.
+  élections présidentielle et législatives ont lieu la même année, tous les cinq ans. L’Insee suit alors la
+  participation aux quatre tours des scrutins de l’année d’un même échantillon de personnes inscrites               Une commune rurale est dite périurbaine
+  sur les listes électorales. En pratique, des agents de l’Insee consultent les listes d’émargement en              si elle appartient à une aire d’attraction des
+  préfecture dans les dix jours qui suivent le scrutin, comme tout électeur peut le faire.                          villes de plus de 50 000 habitants.
+
+  Au fil des enquêtes, le champ couvert a évolué. Au départ restreint aux personnes résidant en
+  France métropolitaine, le champ inclut la Guadeloupe, la Guyane, la Martinique et La Réunion
+  depuis 2017 [Buisson, Penant, 2017], et Mayotte depuis 2022. Pour comparer les résultats de
+  2002 à 2022 sur un champ commun, la présente étude porte toutefois sur les seuls électeurs                           Pour en savoir plus
+  résidant en France métropolitaine. Des résultats sur les DOM pour les élections de 2022 sont
+                                                                                                                    • Bloch K., « Élections présidentielle et
+  disponibles dans Bloch (2022).
+                                                                                                                      législatives de 2022 : seul un tiers des
+  Les résultats sur la participation électorale sont enrichis de données sur les caractéristiques                     électeurs a voté à tous les tours », Insee
+  sociodémographiques, telles que la commune de résidence, le niveau de diplôme, la situation                         Première n° 1928, novembre 2022.
+  familiale ou la catégorie sociale. Ces dernières sont issues du recensement de la population de                   • Braconnier C., Coulmont B., Dormagen J.-Y.,
+  1999, pour les éditions 2002 et 2007, et des enquêtes annuelles de recensement de 2010, 2015,                        « Toujours pas de chrysanthèmes pour
+  2020 (2021 pour Mayotte) pour, respectivement, les éditions 2012, 2017 et 2022. Les données                         les variables lourdes de la participation
+  sont donc plus ou moins récentes selon les éditions. En particulier, les pratiques de vote selon                    électorale - Chute de la participation et
+  la catégorie sociale ou le diplôme ne sont pas étudiées pour l’édition 2007, compte tenu de                         augmentation des inégalités électorales au
+  l’ancienneté des données par rapport à la date des élections. Enfin, les personnes, notamment                       printemps 2017 », Revue française de science
+  les plus jeunes, peuvent connaître des évolutions de leur situation sociale par rapport à leurs                     politique, vol. 67, 2017.
+  caractéristiques sociodémographiques issues des enquêtes annuelles de recensement deux ou                         • Buisson G., Penant S., « Élections
+  trois années avant l’enquête sur la participation électorale. Les analyses montrent cependant                       présidentielles et législatives de 2002 à
+  que la situation sociale, telle que mesurée ici, différencie fortement la participation électorale, y               2017 : une participation atypique en 2017 »,
+  compris celle des jeunes de 18 à 29 ans.                                                                            Insee Première n° 1671, octobre 2017.
+
+
+
+
+Direction générale :        Rédaction en chef :         Maquette :                   Code Sage : IP221929
+88 avenue Verdier           B. Lhommeau,                B. Rols                      ISSN 0997 – 6252
+92541 Montrouge Cedex       S. Pujol                                                 © Insee 2022
+                                                                                     Reproduction partielle
+Directeur de la             Rédaction :                                              autorisée sous réserve de
+publication :               M. Le Roux,                   @InseeFr                   la mention de la source et
+Jean-Luc Tavernier          C. Tchobanian               www.insee.fr                 de l’auteur
+

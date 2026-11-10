@@ -1,0 +1,129 @@
+{
+ "note": "Inputs of backtest/abstention.py, copied by hand from the sources below (PDF/XLSX kept in backtest/raw/abstention/ and raw/pollsters/). Vote shares in % of valid votes, turnout in % of registered voters.",
+ "sources": {
+  "insee_ip1929": "https://www.insee.fr/fr/statistiques/6658143 (Insee Première n° 1929, fig. 5: turnout by age, 1st round of the presidential election; field: registered voters, metropolitan France; electoral roll signature lists, not a survey)",
+  "insee_pop_2026": "https://www.insee.fr/fr/statistiques/2381474 (population by age at 1 Jan 2026, thousands; 18-19 year-olds = 2/5 of 15-19)",
+  "ipsos_2017_t1": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/ipsos-sopra-steria_sociologie-des-electorats_23-avril-2017-21h.pdf",
+  "ipsos_2022_t1": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos%20Sopra%20Steria_Sociologie%20des%20e%CC%81lectorats_10%20Avril%2020h30.pdf",
+  "ipsos_cevipof_2022_v9": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos%20-%20Enque%CC%82te%20Electorale%20-%20Vague%209%20-%206%20avril%202022.pdf (p. 17: share 'certain to vote' (10/10) one week before the 1st round, 2022 and 2017)",
+  "opinionway_2026_10_22": "backtest/raw/pollsters/opinionway_1022.pdf (p. 10: 1st-round intentions by sex, age, status; p. 3: INSEE population structure 18+ used for quotas)",
+  "yougov_2026_10_15": "backtest/raw/pollsters/yougov_1015.pdf (certainty to vote by sex, age, CSP; 'Attal' and 'Philippe' scenarios by sex and age, with weighted bases)"
+ },
+
+ "official_turnout_t1": {"2002": 71.60, "2007": 83.77, "2012": 79.48, "2017": 77.77, "2022": 73.69},
+ "official_2022_t1": {"inscrits": 48747876, "exprimes": 35132947, "_source": "Ministère de l'Intérieur, résultats du 1er tour 2022 (votants 35 923 707, blancs 543 609, nuls 247 151)"},
+ "certain_to_vote_j7": {"2017": 73, "2022": 69, "_source": "ipsos_cevipof_2022_v9: 16-17 Apr 2017 and 2-4 Apr 2022, note 10/10"},
+
+ "insee_turnout_t1_by_age": {
+  "groups": ["18-29", "30-64", "65+"],
+  "2002": [65.8, 75.9, 73.3], "2007": [82.1, 88.9, 82.3], "2012": [73.8, 86.4, 78.6],
+  "2017": [71.4, 85.7, 78.3], "2022": [67.2, 81.7, 77.0],
+  "all": {"2002": 73.6, "2007": 86.2, "2012": 82.2, "2017": 81.2, "2022": 77.9}
+ },
+
+ "population_18plus": {
+  "age6": {"groups": ["18-24", "25-34", "35-49", "50-59", "60-69", "70+"], "n": [5655, 8063, 12979, 8892, 8338, 11347]},
+  "age5": {"groups": ["18-24", "25-34", "35-49", "50-64", "65+"], "n": [5655, 8063, 12979, 13238, 15339]},
+  "csp3": {"groups": ["CSP+", "CSP-", "Inactif"], "n": [29, 29, 42], "_source": "opinionway_2026_10_22 p.3 (INSEE)"},
+  "prof6": {"groups": ["Cadre", "Prof. interm.", "Employé", "Ouvrier", "Retraité", "Autres"], "n": [10, 15, 17, 12, 28, 18],
+            "_note": "Autres = artisans, farmers, business owners (4) + other inactive (14): no Ipsos row, solved as a residual"},
+  "sex": {"groups": ["Homme", "Femme"], "n": [48, 52]}
+ },
+
+ "ipsos_t1": {
+  "2017": {
+   "cands": ["Nathalie Arthaud+Philippe Poutou", "Jean-Luc Mélenchon", "Benoît Hamon", "Emmanuel Macron", "François Fillon", "Nicolas Dupont-Aignan", "Marine Le Pen", "_autres"],
+   "all": [1.9, 19.2, 6.2, 23.7, 19.7, 4.9, 21.9, 2.5], "turnout": 77.3,
+   "age6": {"vote": [[3, 30, 10, 18, 9, 6, 21, 3], [1, 24, 8, 28, 8, 3, 24, 4], [2, 22, 7, 21, 11, 6, 29, 2], [3, 21, 6, 21, 13, 6, 27, 3], [1, 15, 5, 26, 27, 5, 19, 2], [0, 9, 3, 27, 45, 4, 10, 2]],
+            "turnout": [71, 72, 74, 76, 84, 88]},
+   "prof6": {"vote": [[0, 19, 8, 33, 20, 4, 14, 2], [2, 22, 9, 26, 13, 6, 19, 3], [4, 22, 6, 19, 8, 7, 32, 2], [4, 24, 5, 16, 5, 5, 37, 4], [1, 12, 4, 26, 36, 5, 14, 2], null],
+             "turnout": [79, 78, 71, 71, 87, null]},
+   "sex": {"vote": [[2, 21, 4, 23, 18, 5, 24, 3], [2, 17, 8, 25, 21, 5, 20, 2]], "turnout": [78, 77]}
+  },
+  "2022": {
+   "cands": ["Nathalie Arthaud+Philippe Poutou", "Jean-Luc Mélenchon", "Fabien Roussel", "Yannick Jadot", "Anne Hidalgo", "Emmanuel Macron", "Valérie Pécresse", "Jean Lassalle", "Nicolas Dupont-Aignan", "Marine Le Pen", "Éric Zemmour"],
+   "all": [1.5, 20.3, 2.6, 4.3, 2, 28.5, 4.8, 3.2, 2.2, 23.6, 7], "turnout": 74,
+   "age6": {"vote": [[1, 31, 3, 6, 1, 20, 2, 2, 0, 26, 8], [3, 34, 0, 4, 1, 23, 3, 2, 0, 25, 5], [3, 22, 3, 5, 2, 24, 2, 4, 3, 28, 4], [0, 22, 2, 4, 1, 24, 3, 4, 3, 30, 7], [1, 17, 4, 5, 2, 30, 4, 4, 2, 22, 9], [1, 9, 3, 4, 3, 41, 12, 2, 3, 13, 9]],
+            "turnout": [58, 54, 78, 80, 88, 77]},
+   "prof6": {"vote": [[1, 25, 1, 5, 4, 35, 6, 4, 2, 12, 5], [2, 25, 4, 4, 2, 28, 3, 4, 1, 24, 3], [3, 25, 1, 4, 2, 17, 2, 2, 2, 36, 6], [2, 23, 3, 1, 0, 18, 2, 3, 3, 36, 9], [1, 11, 3, 4, 3, 38, 9, 3, 3, 17, 8], null],
+             "turnout": [74, 73, 73, 67, 81, null]},
+   "sex": {"vote": [[1, 21, 2, 4, 2, 27, 5, 4, 2, 23, 9], [2, 20, 3, 5, 2, 29, 4, 3, 3, 24, 5]], "turnout": [73, 75]}
+  }
+ },
+
+ "certain_2027": {
+  "_source": "yougov_2026_10_15, note 10/10, registered voters",
+  "all": 65,
+  "age3": {"groups": ["18-34", "35-54", "55+"], "t": [56, 66, 71]},
+  "csp3": {"groups": ["CSP+", "CSP-", "Inactif"], "t": [63, 64, 68]},
+  "sex": {"groups": ["Homme", "Femme"], "t": [68, 63]},
+  "vote2022": {"groups": ["Macron", "Le Pen", "Mélenchon", "Jadot", "Pécresse", "Zemmour", "Autre", "Non votant"], "t": [72, 86, 69, 59, 65, 72, 74, 41]}
+ },
+
+ "crosstabs_2027": [
+  {"id": "opinionway_2026_10_22", "n": 1019, "dims": {
+    "sex": {"groups": ["Homme", "Femme"]},
+    "age5": {"groups": ["18-24", "25-34", "35-49", "50-64", "65+"]},
+    "csp3": {"groups": ["CSP+", "CSP-", "Inactif"]}},
+   "rows": {
+    "Nathalie Arthaud":      {"all": 0.25, "sex": [0, 0], "age5": [0, 0, 0, 0, 0], "csp3": [0, 0, 0]},
+    "Jean-Luc Mélenchon":    {"all": 16, "sex": [12, 20], "age5": [45, 38, 17, 6, 5], "csp3": [22, 17, 11]},
+    "Fabien Roussel":        {"all": 1, "sex": [1, 1], "age5": [3, 0, 1, 1, 1], "csp3": [1, 2, 1]},
+    "Marine Tondelier":      {"all": 1, "sex": [1, 1], "age5": [3, 0, 3, 0, 0], "csp3": [1, 1, 1]},
+    "Raphaël Glucksmann":    {"all": 13, "sex": [15, 11], "age5": [1, 4, 9, 18, 20], "csp3": [15, 8, 16]},
+    "Gabriel Attal":         {"all": 4, "sex": [2, 6], "age5": [0, 9, 4, 3, 3], "csp3": [6, 2, 4]},
+    "Édouard Philippe":      {"all": 12, "sex": [13, 11], "age5": [2, 5, 10, 17, 15], "csp3": [15, 9, 12]},
+    "Bruno Retailleau":      {"all": 6, "sex": [7, 5], "age5": [0, 2, 5, 6, 11], "csp3": [3, 5, 8]},
+    "David Lisnard":         {"all": 6, "sex": [7, 5], "age5": [19, 1, 6, 3, 7], "csp3": [7, 2, 9]},
+    "Nicolas Dupont-Aignan": {"all": 1, "sex": [1, 1], "age5": [0, 3, 1, 0, 1], "csp3": [1, 0, 1]},
+    "Éric Zemmour":          {"all": 4, "sex": [6, 2], "age5": [0, 3, 4, 3, 7], "csp3": [3, 2, 6]},
+    "Marine Le Pen":         {"all": 36, "sex": [35, 37], "age5": [27, 35, 40, 43, 30], "csp3": [26, 52, 31]}
+   }},
+  {"id": "yougov_2026_10_15_main", "dims": {
+    "vote2022": {"groups": ["Macron", "Le Pen", "Mélenchon", "Jadot", "Pécresse", "Zemmour", "Autre", "Non votant"], "base": [154, 167, 142, 31, 33, 43, 66, 52]},
+    "csp3": {"groups": ["CSP+", "CSP-", "Inactif"], "base": [231, 198, 260]}},
+   "rows": {
+    "Bruno Retailleau":      {"all": 6, "vote2022": [12, 1, 1, 0, 41, 7, 3, 2], "csp3": [6, 4, 8]},
+    "Édouard Philippe":      {"all": 10, "vote2022": [33, 0, 2, 3, 16, 0, 0, 14], "csp3": [17, 5, 7]},
+    "Éric Zemmour":          {"all": 3, "vote2022": [1, 1, 0, 1, 6, 33, 1, 2], "csp3": [3, 3, 3]},
+    "Fabien Roussel":        {"all": 3, "vote2022": [1, 1, 6, 0, 0, 0, 10, 0], "csp3": [3, 1, 3]},
+    "Gabriel Attal":         {"all": 6, "vote2022": [23, 0, 2, 0, 4, 0, 0, 6], "csp3": [9, 4, 5]},
+    "Jean-Luc Mélenchon":    {"all": 15, "vote2022": [5, 1, 51, 5, 0, 0, 3, 31], "csp3": [15, 15, 14]},
+    "Marine Le Pen":         {"all": 36, "vote2022": [8, 95, 14, 16, 16, 54, 22, 18], "csp3": [25, 44, 40]},
+    "Marine Tondelier":      {"all": 6, "vote2022": [1, 0, 2, 39, 9, 0, 24, 9], "csp3": [8, 8, 2]},
+    "Nathalie Arthaud":      {"all": 0.25, "vote2022": [0, 0, 0, 0, 0, 0, 2, 1], "csp3": [0, 0, 1]},
+    "Nicolas Dupont-Aignan": {"all": 3, "vote2022": [1, 1, 5, 0, 0, 6, 12, 3], "csp3": [1, 5, 4]},
+    "Raphaël Glucksmann":    {"all": 12, "vote2022": [13, 1, 17, 36, 9, 0, 22, 14], "csp3": [13, 10, 13]}
+   }},
+  {"id": "yougov_2026_10_15_attal", "dims": {
+    "sex": {"groups": ["Homme", "Femme"], "base": [348, 332]},
+    "age3": {"groups": ["18-34", "35-54", "55+"], "base": [147, 215, 318]}},
+   "rows": {
+    "Bruno Retailleau":      {"all": 9, "sex": [8, 10], "age3": [8, 8, 10]},
+    "Éric Zemmour":          {"all": 4, "sex": [6, 1], "age3": [1, 3, 5]},
+    "Fabien Roussel":        {"all": 3, "sex": [5, 1], "age3": [1, 3, 3]},
+    "Gabriel Attal":         {"all": 10, "sex": [9, 11], "age3": [10, 7, 12]},
+    "Jean-Luc Mélenchon":    {"all": 15, "sex": [17, 12], "age3": [30, 16, 7]},
+    "Marine Le Pen":         {"all": 37, "sex": [34, 40], "age3": [27, 39, 40]},
+    "Marine Tondelier":      {"all": 6, "sex": [2, 11], "age3": [16, 5, 3]},
+    "Nathalie Arthaud":      {"all": 0.25, "sex": [0, 1], "age3": [2, 0, 0]},
+    "Nicolas Dupont-Aignan": {"all": 3, "sex": [3, 3], "age3": [1, 3, 4]},
+    "Raphaël Glucksmann":    {"all": 14, "sex": [17, 11], "age3": [5, 17, 16]}
+   }},
+  {"id": "yougov_2026_10_15_philippe", "dims": {
+    "sex": {"groups": ["Homme", "Femme"], "base": [347, 336]},
+    "age3": {"groups": ["18-34", "35-54", "55+"], "base": [152, 214, 317]}},
+   "rows": {
+    "Bruno Retailleau":      {"all": 7, "sex": [6, 7], "age3": [8, 6, 7]},
+    "Éric Zemmour":          {"all": 3, "sex": [5, 1], "age3": [0, 4, 5]},
+    "Fabien Roussel":        {"all": 3, "sex": [5, 1], "age3": [2, 3, 3]},
+    "Édouard Philippe":      {"all": 13, "sex": [10, 16], "age3": [11, 9, 17]},
+    "Jean-Luc Mélenchon":    {"all": 15, "sex": [18, 12], "age3": [31, 15, 8]},
+    "Marine Le Pen":         {"all": 36, "sex": [34, 39], "age3": [27, 39, 39]},
+    "Marine Tondelier":      {"all": 6, "sex": [2, 10], "age3": [16, 4, 2]},
+    "Nathalie Arthaud":      {"all": 0.25, "sex": [0, 0], "age3": [1, 0, 0]},
+    "Nicolas Dupont-Aignan": {"all": 3, "sex": [2, 3], "age3": [1, 3, 4]},
+    "Raphaël Glucksmann":    {"all": 13, "sex": [16, 11], "age3": [3, 18, 15]}
+   }}
+ ]
+}

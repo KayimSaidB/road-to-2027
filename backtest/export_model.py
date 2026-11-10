@@ -16,24 +16,7 @@ TODAY = D(sys.argv[1]) if len(sys.argv) > 1 else dt.datetime.now(dt.timezone.utc
 EDAY = D("2027-04-18")
 WINDOW = 21
 
-# candidates offered in the simulator: id, full name, short, bloc (voter family), type (as a finalist)
-CANDS = [
-    ("arthaud", "Nathalie Arthaud", "Arthaud", "GAUCHE", "RADG"),
-    ("melenchon", "Jean-Luc Mélenchon", "Mélenchon", "GAUCHE", "LFI"),
-    ("roussel", "Fabien Roussel", "Roussel", "GAUCHE", "RADG"),
-    ("tondelier", "Marine Tondelier", "Tondelier", "GAUCHE", "GAUCHE"),
-    ("glucksmann", "Raphaël Glucksmann", "Glucksmann", "GAUCHE", "GAUCHE"),
-    ("attal", "Gabriel Attal", "Attal", "CENTRE", "CENTRE"),
-    ("philippe", "Édouard Philippe", "Philippe", "CENTRE", "CENTRE"),
-    ("villepin", "Dominique de Villepin", "Villepin", "CENTRE", "CENTRE"),
-    ("lisnard", "David Lisnard", "Lisnard", "DROITE", "DROITE"),
-    ("retailleau", "Bruno Retailleau", "Retailleau", "DROITE", "DROITE"),
-    ("dupontaignan", "Nicolas Dupont-Aignan", "Dupont-Aignan", "RN_ALLIES", "EXD"),
-    ("lepen", "Marine Le Pen", "Le Pen", "RN_ALLIES", "EXD"),
-    ("bardella", "Jordan Bardella", "Bardella", "RN_ALLIES", "EXD"),
-    ("zemmour", "Éric Zemmour", "Zemmour", "RN_ALLIES", "EXD"),
-]
-NAME2ID = {c[1]: c[0] for c in CANDS}
+from candidates_2027 import CANDS, NAME2ID   # id, full name, short, bloc, type
 
 # ---- first round: average of each poll's most complete hypothesis over the last 21 days ----
 polls = [p for p in J("polls_2027.json") if "election" not in p["firm"].lower()]

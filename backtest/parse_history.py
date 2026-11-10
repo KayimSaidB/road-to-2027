@@ -184,11 +184,15 @@ def parse(text, min_vals=3, whole=False):
                         vals[role[1]] = p
             if len(vals) < min_vals:
                 continue
+            ai = cols.index("abs") if "abs" in cols else None
+            abst = pct(row[ai][1]) if ai is not None and row[ai] else None   # pollster's expected abstention
             key = (firm, date, sample, id(tbl))
             if last and last["key"] == key:
                 last["scenarios"].append(vals)
             else:
                 last = {"key": key, "firm": firm, "url": url, "date": date, "sample": int(sample) if sample else None, "scenarios": [vals]}
+                if abst is not None:
+                    last["abs"] = abst
                 polls.append(last)
     for p in polls:
         del p["key"]

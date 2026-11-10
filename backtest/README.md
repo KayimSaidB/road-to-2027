@@ -105,3 +105,58 @@ Wikipedia, cross-checked).
   (2024 context), vs 30 % in polls.
 => In the model: legislative estimate = one source among others, weight ≤ 0.5, with a
 "barrage context" lever (2022 vs 2024) in the sandbox; Le Pen correction applies to both sources.
+
+## Abstention (abstention.py)
+Question: who stays home, and does it move the candidates? Inputs in `data/abstention_inputs.json`
+(copied from INSEE, Ipsos, OpinionWay and YouGov; sources listed inside, PDFs in `raw/abstention/`).
+
+```
+python3 backtest/abstention.py      # -> data/abstention.json, then rerun export_model.py
+```
+
+Model: registered voters split into groups (age, social category, 2022 vote, sex).
+`share_c = Σ N_g·t_g·s_cg / Σ N_g·t_g`. A turnout change moves every group on the logit scale,
+`logit t'_g = logit t_g + a_g·D`, plus optional extra points for one group (young people, working
+class, 2022 abstainers). 2027 profiles come from cross-tabs (OpinionWay 22/10/2026, YouGov 15/10/2026),
+with each cell pulled toward the candidate's total by 100 pseudo-respondents (18-24 cells are ~90
+people: OpinionWay's "Lisnard 19 % among 18-24" is noise).
+
+1. **Who follows turnout swings (INSEE 2002–2022, official signature lists).** Slope of each age
+   group's logit turnout on the overall one: 18-29 **1.14**, 30-64 **1.13**, 65+ **0.65**. Over-65s
+   barely move; when turnout falls, it falls among the under-65s.
+2. **Backtest 2017 and 2022.** Polls are made of people "certain to vote" (Ipsos-Cevipof one week
+   before: 73 % in 2017, 69 % in 2022); actual turnout was **+4.8 and +4.7 pts** higher. Reweighting
+   the real electorate (Ipsos election-day survey) down to the polls' turnout moves candidates by
+   **0.1 to 0.4 pt**. Poll error at J-7 (mean per candidate): 2017 1.55 → 1.62 once corrected,
+   2022 2.42 → 2.37. Right direction in 2022 (corr 0.81, but tiny: Mélenchon −8.2 observed, −0.2
+   predicted), wrong direction in 2017 (corr −0.28). The age model reproduces Ipsos's total within
+   0.3 pt (2022) to 1.5 pts (2017; the 2026 age pyramid is used for both).
+   => The *level* of turnout does not explain poll errors.
+3. **2027 sensitivity** (pts, on OpinionWay's totals; `sensitivity_opinionway` in the JSON):
+
+| Scenario | Le Pen | Mélenchon | Glucksmann | Philippe |
+|---|---|---|---|---|
+| Turnout −5 pts, read by age | +0.0 | −0.2 | +0.1 | +0.1 |
+| Turnout −5 pts, read by 2022 vote | +0.4 | −0.2 | −0.1 | −0.1 |
+| 18-34 year-olds −10 pts | +0.2 | −0.5 | +0.2 | +0.1 |
+| Employees and manual workers −10 pts | −0.5 | −0.1 | +0.1 | +0.1 |
+| 2022 abstainers +10 pts | −0.3 | +0.2 | +0.1 | +0.0 |
+| Women −5 pts | −0.1 | −0.0 | +0.1 | −0.0 |
+
+- The two readings of overall turnout disagree on Le Pen: by age her voters are average; by 2022 vote
+  they are the most mobilised (86 % of 2022 Le Pen voters "certain to vote", vs 69 % of Mélenchon's
+  and 41 % of 2022 abstainers).
+- Gender: no lever. The actual turnout gap is ~2 pts (Ipsos 2022: men 73, women 75), and the two polls
+  disagree on the sign (Mélenchon: women 20 / men 12 at OpinionWay, 12 / 17 at YouGov). YouGov's men
+  say they are more "certain to vote" (68 vs 63) although women vote as much: certainty is biased by sex.
+- Order of magnitude: a whole group must move a lot to shift a candidate by 1 pt (18-34 −20 pts:
+  Mélenchon about −1). It matters for a close race for second place, not for the favourite.
+
+Limits: dimensions are applied one at a time and multiplied, so the youth and 2022-abstainer levers
+overlap (young people abstained more in 2022). No age × profession joint table in the cross-tabs.
+Candidates without cross-tabs: Bardella = Le Pen's profile, Villepin = average of his camp.
+Second round not modelled here: the transfer tables (Ipsos, legislative runoffs) already include
+abstention, and the "barrage context" lever covers it.
+
+**Decision: dropped.** Effects of a few tenths of a point, no gain in the backtest: abstention is
+neither a correction nor a simulator lever. The script and data stay here so the test can be rerun.

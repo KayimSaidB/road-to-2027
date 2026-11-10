@@ -1,0 +1,1833 @@
+{
+ "note": "Généré par backtest/abstention.py. Profils = indice (part du candidat dans le groupe / part totale), normalisé sur la composition des votants.",
+ "elasticities": {
+  "18-29": 1.138,
+  "30-64": 1.125,
+  "65+": 0.651
+ },
+ "backtest": {
+  "2017": {
+   "turnout_actual": 77.77,
+   "certain_to_vote_j7": 73,
+   "surprise_pts": 4.77,
+   "elasticities_used": {
+    "18-29": 1.14,
+    "30-64": 1.11,
+    "65+": 0.67
+   },
+   "dims": {
+    "age6:insee": {
+     "repro_max_gap_vs_ipsos": 1.48,
+     "summary": {
+      "J-30": {
+       "mae_polls": 3.39,
+       "mae_corrected": 3.44,
+       "corr": -0.04,
+       "sign_ok": "0/1"
+      },
+      "J-7": {
+       "mae_polls": 1.55,
+       "mae_corrected": 1.62,
+       "corr": -0.28,
+       "sign_ok": "0/1"
+      }
+     },
+     "rows": [
+      {
+       "h": 30,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.73,
+       "poll": 1.25,
+       "err": -0.48,
+       "pred": -0.02
+      },
+      {
+       "h": 30,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 19.58,
+       "poll": 11.68,
+       "err": -7.9,
+       "pred": -0.18
+      },
+      {
+       "h": 30,
+       "cand": "Benoît Hamon",
+       "result": 6.36,
+       "poll": 13.21,
+       "err": 6.85,
+       "pred": -0.06
+      },
+      {
+       "h": 30,
+       "cand": "Emmanuel Macron",
+       "result": 24.01,
+       "poll": 25.04,
+       "err": 1.03,
+       "pred": 0.06
+      },
+      {
+       "h": 30,
+       "cand": "François Fillon",
+       "result": 20.01,
+       "poll": 18.77,
+       "err": -1.24,
+       "pred": 0.4
+      },
+      {
+       "h": 30,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 4.7,
+       "poll": 3.22,
+       "err": -1.48,
+       "pred": -0.01
+      },
+      {
+       "h": 30,
+       "cand": "Marine Le Pen",
+       "result": 21.3,
+       "poll": 26.07,
+       "err": 4.77,
+       "pred": -0.17
+      },
+      {
+       "h": 7,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.73,
+       "poll": 1.88,
+       "err": 0.15,
+       "pred": -0.02
+      },
+      {
+       "h": 7,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 19.58,
+       "poll": 16.88,
+       "err": -2.7,
+       "pred": -0.18
+      },
+      {
+       "h": 7,
+       "cand": "Benoît Hamon",
+       "result": 6.36,
+       "poll": 9.21,
+       "err": 2.85,
+       "pred": -0.06
+      },
+      {
+       "h": 7,
+       "cand": "Emmanuel Macron",
+       "result": 24.01,
+       "poll": 23.96,
+       "err": -0.05,
+       "pred": 0.06
+      },
+      {
+       "h": 7,
+       "cand": "François Fillon",
+       "result": 20.01,
+       "poll": 18.67,
+       "err": -1.34,
+       "pred": 0.4
+      },
+      {
+       "h": 7,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 4.7,
+       "poll": 3.66,
+       "err": -1.04,
+       "pred": -0.01
+      },
+      {
+       "h": 7,
+       "cand": "Marine Le Pen",
+       "result": 21.3,
+       "poll": 23.99,
+       "err": 2.69,
+       "pred": -0.17
+      }
+     ]
+    },
+    "age6:uniform": {
+     "repro_max_gap_vs_ipsos": 1.48,
+     "summary": {
+      "J-30": {
+       "mae_polls": 3.39,
+       "mae_corrected": 3.42,
+       "corr": -0.03,
+       "sign_ok": "0/0"
+      },
+      "J-7": {
+       "mae_polls": 1.55,
+       "mae_corrected": 1.59,
+       "corr": -0.27,
+       "sign_ok": "0/0"
+      }
+     },
+     "rows": [
+      {
+       "h": 30,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.73,
+       "poll": 1.25,
+       "err": -0.48,
+       "pred": -0.02
+      },
+      {
+       "h": 30,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 19.58,
+       "poll": 11.68,
+       "err": -7.9,
+       "pred": -0.12
+      },
+      {
+       "h": 30,
+       "cand": "Benoît Hamon",
+       "result": 6.36,
+       "poll": 13.21,
+       "err": 6.85,
+       "pred": -0.04
+      },
+      {
+       "h": 30,
+       "cand": "Emmanuel Macron",
+       "result": 24.01,
+       "poll": 25.04,
+       "err": 1.03,
+       "pred": 0.04
+      },
+      {
+       "h": 30,
+       "cand": "François Fillon",
+       "result": 20.01,
+       "poll": 18.77,
+       "err": -1.24,
+       "pred": 0.26
+      },
+      {
+       "h": 30,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 4.7,
+       "poll": 3.22,
+       "err": -1.48,
+       "pred": -0.01
+      },
+      {
+       "h": 30,
+       "cand": "Marine Le Pen",
+       "result": 21.3,
+       "poll": 26.07,
+       "err": 4.77,
+       "pred": -0.11
+      },
+      {
+       "h": 7,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.73,
+       "poll": 1.88,
+       "err": 0.15,
+       "pred": -0.02
+      },
+      {
+       "h": 7,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 19.58,
+       "poll": 16.88,
+       "err": -2.7,
+       "pred": -0.12
+      },
+      {
+       "h": 7,
+       "cand": "Benoît Hamon",
+       "result": 6.36,
+       "poll": 9.21,
+       "err": 2.85,
+       "pred": -0.04
+      },
+      {
+       "h": 7,
+       "cand": "Emmanuel Macron",
+       "result": 24.01,
+       "poll": 23.96,
+       "err": -0.05,
+       "pred": 0.04
+      },
+      {
+       "h": 7,
+       "cand": "François Fillon",
+       "result": 20.01,
+       "poll": 18.67,
+       "err": -1.34,
+       "pred": 0.26
+      },
+      {
+       "h": 7,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 4.7,
+       "poll": 3.66,
+       "err": -1.04,
+       "pred": -0.01
+      },
+      {
+       "h": 7,
+       "cand": "Marine Le Pen",
+       "result": 21.3,
+       "poll": 23.99,
+       "err": 2.69,
+       "pred": -0.11
+      }
+     ]
+    },
+    "prof6:uniform": {
+     "repro_max_gap_vs_ipsos": 0.0,
+     "summary": {
+      "J-30": {
+       "mae_polls": 3.39,
+       "mae_corrected": 3.42,
+       "corr": -0.06,
+       "sign_ok": "0/0"
+      },
+      "J-7": {
+       "mae_polls": 1.55,
+       "mae_corrected": 1.6,
+       "corr": -0.32,
+       "sign_ok": "0/0"
+      }
+     },
+     "rows": [
+      {
+       "h": 30,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.73,
+       "poll": 1.25,
+       "err": -0.48,
+       "pred": -0.02
+      },
+      {
+       "h": 30,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 19.58,
+       "poll": 11.68,
+       "err": -7.9,
+       "pred": -0.1
+      },
+      {
+       "h": 30,
+       "cand": "Benoît Hamon",
+       "result": 6.36,
+       "poll": 13.21,
+       "err": 6.85,
+       "pred": -0.02
+      },
+      {
+       "h": 30,
+       "cand": "Emmanuel Macron",
+       "result": 24.01,
+       "poll": 25.04,
+       "err": 1.03,
+       "pred": 0.06
+      },
+      {
+       "h": 30,
+       "cand": "François Fillon",
+       "result": 20.01,
+       "poll": 18.77,
+       "err": -1.24,
+       "pred": 0.21
+      },
+      {
+       "h": 30,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 4.7,
+       "poll": 3.22,
+       "err": -1.48,
+       "pred": 0.0
+      },
+      {
+       "h": 30,
+       "cand": "Marine Le Pen",
+       "result": 21.3,
+       "poll": 26.07,
+       "err": 4.77,
+       "pred": -0.14
+      },
+      {
+       "h": 7,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.73,
+       "poll": 1.88,
+       "err": 0.15,
+       "pred": -0.02
+      },
+      {
+       "h": 7,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 19.58,
+       "poll": 16.88,
+       "err": -2.7,
+       "pred": -0.1
+      },
+      {
+       "h": 7,
+       "cand": "Benoît Hamon",
+       "result": 6.36,
+       "poll": 9.21,
+       "err": 2.85,
+       "pred": -0.02
+      },
+      {
+       "h": 7,
+       "cand": "Emmanuel Macron",
+       "result": 24.01,
+       "poll": 23.96,
+       "err": -0.05,
+       "pred": 0.06
+      },
+      {
+       "h": 7,
+       "cand": "François Fillon",
+       "result": 20.01,
+       "poll": 18.67,
+       "err": -1.34,
+       "pred": 0.21
+      },
+      {
+       "h": 7,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 4.7,
+       "poll": 3.66,
+       "err": -1.04,
+       "pred": 0.0
+      },
+      {
+       "h": 7,
+       "cand": "Marine Le Pen",
+       "result": 21.3,
+       "poll": 23.99,
+       "err": 2.69,
+       "pred": -0.14
+      }
+     ]
+    }
+   }
+  },
+  "2022": {
+   "turnout_actual": 73.69,
+   "certain_to_vote_j7": 69,
+   "surprise_pts": 4.69,
+   "elasticities_used": {
+    "18-29": 1.15,
+    "30-64": 1.11,
+    "65+": 0.67
+   },
+   "dims": {
+    "age6:insee": {
+     "repro_max_gap_vs_ipsos": 0.29,
+     "summary": {
+      "J-30": {
+       "mae_polls": 3.27,
+       "mae_corrected": 3.25,
+       "corr": 0.75,
+       "sign_ok": "0/0"
+      },
+      "J-7": {
+       "mae_polls": 2.42,
+       "mae_corrected": 2.37,
+       "corr": 0.81,
+       "sign_ok": "0/0"
+      }
+     },
+     "rows": [
+      {
+       "h": 30,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.32,
+       "poll": 1.46,
+       "err": 0.14,
+       "pred": -0.02
+      },
+      {
+       "h": 30,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 21.95,
+       "poll": 11.38,
+       "err": -10.57,
+       "pred": -0.24
+      },
+      {
+       "h": 30,
+       "cand": "Fabien Roussel",
+       "result": 2.28,
+       "poll": 4.01,
+       "err": 1.73,
+       "pred": 0.03
+      },
+      {
+       "h": 30,
+       "cand": "Yannick Jadot",
+       "result": 4.63,
+       "poll": 5.15,
+       "err": 0.52,
+       "pred": -0.0
+      },
+      {
+       "h": 30,
+       "cand": "Anne Hidalgo",
+       "result": 1.74,
+       "poll": 2.26,
+       "err": 0.52,
+       "pred": 0.02
+      },
+      {
+       "h": 30,
+       "cand": "Emmanuel Macron",
+       "result": 27.85,
+       "poll": 27.56,
+       "err": -0.29,
+       "pred": 0.16
+      },
+      {
+       "h": 30,
+       "cand": "Valérie Pécresse",
+       "result": 4.78,
+       "poll": 12.94,
+       "err": 8.16,
+       "pred": 0.06
+      },
+      {
+       "h": 30,
+       "cand": "Jean Lassalle",
+       "result": 3.13,
+       "poll": 1.64,
+       "err": -1.49,
+       "pred": 0.01
+      },
+      {
+       "h": 30,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 2.06,
+       "poll": 1.86,
+       "err": -0.2,
+       "pred": 0.03
+      },
+      {
+       "h": 30,
+       "cand": "Marine Le Pen",
+       "result": 23.15,
+       "poll": 17.08,
+       "err": -6.07,
+       "pred": -0.09
+      },
+      {
+       "h": 30,
+       "cand": "Éric Zemmour",
+       "result": 7.07,
+       "poll": 13.35,
+       "err": 6.28,
+       "pred": 0.04
+      },
+      {
+       "h": 7,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.32,
+       "poll": 1.69,
+       "err": 0.37,
+       "pred": -0.02
+      },
+      {
+       "h": 7,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 21.95,
+       "poll": 13.74,
+       "err": -8.21,
+       "pred": -0.24
+      },
+      {
+       "h": 7,
+       "cand": "Fabien Roussel",
+       "result": 2.28,
+       "poll": 3.58,
+       "err": 1.3,
+       "pred": 0.03
+      },
+      {
+       "h": 7,
+       "cand": "Yannick Jadot",
+       "result": 4.63,
+       "poll": 5.48,
+       "err": 0.85,
+       "pred": -0.0
+      },
+      {
+       "h": 7,
+       "cand": "Anne Hidalgo",
+       "result": 1.74,
+       "poll": 2.16,
+       "err": 0.42,
+       "pred": 0.02
+      },
+      {
+       "h": 7,
+       "cand": "Emmanuel Macron",
+       "result": 27.85,
+       "poll": 28.57,
+       "err": 0.72,
+       "pred": 0.16
+      },
+      {
+       "h": 7,
+       "cand": "Valérie Pécresse",
+       "result": 4.78,
+       "poll": 10.45,
+       "err": 5.67,
+       "pred": 0.06
+      },
+      {
+       "h": 7,
+       "cand": "Jean Lassalle",
+       "result": 3.13,
+       "poll": 2.44,
+       "err": -0.69,
+       "pred": 0.01
+      },
+      {
+       "h": 7,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 2.06,
+       "poll": 1.88,
+       "err": -0.18,
+       "pred": 0.03
+      },
+      {
+       "h": 7,
+       "cand": "Marine Le Pen",
+       "result": 23.15,
+       "poll": 18.93,
+       "err": -4.22,
+       "pred": -0.09
+      },
+      {
+       "h": 7,
+       "cand": "Éric Zemmour",
+       "result": 7.07,
+       "poll": 11.09,
+       "err": 4.02,
+       "pred": 0.04
+      }
+     ]
+    },
+    "age6:uniform": {
+     "repro_max_gap_vs_ipsos": 0.29,
+     "summary": {
+      "J-30": {
+       "mae_polls": 3.27,
+       "mae_corrected": 3.26,
+       "corr": 0.68,
+       "sign_ok": "0/0"
+      },
+      "J-7": {
+       "mae_polls": 2.42,
+       "mae_corrected": 2.4,
+       "corr": 0.74,
+       "sign_ok": "0/0"
+      }
+     },
+     "rows": [
+      {
+       "h": 30,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.32,
+       "poll": 1.46,
+       "err": 0.14,
+       "pred": -0.01
+      },
+      {
+       "h": 30,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 21.95,
+       "poll": 11.38,
+       "err": -10.57,
+       "pred": -0.14
+      },
+      {
+       "h": 30,
+       "cand": "Fabien Roussel",
+       "result": 2.28,
+       "poll": 4.01,
+       "err": 1.73,
+       "pred": 0.02
+      },
+      {
+       "h": 30,
+       "cand": "Yannick Jadot",
+       "result": 4.63,
+       "poll": 5.15,
+       "err": 0.52,
+       "pred": -0.0
+      },
+      {
+       "h": 30,
+       "cand": "Anne Hidalgo",
+       "result": 1.74,
+       "poll": 2.26,
+       "err": 0.52,
+       "pred": 0.01
+      },
+      {
+       "h": 30,
+       "cand": "Emmanuel Macron",
+       "result": 27.85,
+       "poll": 27.56,
+       "err": -0.29,
+       "pred": 0.06
+      },
+      {
+       "h": 30,
+       "cand": "Valérie Pécresse",
+       "result": 4.78,
+       "poll": 12.94,
+       "err": 8.16,
+       "pred": 0.01
+      },
+      {
+       "h": 30,
+       "cand": "Jean Lassalle",
+       "result": 3.13,
+       "poll": 1.64,
+       "err": -1.49,
+       "pred": 0.02
+      },
+      {
+       "h": 30,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 2.06,
+       "poll": 1.86,
+       "err": -0.2,
+       "pred": 0.02
+      },
+      {
+       "h": 30,
+       "cand": "Marine Le Pen",
+       "result": 23.15,
+       "poll": 17.08,
+       "err": -6.07,
+       "pred": -0.01
+      },
+      {
+       "h": 30,
+       "cand": "Éric Zemmour",
+       "result": 7.07,
+       "poll": 13.35,
+       "err": 6.28,
+       "pred": 0.02
+      },
+      {
+       "h": 7,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.32,
+       "poll": 1.69,
+       "err": 0.37,
+       "pred": -0.01
+      },
+      {
+       "h": 7,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 21.95,
+       "poll": 13.74,
+       "err": -8.21,
+       "pred": -0.14
+      },
+      {
+       "h": 7,
+       "cand": "Fabien Roussel",
+       "result": 2.28,
+       "poll": 3.58,
+       "err": 1.3,
+       "pred": 0.02
+      },
+      {
+       "h": 7,
+       "cand": "Yannick Jadot",
+       "result": 4.63,
+       "poll": 5.48,
+       "err": 0.85,
+       "pred": -0.0
+      },
+      {
+       "h": 7,
+       "cand": "Anne Hidalgo",
+       "result": 1.74,
+       "poll": 2.16,
+       "err": 0.42,
+       "pred": 0.01
+      },
+      {
+       "h": 7,
+       "cand": "Emmanuel Macron",
+       "result": 27.85,
+       "poll": 28.57,
+       "err": 0.72,
+       "pred": 0.06
+      },
+      {
+       "h": 7,
+       "cand": "Valérie Pécresse",
+       "result": 4.78,
+       "poll": 10.45,
+       "err": 5.67,
+       "pred": 0.01
+      },
+      {
+       "h": 7,
+       "cand": "Jean Lassalle",
+       "result": 3.13,
+       "poll": 2.44,
+       "err": -0.69,
+       "pred": 0.02
+      },
+      {
+       "h": 7,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 2.06,
+       "poll": 1.88,
+       "err": -0.18,
+       "pred": 0.02
+      },
+      {
+       "h": 7,
+       "cand": "Marine Le Pen",
+       "result": 23.15,
+       "poll": 18.93,
+       "err": -4.22,
+       "pred": -0.01
+      },
+      {
+       "h": 7,
+       "cand": "Éric Zemmour",
+       "result": 7.07,
+       "poll": 11.09,
+       "err": 4.02,
+       "pred": 0.02
+      }
+     ]
+    },
+    "prof6:uniform": {
+     "repro_max_gap_vs_ipsos": 0.0,
+     "summary": {
+      "J-30": {
+       "mae_polls": 3.27,
+       "mae_corrected": 3.26,
+       "corr": 0.65,
+       "sign_ok": "0/0"
+      },
+      "J-7": {
+       "mae_polls": 2.42,
+       "mae_corrected": 2.4,
+       "corr": 0.72,
+       "sign_ok": "0/0"
+      }
+     },
+     "rows": [
+      {
+       "h": 30,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.32,
+       "poll": 1.46,
+       "err": 0.14,
+       "pred": -0.0
+      },
+      {
+       "h": 30,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 21.95,
+       "poll": 11.38,
+       "err": -10.57,
+       "pred": -0.07
+      },
+      {
+       "h": 30,
+       "cand": "Fabien Roussel",
+       "result": 2.28,
+       "poll": 4.01,
+       "err": 1.73,
+       "pred": 0.0
+      },
+      {
+       "h": 30,
+       "cand": "Yannick Jadot",
+       "result": 4.63,
+       "poll": 5.15,
+       "err": 0.52,
+       "pred": -0.0
+      },
+      {
+       "h": 30,
+       "cand": "Anne Hidalgo",
+       "result": 1.74,
+       "poll": 2.26,
+       "err": 0.52,
+       "pred": 0.01
+      },
+      {
+       "h": 30,
+       "cand": "Emmanuel Macron",
+       "result": 27.85,
+       "poll": 27.56,
+       "err": -0.29,
+       "pred": 0.08
+      },
+      {
+       "h": 30,
+       "cand": "Valérie Pécresse",
+       "result": 4.78,
+       "poll": 12.94,
+       "err": 8.16,
+       "pred": 0.03
+      },
+      {
+       "h": 30,
+       "cand": "Jean Lassalle",
+       "result": 3.13,
+       "poll": 1.64,
+       "err": -1.49,
+       "pred": -0.0
+      },
+      {
+       "h": 30,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 2.06,
+       "poll": 1.86,
+       "err": -0.2,
+       "pred": 0.0
+      },
+      {
+       "h": 30,
+       "cand": "Marine Le Pen",
+       "result": 23.15,
+       "poll": 17.08,
+       "err": -6.07,
+       "pred": -0.06
+      },
+      {
+       "h": 30,
+       "cand": "Éric Zemmour",
+       "result": 7.07,
+       "poll": 13.35,
+       "err": 6.28,
+       "pred": -0.0
+      },
+      {
+       "h": 7,
+       "cand": "Nathalie Arthaud+Philippe Poutou",
+       "result": 1.32,
+       "poll": 1.69,
+       "err": 0.37,
+       "pred": -0.0
+      },
+      {
+       "h": 7,
+       "cand": "Jean-Luc Mélenchon",
+       "result": 21.95,
+       "poll": 13.74,
+       "err": -8.21,
+       "pred": -0.07
+      },
+      {
+       "h": 7,
+       "cand": "Fabien Roussel",
+       "result": 2.28,
+       "poll": 3.58,
+       "err": 1.3,
+       "pred": 0.0
+      },
+      {
+       "h": 7,
+       "cand": "Yannick Jadot",
+       "result": 4.63,
+       "poll": 5.48,
+       "err": 0.85,
+       "pred": -0.0
+      },
+      {
+       "h": 7,
+       "cand": "Anne Hidalgo",
+       "result": 1.74,
+       "poll": 2.16,
+       "err": 0.42,
+       "pred": 0.01
+      },
+      {
+       "h": 7,
+       "cand": "Emmanuel Macron",
+       "result": 27.85,
+       "poll": 28.57,
+       "err": 0.72,
+       "pred": 0.08
+      },
+      {
+       "h": 7,
+       "cand": "Valérie Pécresse",
+       "result": 4.78,
+       "poll": 10.45,
+       "err": 5.67,
+       "pred": 0.03
+      },
+      {
+       "h": 7,
+       "cand": "Jean Lassalle",
+       "result": 3.13,
+       "poll": 2.44,
+       "err": -0.69,
+       "pred": -0.0
+      },
+      {
+       "h": 7,
+       "cand": "Nicolas Dupont-Aignan",
+       "result": 2.06,
+       "poll": 1.88,
+       "err": -0.18,
+       "pred": 0.0
+      },
+      {
+       "h": 7,
+       "cand": "Marine Le Pen",
+       "result": 23.15,
+       "poll": 18.93,
+       "err": -4.22,
+       "pred": -0.06
+      },
+      {
+       "h": 7,
+       "cand": "Éric Zemmour",
+       "result": 7.07,
+       "poll": 11.09,
+       "err": 4.02,
+       "pred": -0.0
+      }
+     ]
+    }
+   }
+  }
+ },
+ "dims": {
+  "age": {
+   "label": "Âge",
+   "groups": [
+    "18-24",
+    "25-34",
+    "35-49",
+    "50-64",
+    "65+"
+   ],
+   "N": [
+    5655,
+    8063,
+    12979,
+    13238,
+    15339
+   ],
+   "t": [
+    0.56,
+    0.56,
+    0.66,
+    0.685,
+    0.71
+   ],
+   "a": [
+    1.138,
+    1.138,
+    1.125,
+    1.125,
+    0.651
+   ],
+   "idx": {
+    "arthaud": [
+     3.712,
+     3.406,
+     0.361,
+     0.321,
+     0.282
+    ],
+    "melenchon": [
+     1.766,
+     1.756,
+     1.087,
+     0.746,
+     0.606
+    ],
+    "roussel": [
+     1.037,
+     0.656,
+     1.05,
+     1.05,
+     1.05
+    ],
+    "tondelier": [
+     2.05,
+     1.583,
+     1.445,
+     0.559,
+     0.47
+    ],
+    "glucksmann": [
+     0.555,
+     0.568,
+     1.018,
+     1.152,
+     1.169
+    ],
+    "attal": [
+     0.842,
+     1.356,
+     0.925,
+     0.938,
+     1.009
+    ],
+    "philippe": [
+     0.776,
+     0.78,
+     0.817,
+     1.144,
+     1.18
+    ],
+    "retailleau": [
+     0.88,
+     0.876,
+     0.881,
+     0.97,
+     1.204
+    ],
+    "lisnard": [
+     2.064,
+     0.545,
+     1.021,
+     0.655,
+     1.15
+    ],
+    "dupontaignan": [
+     0.591,
+     1.065,
+     1.011,
+     0.879,
+     1.184
+    ],
+    "zemmour": [
+     0.46,
+     0.558,
+     0.963,
+     1.031,
+     1.343
+    ],
+    "lepen": [
+     0.846,
+     0.879,
+     1.05,
+     1.075,
+     0.993
+    ],
+    "villepin": [
+     0.809,
+     1.068,
+     0.871,
+     1.041,
+     1.095
+    ],
+    "bardella": [
+     0.846,
+     0.879,
+     1.05,
+     1.075,
+     0.993
+    ]
+   },
+   "sources": {
+    "arthaud": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "melenchon": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "roussel": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "tondelier": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "glucksmann": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "attal": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal"
+    ],
+    "philippe": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_philippe"
+    ],
+    "retailleau": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "lisnard": [
+     "opinionway_2026_10_22"
+    ],
+    "dupontaignan": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "zemmour": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "lepen": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ]
+   },
+   "notes": {
+    "villepin": "moyenne de son camp (pas de croisement publié)",
+    "bardella": "profil de Marine Le Pen (pas de croisement publié)"
+   }
+  },
+  "csp": {
+   "label": "Catégorie sociale",
+   "groups": [
+    "CSP+",
+    "CSP-",
+    "Inactif"
+   ],
+   "N": [
+    29,
+    29,
+    42
+   ],
+   "t": [
+    0.63,
+    0.64,
+    0.68
+   ],
+   "a": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "idx": {
+    "arthaud": [
+     0.387,
+     0.401,
+     1.781
+    ],
+    "melenchon": [
+     1.186,
+     1.057,
+     0.844
+    ],
+    "roussel": [
+     0.931,
+     1.174,
+     0.931
+    ],
+    "tondelier": [
+     1.13,
+     1.116,
+     0.842
+    ],
+    "glucksmann": [
+     1.062,
+     0.766,
+     1.113
+    ],
+    "attal": [
+     1.37,
+     0.694,
+     0.962
+    ],
+    "philippe": [
+     1.341,
+     0.766,
+     0.934
+    ],
+    "retailleau": [
+     0.788,
+     0.828,
+     1.248
+    ],
+    "lisnard": [
+     1.048,
+     0.471,
+     1.313
+    ],
+    "dupontaignan": [
+     0.873,
+     0.815,
+     1.201
+    ],
+    "zemmour": [
+     0.879,
+     0.763,
+     1.231
+    ],
+    "lepen": [
+     0.794,
+     1.261,
+     0.962
+    ],
+    "villepin": [
+     1.356,
+     0.73,
+     0.948
+    ],
+    "bardella": [
+     0.794,
+     1.261,
+     0.962
+    ]
+   },
+   "sources": {
+    "arthaud": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "melenchon": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "roussel": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "tondelier": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "glucksmann": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "attal": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "philippe": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "retailleau": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "lisnard": [
+     "opinionway_2026_10_22"
+    ],
+    "dupontaignan": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "zemmour": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ],
+    "lepen": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_main"
+    ]
+   },
+   "notes": {
+    "villepin": "moyenne de son camp (pas de croisement publié)",
+    "bardella": "profil de Marine Le Pen (pas de croisement publié)"
+   }
+  },
+  "vote2022": {
+   "label": "Vote au 1er tour 2022",
+   "groups": [
+    "Macron",
+    "Le Pen",
+    "Mélenchon",
+    "Jadot",
+    "Pécresse",
+    "Zemmour",
+    "Autre",
+    "Non votant"
+   ],
+   "N": [
+    20.07,
+    16.68,
+    15.82,
+    3.34,
+    3.44,
+    5.1,
+    7.62,
+    27.93
+   ],
+   "t": [
+    0.72,
+    0.86,
+    0.69,
+    0.59,
+    0.65,
+    0.72,
+    0.74,
+    0.41
+   ],
+   "a": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "idx": {
+    "retailleau": [
+     1.736,
+     0.517,
+     0.552,
+     0.825,
+     2.645,
+     1.135,
+     0.866,
+     0.834
+    ],
+    "philippe": [
+     2.246,
+     0.351,
+     0.498,
+     0.783,
+     1.078,
+     0.656,
+     0.565,
+     1.066
+    ],
+    "zemmour": [
+     0.702,
+     0.687,
+     0.487,
+     0.992,
+     1.47,
+     4.718,
+     0.865,
+     1.043
+    ],
+    "roussel": [
+     0.659,
+     0.645,
+     1.756,
+     0.845,
+     0.832,
+     0.774,
+     2.133,
+     0.728
+    ],
+    "attal": [
+     2.433,
+     0.335,
+     0.545,
+     0.683,
+     0.821,
+     0.626,
+     0.539,
+     0.895
+    ],
+    "melenchon": [
+     0.582,
+     0.406,
+     2.351,
+     0.822,
+     0.734,
+     0.683,
+     0.666,
+     1.333
+    ],
+    "lepen": [
+     0.519,
+     1.99,
+     0.63,
+     0.854,
+     0.847,
+     1.131,
+     0.831,
+     0.815
+    ],
+    "tondelier": [
+     0.587,
+     0.444,
+     0.722,
+     2.729,
+     1.333,
+     0.829,
+     2.6,
+     1.388
+    ],
+    "arthaud": [
+     0.387,
+     0.368,
+     0.406,
+     0.75,
+     0.738,
+     0.687,
+     3.716,
+     1.99
+    ],
+    "dupontaignan": [
+     0.603,
+     0.59,
+     1.407,
+     0.772,
+     0.761,
+     1.316,
+     2.218,
+     1.012
+    ],
+    "glucksmann": [
+     1.095,
+     0.445,
+     1.297,
+     1.535,
+     0.978,
+     0.729,
+     1.387,
+     1.102
+    ],
+    "villepin": [
+     2.34,
+     0.343,
+     0.522,
+     0.733,
+     0.95,
+     0.641,
+     0.552,
+     0.981
+    ],
+    "lisnard": [
+     1.736,
+     0.517,
+     0.552,
+     0.825,
+     2.645,
+     1.135,
+     0.866,
+     0.834
+    ],
+    "bardella": [
+     0.519,
+     1.99,
+     0.63,
+     0.854,
+     0.847,
+     1.131,
+     0.831,
+     0.815
+    ]
+   },
+   "sources": {
+    "retailleau": [
+     "yougov_2026_10_15_main"
+    ],
+    "philippe": [
+     "yougov_2026_10_15_main"
+    ],
+    "zemmour": [
+     "yougov_2026_10_15_main"
+    ],
+    "roussel": [
+     "yougov_2026_10_15_main"
+    ],
+    "attal": [
+     "yougov_2026_10_15_main"
+    ],
+    "melenchon": [
+     "yougov_2026_10_15_main"
+    ],
+    "lepen": [
+     "yougov_2026_10_15_main"
+    ],
+    "tondelier": [
+     "yougov_2026_10_15_main"
+    ],
+    "arthaud": [
+     "yougov_2026_10_15_main"
+    ],
+    "dupontaignan": [
+     "yougov_2026_10_15_main"
+    ],
+    "glucksmann": [
+     "yougov_2026_10_15_main"
+    ]
+   },
+   "notes": {
+    "villepin": "moyenne de son camp (pas de croisement publié)",
+    "lisnard": "moyenne de son camp (pas de croisement publié)",
+    "bardella": "profil de Marine Le Pen (pas de croisement publié)"
+   }
+  },
+  "sex": {
+   "label": "Sexe",
+   "groups": [
+    "Homme",
+    "Femme"
+   ],
+   "N": [
+    48,
+    52
+   ],
+   "t": [
+    0.68,
+    0.63
+   ],
+   "a": [
+    1.0,
+    1.0
+   ],
+   "idx": {
+    "arthaud": [
+     0.313,
+     1.684
+    ],
+    "melenchon": [
+     0.992,
+     1.008
+    ],
+    "roussel": [
+     1.294,
+     0.707
+    ],
+    "tondelier": [
+     0.691,
+     1.308
+    ],
+    "glucksmann": [
+     1.144,
+     0.857
+    ],
+    "attal": [
+     0.719,
+     1.28
+    ],
+    "philippe": [
+     0.97,
+     1.03
+    ],
+    "retailleau": [
+     1.019,
+     0.981
+    ],
+    "lisnard": [
+     1.14,
+     0.861
+    ],
+    "dupontaignan": [
+     0.961,
+     1.039
+    ],
+    "zemmour": [
+     1.478,
+     0.524
+    ],
+    "lepen": [
+     0.957,
+     1.043
+    ],
+    "villepin": [
+     0.845,
+     1.155
+    ],
+    "bardella": [
+     0.957,
+     1.043
+    ]
+   },
+   "sources": {
+    "arthaud": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "melenchon": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "roussel": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "tondelier": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "glucksmann": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "attal": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal"
+    ],
+    "philippe": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_philippe"
+    ],
+    "retailleau": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "lisnard": [
+     "opinionway_2026_10_22"
+    ],
+    "dupontaignan": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "zemmour": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ],
+    "lepen": [
+     "opinionway_2026_10_22",
+     "yougov_2026_10_15_attal",
+     "yougov_2026_10_15_philippe"
+    ]
+   },
+   "notes": {
+    "villepin": "moyenne de son camp (pas de croisement publié)",
+    "bardella": "profil de Marine Le Pen (pas de croisement publié)"
+   }
+  }
+ },
+ "sensitivity_opinionway": {
+  "participation −5 pts (âge)": {
+   "lepen": 0.02,
+   "melenchon": -0.16,
+   "glucksmann": 0.06,
+   "philippe": 0.05,
+   "retailleau": 0.02,
+   "lisnard": 0.0,
+   "attal": -0.0,
+   "zemmour": 0.03,
+   "roussel": 0.0,
+   "tondelier": -0.01,
+   "dupontaignan": 0.0,
+   "arthaud": -0.01
+  },
+  "participation −5 pts (vote 2022)": {
+   "lepen": 0.4,
+   "melenchon": -0.17,
+   "glucksmann": -0.09,
+   "philippe": -0.07,
+   "retailleau": -0.01,
+   "lisnard": -0.01,
+   "attal": -0.01,
+   "zemmour": -0.01,
+   "roussel": 0.0,
+   "tondelier": -0.01,
+   "dupontaignan": -0.0,
+   "arthaud": -0.0
+  },
+  "participation +5 pts (âge)": {
+   "lepen": -0.02,
+   "melenchon": 0.15,
+   "glucksmann": -0.06,
+   "philippe": -0.04,
+   "retailleau": -0.02,
+   "lisnard": -0.0,
+   "attal": 0.0,
+   "zemmour": -0.03,
+   "roussel": -0.0,
+   "tondelier": 0.01,
+   "dupontaignan": -0.0,
+   "arthaud": 0.01
+  },
+  "participation +5 pts (vote 2022)": {
+   "lepen": -0.37,
+   "melenchon": 0.17,
+   "glucksmann": 0.08,
+   "philippe": 0.06,
+   "retailleau": 0.01,
+   "lisnard": 0.01,
+   "attal": 0.01,
+   "zemmour": 0.01,
+   "roussel": -0.0,
+   "tondelier": 0.01,
+   "dupontaignan": 0.0,
+   "arthaud": 0.0
+  },
+  "18-34 ans −10 pts": {
+   "lepen": 0.18,
+   "melenchon": -0.48,
+   "glucksmann": 0.22,
+   "philippe": 0.1,
+   "retailleau": 0.03,
+   "lisnard": -0.04,
+   "attal": -0.02,
+   "zemmour": 0.07,
+   "roussel": 0.01,
+   "tondelier": -0.03,
+   "dupontaignan": 0.0,
+   "arthaud": -0.02
+  },
+  "CSP- −10 pts": {
+   "lepen": -0.47,
+   "melenchon": -0.06,
+   "glucksmann": 0.13,
+   "philippe": 0.12,
+   "retailleau": 0.04,
+   "lisnard": 0.14,
+   "attal": 0.05,
+   "zemmour": 0.04,
+   "roussel": -0.01,
+   "tondelier": -0.01,
+   "dupontaignan": 0.01,
+   "arthaud": 0.01
+  },
+  "abstentionnistes 2022 +10 pts": {
+   "lepen": -0.26,
+   "melenchon": 0.23,
+   "glucksmann": 0.06,
+   "philippe": 0.04,
+   "retailleau": -0.04,
+   "lisnard": -0.04,
+   "attal": -0.02,
+   "zemmour": 0.01,
+   "roussel": -0.01,
+   "tondelier": 0.02,
+   "dupontaignan": 0.0,
+   "arthaud": 0.01
+  },
+  "femmes −5 pts": {
+   "lepen": -0.08,
+   "melenchon": -0.01,
+   "glucksmann": 0.07,
+   "philippe": -0.02,
+   "retailleau": 0.0,
+   "lisnard": 0.03,
+   "attal": -0.05,
+   "zemmour": 0.08,
+   "roussel": 0.01,
+   "tondelier": -0.01,
+   "dupontaignan": -0.0,
+   "arthaud": -0.01
+  }
+ }
+}
