@@ -3,6 +3,7 @@
   "use strict";
   const SITE = window.SITE, POLLS = (window.POLLS && window.POLLS.polls) || [];
   const SOCIAL = window.SOCIAL || { followers: {}, members: {} };
+  const ENG = window.ENGAGEMENT || { updated: null, method: {}, candidates: {} };
   // Last update = the most recent date among the data files (polls and followers are
   // refreshed by the workflow; data/site.js only by hand). ISO strings compare as dates.
   const LAST_UPDATE = [SITE.updated, window.POLLS && window.POLLS.fetched, SOCIAL.updated, window.MODEL && window.MODEL.asof]
@@ -106,8 +107,10 @@
     const rows = [];
     const evL = narrow ? [] : evs.map(e => {
       const x = X(T(e.date)), w = e.short.length * 5.8 + 8;
-      let r = 0; while (rows[r] && rows[r] > x - 2) r++;
-      rows[r] = x + w; return { e, x, r };
+      const flip = x + w > W - 4;              // near the right edge: label to the left of its line
+      const start = flip ? x - w : x;
+      let r = 0; while (rows[r] && rows[r] > start - 2) r++;
+      rows[r] = flip ? x : x + w; return { e, x, r, flip };
     });
     m.t = 10 + (narrow ? 0 : Math.min(rows.length, 3) * 14);
     const all = opt.series.flatMap(s => s.points);
@@ -143,7 +146,7 @@
       if (x2 - x1 > 2) ge.append(h("rect", { x: x1, y: m.t, width: x2 - x1, height: ph, fill: "var(--wash)" }));
       ge.append(h("line", { x1, x2: x1, y1: m.t - 2, y2: H - m.b, stroke: "var(--ink3)", "stroke-dasharray": "2 3", "stroke-width": 1, opacity: .6 }));
     }
-    for (const l of evL) if (l.r < 3) ge.append(h("text", { x: l.x + 3, y: 10 + l.r * 14 + 2 }, l.e.short));
+    for (const l of evL) if (l.r < 3) ge.append(h("text", { x: l.flip ? l.x - 3 : l.x + 3, y: 10 + l.r * 14 + 2, "text-anchor": l.flip ? "end" : null }, l.e.short));
     svg.append(ge);
     // series
     const gs = h("g");
@@ -375,6 +378,7 @@
     // latest per institute
     main.append(latestPerFirm());
     main.append(audienceSection());
+    main.append(engagementSection());
     main.append(membersSection());
     main.append(methodSection());
   }
@@ -437,6 +441,123 @@
         : h("p", { class: "empty-state" }, "Relevés en cours de collecte."),
       h("p", { class: "note" }, "≈ : valeur arrondie ou date approximative. Cliquez sur un chiffre pour voir sa source. X, Instagram, TikTok et Facebook : relevés de ",
         h("a", { href: "https://lepodium2027.fr/", target: "_blank", rel: "noopener" }, "Le Podium 2027"), ", repris deux fois par semaine ; YouTube : relevés manuels."));
+  }
+
+  /* ---------- Instagram engagement (data/engagement.js, scripts/update_engagement.py) ---------- */
+  const pctN = (v, d) => new Intl.NumberFormat("fr-FR", { maximumFractionDigits: d }).format(v) + " %";
+  const nfw = new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 1 });
+  function engMethodNote() {
+    const m = ENG.method || {}, w = m.window_days || [14, 2];
+    return "Posts Instagram publiés entre " + w[0] + " et " + w[1] + " jours avant le relevé, pour laisser aux interactions le temps de s'accumuler (au plus " +
+      (m.max_posts || 50) + " posts analysés). Interactions d'un post = likes + " + (m.comment_weight || 3) + " × commentaires ; on retient la médiane, qu'un post viral ne déforme pas. " +
+      "Taux d'engagement = interactions médianes ÷ abonnés ; taux de commentaires = commentaires médians ÷ abonnés, seul indicateur disponible quand un compte masque ses likes.";
+  }
+  function engWindow(last) {   // "12 posts du 28 oct. au 9 nov., soit 6,5 par semaine"
+    if (!last || !last.window) return "";
+    const n = last.posted_in_window != null ? last.posted_in_window : last.n_posts;
+    return n + " post" + (n > 1 ? "s" : "") + " du " + fmtD(last.window[0], { year: undefined }) + " au " + fmtD(last.window[1], { year: undefined }) +
+      ", soit " + nfw.format(last.posts_per_week) + " par semaine" + (last.n_posts < n ? " (" + last.n_posts + " analysés)" : "");
+  }
+  function engStatus(acc) {
+    if (!acc) return "pas encore relevé";
+    if (acc.status === "unavailable") return "compte non lisible (compte personnel ?)";
+    if (acc.status === "not_enough_posts") return "moins de " + ((ENG.method || {}).min_posts || 3) + " posts sur la période";
+    return null;
+  }
+  function engagementSection() {
+    const head = h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "eng-t" }, "Engagement sur Instagram"),
+      h("p", null, "Ce que suscite un post typique, au-delà du nombre d'abonnés. Le volume d'interactions favorise les gros comptes, le taux d'engagement les communautés actives. Le rythme de publication dit sur quoi porte la comparaison.")));
+    if (!ENG.updated) return h("section", { "aria-labelledby": "eng-t" }, head,
+      h("p", { class: "empty-state" }, "Mesure en cours de mise en place : les premiers relevés arrivent dès que l'accès à l'API Instagram est configuré."));
+    const rank = r => r.acc && r.acc.status === "ok" ? 2 : r.acc && r.acc.status === "likes_hidden" ? 1 : 0;
+    const rows = CANDS.map(c => ({ c, acc: ENG.candidates[c.id], last: lastPoint((ENG.candidates[c.id] || {}).history) }))
+      .sort((a, b) => rank(b) - rank(a) || ((b.last && (b.last.median_interactions || b.last.median_comments)) || 0) - ((a.last && (a.last.median_interactions || a.last.median_comments)) || 0));
+    const ref = rows.map(r => r.last).find(l => l && l.window);
+    const tb = h("tbody");
+    for (const { c, acc, last } of rows) {
+      const who = h("td", null, h("a", { href: "#" + c.id, style: { textDecoration: "none" } }, cellWho(c)));
+      const posted = last && last.window ? h("td", null, h("b", null, last.posted_in_window), h("small", null, nfw.format(last.posts_per_week) + " / sem.")) : h("td", { class: "empty" }, "–");
+      const st = engStatus(acc);
+      if (st) { tb.append(h("tr", null, who, posted, h("td", { class: "empty", colspan: 4, style: { textAlign: "left" } }, st))); continue; }
+      const hidden = acc.status === "likes_hidden";
+      tb.append(h("tr", null, who, posted,
+        hidden ? h("td", { class: "empty", colspan: 2, style: { textAlign: "center" } }, "likes masqués par le compte")
+          : [h("td", null, h("b", null, compact(last.median_interactions)), h("small", null, compact(last.median_likes) + " likes")),
+             h("td", null, last.rate != null ? pctN(last.rate, 2) : "–")],
+        h("td", null, compact(last.median_comments)),
+        h("td", null, last.comment_rate != null ? pctN(last.comment_rate, 3) : "–")));
+    }
+    const table = h("div", { class: "tbl" }, h("table", null, h("thead", null, h("tr", null, h("th", null, "Candidat"), h("th", null, "Posts publiés"),
+      h("th", null, "Interactions par post"), h("th", null, "Taux d'engagement"), h("th", null, "Commentaires par post"), h("th", null, "Taux de commentaires"))), tb));
+    const charts = h("div", { class: "eng-charts" },
+      engBars(rows, "rate", "Taux d'engagement", "interactions médianes par post ÷ abonnés", 2, "likes masqués"),
+      engBars(rows, "comment_rate", "Taux de commentaires", "commentaires médians par post ÷ abonnés · disponible pour tous", 3, null));
+    // Two tabs: the charts (default) and the full table. Plain buttons + hidden panels.
+    const tabs = [["Graphiques", charts], ["Tableau complet", table]];
+    const bar = h("div", { class: "eng-tabs", role: "tablist", "aria-label": "Affichage de l'engagement" });
+    tabs.forEach(([label, panel], i) => {
+      const id = "eng-tab-" + i;
+      panel.setAttribute("role", "tabpanel"); panel.setAttribute("aria-labelledby", id); panel.hidden = i > 0;
+      bar.append(h("button", { type: "button", id, role: "tab", "aria-selected": String(i === 0), onclick: e => {
+        [...bar.children].forEach((b, j) => { b.setAttribute("aria-selected", String(j === i)); tabs[j][1].hidden = j !== i; });
+      } }, label));
+    });
+    return h("section", { "aria-labelledby": "eng-t" }, head,
+      ref ? h("p", { class: "note", style: { margin: "0 0 10px" } }, "Période comparée : posts publiés du " + fmtD(ref.window[0]) + " au " + fmtD(ref.window[1]) + " (relevé du " + fmtD(ref.date) + ").") : null,
+      bar, charts, table,
+      h("p", { class: "note" }, engMethodNote() + " Le détail et les liens vers chaque post sont sur la fiche du candidat."));
+  }
+  /* One horizontal bar chart: one candidate per row, sorted, own scale from 0, value always printed.
+     The posting rhythm stays under each name so readers know what is being compared. */
+  function engBars(rows, key, title, sub, digits, missingLabel) {
+    const items = rows.filter(r => r.last && (r.last[key] != null || (missingLabel && r.acc && r.acc.status === "likes_hidden")));
+    const withVal = items.filter(r => r.last[key] != null).sort((a, b) => b.last[key] - a.last[key]);
+    const without = items.filter(r => r.last[key] == null);
+    const max = Math.max(...withVal.map(r => r.last[key]), 1e-9);
+    const top = withVal[0];
+    const fig = h("figure", { class: "eng-fig" },
+      h("figcaption", null, h("b", null, title), h("span", null, sub),
+        top ? h("span", { class: "eng-find" }, "Le plus élevé : " + top.c.name + " (" + pctN(top.last[key], digits) + ")") : null));
+    const list = h("div", { class: "eng-bars" });
+    for (const r of withVal) {
+      const v = r.last[key];
+      list.append(h("div", { class: "eng-row", css: { "--c": color(r.c), "--w": (100 * v / max).toFixed(1) + "%" } },
+        h("span", { class: "eng-who" }, h("a", { href: "#" + r.c.id }, r.c.short || r.c.name), h("small", null, nfw.format(r.last.posts_per_week) + " posts / sem.")),
+        h("span", { class: "eng-track" }, h("i")),
+        h("span", { class: "eng-val num" }, pctN(v, digits))));
+    }
+    for (const r of without) list.append(h("div", { class: "eng-row is-missing" },
+      h("span", { class: "eng-who" }, h("a", { href: "#" + r.c.id }, r.c.short || r.c.name), h("small", null, nfw.format(r.last.posts_per_week) + " posts / sem.")),
+      h("span", { class: "eng-track eng-none" }, missingLabel), h("span", { class: "eng-val" }, "–")));
+    fig.append(list);
+    return fig;
+  }
+  function engagementPanel(c, col) {
+    const acc = ENG.candidates[c.id], last = acc && lastPoint(acc.history);
+    const box = h("div", { class: "panel" }, h("h3", null, "Engagement sur Instagram" + (acc ? " · " + acc.handle : "")));
+    if (!ENG.updated) { box.append(h("p", { class: "empty-state" }, "Mesure en cours de mise en place.")); return box; }
+    if (last && last.window) box.append(h("p", { style: { margin: "4px 0 10px", fontSize: ".92rem", color: "var(--ink2)" } }, h("b", null, "Publications : "), engWindow(last) + "."));
+    const st = engStatus(acc);
+    if (st) { box.append(h("p", { class: "empty-state" }, st[0].toUpperCase() + st.slice(1) + ".")); }
+    else {
+      const hidden = acc.status === "likes_hidden";
+      box.append(h("div", { class: "nets" },
+        hidden ? h("div", { class: "net", css: { "--c": "var(--rule)" } }, h("span", null, "Interactions par post"), h("b", { class: "muted" }, "–"), h("span", null, "Likes masqués par le compte"))
+          : h("div", { class: "net", css: { "--c": col } }, h("span", null, "Interactions par post (médiane)"), h("b", { class: "num" }, compact(last.median_interactions)),
+              h("span", null, compact(last.median_likes) + " likes · " + compact(last.median_comments) + " commentaires")),
+        hidden ? null : h("div", { class: "net", css: { "--c": col } }, h("span", null, "Taux d'engagement"), h("b", { class: "num" }, last.rate != null ? pctN(last.rate, 2) : "–"),
+          h("span", null, "interactions ÷ abonnés")),
+        h("div", { class: "net", css: { "--c": col } }, h("span", null, "Commentaires par post (médiane)"), h("b", { class: "num" }, compact(last.median_comments)),
+          h("span", null, "taux : " + (last.comment_rate != null ? pctN(last.comment_rate, 3) : "–")))));
+      const H = acc.history.filter(x => x.rate != null);
+      if (H.length > 1) { const sp = h("div", { class: "spark", style: { height: "40px", marginTop: "8px" } }); box.append(sp);
+        redraws.push(() => sparkline(sp, H.map(x => ({ t: T(x.date), v: x.rate })), col, T(H[0].date), T(lastPoint(H).date))); }
+    }
+    if (last && last.posts && last.posts.length) box.append(h("details", { class: "more" }, h("summary", null, "Posts analysés (" + last.posts.length + ")"),
+      h("ul", { style: { margin: 0, paddingLeft: "1.1em", fontSize: ".85rem" } }, last.posts.map(p => h("li", null, fmtD(p.date) + " · ",
+        h("a", { href: p.url, target: "_blank", rel: "noopener" }, p.likes != null ? compact(p.likes) + " likes, " + compact(p.comments) + " commentaires" : compact(p.comments) + " commentaires"))))));
+    box.append(h("p", { class: "note" }, engMethodNote()));
+    return box;
   }
 
   function membersSection() {
@@ -571,6 +692,7 @@
         anyNet ? nets : h("p", { class: "empty-state" }, "Relevés en cours de collecte."),
         h("p", { class: "note" }, "Cliquez sur un chiffre pour voir sa source. ≈ : valeur arrondie ou date approximative.")),
       memBox));
+    main.append(h("section", null, engagementPanel(c, col)));
 
     // timeline
     const evs = SITE.events.filter(e => e.who && e.who.includes(c.id));

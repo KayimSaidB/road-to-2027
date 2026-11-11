@@ -1265,6 +1265,30 @@
         padding: 8px 8px
       }
     }
+
+    /* engagement: tabs + horizontal bar charts */
+    .eng-tabs { display: inline-flex; border: 1px solid var(--rule); background: var(--surface); border-radius: 8px; padding: 2px; margin-bottom: 12px }
+    .eng-tabs button { font: inherit; font-size: .85rem; font-weight: 600; color: var(--ink2); background: none; border: 0; border-radius: 6px; padding: 6px 12px; cursor: pointer }
+    .eng-tabs button[aria-selected="true"] { background: var(--ink); color: var(--surface) }
+    .eng-charts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px }
+    .eng-fig { margin: 0; background: var(--surface); border: 1px solid var(--rule); padding: 16px 18px 14px; min-width: 0 }
+    .eng-fig figcaption { display: grid; gap: 2px; margin-bottom: 12px }
+    .eng-fig figcaption b { font-family: var(--font-display); font-size: 1.1rem; font-weight: 800 }
+    .eng-fig figcaption span { font-size: .8rem; color: var(--ink3) }
+    .eng-fig .eng-find { color: var(--ink2); font-weight: 600 }
+    .eng-bars { display: grid; gap: 10px }
+    .eng-row { display: grid; grid-template-columns: 7.5em minmax(0, 1fr) 4.2em; align-items: center; gap: 10px }
+    .eng-who { display: grid; line-height: 1.2; min-width: 0 }
+    .eng-who a { font-weight: 600; font-size: .92rem; text-decoration: none; color: var(--ink) }
+    .eng-who a:hover { text-decoration: underline }
+    .eng-who small { font-size: .72rem; color: var(--ink3) }
+    .eng-track { display: block; height: 14px; background: var(--wash); border-radius: 0 4px 4px 0 }
+    .eng-track i { display: block; height: 100%; width: var(--w); background: var(--c); border-radius: 0 4px 4px 0 }
+    .eng-none { background: none; height: auto; font-size: .78rem; color: var(--ink3); font-style: italic }
+    .eng-val { text-align: right; font-weight: 700; font-size: .92rem }
+    .eng-row.is-missing .eng-val { color: var(--ink3); font-weight: 400 }
+    @media (prefers-reduced-motion: no-preference) { .eng-track i { transition: width .4s ease } }
+    @media (max-width: 860px) { .eng-charts { grid-template-columns: minmax(0, 1fr) } }
   </style>
 </head>
 
@@ -1297,6 +1321,7 @@
   <script src="data/site.js"></script>
   <script src="data/polls.js"></script>
   <script src="data/social.js"></script>
+  <script src="data/engagement.js"></script>
   <script src="data/model.js"></script>
   <script src="sandbox.js"></script>
   <script src="app.js"></script>

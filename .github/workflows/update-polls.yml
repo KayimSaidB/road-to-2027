@@ -33,6 +33,13 @@ jobs:
         # Le Podium 2027 (X, Instagram, TikTok, Facebook). Warns instead of failing.
         run: python scripts/update_social.py
 
+      - name: Update Instagram engagement
+        # Meta Business Discovery. Without the secrets, or with an expired token, warns and skips.
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python scripts/update_engagement.py
+
       - name: Refresh simulator data
         # Same Wikipedia page, parsed with every scenario and the second-round duels,
         # then exported with today's date to data/model.js.
@@ -98,6 +105,16 @@ jobs:
                       if not pt.get("source") or not isinstance(pt.get("value"), int) or pt["value"] <= 0:
                           raise SystemExit(f"Invalid follower point: {cid} {net} {pt}")
           print(f"Social data as of {social['updated']}")
+
+          eng_text = Path("data/engagement.js").read_text(encoding="utf-8")
+          eng = json.loads(eng_text.split("window.ENGAGEMENT = ", 1)[1].rsplit(";", 1)[0])
+          for cid, acc in eng["candidates"].items():
+              for e in acc.get("history", []):
+                  if e.get("rate") is not None and not (0 <= e["rate"] < 100):
+                      raise SystemExit(f"Implausible engagement rate: {cid} {e['date']} {e['rate']}")
+                  if any("SAMPLE" in (p.get("url") or "") for p in e.get("posts", [])):
+                      raise SystemExit("Sample data found in data/engagement.js")
+          print(f"Engagement data as of {eng['updated']}")
           PY
           # Raw Wikipedia text has trailing spaces: only check the generated files.
           git diff --check -- data/ backtest/data/
@@ -122,6 +139,7 @@ jobs:
           add-paths: |
             data/polls.js
             data/social.js
+            data/engagement.js
             data/model.js
             backtest/raw/polls_2027.txt
             backtest/data/polls_2027.json
