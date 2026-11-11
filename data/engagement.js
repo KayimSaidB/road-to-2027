@@ -17,7 +17,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 918273,
+     "followers": 918284,
      "n_posts": 9,
      "window": [
       "2026-10-28",
@@ -31,42 +31,42 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfcFHSbuN9a/",
        "date": "2026-11-07",
        "type": "REELS",
-       "likes": 18287,
+       "likes": 18301,
        "comments": 903
       },
       {
        "url": "https://www.instagram.com/p/DfZ2yIwjraZ/",
        "date": "2026-11-06",
        "type": "FEED",
-       "likes": 3913,
+       "likes": 3917,
        "comments": 48
       },
       {
        "url": "https://www.instagram.com/reel/DfZfqyxO11X/",
        "date": "2026-11-06",
        "type": "REELS",
-       "likes": 10673,
+       "likes": 10677,
        "comments": 281
       },
       {
        "url": "https://www.instagram.com/reel/DfX2c2OOKL1/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 8575,
+       "likes": 8577,
        "comments": 191
       },
       {
        "url": "https://www.instagram.com/p/DfVaCU3jjUh/",
        "date": "2026-11-04",
        "type": "FEED",
-       "likes": 4710,
+       "likes": 4711,
        "comments": 76
       },
       {
        "url": "https://www.instagram.com/reel/DfRuPkDO7WI/",
        "date": "2026-11-03",
        "type": "REELS",
-       "likes": 14847,
+       "likes": 14859,
        "comments": 471
       },
       {
@@ -80,23 +80,23 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfIAuoYOlk9/",
        "date": "2026-10-30",
        "type": "FEED",
-       "likes": 26735,
+       "likes": 26740,
        "comments": 1295
       },
       {
        "url": "https://www.instagram.com/reel/DfFdi6au0JW/",
        "date": "2026-10-29",
        "type": "REELS",
-       "likes": 6289,
+       "likes": 6290,
        "comments": 251
       }
      ],
      "median_comments": 251,
      "comment_rate": 0.0273,
      "status": "ok",
-     "median_likes": 8575,
-     "median_interactions": 9148,
-     "mean_interactions": 11689.3,
+     "median_likes": 8577,
+     "median_interactions": 9150,
+     "mean_interactions": 11694.1,
      "rate": 0.996
     }
    ],
@@ -107,7 +107,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 1259896,
+     "followers": 1259981,
      "n_posts": 33,
      "window": [
       "2026-10-28",
@@ -121,119 +121,119 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfhMmkLoQh7/",
        "date": "2026-11-09",
        "type": "REELS",
-       "likes": 20565,
-       "comments": 1042
+       "likes": 20650,
+       "comments": 1047
       },
       {
        "url": "https://www.instagram.com/reel/DffGwnPIRnD/",
        "date": "2026-11-08",
        "type": "REELS",
-       "likes": 41821,
-       "comments": 2191
+       "likes": 41995,
+       "comments": 2197
       },
       {
        "url": "https://www.instagram.com/reel/DfemK5wIDo2/",
        "date": "2026-11-08",
        "type": "REELS",
-       "likes": 7924,
+       "likes": 7935,
        "comments": 570
       },
       {
        "url": "https://www.instagram.com/reel/DfeR1K_IO0l/",
        "date": "2026-11-08",
        "type": "REELS",
-       "likes": 48246,
-       "comments": 2217
+       "likes": 48276,
+       "comments": 2219
       },
       {
        "url": "https://www.instagram.com/reel/DfdCET6oO4f/",
        "date": "2026-11-07",
        "type": "REELS",
-       "likes": 44246,
+       "likes": 44268,
        "comments": 2730
       },
       {
        "url": "https://www.instagram.com/reel/DfcuRAtIOsx/",
        "date": "2026-11-07",
        "type": "REELS",
-       "likes": 13716,
+       "likes": 13725,
        "comments": 480
       },
       {
        "url": "https://www.instagram.com/p/DfcnqZtiADn/",
        "date": "2026-11-07",
        "type": "FEED",
-       "likes": 35882,
+       "likes": 35887,
        "comments": 543
       },
       {
        "url": "https://www.instagram.com/p/DfZTpUqICaR/",
        "date": "2026-11-06",
        "type": "FEED",
-       "likes": 53661,
+       "likes": 53683,
        "comments": 1320
       },
       {
        "url": "https://www.instagram.com/p/DfXe5awNsTn/",
        "date": "2026-11-05",
        "type": "FEED",
-       "likes": 80929,
-       "comments": 1035
+       "likes": 80965,
+       "comments": 1036
       },
       {
        "url": "https://www.instagram.com/reel/DfXewHSN15q/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 22927,
-       "comments": 766
+       "likes": 22933,
+       "comments": 767
       },
       {
        "url": "https://www.instagram.com/p/DfXdFR_DWjb/",
        "date": "2026-11-05",
        "type": "FEED",
-       "likes": 18655,
+       "likes": 18661,
        "comments": 163
       },
       {
        "url": "https://www.instagram.com/reel/DfXYMQWNLAw/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 9231,
+       "likes": 9233,
        "comments": 405
       },
       {
        "url": "https://www.instagram.com/p/DfWhMZetJsG/",
        "date": "2026-11-05",
        "type": "FEED",
-       "likes": 27002,
+       "likes": 27016,
        "comments": 586
       },
       {
        "url": "https://www.instagram.com/p/DfWhJNrtTGd/",
        "date": "2026-11-05",
        "type": "FEED",
-       "likes": 70913,
+       "likes": 70925,
        "comments": 450
       },
       {
        "url": "https://www.instagram.com/p/DfSlXYDN1Og/",
        "date": "2026-11-03",
        "type": "FEED",
-       "likes": 26751,
+       "likes": 26761,
        "comments": 1074
       },
       {
        "url": "https://www.instagram.com/p/DfSNKmzth0L/",
        "date": "2026-11-03",
        "type": "FEED",
-       "likes": 26615,
+       "likes": 26618,
        "comments": 643
       },
       {
        "url": "https://www.instagram.com/p/DfSLe1fNFHe/",
        "date": "2026-11-03",
        "type": "FEED",
-       "likes": 9927,
+       "likes": 9928,
        "comments": 556
       },
       {
@@ -247,115 +247,115 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfOqlWoNxSp/",
        "date": "2026-11-02",
        "type": "FEED",
-       "likes": 20847,
+       "likes": 20850,
        "comments": 469
       },
       {
        "url": "https://www.instagram.com/p/DfNUTWHNOGW/",
        "date": "2026-11-01",
        "type": "FEED",
-       "likes": 29150,
+       "likes": 29152,
        "comments": 593
       },
       {
        "url": "https://www.instagram.com/p/DfKpgVjNUDn/",
        "date": "2026-10-31",
        "type": "FEED",
-       "likes": 15273,
+       "likes": 15276,
        "comments": 334
       },
       {
        "url": "https://www.instagram.com/reel/DfKn-sbN1Lc/",
        "date": "2026-10-31",
        "type": "REELS",
-       "likes": 16387,
+       "likes": 16389,
        "comments": 1280
       },
       {
        "url": "https://www.instagram.com/p/DfKb3VJDR6u/",
        "date": "2026-10-31",
        "type": "FEED",
-       "likes": 32301,
+       "likes": 32306,
        "comments": 431
       },
       {
        "url": "https://www.instagram.com/p/DfJ9O1ztFT9/",
        "date": "2026-10-31",
        "type": "FEED",
-       "likes": 14037,
+       "likes": 14038,
        "comments": 356
       },
       {
        "url": "https://www.instagram.com/reel/DfIYrxcN222/",
        "date": "2026-10-30",
        "type": "REELS",
-       "likes": 27604,
+       "likes": 27605,
        "comments": 663
       },
       {
        "url": "https://www.instagram.com/p/DfIYOF2jabt/",
        "date": "2026-10-30",
        "type": "FEED",
-       "likes": 15766,
+       "likes": 15768,
        "comments": 141
       },
       {
        "url": "https://www.instagram.com/p/DfIC6AFtSfD/",
        "date": "2026-10-30",
        "type": "FEED",
-       "likes": 39285,
+       "likes": 39292,
        "comments": 553
       },
       {
        "url": "https://www.instagram.com/p/DfFM-xJDQ_z/",
        "date": "2026-10-29",
        "type": "FEED",
-       "likes": 67293,
+       "likes": 67300,
        "comments": 1374
       },
       {
        "url": "https://www.instagram.com/p/DfE3Eitt9p9/",
        "date": "2026-10-29",
        "type": "FEED",
-       "likes": 16759,
+       "likes": 16763,
        "comments": 484
       },
       {
        "url": "https://www.instagram.com/reel/DfEtV_NtMyk/",
        "date": "2026-10-29",
        "type": "REELS",
-       "likes": 30149,
+       "likes": 30161,
        "comments": 1496
       },
       {
        "url": "https://www.instagram.com/p/DfEsj7-tX3U/",
        "date": "2026-10-29",
        "type": "FEED",
-       "likes": 48308,
+       "likes": 48314,
        "comments": 863
       },
       {
        "url": "https://www.instagram.com/reel/DfC1Y_hN__Y/",
        "date": "2026-10-28",
        "type": "REELS",
-       "likes": 15302,
+       "likes": 15303,
        "comments": 1200
       },
       {
        "url": "https://www.instagram.com/reel/DfB841ttnuC/",
        "date": "2026-10-28",
        "type": "REELS",
-       "likes": 154156,
-       "comments": 5558
+       "likes": 154196,
+       "comments": 5559
       }
      ],
      "median_comments": 593,
      "comment_rate": 0.0471,
      "status": "ok",
-     "median_likes": 26751,
-     "median_interactions": 28760,
-     "mean_interactions": 36679.2,
-     "rate": 2.283
+     "median_likes": 26761,
+     "median_interactions": 28774,
+     "mean_interactions": 36697.2,
+     "rate": 2.284
     }
    ],
    "status": "ok"
@@ -365,7 +365,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 622292,
+     "followers": 622281,
      "n_posts": 14,
      "window": [
       "2026-10-28",
@@ -380,7 +380,7 @@ window.ENGAGEMENT = {
        "date": "2026-11-09",
        "type": "FEED",
        "likes": null,
-       "comments": 91
+       "comments": 92
       },
       {
        "url": "https://www.instagram.com/reel/Dffj5HZIopo/",
@@ -401,7 +401,7 @@ window.ENGAGEMENT = {
        "date": "2026-11-07",
        "type": "REELS",
        "likes": null,
-       "comments": 289
+       "comments": 290
       },
       {
        "url": "https://www.instagram.com/p/DfaVxKmIW8P/",
@@ -471,10 +471,10 @@ window.ENGAGEMENT = {
        "date": "2026-10-29",
        "type": "REELS",
        "likes": null,
-       "comments": 1136
+       "comments": 1137
       }
      ],
-     "median_comments": 253.0,
+     "median_comments": 253.5,
      "comment_rate": 0.0407,
      "status": "likes_hidden",
      "likes_hidden": true
@@ -543,7 +543,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfXBcm0jiVO/",
        "date": "2026-11-05",
        "type": "FEED",
-       "likes": 142,
+       "likes": 143,
        "comments": 6
       },
       {
@@ -571,7 +571,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfSk-N9jkON/",
        "date": "2026-11-03",
        "type": "FEED",
-       "likes": 265,
+       "likes": 266,
        "comments": 9
       },
       {
@@ -593,9 +593,9 @@ window.ENGAGEMENT = {
      "comment_rate": 0.0515,
      "status": "ok",
      "median_likes": 244,
-     "median_interactions": 292,
-     "mean_interactions": 665.8,
-     "rate": 0.792
+     "median_interactions": 293,
+     "mean_interactions": 666,
+     "rate": 0.794
     }
    ],
    "status": "ok"
@@ -605,7 +605,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 458485,
+     "followers": 458487,
      "n_posts": 19,
      "window": [
       "2026-10-28",
@@ -647,7 +647,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfaLlwmiHgP/",
        "date": "2026-11-06",
        "type": "FEED",
-       "likes": 820,
+       "likes": 821,
        "comments": 32
       },
       {
@@ -675,14 +675,14 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfX9RT4IAFb/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 1337,
+       "likes": 1339,
        "comments": 103
       },
       {
        "url": "https://www.instagram.com/reel/DfW8CP4OUvM/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 2531,
+       "likes": 2532,
        "comments": 57
       },
       {
@@ -724,7 +724,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfRzHegCPd9/",
        "date": "2026-11-03",
        "type": "FEED",
-       "likes": 3917,
+       "likes": 3919,
        "comments": 366
       },
       {
@@ -738,7 +738,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfDbHMhoYqM/",
        "date": "2026-10-28",
        "type": "REELS",
-       "likes": 2312,
+       "likes": 2313,
        "comments": 287
       },
       {
@@ -762,7 +762,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 227143,
+     "followers": 227144,
      "n_posts": 24,
      "window": [
       "2026-10-28",
@@ -776,14 +776,14 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfiVd4quj98/",
        "date": "2026-11-09",
        "type": "REELS",
-       "likes": 594,
-       "comments": 69
+       "likes": 596,
+       "comments": 70
       },
       {
        "url": "https://www.instagram.com/p/Dfhx_JLDiSK/",
        "date": "2026-11-09",
        "type": "FEED",
-       "likes": 1206,
+       "likes": 1210,
        "comments": 47
       },
       {
@@ -804,7 +804,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfdRQnFjo9G/",
        "date": "2026-11-07",
        "type": "FEED",
-       "likes": 684,
+       "likes": 685,
        "comments": 73
       },
       {
@@ -832,7 +832,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfaTid4jsiq/",
        "date": "2026-11-06",
        "type": "FEED",
-       "likes": 534,
+       "likes": 536,
        "comments": 36
       },
       {
@@ -946,7 +946,7 @@ window.ENGAGEMENT = {
      "status": "ok",
      "median_likes": 694.5,
      "median_interactions": 929.5,
-     "mean_interactions": 1299.9,
+     "mean_interactions": 1300.4,
      "rate": 0.409
     }
    ],
@@ -957,7 +957,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 374955,
+     "followers": 374961,
      "n_posts": 31,
      "window": [
       "2026-10-28",
@@ -971,14 +971,14 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfiZUeRvGME/",
        "date": "2026-11-09",
        "type": "REELS",
-       "likes": 6735,
+       "likes": 6753,
        "comments": 236
       },
       {
        "url": "https://www.instagram.com/reel/DfiLkzDBjUs/",
        "date": "2026-11-09",
        "type": "REELS",
-       "likes": 2104,
+       "likes": 2106,
        "comments": 79
       },
       {
@@ -999,21 +999,21 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DffvLkyiHEJ/",
        "date": "2026-11-08",
        "type": "FEED",
-       "likes": 3823,
+       "likes": 3825,
        "comments": 62
       },
       {
        "url": "https://www.instagram.com/p/DffXTNPiDwQ/",
        "date": "2026-11-08",
        "type": "FEED",
-       "likes": 2157,
+       "likes": 2159,
        "comments": 80
       },
       {
        "url": "https://www.instagram.com/reel/Dfc1bMQz8OO/",
        "date": "2026-11-07",
        "type": "REELS",
-       "likes": 3848,
+       "likes": 3850,
        "comments": 220
       },
       {
@@ -1027,7 +1027,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfaVC8jCPPT/",
        "date": "2026-11-06",
        "type": "FEED",
-       "likes": 9113,
+       "likes": 9114,
        "comments": 579
       },
       {
@@ -1041,7 +1041,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfXoUz1okQf/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 4288,
+       "likes": 4289,
        "comments": 64
       },
       {
@@ -1097,42 +1097,42 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfPzs6_iBHV/",
        "date": "2026-11-02",
        "type": "FEED",
-       "likes": 53689,
+       "likes": 53693,
        "comments": 1146
       },
       {
        "url": "https://www.instagram.com/reel/DfPfsu4TP4L/",
        "date": "2026-11-02",
        "type": "REELS",
-       "likes": 7354,
+       "likes": 7355,
        "comments": 265
       },
       {
        "url": "https://www.instagram.com/reel/DfNkOoMTKvu/",
        "date": "2026-11-01",
        "type": "REELS",
-       "likes": 16544,
+       "likes": 16546,
        "comments": 515
       },
       {
        "url": "https://www.instagram.com/p/DfNCNw3iJ6c/",
        "date": "2026-11-01",
        "type": "FEED",
-       "likes": 3436,
+       "likes": 3438,
        "comments": 26
       },
       {
        "url": "https://www.instagram.com/p/DfM5R71IeOa/",
        "date": "2026-11-01",
        "type": "FEED",
-       "likes": 7599,
+       "likes": 7600,
        "comments": 239
       },
       {
        "url": "https://www.instagram.com/p/DfK2JzJCET6/",
        "date": "2026-10-31",
        "type": "FEED",
-       "likes": 7364,
+       "likes": 7366,
        "comments": 439
       },
       {
@@ -1160,7 +1160,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfIH_f7zZ2x/",
        "date": "2026-10-30",
        "type": "REELS",
-       "likes": 40809,
+       "likes": 40819,
        "comments": 911
       },
       {
@@ -1174,23 +1174,23 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfFQKEKiPON/",
        "date": "2026-10-29",
        "type": "FEED",
-       "likes": 4366,
-       "comments": 234
+       "likes": 4367,
+       "comments": 235
       },
       {
        "url": "https://www.instagram.com/p/DfDUNqFiM4u/",
        "date": "2026-10-28",
        "type": "FEED",
-       "likes": 10336,
+       "likes": 10337,
        "comments": 624
       }
      ],
      "median_comments": 139,
      "comment_rate": 0.0371,
      "status": "ok",
-     "median_likes": 3848,
-     "median_interactions": 4480,
-     "mean_interactions": 8750.8,
+     "median_likes": 3850,
+     "median_interactions": 4481,
+     "mean_interactions": 8752.6,
      "rate": 1.195
     }
    ],
@@ -1201,7 +1201,7 @@ window.ENGAGEMENT = {
    "history": [
     {
      "date": "2026-11-11",
-     "followers": 652551,
+     "followers": 652576,
      "n_posts": 17,
      "window": [
       "2026-10-28",
@@ -1222,7 +1222,7 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/Dfbr8YzDVgu/",
        "date": "2026-11-07",
        "type": "FEED",
-       "likes": 4458,
+       "likes": 4460,
        "comments": 38
       },
       {
@@ -1236,21 +1236,21 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfYHx3zNcBa/",
        "date": "2026-11-05",
        "type": "REELS",
-       "likes": 2951,
+       "likes": 2952,
        "comments": 62
       },
       {
        "url": "https://www.instagram.com/p/DfWaLzGNmW3/",
        "date": "2026-11-05",
        "type": "FEED",
-       "likes": 752,
+       "likes": 753,
        "comments": 4
       },
       {
        "url": "https://www.instagram.com/reel/DfT2ONONGSi/",
        "date": "2026-11-04",
        "type": "REELS",
-       "likes": 9452,
+       "likes": 9455,
        "comments": 105
       },
       {
@@ -1264,14 +1264,14 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfO3tagI976/",
        "date": "2026-11-02",
        "type": "REELS",
-       "likes": 2135,
+       "likes": 2136,
        "comments": 46
       },
       {
        "url": "https://www.instagram.com/p/DfOwBuzICV_/",
        "date": "2026-11-02",
        "type": "FEED",
-       "likes": 5336,
+       "likes": 5338,
        "comments": 33
       },
       {
@@ -1292,21 +1292,21 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/reel/DfKJICeNdux/",
        "date": "2026-10-31",
        "type": "REELS",
-       "likes": 40006,
+       "likes": 40013,
        "comments": 1188
       },
       {
        "url": "https://www.instagram.com/p/DfJu_31jTPt/",
        "date": "2026-10-31",
        "type": "FEED",
-       "likes": 7984,
+       "likes": 7987,
        "comments": 32
       },
       {
        "url": "https://www.instagram.com/p/DfH8P4tDVTN/",
        "date": "2026-10-30",
        "type": "FEED",
-       "likes": 30700,
+       "likes": 30708,
        "comments": 604
       },
       {
@@ -1320,14 +1320,14 @@ window.ENGAGEMENT = {
        "url": "https://www.instagram.com/p/DfEYUxxN2lj/",
        "date": "2026-10-29",
        "type": "FEED",
-       "likes": 3401,
+       "likes": 3402,
        "comments": 54
       },
       {
        "url": "https://www.instagram.com/p/DfCFe0rNq55/",
        "date": "2026-10-28",
        "type": "FEED",
-       "likes": 3904,
+       "likes": 3905,
        "comments": 45
       }
      ],
@@ -1336,7 +1336,7 @@ window.ENGAGEMENT = {
      "status": "ok",
      "median_likes": 4927,
      "median_interactions": 4996,
-     "mean_interactions": 9340.2,
+     "mean_interactions": 9342,
      "rate": 0.766
     }
    ],

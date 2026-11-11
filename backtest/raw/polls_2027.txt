@@ -1,8 +1,5 @@
 {{Short description|none}}
-{{multiple issues|
 {{more footnotes needed|date=July 2024}}
-{{Cleanup reorganize|date=July 2026|reason=calling Bardella a scenario is achronistic;}}
-}}
 This page lists public opinion polls conducted for the [[2027 French presidential election]]. The first round is scheduled to be held on 18 April 2027.
 
 == First round ==
@@ -37,6 +34,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
 ! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
 ! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Florian Philippot]]}}
 ! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
 |-
 ! style="background:{{party color|Lutte Ouvrière}};"|
@@ -58,11 +56,16 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|The Republicans (France)}};"|
 ! style="background:{{party color|Debout la République}};"|
 ! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|The Patriots (France)}};" |
 ! style="background:{{party color|Reconquête (political party)}};"|
 |-
 |
+|10 Nov 2026
+| colspan="22" |[[Florian Philippot]] announces his candidacy.
+|-
+|
 |9 Nov 2026
-| colspan="23" |[[Teddy Riner]] announces his candidacy.
+| colspan="22" |[[Teddy Riner]] announces his candidacy.
 |-
 | rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
 | rowspan="5" {{Opdrts|3|5|Nov|2026|year}}
@@ -86,6 +89,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |5%
 |1%
 | style="background:#C1CCE1;" | '''34%'''
+| –
 |3%
 |-
 |1%
@@ -107,6 +111,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |6%
 |1%
 | style="background:#C1CCE1;" | '''35%'''
+| –
 |3%
 |-
 |1%
@@ -128,6 +133,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |7%
 |2%
 | style="background:#C1CCE1;" | '''36%'''
+| –
 |4%
 |-
 |1%
@@ -149,6 +155,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |8%
 |2%
 | style="background:#C1CCE1;" | '''36%'''
+| –
 |4%
 |-
 |1%
@@ -170,8 +177,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |10%
 |2%
 | style="background:#C1CCE1;" | '''36%'''
+| –
 |4%
-|-
 |}
 
 === October 2026 ===
@@ -6552,7 +6559,8 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 |style="background:#C1CCE1;" |'''57%'''
 |}
 
-=== Declined to be candidates ===
+=== No longer candidates ===
+[[Jordan Bardella]] was included as the likely candidate for the [[National Rally|Rassemblement National]] in several polls during 2025 and 2026 when it appeared that [[Marine Le Pen|Marine Le Pen's]] legal problems would prevent her from running.
 ==== Philippe vs. Bardella ====
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
 |- 

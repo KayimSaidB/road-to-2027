@@ -12,7 +12,7 @@
    Sources d'abonnés : lepodium2027.fr, qui-sera-president.fr, saper-vedere.eu, presse.
    ===================================================================== */
 window.SOCIAL = {
- "updated": "2026-11-09",
+ "updated": "2026-11-11",
  "followers": {
   "lepen": {
    "x": {
@@ -73,6 +73,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/marine-le-pen",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 3050452,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-le-pen",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -120,6 +127,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/marine-le-pen",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 917878,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-le-pen",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -164,6 +178,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 1668679,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-le-pen",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 1669510,
       "approx": false,
       "source": "https://lepodium2027.fr/marine-le-pen",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -254,6 +275,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/marine-le-pen",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 2244141,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-le-pen",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    }
@@ -314,6 +342,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 2747157,
+      "approx": false,
+      "source": "https://lepodium2027.fr/jean-luc-melenchon",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 2748946,
       "approx": false,
       "source": "https://lepodium2027.fr/jean-luc-melenchon",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -378,6 +413,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/jean-luc-melenchon",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 1255864,
+      "approx": false,
+      "source": "https://lepodium2027.fr/jean-luc-melenchon",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -436,6 +478,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 3283084,
+      "approx": false,
+      "source": "https://lepodium2027.fr/jean-luc-melenchon",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 3288658,
       "approx": false,
       "source": "https://lepodium2027.fr/jean-luc-melenchon",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -526,6 +575,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/jean-luc-melenchon",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 2144016,
+      "approx": false,
+      "source": "https://lepodium2027.fr/jean-luc-melenchon",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    }
@@ -586,6 +642,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 310635,
+      "approx": false,
+      "source": "https://lepodium2027.fr/raphael-glucksmann",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 312245,
       "approx": false,
       "source": "https://lepodium2027.fr/raphael-glucksmann",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -737,6 +800,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/raphael-glucksmann",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 194835,
+      "approx": false,
+      "source": "https://lepodium2027.fr/raphael-glucksmann",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -805,6 +875,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/fabien-roussel",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 105568,
+      "approx": false,
+      "source": "https://lepodium2027.fr/fabien-roussel",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -852,6 +929,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/fabien-roussel",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 36862,
+      "approx": false,
+      "source": "https://lepodium2027.fr/fabien-roussel",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -896,6 +980,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 27739,
+      "approx": false,
+      "source": "https://lepodium2027.fr/fabien-roussel",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 27769,
       "approx": false,
       "source": "https://lepodium2027.fr/fabien-roussel",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -987,6 +1078,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/fabien-roussel",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 27025,
+      "approx": false,
+      "source": "https://lepodium2027.fr/fabien-roussel",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    }
@@ -1046,6 +1144,13 @@ window.SOCIAL = {
      },
      {
       "date": "2026-11-09",
+      "value": 290325,
+      "approx": false,
+      "source": "https://lepodium2027.fr/gabriel-attal",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
       "value": 290325,
       "approx": false,
       "source": "https://lepodium2027.fr/gabriel-attal",
@@ -1118,6 +1223,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/gabriel-attal",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 458557,
+      "approx": false,
+      "source": "https://lepodium2027.fr/gabriel-attal",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -1183,6 +1295,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 682091,
+      "approx": false,
+      "source": "https://lepodium2027.fr/gabriel-attal",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 681791,
       "approx": false,
       "source": "https://lepodium2027.fr/gabriel-attal",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -1280,6 +1399,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/gabriel-attal",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 190672,
+      "approx": false,
+      "source": "https://lepodium2027.fr/gabriel-attal",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    }
@@ -1350,6 +1476,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/edouard-philippe",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 942775,
+      "approx": false,
+      "source": "https://lepodium2027.fr/edouard-philippe",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -1415,6 +1548,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 227069,
+      "approx": false,
+      "source": "https://lepodium2027.fr/edouard-philippe",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 227105,
       "approx": false,
       "source": "https://lepodium2027.fr/edouard-philippe",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -1554,6 +1694,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/edouard-philippe",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 272894,
+      "approx": false,
+      "source": "https://lepodium2027.fr/edouard-philippe",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    }
@@ -1614,6 +1761,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 138949,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-tondelier",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 138988,
       "approx": false,
       "source": "https://lepodium2027.fr/marine-tondelier",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -1739,6 +1893,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/marine-tondelier",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 92726,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-tondelier",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -1783,6 +1944,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 89487,
+      "approx": false,
+      "source": "https://lepodium2027.fr/marine-tondelier",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 89636,
       "approx": false,
       "source": "https://lepodium2027.fr/marine-tondelier",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -1851,6 +2019,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 227299,
+      "approx": false,
+      "source": "https://lepodium2027.fr/david-lisnard",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 228045,
       "approx": false,
       "source": "https://lepodium2027.fr/david-lisnard",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
@@ -1983,6 +2158,13 @@ window.SOCIAL = {
       "approx": false,
       "source": "https://lepodium2027.fr/david-lisnard",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-11",
+      "value": 150129,
+      "approx": false,
+      "source": "https://lepodium2027.fr/david-lisnard",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
      }
     ]
    },
@@ -2067,6 +2249,13 @@ window.SOCIAL = {
      {
       "date": "2026-11-09",
       "value": 143838,
+      "approx": false,
+      "source": "https://lepodium2027.fr/david-lisnard",
+      "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
+     },
+     {
+      "date": "2026-11-10",
+      "value": 144643,
       "approx": false,
       "source": "https://lepodium2027.fr/david-lisnard",
       "detail": "Le Podium 2027, relevé automatique sur la page publique du compte officiel"
