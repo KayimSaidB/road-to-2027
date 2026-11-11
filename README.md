@@ -43,6 +43,32 @@ python3 -m http.server 8000   # puis http://localhost:8000
 N'importe quel hébergement statique : Cloudflare Pages, Netlify, GitHub Pages.
 Déposer le dossier tel quel (sans `scripts/`).
 
+## Engagement Instagram (`scripts/update_engagement.py`)
+
+API officielle de Meta, « Business Discovery » : gratuite, mais elle ne lit que les comptes
+**professionnels** (créateur ou entreprise). Un compte personnel apparaît « non lisible ».
+
+Mise en place, une fois :
+1. Un compte Instagram **professionnel** à vous, relié à une **Page Facebook**.
+2. Une app sur developers.facebook.com (type « Business »), produit Instagram ajouté.
+3. Un jeton avec `instagram_basic`, `pages_show_list`, `pages_read_engagement`.
+   Un jeton utilisateur expire au bout de 60 jours (le workflow prévient 10 jours avant) ;
+   un jeton « utilisateur système » (Meta Business Manager) n'expire pas.
+4. L'identifiant de **votre** compte Instagram professionnel (`IG_USER_ID`).
+5. Dans GitHub : Settings → Secrets and variables → Actions → `IG_TOKEN` et `IG_USER_ID`.
+
+Vérifier quels comptes de candidats sont lisibles, sans rien écrire :
+```
+IG_TOKEN=... IG_USER_ID=... python3 scripts/update_engagement.py --check
+```
+Tester sans jeton, avec des données factices (jamais écrites dans `data/`) :
+```
+python3 scripts/update_engagement.py --sample scripts/fixtures/ig_sample.json --out /tmp/engagement.js
+```
+Méthode : posts publiés entre J-14 et J-2 (au plus 30, au moins 3), interactions = likes +
+3 × commentaires, médiane par post, taux = interactions ÷ abonnés. Les réglages sont dans
+`METHOD`, en tête du script, et recopiés dans `data/engagement.js`.
+
 ## Règles éditoriales
 
 - Aucune moyenne entre instituts. Un sondage est daté à la fin de son terrain.
