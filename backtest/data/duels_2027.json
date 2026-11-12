@@ -1,6 +1,18 @@
 {
 "Philippe vs. Le Pen": [
 {
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"date": "2026-11-05",
+"sample": 2101,
+"scenarios": [
+{
+"Édouard Philippe": 42.0,
+"Marine Le Pen": 58.0
+}
+]
+},
+{
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
 "date": "2026-10-22",
@@ -81,6 +93,18 @@
 {
 "Édouard Philippe": 44.0,
 "Marine Le Pen": 56.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+"date": "2026-10-07",
+"sample": 12005,
+"scenarios": [
+{
+"Édouard Philippe": 47.0,
+"Marine Le Pen": 53.0
 }
 ]
 },
@@ -205,18 +229,6 @@
 ]
 },
 {
-"firm": "Ifop",
-"url": "https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf",
-"date": "2024-04-24",
-"sample": 1081,
-"scenarios": [
-{
-"Édouard Philippe": 49.0,
-"Marine Le Pen": 51.0
-}
-]
-},
-{
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
 "date": "2025-04-18",
@@ -225,6 +237,18 @@
 {
 "Édouard Philippe": 52.0,
 "Marine Le Pen": 48.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf",
+"date": "2024-04-24",
+"sample": 1081,
+"scenarios": [
+{
+"Édouard Philippe": 49.0,
+"Marine Le Pen": 51.0
 }
 ]
 },
@@ -389,6 +413,18 @@
 ],
 "Glucksmann vs. Le Pen": [
 {
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"date": "2026-11-05",
+"sample": 2101,
+"scenarios": [
+{
+"Raphaël Glucksmann": 40.0,
+"Marine Le Pen": 60.0
+}
+]
+},
+{
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
 "date": "2026-10-22",
@@ -499,6 +535,18 @@
 ],
 "Mélenchon vs. Le Pen": [
 {
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"date": "2026-11-05",
+"sample": 2101,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Marine Le Pen": 68.0
+}
+]
+},
+{
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
 "date": "2026-10-22",
@@ -579,6 +627,18 @@
 {
 "Jean-Luc Mélenchon": 33.0,
 "Marine Le Pen": 67.0
+}
+]
+},
+{
+"firm": "Odoxa",
+"url": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+"date": "2026-10-07",
+"sample": 12005,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 32.0,
+"Marine Le Pen": 68.0
 }
 ]
 },
