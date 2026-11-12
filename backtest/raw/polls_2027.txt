@@ -26,15 +26,16 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
 ! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
 ! {{vert header|mw=35px|stp=1|[[Teddy Riner]]}}
-! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
-! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
 ! {{vert header|mw=35px|stp=1|[[Christine Lagarde]]}}
+! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
 ! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
 ! {{vert header|mw=35px|stp=1|[[David Lisnard]]}}
 ! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
 ! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
 ! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
 ! {{vert header|mw=35px|stp=1|[[Florian Philippot]]}}
+! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
 ! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
 |-
 ! style="background:{{party color|Lutte Ouvrière}};"|
@@ -48,8 +49,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Place Publique}};" |
 ! style="background:{{party color|Together (coalition)}};"|
 ! style="background:{{party color|Sans étiquette}};"|
+! style="background:{{party color|Together (coalition)}};" |
 ! style="background:{{party color|Horizons (political party)}};"|
-! style="background:{{party color|Union of Democrats and Independents}};"|
 ! style="background:{{party color|The Centrists}};"|
 ! style="background:{{party color|United Republic}};" |
 ! style="background:{{party color|Nous Citoyens}};"|
@@ -57,15 +58,88 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Debout la République}};"|
 ! style="background:{{party color|National Rally (France)}};"|
 ! style="background:{{party color|The Patriots (France)}};" |
+! style="background:{{party color|Popular Republican Union (2007)}};" |
 ! style="background:{{party color|Reconquête (political party)}};"|
 |-
 |
 |10 Nov 2026
-| colspan="22" |[[Florian Philippot]] announces his candidacy.
+| colspan="23" |[[Florian Philippot]] and [[Eric Zemmour]] announce their candidacy.
+|-
+| rowspan="3"style="background:#d9fff6;"|[https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/ Cluster17]
+| rowspan="3" {{Opdrts|9|10|Nov|2026|year}}
+| rowspan="3"|1,242
+|0.5%
+| style="background:#E6D8F3;" | '''19%'''
+|1.5%
+|3%
+|2%
+|–
+|1%
+|–
+|8%
+|2%
+|2%
+|8%
+|8%
+|1%
+|–
+|8%
+|5%
+|2%
+| style="background:#C1CCE1;" | '''27%'''
+|–
+|1%
+|2%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''20%'''
+|2%
+|–
+|–
+|–
+|1.5%
+|–
+|11%
+|–
+|–
+|–
+|13.5%
+|–
+|–
+|10%
+|5%
+|3%
+| style="background:#C1CCE1;" | '''30.5%'''
+|–
+|–
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''21%'''
+|3%
+|–
+|–
+|–
+|1.5%
+|–
+|10%
+|–
+|–
+|14%
+|–
+|–
+|–
+|10%
+|6%
+|2%
+| style="background:#C1CCE1;" | '''30.5%'''
+|–
+|–
+|3%
 |-
 |
 |9 Nov 2026
-| colspan="22" |[[Teddy Riner]] announces his candidacy.
+| colspan="23" |[[Teddy Riner]] announces his candidacy.
 |-
 | rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
 | rowspan="5" {{Opdrts|3|5|Nov|2026|year}}
@@ -81,14 +155,15 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |11%
 | –
 | –
+| –
 |12%
-| –
-| –
 |2%
+| –
 |9%
 |5%
 |1%
 | style="background:#C1CCE1;" | '''34%'''
+| –
 | –
 |3%
 |-
@@ -105,12 +180,13 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 | –
-| –
 |2%
+| –
 |9%
 |6%
 |1%
 | style="background:#C1CCE1;" | '''35%'''
+| –
 | –
 |3%
 |-
@@ -125,14 +201,15 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |11%
 |6%
 | –
-|11%
 | –
+|11%
 | –
 | –
 | –
 |7%
 |2%
 | style="background:#C1CCE1;" | '''36%'''
+| –
 | –
 |4%
 |-
@@ -147,14 +224,15 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |12%
 | –
 | –
-|14%
 | –
+|14%
 | –
 | –
 | –
 |8%
 |2%
 | style="background:#C1CCE1;" | '''36%'''
+| –
 | –
 |4%
 |-
@@ -177,6 +255,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |10%
 |2%
 | style="background:#C1CCE1;" | '''36%'''
+| –
 | –
 |4%
 |}
@@ -1859,10 +1938,6 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |
 |{{Opdrts||19|September|2026|year}}
 | colspan="24" |Dupont-Aignan announces his candidacy.
-|-
-|
-|{{Opdrts||17|September|2026|year}}
-| colspan="24" |Zemmour announces his candidacy.
 |-
 |
 |{{Opdrts||16|September|2026|year}}
@@ -6083,6 +6158,12 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 ! style="background:{{party color|Horizons (political party)}};" |
 ! style="background:{{party color|National Rally (France)}};" |
 |-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
+| {{Opdrts|3|5|November|2026|year}}
+| 2,101
+|42%
+|style="background:#C1CCE1;" |'''58%'''
+|-
 | style="background:#80fcd4;"|[https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
 | {{Opdrts|21|22|Oct|2026|year}}
 | 973
@@ -6124,6 +6205,12 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 | 2,004
 |44%
 |style="background:#C1CCE1;" |'''56%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/ Odoxa]
+|{{Opdrts|24|7|Oct|2026|year}}
+|12,005
+|47%
+|style="background:#C1CCE1;" |'''53%'''
 |-
 | style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf Harris Interactive]
 | {{Opdrts|22|24|September|2026|year}}
@@ -6185,17 +6272,17 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 | style="background:#AFAFD7;" |'''54%'''
 |46%
 |-
-|style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf Ifop]
-|{{Opdrts|20|24|Apr|2024|year}}
-|1,081
-|49%
-|style="background:#C1CCE1;" |'''51%'''
-|-
 |style="background:#FFCCCC;" |[https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf Ifop/Hexagone]
 |{{Opdrts|11|18|Apr|2025|year}}
 |9,128
 | style="background:#AFAFD7;" | '''52%'''
 |48%
+|-
+|style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf Ifop]
+|{{Opdrts|20|24|Apr|2024|year}}
+|1,081
+|49%
+|style="background:#C1CCE1;" |'''51%'''
 |-
 | rowspan="1" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf Ifop]
 | rowspan="1" {{Opdrts|31|1|Feb|2024|year}}
@@ -6307,6 +6394,12 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 ! style="background:{{party color|Place Publique}};" |
 ! style="background:{{party color|National Rally (France)}};" |
 |-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
+| {{Opdrts|3|5|November|2026|year}}
+| 2,101
+|40%
+|style="background:#C1CCE1;" |'''60%'''
+|-
 | style="background:#80fcd4;"|[https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
 | {{Opdrts|21|22|Oct|2026|year}}
 | 973
@@ -6378,6 +6471,12 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 !{{small|[[Jean-Luc Mélenchon|Mélenchon]]<br/>{{small|[[La France Insoumise|LFI]]}}}}
 !{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
 |-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
+| {{Opdrts|3|5|November|2026|year}}
+| 2,101
+|32%
+|style="background:#C1CCE1;" |'''68%'''
+|-
 | style="background:#80fcd4;"|[https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf OpinionWay]
 | {{Opdrts|21|22|Oct|2026|year}}
 | 973
@@ -6419,6 +6518,12 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 | 2,004
 |33%
 |style="background:#C1CCE1;" |'''67%'''
+|-
+| style="background:#FFCCFF;" |[https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/ Odoxa]
+|{{Opdrts|24|7|Oct|2026|year}}
+|12,005
+|32%
+|style="background:#C1CCE1;" |'''68%'''
 |-
 | style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf Harris Interactive]
 | {{Opdrts|22|24|September|2026|year}}

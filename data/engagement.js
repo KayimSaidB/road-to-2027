@@ -1,6 +1,6 @@
 /* Généré par scripts/update_engagement.py (Instagram, Business Discovery). Ne pas éditer à la main. */
 window.ENGAGEMENT = {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "method": {
   "window_days": [
    14,
@@ -100,7 +100,8 @@ window.ENGAGEMENT = {
      "rate": 0.996
     }
    ],
-   "status": "ok"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "melenchon": {
    "handle": "@jlmelenchon",
@@ -358,7 +359,8 @@ window.ENGAGEMENT = {
      "rate": 2.284
     }
    ],
-   "status": "ok"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "glucksmann": {
    "handle": "@raphaelglucksmann",
@@ -480,7 +482,8 @@ window.ENGAGEMENT = {
      "likes_hidden": true
     }
    ],
-   "status": "likes_hidden"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "roussel": {
    "handle": "@fabien_roussel",
@@ -598,7 +601,8 @@ window.ENGAGEMENT = {
      "rate": 0.794
     }
    ],
-   "status": "ok"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "attal": {
    "handle": "@gabrielattal",
@@ -755,7 +759,8 @@ window.ENGAGEMENT = {
      "likes_hidden": true
     }
    ],
-   "status": "likes_hidden"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "philippe": {
    "handle": "@edouardphilippelh",
@@ -950,7 +955,8 @@ window.ENGAGEMENT = {
      "rate": 0.409
     }
    ],
-   "status": "ok"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "tondelier": {
    "handle": "@marinetondelier",
@@ -1194,7 +1200,8 @@ window.ENGAGEMENT = {
      "rate": 1.195
     }
    ],
-   "status": "ok"
+   "status": "unavailable",
+   "reason": "API access blocked."
   },
   "lisnard": {
    "handle": "@davidlisnard",
@@ -1340,7 +1347,8 @@ window.ENGAGEMENT = {
      "rate": 0.766
     }
    ],
-   "status": "ok"
+   "status": "unavailable",
+   "reason": "API access blocked."
   }
  }
 };
