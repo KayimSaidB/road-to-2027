@@ -128,6 +128,15 @@
     return txt ? h("span", { class: "meta", style: { display: "block" } }, txt) : null;
   }
   const FIRMS = [...new Set(POLLS.map(p => p.firm))].sort((a, b) => a.localeCompare(b, "fr"));
+  // One page per poll, at a shareable address: #sondage-<institut>-<date>
+  const slugify = x => x.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const POLL_BY_SLUG = {};
+  for (const p of POLLS) {
+    let k = "sondage-" + slugify(p.firm) + "-" + p.date, n = 2;
+    while (POLL_BY_SLUG[k]) k = "sondage-" + slugify(p.firm) + "-" + p.date + "-" + n++;
+    POLL_BY_SLUG[k] = p; p._slug = k;
+  }
+  const pollSlug = p => p._slug;
 
   /* ---------- chart engine (SVG, hand-rolled) ---------- */
   function niceStep(max, ticks) {
@@ -269,13 +278,22 @@
         return best;
       };
       svg.addEventListener("pointermove", ev => show(near(ev)));
-      svg.addEventListener("pointerdown", ev => show(near(ev)));
+      // Click opens the measurement (opt.onPick): directly with a mouse; on touch, the first tap
+      // shows the tooltip and a second tap on the same point opens it.
+      let tapped = -1;
+      svg.addEventListener("pointerdown", ev => {
+        const i = near(ev);
+        if (opt.onPick && (ev.pointerType === "mouse" || i === tapped)) { opt.onPick(snap[i]); return; }
+        tapped = i; show(i);
+      });
+      if (opt.onPick) svg.style.cursor = "pointer";
       svg.addEventListener("pointerleave", hide);
       svg.addEventListener("blur", hide);
       svg.addEventListener("focus", () => show(idx < 0 ? snap.length - 1 : idx));
       svg.addEventListener("keydown", ev => {
         if (ev.key === "ArrowLeft") { show(Math.max(0, idx - 1)); ev.preventDefault(); }
         else if (ev.key === "ArrowRight") { show(Math.min(snap.length - 1, idx + 1)); ev.preventDefault(); }
+        else if (ev.key === "Enter" && opt.onPick && idx >= 0) { opt.onPick(snap[idx]); ev.preventDefault(); }
         else if (ev.key === "Escape") hide();
       });
     }
@@ -316,6 +334,7 @@
     const id = location.hash.replace(/^#/, "");
     if (BY_ID[id]) renderCandidate(BY_ID[id]);
     else if (id === "simulateur" && window.renderSandbox) { document.title = "Simulateur · Road to 2027"; window.renderSandbox(main); }
+    else if (POLL_BY_SLUG[id]) renderPoll(POLL_BY_SLUG[id]);
     else { document.title = "Road to 2027"; renderHome(); }
     if (id) main.focus({ preventScroll: true });
     window.scrollTo(0, 0);
@@ -404,13 +423,14 @@
         series: S, height: 380, x0, x1, yFmt: (v, lab) => lab ? nf1.format(v) : v + " %", labels: true, events: SITE.events, yMinMax: 10,
         aria: "Intentions de vote au premier tour, un point par sondage, " + polls.length + " sondages",
         snap: polls.map(p => T(p.date)),
+        onPick: t => { const p = polls.find(q => T(q.date) === t); if (p) location.hash = pollSlug(p); },
         tooltip: t => {
           const ps = polls.filter(p => T(p.date) === t);
           const p = ps[0];
           const rows = CANDS.map(c => ({ c, x: pv(p, c.id) })).filter(r => r.x).sort((a, b) => b.x.v - a.x.v)
             .map(r => ({ color: color(r.c), value: pct(r.x.v), label: r.c.short + (r.x.n > 1 && r.x.hi > r.x.lo ? " (" + nf1.format(r.x.lo) + "–" + nf1.format(r.x.hi) + " selon hypothèse)" : "") }));
           const ev = SITE.events.find(e => Math.abs(T(e.date) - t) <= 2 * DAY);
-          return { title: p.firm + (ps.length > 1 ? " (+ " + ps.slice(1).map(q => q.firm).join(", ") + ")" : ""), sub: "Terrain " + fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) + " personnes" : ""), rows, foot: (ev ? "Repère : " + ev.label + " · " : "") + "Hypothèse lue : " + lineupText(p) + "." };
+          return { title: p.firm + (ps.length > 1 ? " (+ " + ps.slice(1).map(q => q.firm).join(", ") + ")" : ""), sub: "Terrain " + fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) + " personnes" : ""), rows, foot: (ev ? "Repère : " + ev.label + " · " : "") + "Hypothèse lue : " + lineupText(p) + ". Cliquez pour voir tout le sondage." };
         }
       });
     }
@@ -437,7 +457,7 @@
     const tb = h("tbody");
     for (const p of polls) {
       tb.append(h("tr", null,
-        h("td", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("small", null, fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) : "")), h("small", null, lineupText(p))),
+        h("td", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("small", null, fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) : "")), h("small", null, lineupText(p)), h("small", null, h("a", { href: "#" + pollSlug(p) }, "Voir tout le sondage →"))),
         cands.map(c => { const x = pv(p, c.id); return x ? h("td", { title: x.n > 1 ? x.n + " hypothèses : " + nf1.format(x.lo) + " à " + nf1.format(x.hi) + " %" : null }, nf1.format(x.v) + (x.hi > x.lo ? "*" : "")) : h("td", { class: "empty" }, "–"); })));
     }
     return h("details", { class: "more" }, h("summary", null, summaryText),
@@ -455,7 +475,7 @@
       if (p && T(p.date) >= cutoff) latest.push(p);
     }
     latest.sort((a, b) => T(b.date) - T(a.date));
-    const head = h("tr", null, h("th", null, "Candidat"), latest.map(p => h("th", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("br"), fmtD(p.date, { year: undefined }))));
+    const head = h("tr", null, h("th", null, "Candidat"), latest.map(p => h("th", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("br"), h("a", { href: "#" + pollSlug(p), title: "Voir tout le sondage" }, fmtD(p.date, { year: undefined })))));
     const tb = h("tbody");
     const hv = id => { const x = summary(id); return x ? (x.med != null ? x.med : x.last.v) : 0; };
     const order = [...CANDS].sort((a, b) => hv(b.id) - hv(a.id));
@@ -677,11 +697,12 @@
         yFmt: v => v + " %", yMinMax: 5, events: SITE.events.filter(e => !e.who || !e.who.length || e.who.includes(c.id)),
         aria: "Intentions de vote pour " + c.name + ", " + pts_.length + " sondages",
         snap: pts_.map(p => p.t),
+        onPick: t => { const p = pts_.find(q => q.t === t); if (p) location.hash = pollSlug(p.poll); },
         tooltip: t => {
           const ps = pts_.filter(p => p.t === t);
           return {
             title: fmtD(new Date(t).toISOString().slice(0, 10)), rows: ps.map(p => ({ color: col, value: pct(p.v), label: p.poll.firm + (p.poll.sample ? " · " + nf0.format(p.poll.sample) : "") })),
-            foot: ps.map(p => p.poll.firm + " : " + lineupText(p.poll) + (p.hi > p.lo ? " ; de " + nf1.format(p.lo) + " à " + pct(p.hi) + " selon l'hypothèse" : "")).join(" · ")
+            foot: "Cliquez pour voir tout le sondage. " + ps.map(p => p.poll.firm + " : " + lineupText(p.poll) + (p.hi > p.lo ? " ; de " + nf1.format(p.lo) + " à " + pct(p.hi) + " selon l'hypothèse" : "")).join(" · ")
           };
         }
       });
@@ -747,6 +768,44 @@
     const evs = SITE.events.filter(e => e.who && e.who.includes(c.id));
     if (evs.length) main.append(h("section", { "aria-labelledby": "tl-t" }, h("div", { class: "sec-head" }, h("h2", { id: "tl-t" }, "Repères")),
       h("ul", { class: "timeline" }, evs.map(e => h("li", null, h("time", { datetime: e.date }, fmtD(e.date)), h("span", null, e.label))))));
+  }
+
+  /* ---------- one poll, every line-up and every candidate (#sondage-...) ---------- */
+  function renderPoll(p) {
+    const lu = lineup(p), C = Object.fromEntries(CANDS.map(c => [c.id, c]));
+    document.title = p.firm + " · " + fmtD(p.date) + " · Road to 2027";
+    const all = p.scenarios.flatMap((sc, i) => Object.values(sc).concat(Object.values((p.others || [])[i] || {})));
+    const max = Math.max(...all, 1), many = p.scenarios.length > 1;
+    main.append(h("a", { class: "back", href: "#", onclick: e => { if (history.length > 1) { e.preventDefault(); history.back(); } } }, "← Retour"),
+      h("section", { class: "sb-head" },
+        h("p", { class: "eyebrow" }, "Sondage · présidentielle 2027 · premier tour"),
+        h("h1", null, p.firm),
+        h("p", { class: "lead" }, "Terrain " + fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) + " personnes interrogées" : "") +
+          " · " + p.scenarios.length + " hypothèse" + (many ? "s" : "") + " de candidatures testée" + (many ? "s" : "") + "."),
+        h("p", { class: "note" }, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, "Voir la publication d'origine du sondage"))));
+    const grid = h("div", { class: "poll-grid" }), field = stdField(p.date);
+    p.scenarios.forEach((sc, i) => {
+      const oth = (p.others || [])[i] || {};
+      const rows = Object.entries(sc).map(([id, v]) => ({ id, name: C[id] ? C[id].name : id, v, tracked: true }))
+        .concat(Object.entries(oth).map(([name, v]) => ({ name, v, tracked: false }))).sort((a, b) => b.v - a.v);
+      const isRef = i === lu.i;
+      const extras = rows.filter(r => !field.has(r.tracked ? r.id : r.name)).map(r => r.name.split(" ").slice(-1)[0]);
+      grid.append(h("figure", { class: "eng-fig" + (isRef ? " is-ref" : "") },
+        h("figcaption", null, h("b", null, "Hypothèse " + (i + 1) + " · " + rows.length + " candidats"),
+          isRef && many ? h("span", { class: "ref-badge" }, "Hypothèse retenue sur ce site") : null,
+          h("span", null, extras.length ? "Hors champ habituel : " + extras.join(", ") : "Champ habituel des candidats")),
+        h("div", { class: "eng-bars" }, rows.map(r => h("div", { class: "eng-row" + (r.tracked ? "" : " is-other"), css: { "--c": r.tracked ? color(C[r.id]) : "var(--ink3)", "--w": (100 * r.v / max).toFixed(1) + "%" } },
+          h("span", { class: "eng-who" }, r.tracked ? h("a", { href: "#" + r.id }, r.name) : h("span", null, r.name)),
+          h("span", { class: "eng-track" }, h("i")),
+          h("span", { class: "eng-val num" }, pct(r.v)))))));
+    });
+    main.append(h("section", { "aria-labelledby": "poll-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "poll-t" }, many ? "Toutes les hypothèses, tous les candidats" : "Tous les candidats testés"),
+        h("p", null, "En couleur, les candidats suivis sur ce site ; en gris, les autres candidats testés." + (many ? " Même échelle pour toutes les hypothèses." : "")))),
+      grid,
+      many ? h("p", { class: "note" }, "Pourquoi l'hypothèse " + (lu.i + 1) + " ? Sur ce site, tous les candidats d'un sondage sont lus dans la même hypothèse : celle qui ressemble le plus au champ habituel " +
+        "(les noms testés dans au moins la moitié des sondages des 60 derniers jours), chaque nom inhabituel ajouté comptant comme une pénalité. " +
+        "C'est elle qui alimente les courbes, la médiane et les comparaisons.") : null));
   }
 
   route();
