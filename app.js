@@ -48,16 +48,46 @@
   }
 
   /* ---------- poll data ---------- */
-  // One reference scenario per poll: the hypothesis that includes the most of the tracked
-  // candidates (first one on ties). Every candidate is read from that same hypothesis, so values
-  // in a poll stay comparable. lo/hi/n = range across all hypotheses that include the candidate.
-  function refScenario(poll) {
-    if (!poll._ref) {
-      let best = poll.scenarios[0], bn = -1;
-      for (const s of poll.scenarios) { const n = CANDS.filter(c => c.id in s).length; if (n > bn) { bn = n; best = s; } }
-      poll._ref = best;
+  /* ---------- which line-up of a poll do we read? ----------
+     Polls often test several line-ups ("hypothèses"). Every candidate of a poll is read from the same
+     one, the reference line-up: the one closest to the STANDARD FIELD (names tested in at least half of
+     the polls of the previous 60 days). Score = tracked candidates included - 1.5 x unusual names added
+     (Lagarde, Ruffin... when few pollsters test them), so an 18-candidate line-up with four unusual
+     names loses to the usual 11-candidate one. Ties: fewer names, then the order of the source. */
+  const STD_DAYS = 60, STD_SHARE = 0.5, EXTRA_PENALTY = 1.5;
+  const namesIn = (poll, i) => Object.keys(poll.scenarios[i]).concat(Object.keys((poll.others || [])[i] || {}));
+  const stdCache = {};
+  function stdField(date) {
+    if (!stdCache[date]) {
+      const t = T(date), win = POLLS.filter(p => T(p.date) <= t && T(p.date) > t - STD_DAYS * DAY), cnt = {};
+      for (const p of win) for (const n of new Set(p.scenarios.flatMap((_, i) => namesIn(p, i)))) cnt[n] = (cnt[n] || 0) + 1;
+      stdCache[date] = new Set(Object.keys(cnt).filter(n => cnt[n] >= STD_SHARE * win.length));
     }
-    return poll._ref;
+    return stdCache[date];
+  }
+  function lineup(poll) {
+    if (!poll._lu) {
+      const field = stdField(poll.date);
+      let best = null;
+      poll.scenarios.forEach((sc, i) => {
+        const names = namesIn(poll, i), tracked = CANDS.filter(c => c.id in sc).map(c => c.id);
+        const extras = names.filter(n => !field.has(n)).sort((x, y) => (((poll.others || [])[i] || {})[y] || 0) - (((poll.others || [])[i] || {})[x] || 0));
+        const score = tracked.length - EXTRA_PENALTY * extras.length;
+        if (!best || score > best.score || (score === best.score && names.length < best.n)) best = { i, score, n: names.length, tracked, extras };
+      });
+      poll._lu = best;
+    }
+    return poll._lu;
+  }
+  const refScenario = poll => poll.scenarios[lineup(poll).i];
+  // Two polls are comparable when their reference line-ups pit the same tracked candidates, with the
+  // same unusual additions: only then does a change between them mean something.
+  const lineupKey = poll => { const l = lineup(poll); return l.tracked.slice().sort().join(",") + "|" + l.extras.slice().sort().join(","); };
+  const comparable = (a, b) => lineupKey(a) === lineupKey(b);
+  function lineupText(poll) {
+    const l = lineup(poll), ex = l.extras.map(n => n.split(" ").slice(-1)[0]);
+    return l.n + " candidats testés" + (ex.length ? ", dont " + ex.join(", ") + " (hors champ habituel)" : "") +
+      (poll.scenarios.length > 1 ? " · " + poll.scenarios.length + " hypothèses dans ce sondage" : "");
   }
   function pv(poll, id) {
     const ref = refScenario(poll);
@@ -71,14 +101,31 @@
     for (const p of polls) { const x = pv(p, id); if (x) out.push(Object.assign({ t: T(p.date), poll: p }, x)); }
     return out;
   }
+  const median = a => { const b = a.slice().sort((x, y) => x - y), m = b.length >> 1; return b.length % 2 ? b[m] : (b[m - 1] + b[m]) / 2; };
+  const LATEST_POLL = POLLS.reduce((m, p) => p.date > m ? p.date : m, "");
   function summary(id) {
     const s = series(id, POLLS);
     if (!s.length) return null;
     const last = s[s.length - 1];
-    const prevSame = [...s].reverse().find(x => x !== last && x.poll.firm === last.poll.firm);
-    const t30 = last.t - 30 * DAY;
-    const recent = s.filter(x => x.t >= t30);
-    return { last, prevSame, lo30: Math.min(...recent.map(x => x.v)), hi30: Math.max(...recent.map(x => x.v)), n30: recent.length, all: s };
+    const sameFirm = [...s].reverse().filter(x => x !== last && x.poll.firm === last.poll.firm);
+    const prevSame = sameFirm.find(x => comparable(x.poll, last.poll)) || null;        // like-for-like only
+    const prevOther = !prevSame && sameFirm.length ? sameFirm[0] : null;                  // exists, but not comparable
+    const recent = s.filter(x => x.t > T(LATEST_POLL) - 30 * DAY);                        // one value per poll
+    return { last, prevSame, prevOther, all: s, n30: recent.length,
+      med: recent.length ? median(recent.map(x => x.v)) : null,
+      lo30: recent.length ? Math.min(...recent.map(x => x.v)) : null, hi30: recent.length ? Math.max(...recent.map(x => x.v)) : null };
+  }
+  // The last poll's change, only against a comparable poll (same institute, same candidates tested).
+  function lastChange(s, asText) {
+    let txt = null;
+    if (s.prevSame) {
+      const d = s.last.v - s.prevSame.v;
+      txt = (d > 0 ? "▲ " : d < 0 ? "▼ " : "") + pts(d) + " par rapport à son sondage comparable du " + fmtD(s.prevSame.poll.date, { year: undefined });
+    } else if (s.prevOther) {
+      txt = "Pas de comparaison avec son sondage du " + fmtD(s.prevOther.poll.date, { year: undefined }) + " : candidats testés différents";
+    }
+    if (asText) return txt;
+    return txt ? h("span", { class: "meta", style: { display: "block" } }, txt) : null;
   }
   const FIRMS = [...new Set(POLLS.map(p => p.firm))].sort((a, b) => a.localeCompare(b, "fr"));
 
@@ -301,30 +348,31 @@
 
     // standings
     const sums = CANDS.map(c => ({ c, s: summary(c.id) })).filter(x => x.s);
-    sums.sort((a, b) => b.s.last.v - a.s.last.v);
+    const headline = s => s.med != null ? s.med : s.last.v;
+    sums.sort((a, b) => headline(b.s) - headline(a.s));
     const cards = h("div", { class: "cards" });
     const sx0 = T("2026-07-01"), sx1 = today();
     sums.forEach(({ c, s }, i) => {
       const l = s.last, sp = h("div", { class: "spark" });
-      const d = s.prevSame ? l.v - s.prevSame.v : null;
       cards.append(h("a", { class: "card", href: "#" + c.id, css: { "--c": color(c) } },
         h("span", { class: "rank num", "aria-hidden": "true" }, i + 1),
         h("span", { class: "who" }, h("span", { class: "key" }), h("span", { class: "name" }, c.name)),
         h("span", { class: "party" }, c.party),
         h("span", null,
-          h("span", { class: "val" }, h("b", { class: "num" }, pct(l.v)),
-            d !== null ? h("span", { class: "delta num" }, (d > 0 ? "▲ " : d < 0 ? "▼ " : "") + pts(d)) : null),
-          h("span", { class: "meta", style: { display: "block" } }, l.poll.firm + ", " + fmtRange(l.poll.start, l.poll.date) +
-            (d !== null ? " · écart avec son sondage du " + fmtD(s.prevSame.poll.date, { year: undefined }) : "")),
-          h("span", { class: "meta", style: { display: "block" } }, s.n30 > 1 ? "De " + nf1.format(s.lo30) + " à " + pct(s.hi30) + " sur 30 jours (" + s.n30 + " sondages)" : "1 sondage sur 30 jours")),
+          h("span", { class: "val" }, h("b", { class: "num" }, pct(headline(s))),
+            h("span", { class: "delta" }, s.med != null ? "médiane 30 jours" : "dernier sondage")),
+          h("span", { class: "meta", style: { display: "block" } }, s.n30 > 1 ? s.n30 + " sondages sur 30 jours, de " + nf1.format(s.lo30) + " à " + pct(s.hi30)
+            : s.n30 === 1 ? "1 seul sondage sur 30 jours" : "aucun sondage sur 30 jours"),
+          h("span", { class: "meta", style: { display: "block" } }, "Dernier : " + pct(l.v) + " · " + l.poll.firm + ", " + fmtRange(l.poll.start, l.poll.date)),
+          lastChange(s)),
         sp,
         h("span", { class: "go" }, "Voir la fiche →")));
       redraws.push(() => sparkline(sp, s.all.filter(x => x.t >= sx0), color(c), sx0, sx1));
     });
     main.append(h("section", { "aria-labelledby": "std-t" },
       h("div", { class: "sec-head" }, h("div", null,
-        h("h2", { id: "std-t" }, "Le classement dans le dernier sondage de chaque candidat"),
-        h("p", null, "La flèche compare au sondage précédent du même institut, seule comparaison qui ne mélange pas les méthodes. La fourchette sur 30 jours montre l'écart entre instituts."))),
+        h("h2", { id: "std-t" }, "Le classement : médiane des sondages des 30 derniers jours"),
+        h("p", null, "Chaque sondage compte pour une valeur, lue dans son hypothèse la plus proche du champ habituel des candidats. La médiane résiste mieux qu'une moyenne à un sondage atypique. La flèche du dernier sondage ne compare qu'au sondage précédent du même institut avec les mêmes candidats testés."))),
       cards));
 
     // race chart
@@ -362,7 +410,7 @@
           const rows = CANDS.map(c => ({ c, x: pv(p, c.id) })).filter(r => r.x).sort((a, b) => b.x.v - a.x.v)
             .map(r => ({ color: color(r.c), value: pct(r.x.v), label: r.c.short + (r.x.n > 1 && r.x.hi > r.x.lo ? " (" + nf1.format(r.x.lo) + "–" + nf1.format(r.x.hi) + " selon hypothèse)" : "") }));
           const ev = SITE.events.find(e => Math.abs(T(e.date) - t) <= 2 * DAY);
-          return { title: p.firm + (ps.length > 1 ? " (+ " + ps.slice(1).map(q => q.firm).join(", ") + ")" : ""), sub: "Terrain " + fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) + " personnes" : ""), rows, foot: ev ? "Repère : " + ev.label : (p.scenarios.length > 1 ? p.scenarios.length + " hypothèses testées ; scores de la plus complète." : null) };
+          return { title: p.firm + (ps.length > 1 ? " (+ " + ps.slice(1).map(q => q.firm).join(", ") + ")" : ""), sub: "Terrain " + fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) + " personnes" : ""), rows, foot: (ev ? "Repère : " + ev.label + " · " : "") + "Hypothèse lue : " + lineupText(p) + "." };
         }
       });
     }
@@ -389,7 +437,7 @@
     const tb = h("tbody");
     for (const p of polls) {
       tb.append(h("tr", null,
-        h("td", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("small", null, fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) : ""))),
+        h("td", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("small", null, fmtRange(p.start, p.date) + (p.sample ? " · " + nf0.format(p.sample) : "")), h("small", null, lineupText(p))),
         cands.map(c => { const x = pv(p, c.id); return x ? h("td", { title: x.n > 1 ? x.n + " hypothèses : " + nf1.format(x.lo) + " à " + nf1.format(x.hi) + " %" : null }, nf1.format(x.v) + (x.hi > x.lo ? "*" : "")) : h("td", { class: "empty" }, "–"); })));
     }
     return h("details", { class: "more" }, h("summary", null, summaryText),
@@ -409,7 +457,8 @@
     latest.sort((a, b) => T(b.date) - T(a.date));
     const head = h("tr", null, h("th", null, "Candidat"), latest.map(p => h("th", null, h("a", { href: p.url || POLLS_INDEX(), target: "_blank", rel: "noopener" }, p.firm), h("br"), fmtD(p.date, { year: undefined }))));
     const tb = h("tbody");
-    const order = [...CANDS].sort((a, b) => ((summary(b.id) || { last: { v: 0 } }).last.v) - ((summary(a.id) || { last: { v: 0 } }).last.v));
+    const hv = id => { const x = summary(id); return x ? (x.med != null ? x.med : x.last.v) : 0; };
+    const order = [...CANDS].sort((a, b) => hv(b.id) - hv(a.id));
     for (const c of order) tb.append(h("tr", null, h("td", null, h("a", { href: "#" + c.id, style: { textDecoration: "none" } }, cellWho(c))),
       latest.map(p => { const x = pv(p, c.id); return x ? h("td", null, pct(x.v)) : h("td", { class: "empty" }, "non testé"); })));
     return h("section", { "aria-labelledby": "lf-t" },
@@ -584,7 +633,7 @@
       h("div", { class: "method" },
         h("div", null, h("h3", null, "Sondages"),
           h("p", null, "Les sondages sont repérés grâce à la page Wikipédia qui les recense, puis reliés chacun à sa publication d'origine (institut, média ou notice de la Commission des sondages). Ils sont datés au dernier jour du terrain."),
-          h("p", null, "Aucune moyenne entre instituts, aucun redressement. Quand un sondage teste plusieurs hypothèses, on retient pour tous les candidats celle qui inclut le plus de candidats suivis ici, pour que les scores d'un même sondage restent comparables. L'écart entre hypothèses est indiqué.")),
+          h("p", null, "Quand un sondage teste plusieurs hypothèses, on lit tous les candidats dans la même : celle qui ressemble le plus au champ habituel (les noms testés dans au moins la moitié des sondages des 60 derniers jours), pénalisée pour chaque nom inhabituel ajouté. Le chiffre mis en avant est la médiane des sondages des 30 derniers jours ; les flèches ne comparent un sondage qu'au précédent du même institut avec les mêmes candidats testés. Aucun redressement.")),
         h("div", null, h("h3", null, "Réseaux et adhérents"),
           h("p", null, "Abonnés : relevés datés, un par compte, chacun avec sa source. Adhérents : chiffres communiqués par les partis ou cités par la presse, jamais certifiés. LFI compte des soutiens inscrits en ligne, pas des adhérents à jour de cotisation."),
           h("p", null, "Un chiffre sans source n'est pas publié. Une case vide signifie qu'aucun chiffre public n'a été trouvé.")),
@@ -600,17 +649,17 @@
     const s = summary(c.id);
     const col = color(c);
     main.append(h("a", { class: "back", href: "#" }, "← Les huit candidats"));
-    const d = s && s.prevSame ? s.last.v - s.prevSame.v : null;
     main.append(h("section", { class: "fiche-head", css: { "--c": col } },
       h("div", null,
         h("p", { class: "eyebrow" }, "Présidentielle 2027 · J-" + daysLeft()),
         h("h1", null, h("span", { class: "key" }), c.name),
         h("p", { class: "party" }, c.party)),
       s ? h("div", { class: "bigfig" },
-        h("b", { class: "num" }, pct(s.last.v)),
-        h("p", null, "Dernier sondage : " + s.last.poll.firm + ", " + fmtRange(s.last.poll.start, s.last.poll.date) + " · " +
-          (d !== null ? pts(d) + " par rapport au sondage " + s.prevSame.poll.firm + " du " + fmtD(s.prevSame.poll.date, { year: undefined }) + " · " : "") +
-          (s.n30 > 1 ? "De " + nf1.format(s.lo30) + " à " + pct(s.hi30) + " sur 30 jours." : "")))
+        h("b", { class: "num" }, pct(s.med != null ? s.med : s.last.v)),
+        h("p", null, (s.med != null ? "Médiane des " + s.n30 + " sondage" + (s.n30 > 1 ? "s" : "") + " des 30 derniers jours" +
+            (s.n30 > 1 ? ", de " + nf1.format(s.lo30) + " à " + pct(s.hi30) : "") + "." : "Aucun sondage sur 30 jours : dernier sondage connu.")),
+        h("p", null, "Dernier sondage : " + pct(s.last.v) + ", " + s.last.poll.firm + ", " + fmtRange(s.last.poll.start, s.last.poll.date) +
+          " (" + lineupText(s.last.poll) + ")." + (lastChange(s, true) ? " " + lastChange(s, true) + "." : "")))
         : h("div", { class: "bigfig" }, h("p", null, "Pas encore testé dans les sondages."))));
 
     // polls chart for this candidate
@@ -632,7 +681,7 @@
           const ps = pts_.filter(p => p.t === t);
           return {
             title: fmtD(new Date(t).toISOString().slice(0, 10)), rows: ps.map(p => ({ color: col, value: pct(p.v), label: p.poll.firm + (p.poll.sample ? " · " + nf0.format(p.poll.sample) : "") })),
-            foot: ps.some(p => p.hi > p.lo) ? ps.filter(p => p.hi > p.lo).map(p => p.poll.firm + " : de " + nf1.format(p.lo) + " à " + pct(p.hi) + " selon les " + p.n + " hypothèses").join(" · ") : null
+            foot: ps.map(p => p.poll.firm + " : " + lineupText(p.poll) + (p.hi > p.lo ? " ; de " + nf1.format(p.lo) + " à " + pct(p.hi) + " selon l'hypothèse" : "")).join(" · ")
           };
         }
       });

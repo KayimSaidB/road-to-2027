@@ -20,12 +20,27 @@ from candidates_2027 import CANDS, NAME2ID   # id, full name, short, bloc, type
 from candidates_2027 import OTHERS
 WARN_AT = 1.0   # % : an unlisted candidate polled at least this high triggers a workflow warning
 
-# ---- first round: average of each poll's most complete hypothesis over the last 21 days ----
+# ---- first round: average of each poll's reference line-up over the last 21 days ----
+# Same rule as the site (app.js, lineup()): the line-up closest to the STANDARD FIELD (names tested in
+# at least half of the polls of the previous 60 days), each unusual name added costing 1.5 listed
+# candidates. Otherwise an 18-candidate line-up (Lagarde, Ruffin...) would dilute everyone.
+STD_DAYS, STD_SHARE, EXTRA_PENALTY = 60, 0.5, 1.5
 polls = [p for p in J("polls_2027.json") if "election" not in p["firm"].lower()]
+recent60 = [p for p in polls if TODAY - dt.timedelta(days=STD_DAYS) < D(p["date"]) <= TODAY]
+_seen = {}
+for p in recent60:
+    for n in {n for s in p["scenarios"] for n in s}:
+        _seen[n] = _seen.get(n, 0) + 1
+STD_FIELD = {n for n, k in _seen.items() if k >= STD_SHARE * len(recent60)}
+
+def lineup_score(s):
+    extras = sum(1 for n in s if n not in STD_FIELD)
+    return (sum(1 for n in s if n in NAME2ID) - EXTRA_PENALTY * extras, -len(s))
+
 win = [p for p in polls if TODAY - dt.timedelta(days=WINDOW) < D(p["date"]) <= TODAY]
 vals, firms, unlisted = {}, set(), {}
 for p in win:
-    best = max(p["scenarios"], key=lambda s: sum(1 for c in s if c in NAME2ID))
+    best = max(p["scenarios"], key=lineup_score)
     tot = sum(best.values()); firms.add(p["firm"])
     other = 0.0
     for c, v in best.items():
