@@ -159,6 +159,11 @@ for tbl in re.findall(r"\{\|.*?\n\|\}", body, re.S):
 def scenario(vals):
     return {TRACKED[k]: v for k, v in vals.items() if k in TRACKED}
 
+def others(vals):
+    """Candidates tested in the same line-up but not tracked on the site (Zemmour, Lagarde, Riner...).
+    Kept so the site can say who was tested and spot unusual line-ups."""
+    return {k: v for k, v in vals.items() if k not in TRACKED}
+
 out = []
 for p in polls:
     if p["date"] < SINCE:
@@ -167,7 +172,8 @@ for p in polls:
     if not any(scen):
         continue
     out.append({"firm": p["firm"], "url": p["url"], "start": p["start"], "date": p["date"],
-                "sample": p["sample"], "scenarios": scen})
+                "sample": p["sample"], "scenarios": scen,
+                "others": [others(v) for v in p["scenarios"]]})   # same order as "scenarios"
 out.sort(key=lambda p: (p["date"], p["firm"]))
 
 payload = {

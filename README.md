@@ -71,11 +71,16 @@ Méthode : posts publiés entre J-14 et J-2 (au plus 30, au moins 3), interactio
 
 ## Règles éditoriales
 
-- Aucune moyenne entre instituts. Un sondage est daté à la fin de son terrain.
-- Quand un sondage teste plusieurs hypothèses, on lit tous les candidats dans
-  la même : celle qui inclut le plus de candidats suivis. La fourchette entre
-  hypothèses est affichée.
-- Les flèches comparent un candidat à lui-même, dans le sondage précédent du même institut.
+- Un sondage est daté à la fin de son terrain.
+- Quand un sondage teste plusieurs hypothèses, on lit tous les candidats dans la
+  même, l'**hypothèse de référence** : la plus proche du **champ habituel** (noms testés
+  dans au moins la moitié des sondages des 60 jours précédents), chaque nom inhabituel
+  ajouté coûtant 1,5 candidat suivi. La fourchette entre hypothèses est affichée.
+  Même règle dans le simulateur (`backtest/export_model.py`).
+- Le chiffre mis en avant est la **médiane des sondages des 30 derniers jours** (une
+  valeur par sondage) ; le dernier sondage est affiché à côté.
+- Les flèches ne comparent un sondage qu'au précédent **du même institut avec les mêmes
+  candidats testés** ; sinon, la fiche l'indique au lieu d'afficher un écart.
 - **Loi du 19 juillet 1977** : ne publier ni ne commenter aucun sondage la veille et le jour
   de chaque tour (17-18 avril 2027 pour le premier tour). Geler les mises à jour ces jours-là.
 - Avant la mise en ligne : remplir `contact` et `host` dans `data/site.js`
