@@ -1289,6 +1289,12 @@
     .eng-row.is-missing .eng-val { color: var(--ink3); font-weight: 400 }
     @media (prefers-reduced-motion: no-preference) { .eng-track i { transition: width .4s ease } }
     @media (max-width: 860px) { .eng-charts { grid-template-columns: minmax(0, 1fr) } }
+    /* poll page */
+    .poll-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr)); gap: 16px }
+    .eng-fig.is-ref { border: 2px solid var(--ink) }
+    .ref-badge { display: inline-block; justify-self: start; background: var(--ink); color: var(--surface) !important; font-weight: 700; font-size: .72rem !important; padding: 2px 8px; border-radius: 999px; margin: 2px 0 }
+    .eng-row.is-other .eng-who span { color: var(--ink3); font-weight: 500; font-size: .9rem }
+    .eng-row.is-other .eng-val { color: var(--ink3); font-weight: 500 }
   </style>
 </head>
 
