@@ -85,7 +85,9 @@ for p in recent:
 withdraw = {}
 for x, L in measured.items():
     if len(L) < 5: continue
-    keys = set().union(*L)
+    # sorted: set order changes with every Python process (hash randomization), which made
+    # data/model.js differ between runs on the same data, and the float sum below depend on it.
+    keys = sorted(set().union(*L))
     w = {c: max(0.0, st.mean(d.get(c, 0) for d in L)) for c in keys}
     t = sum(w.values())
     withdraw[x] = {"n": len(L), "to": {c: round(v / t, 3) for c, v in w.items() if v / t >= 0.01}}
