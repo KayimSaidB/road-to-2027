@@ -1,0 +1,31 @@
+# Python tooling for scripts/, backtest/ and tests/. The site itself has no dependency.
+#
+# Dependency groups (PEP 735), installed without packaging the project (pip >= 25.1):
+#   pip install --group scripts   # what the data scripts need (update-polls workflow)
+#   pip install --group dev       # + tests and linting (CI, local development)
+
+[dependency-groups]
+scripts = ["pydantic==2.13.5"]
+dev = [
+    { include-group = "scripts" },
+    "pytest==8.3.2",
+    "ruff==0.14.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# scripts/ is not a package: let tests `import validate_data` directly.
+pythonpath = ["scripts"]
+addopts = "-ra"
+
+[tool.ruff]
+target-version = "py312"
+
+[tool.ruff.lint]
+# Ruff defaults (pyflakes F + pycodestyle E4/E7/E9), minus the compact style this
+# codebase uses on purpose: `import a, b`, one-liners with ; and :, short names like `l`.
+ignore = ["E401", "E701", "E702", "E731", "E741"]
+
+[tool.ruff.lint.per-file-ignores]
+# sys.path.insert(...) must run before importing sibling modules.
+"backtest/*.py" = ["E402"]
