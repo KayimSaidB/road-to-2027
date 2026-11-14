@@ -20,11 +20,12 @@ Method (data/engagement.js keeps it next to the numbers):
 """
 import datetime as dt, json, os, statistics as st, sys, urllib.error, urllib.parse, urllib.request
 
+from road2027.jsdata import MissingVariableError, read_js, write_js
+
 GRAPH = "https://graph.facebook.com/v21.0"   # bump when Meta retires this version
 HERE = os.path.dirname(os.path.abspath(__file__))
 SOCIAL = os.path.join(HERE, "..", "data", "social.js")
 OUT = os.path.join(HERE, "..", "data", "engagement.js")
-PREFIX = "window.ENGAGEMENT = "
 METHOD = {"window_days": [14, 2], "min_posts": 3, "max_posts": 50, "comment_weight": 3,
           "source": "Meta Graph API, Business Discovery (comptes professionnels uniquement)"}
 FIELDS = ("followers_count,media_count,media.limit(60)"
@@ -47,7 +48,7 @@ def get(url):
             return {"error": {"message": f"HTTP {e.code}"}}
 
 def handles():
-    d = json.loads(open(SOCIAL, encoding="utf-8").read().split("window.SOCIAL = ", 1)[1].rsplit(";", 1)[0])
+    d = read_js(SOCIAL, "SOCIAL")
     out = {}
     for cid, nets in d["followers"].items():
         h = (nets.get("instagram") or {}).get("handle")
@@ -127,8 +128,8 @@ def main():
         today = dt.date.fromisoformat(canned.get("today", today.isoformat()))
 
     try:
-        data = json.loads(open(out_path, encoding="utf-8").read().split(PREFIX, 1)[1].rsplit(";", 1)[0])
-    except (FileNotFoundError, IndexError):
+        data = read_js(out_path, "ENGAGEMENT")
+    except (FileNotFoundError, MissingVariableError):  # first run. A corrupt JSON still fails loudly.
         data = {"updated": None, "method": METHOD, "candidates": {}}
     data["method"] = METHOD
 
@@ -153,9 +154,8 @@ def main():
         for cid, s in reachable.items(): print(f"{cid:12} {s}")
         return
     data["updated"] = today.isoformat()
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write("/* Généré par scripts/update_engagement.py (Instagram, Business Discovery). Ne pas éditer à la main. */\n")
-        f.write(PREFIX); json.dump(data, f, ensure_ascii=False, indent=1); f.write(";\n")
+    write_js(out_path, "ENGAGEMENT", data, indent=1,
+             header="/* Généré par scripts/update_engagement.py (Instagram, Business Discovery). Ne pas éditer à la main. */\n")
     for cid, s in reachable.items(): print(f"{cid:12} {s}")
 
 if __name__ == "__main__":

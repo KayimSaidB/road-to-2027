@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Parse opinion-poll tables of French presidential elections from Wikipedia wikitext.
 
-    python3 backtest/parse_history.py backtest/raw/polls_2022.txt backtest/data/polls_2022.json
+    python -m road2027.wikitext backtest/raw/polls_2022.txt backtest/data/polls_2022.json
 
-Output: [{firm, url, date, sample, scenarios: [{"Candidate Name": pct, ...}, ...]}, ...]
+Output: [{firm, url, start, date, sample, scenarios: [{"Candidate Name": pct, ...}, ...]}, ...]
 
 A wikitext table looks like this:
 
@@ -30,7 +30,7 @@ from enum import Enum
 from pathlib import Path
 from typing import NamedTuple
 
-LOGGER = logging.getLogger("parse_history")
+LOGGER = logging.getLogger(__name__)
 
 MONTHS = "january february march april may june july august september october november december".split()
 
@@ -87,7 +87,8 @@ class Cell(NamedTuple):
 class Poll:
     firm: str
     url: str | None
-    date: str
+    start: str | None  # first day of fieldwork, when the page gives it
+    date: str          # last day of fieldwork: a poll is dated at the end of its fieldwork
     sample: int | None
     scenarios: list[dict[str, float]] = field(default_factory=list)
 
@@ -166,6 +167,27 @@ def parse_date(cell: Cell) -> str | None:
         return f"{int(year):04d}-{month_number(month):02d}-{int(day):02d}"
     except ValueError:
         return None
+
+
+def parse_start(cell: Cell, end: str) -> str | None:
+    """First day of fieldwork, from {{Opdrts|first|last|Month|Year}} only (None otherwise).
+
+    `end` is the last day, from parse_date(). Forms: {{Opdrts||12|Nov|2026}} (one day),
+    {{Opdrts|28|Oct|2|Nov|2026}} (two months), {{Opdrts|31|1|Sep|2026}} (31 Aug to 1 Sep).
+    """
+    template = OPDRTS_TEMPLATE_RE.search(cell.text)
+    if not template:
+        return None
+    parts = [part.strip() for part in template.group(1).split("|")]
+    first_day = parts[0]
+    if not first_day:
+        return end
+    year, month, last_day = (int(n) for n in end.split("-"))
+    if not parts[1].isdigit():  # first|Month1|last|Month2|Year
+        return f"{year:04d}-{month_number(parts[1]):02d}-{int(first_day):02d}"
+    if int(first_day) > last_day:  # started the previous month (and year, for January)
+        year, month = (year - 1, 12) if month == 1 else (year, month - 1)
+    return f"{year:04d}-{month:02d}-{int(first_day):02d}"
 
 
 def parse_firm(text: str) -> tuple[str, str | None]:
@@ -348,14 +370,14 @@ def parse_table(table: str, min_candidates: int) -> list[Poll]:
         if previous and (previous.firm, previous.date, previous.sample) == (firm, date, sample):
             previous.scenarios.append(scenario)  # another hypothesis of the same poll
         else:
-            polls.append(Poll(firm, url, date, sample, [scenario]))
+            polls.append(Poll(firm, url, parse_start(date_cell, date), date, sample, [scenario]))
     return polls
 
 
 # ---------- entry points ----------
 
-def parse(text: str, min_vals: int = 3, whole: bool = False) -> list[dict]:
-    """Polls of the first-round tables of a Wikipedia poll page, as dicts.
+def parse_polls(text: str, min_vals: int = 3, whole: bool = False) -> list[Poll]:
+    """Polls of the first-round tables of a Wikipedia poll page.
 
     min_vals: rows with fewer candidate scores are skipped (2 for second-round duels).
     whole: parse every table in `text` (e.g. one duel section), not only the first round.
@@ -366,13 +388,18 @@ def parse(text: str, min_vals: int = 3, whole: bool = False) -> list[dict]:
         start = text.find("== First round ==")
         end = text.find("== Second round ==")
         body = text[start:end if end > 0 else None]
-    return [asdict(poll) for table in TABLE_RE.findall(body) for poll in parse_table(table, min_vals)]
+    return [poll for table in TABLE_RE.findall(body) for poll in parse_table(table, min_vals)]
+
+
+def parse(text: str, min_vals: int = 3, whole: bool = False) -> list[dict]:
+    """parse_polls() as plain dicts, for the backtest scripts and JSON files."""
+    return [asdict(poll) for poll in parse_polls(text, min_vals, whole)]
 
 
 def main(argv: list[str]) -> int:
     logging.basicConfig(level=logging.INFO, format="%(message)s")
     if len(argv) != 2:
-        LOGGER.error("usage: parse_history.py <wikitext.txt> <output.json>")
+        LOGGER.error("usage: python -m road2027.wikitext <wikitext.txt> <output.json>")
         return 2
     source, output = map(Path, argv)
     polls = parse(source.read_text(encoding="utf-8"))

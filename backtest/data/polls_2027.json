@@ -2,6 +2,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
+"start": "2026-11-09",
 "date": "2026-11-10",
 "sample": 1242,
 "scenarios": [
@@ -56,6 +57,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"start": "2026-11-03",
 "date": "2026-11-05",
 "sample": 2101,
 "scenarios": [
@@ -129,6 +131,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html",
+"start": "2026-10-27",
 "date": "2026-10-29",
 "sample": 1928,
 "scenarios": [
@@ -188,6 +191,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-melenchon-progresse-le-pen-reste-en-tete",
+"start": "2026-10-21",
 "date": "2026-10-22",
 "sample": 1500,
 "scenarios": [
@@ -246,6 +250,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"start": "2026-10-21",
 "date": "2026-10-22",
 "sample": 973,
 "scenarios": [
@@ -269,6 +274,7 @@
 {
 "firm": "Cluster17",
 "url": "https://cluster17.com/wp-content/uploads/2026/10/ITV-Politico-Octobre-C17.pdf",
+"start": "2026-10-19",
 "date": "2026-10-22",
 "sample": 3000,
 "scenarios": [
@@ -314,6 +320,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"start": "2026-10-19",
 "date": "2026-10-21",
 "sample": 2094,
 "scenarios": [
@@ -387,6 +394,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-presidentielle-2027-apres-les-violences-du-17-octobre-ce-que-revele-notre-derniere-enquete-2471007.html",
+"start": "2026-10-17",
 "date": "2026-10-19",
 "sample": 1928,
 "scenarios": [
@@ -497,6 +505,7 @@
 {
 "firm": "Elabe",
 "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"start": "2026-10-14",
 "date": "2026-10-16",
 "sample": 1701,
 "scenarios": [
@@ -583,6 +592,7 @@
 {
 "firm": "Cluster17",
 "url": "https://cluster17.com/presidentielle-2027-le-pen-en-tete-dans-tous-les-scenarios-lisnard-a-egalite-avec-retailleau/",
+"start": "2026-10-14",
 "date": "2026-10-15",
 "sample": 1263,
 "scenarios": [
@@ -648,6 +658,7 @@
 {
 "firm": "YouGov",
 "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"start": "2026-10-12",
 "date": "2026-10-15",
 "sample": 1094,
 "scenarios": [
@@ -721,6 +732,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020",
+"start": "2026-10-13",
 "date": "2026-10-14",
 "sample": 1043,
 "scenarios": [
@@ -781,6 +793,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.sudradio.fr/ifop/exclu-presidentielle-2027-glucksmann-grignote-le-pen-reste-intouchable",
+"start": "2026-10-12",
 "date": "2026-10-14",
 "sample": 1525,
 "scenarios": [
@@ -840,6 +853,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf",
+"start": "2026-10-05",
 "date": "2026-10-08",
 "sample": 2004,
 "scenarios": [
@@ -909,6 +923,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+"start": "2026-09-24",
 "date": "2026-10-07",
 "sample": 12005,
 "scenarios": [
@@ -941,6 +956,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10284-pres-barometre-election-presidentielle-v6-ifop-le-figaro-30-septembre.pdf",
+"start": "2026-09-25",
 "date": "2026-09-29",
 "sample": 1393,
 "scenarios": [
@@ -1074,6 +1090,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf",
+"start": "2026-09-22",
 "date": "2026-09-24",
 "sample": 1974,
 "scenarios": [
@@ -1143,6 +1160,7 @@
 {
 "firm": "YouGov",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10270-pres-iv-yougov-huffpost-23-septembre.pdf",
+"start": "2026-09-17",
 "date": "2026-09-21",
 "sample": 1103,
 "scenarios": [
@@ -1231,6 +1249,7 @@
 {
 "firm": "Cluster17",
 "url": "https://cluster17.com/presidentielle-2027-le-pen-largement-en-tete-melenchon-et-philippe-au-coude-a-coude/",
+"start": "2026-09-15",
 "date": "2026-09-16",
 "sample": 1943,
 "scenarios": [
@@ -1275,6 +1294,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+"start": "2026-09-09",
 "date": "2026-09-10",
 "sample": 1001,
 "scenarios": [
@@ -1328,6 +1348,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-en-leger-recul-pour-la-premiere-fois-jean-luc-melenchon-se-stabilise-aux-portes-du-second-tour-7900671878",
+"start": "2026-09-08",
 "date": "2026-09-10",
 "sample": 2052,
 "scenarios": [
@@ -1397,6 +1418,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10259-pres-presitrack-v2-opinionway-les-echos-10-septembre.pdf",
+"start": "2026-09-08",
 "date": "2026-09-09",
 "sample": 1001,
 "scenarios": [
@@ -1442,6 +1464,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-le-point-7-mois-du-scrutin",
+"start": "2026-09-03",
 "date": "2026-09-09",
 "sample": 13060,
 "scenarios": [
@@ -1524,6 +1547,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.lejdd.fr/politique/sondage-presidentielle-marine-le-pen-le-poids-detre-favorite-182718",
+"start": "2026-09-02",
 "date": "2026-09-03",
 "sample": 1003,
 "scenarios": [
@@ -1566,6 +1590,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10250-pres-iv-ipsos-bva-le-parisien-5-septembre.pdf",
+"start": "2026-08-31",
 "date": "2026-09-02",
 "sample": 1500,
 "scenarios": [
@@ -1648,6 +1673,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.lepoint.fr/politique/jean-luc-melenchon-aux-portes-du-second-tour-selon-un-sondage-cluster-17-pour-le-point-37HISKBJDRBZZFYP2EYB7PDIXA/",
+"start": "2026-08-31",
 "date": "2026-09-01",
 "sample": 1711,
 "scenarios": [
@@ -1696,6 +1722,7 @@
 {
 "firm": "Elabe",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+"start": "2026-08-26",
 "date": "2026-08-28",
 "sample": 1501,
 "scenarios": [
@@ -1780,6 +1807,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.sudradio.fr/sud-radio/marine-le-pen-vainqueure-de-la-presidentielle-2027-dans-tous-les-scenarios",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -1866,6 +1894,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-un-duel-le-pen-melenchon-la-candidate-rn-largement-en-tete-le-leader-insoumis-mieux-place-que-jamais-pour-le-second-tour-7900664150",
+"start": "2026-08-18",
 "date": "2026-08-19",
 "sample": 1764,
 "scenarios": [
@@ -1935,6 +1964,7 @@
 {
 "firm": "Cluster17",
 "url": "https://legrandcontinent.eu/fr/2026/08/31/marine-le-pen-peut-elle-encore-perdre-lelection-presidentielle/",
+"start": "2026-07-22",
 "date": "2026-07-24",
 "sample": 1506,
 "scenarios": [
@@ -1969,6 +1999,7 @@
 {
 "firm": "Elabe",
 "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/45944749344411/sondage-presidentielle-le-pen-en-tete-melenchon-progresse",
+"start": "2026-07-09",
 "date": "2026-07-10",
 "sample": 1503,
 "scenarios": [
@@ -2053,6 +2084,7 @@
 {
 "firm": "Verian",
 "url": "https://lhemicycle.com/2026/07/10/jordan-bardella-toujours-le-favori-pour-representer-le-rn/",
+"start": "2026-07-09",
 "date": "2026-07-10",
 "sample": 1047,
 "scenarios": [
@@ -2071,6 +2103,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.lesechos.fr/elections/presidentielle/sondage-exclusif-presidentielle-2027-marine-le-pen-largement-en-tete-avantage-edouard-philippe-a-droite-et-au-centre-2241680",
+"start": "2026-07-08",
 "date": "2026-07-09",
 "sample": 963,
 "scenarios": [
@@ -2113,6 +2146,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 1582,
 "scenarios": [
@@ -2182,6 +2216,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 984,
 "scenarios": [
@@ -2214,6 +2249,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10195-pres-ipsos-bva-le-parisien-1er-juin.pdf",
+"start": "2026-05-27",
 "date": "2026-05-28",
 "sample": 1500,
 "scenarios": [
@@ -2248,6 +2284,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.sudradio.fr/wp-content/uploads/2026/05/Resultats-Intention-de-Vote-Presidentielle-au-29-mai-2026.pdf",
+"start": "2026-05-26",
 "date": "2026-05-28",
 "sample": 1368,
 "scenarios": [
@@ -2280,6 +2317,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -2312,6 +2350,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -2346,6 +2385,7 @@
 {
 "firm": "Ifop",
 "url": "https://docs.google.com/viewerng/viewer?url=https://www.sudradio.fr/wp-content/uploads/2026/03/122319-Resultats-Intention-de-Vote-Presidentielle.pdf",
+"start": "2026-02-26",
 "date": "2026-02-27",
 "sample": 1393,
 "scenarios": [
@@ -2380,6 +2420,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2025/11/01112025_elabe_bfmtv_la-tribune-dimanche_election-presidentielle.pdf",
+"start": "2025-10-30",
 "date": "2025-10-31",
 "sample": 1501,
 "scenarios": [
@@ -2401,6 +2442,7 @@
 {
 "firm": "Cluster17",
 "url": "https://cluster17.com/wp-content/uploads/2025/10/ITV-Presidentielle-Le-Point-Cluster17.pdf",
+"start": "2025-09-30",
 "date": "2025-10-01",
 "sample": 1534,
 "scenarios": [
@@ -2420,6 +2462,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2025/09/121308_39-resultats-intention-de-vote-presidentielle.pdf",
+"start": "2025-09-24",
 "date": "2025-09-25",
 "sample": 1210,
 "scenarios": [
@@ -2440,6 +2483,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2025/05/121647-Resultats-Intention-de-Vote-Presidentielle.pdf",
+"start": "2025-05-19",
 "date": "2025-05-20",
 "sample": 1114,
 "scenarios": [
@@ -2460,6 +2504,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"start": "2025-04-23",
 "date": "2025-04-24",
 "sample": 1005,
 "scenarios": [
@@ -2481,6 +2526,7 @@
 {
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"start": "2025-04-11",
 "date": "2025-04-18",
 "sample": 9128,
 "scenarios": [
@@ -2501,6 +2547,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2025/04/05042025_elabe_bfmtv_la-tribune-dimanche_les-francais-et-lelection-presidentielle.pdf",
+"start": "2025-04-02",
 "date": "2025-04-04",
 "sample": 1413,
 "scenarios": [
@@ -2548,6 +2595,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2025/03/121520-Resultats-Intention-de-Vote-Presidentielle-1.pdf",
+"start": "2025-03-26",
 "date": "2025-03-27",
 "sample": 1119,
 "scenarios": [
@@ -2608,6 +2656,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/12/121270-Resultats.pdf",
+"start": "2024-12-06",
 "date": "2024-12-09",
 "sample": 1101,
 "scenarios": [
@@ -2672,6 +2721,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.challenges.fr/politique/presidentielle-2027-le-sondage-confidentiel-qui-a-de-quoi-inquieter-attal-et-melenchon_905503",
+"start": "2024-09-11",
 "date": "2024-09-12",
 "sample": 1009,
 "scenarios": [
@@ -2740,6 +2790,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/09/121066-Resultats.pdf",
+"start": "2024-09-06",
 "date": "2024-09-09",
 "sample": 1107,
 "scenarios": [
@@ -2804,6 +2855,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2024/07/Rapport-Harris-IV-Presidentielle-2027-Challenges-Juillet-2024.pdf",
+"start": "2024-07-07",
 "date": "2024-07-08",
 "sample": 2496,
 "scenarios": [
@@ -2864,6 +2916,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"start": "2024-04-16",
 "date": "2024-04-18",
 "sample": 1090,
 "scenarios": [
@@ -2996,6 +3049,7 @@
 {
 "firm": "Cluster17",
 "url": "http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+"start": null,
 "date": "2024-04-05",
 "sample": 1686,
 "scenarios": [
@@ -3022,6 +3076,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"start": "2024-01-31",
 "date": "2024-02-01",
 "sample": 1081,
 "scenarios": [
@@ -3058,6 +3113,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/01/120560-Resultats.pdf",
+"start": "2024-01-09",
 "date": "2024-01-10",
 "sample": 1144,
 "scenarios": [
@@ -3122,6 +3178,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2023/10/119940-Rapport.pdf",
+"start": "2023-10-24",
 "date": "2023-10-25",
 "sample": 1179,
 "scenarios": [
@@ -3200,6 +3257,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2023/09/Rapport-Toluna-Harris-IV-Presidentielle-2027-Challenges-septembre-2023.pdf",
+"start": "2023-09-01",
 "date": "2023-09-04",
 "sample": 2525,
 "scenarios": [
@@ -3312,6 +3370,7 @@
 {
 "firm": "OpinionWay",
 "url": "http://www.commission-des-sondages.fr/notices/files/notices/2023/avril/9689-pres-ow-le-figaro-magazine.pdf",
+"start": "2023-04-12",
 "date": "2023-04-13",
 "sample": 1038,
 "scenarios": [
@@ -3331,6 +3390,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2023/04/Rapport-Harris-IV-Presidentielle-2027-Challenges-avril-2023.pdf",
+"start": null,
 "date": "2023-04-07",
 "sample": 1320,
 "scenarios": [
@@ -3391,6 +3451,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.lefigaro.fr/politique/presidentielle-le-sondage-qui-bouleverse-le-jeu-20230405",
+"start": "2023-03-30",
 "date": "2023-03-31",
 "sample": 1105,
 "scenarios": [

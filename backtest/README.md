@@ -7,7 +7,7 @@ before we publish anything for 2027.
 raw/polls_YYYY.txt          Wikipedia source pages (first-round polls)
 raw/results/                official results by commune (data.gouv.fr), 2022
 raw/transfers/              Ipsos reports (PDF)
-parse_history.py            polls_YYYY.txt -> data/polls_YYYY.json
+road2027.wikitext           polls_YYYY.txt -> data/polls_YYYY.json (src/road2027/wikitext.py)
 analyze.py                  poll errors by horizon + Monte Carlo + calibration -> data/backtest.json
 ei_transfers.py YEAR        vote transfers estimated from results by commune -> data/transfers_YEAR.json
 data/transfers_survey_2022.json   Ipsos election-day transfers (figures stated on the page)
@@ -15,7 +15,7 @@ data/transfers_survey_2022.json   Ipsos election-day transfers (figures stated o
 
 Rerun:
 ```
-for y in 2002 2007 2012 2017 2022; do python3 backtest/parse_history.py backtest/raw/polls_$y.txt backtest/data/polls_$y.json; done
+for y in 2002 2007 2012 2017 2022; do python -m road2027.wikitext backtest/raw/polls_$y.txt backtest/data/polls_$y.json; done
 python3 backtest/analyze.py
 python3 backtest/ei_transfers.py 2022
 ```

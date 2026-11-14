@@ -8,6 +8,7 @@ import json, os, statistics as st, datetime as dt, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from simulate import fit_sigma, fit_sigma_duel, ELECTIONS
+from road2027.jsdata import write_js
 
 def J(p): return json.load(open(os.path.join(HERE, "data", p), encoding="utf-8"))
 def D(s): return dt.date.fromisoformat(s)
@@ -145,10 +146,8 @@ model = {
     "backtest": {"p_winner_j163": [0.58, 0.42, 0.94, 0.03, 0.79], "fav_won_j163": "3 sur 5"},
 }
 out = os.path.join(HERE, "..", "data", "model.js")
-with open(out, "w", encoding="utf-8") as f:
-    f.write("/* Généré par backtest/export_model.py : paramètres du simulateur. Ne pas éditer à la main. */\nwindow.MODEL = ")
-    json.dump(model, f, ensure_ascii=False, separators=(",", ":"))
-    f.write(";\n")
+write_js(out, "MODEL", model,
+         header="/* Généré par backtest/export_model.py : paramètres du simulateur. Ne pas éditer à la main. */\n")
 print(f"{len(win)} sondages, {len(model['candidates'])} candidats, défaut: {DEFAULT_IN}")
 print("base:", {c['id']: c['base'] for c in model['candidates']})
 print("retraits mesurés:", {k: v['n'] for k, v in withdraw.items()})

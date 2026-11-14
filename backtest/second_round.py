@@ -7,7 +7,7 @@ import csv, io, json, os, statistics as st, sys, datetime as dt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from parse_history import parse
+from road2027.wikitext import parse
 
 M, L, B, A = "Emmanuel Macron", "Marine Le Pen", "blank_null", "abs"
 surv = json.load(open(os.path.join(HERE, "data", "transfers_survey.json"), encoding="utf-8"))

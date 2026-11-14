@@ -35,7 +35,7 @@ jobs:
         # Dependency groups from pyproject.toml need pip >= 25.1.
         run: |
           python -m pip install --upgrade pip
-          pip install --group dev
+          pip install . --group dev
 
       - name: Lint
         # --output-format=github turns findings into annotations on the PR diff.

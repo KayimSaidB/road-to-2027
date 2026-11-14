@@ -2,6 +2,7 @@
 {
 "firm": "2017 election",
 "url": null,
+"start": null,
 "date": "2017-04-23",
 "sample": null,
 "scenarios": [
@@ -23,6 +24,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Odoxa-LePoint_210417.pdf",
+"start": null,
 "date": "2017-04-21",
 "sample": 666,
 "scenarios": [
@@ -44,6 +46,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20170422133150/https://staticswww.bva-group.com/wp-content/uploads/2017/04/Intentions-de-vote-Vague-19-POP2017-21-avril-2017-Pr%C3%A9sentation.pdf",
+"start": null,
 "date": "2017-04-21",
 "sample": 1134,
 "scenarios": [
@@ -65,6 +68,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_21-04-2017.pdf",
+"start": null,
 "date": "2017-04-21",
 "sample": 2823,
 "scenarios": [
@@ -86,6 +90,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Odoxa-LePoint_210417.pdf",
+"start": null,
 "date": "2017-04-20",
 "sample": 1433,
 "scenarios": [
@@ -107,6 +112,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/04/20042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-10.pdf",
+"start": null,
 "date": "2017-04-20",
 "sample": 1445,
 "scenarios": [
@@ -128,6 +134,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/intention_de_vote_ipsos_ft-rf_-_21_avril_2017.pdf",
+"start": null,
 "date": "2017-04-20",
 "sample": 1401,
 "scenarios": [
@@ -149,6 +156,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/rapport-Harris-Indeed-Intentions-vote-election-presidentielle-LCP.pdf",
+"start": null,
 "date": "2017-04-20",
 "sample": 962,
 "scenarios": [
@@ -170,6 +178,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170422041348/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdelasemainedu17au21avril.pdf",
+"start": null,
 "date": "2017-04-20",
 "sample": 2269,
 "scenarios": [
@@ -191,6 +200,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_20-04-2017.pdf",
+"start": null,
 "date": "2017-04-20",
 "sample": 2810,
 "scenarios": [
@@ -212,6 +222,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1978/fichier_intentions_de_vote_-_vague_18_-_pop2017_-_19_avril_2017_-_presentation5e34d.pdf",
+"start": null,
 "date": "2017-04-19",
 "sample": 1098,
 "scenarios": [
@@ -233,6 +244,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-intentions-vote-presidentielle-france-televisions-20042017.pdf",
+"start": null,
 "date": "2017-04-19",
 "sample": 2812,
 "scenarios": [
@@ -254,6 +266,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170422041348/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdelasemainedu17au21avril.pdf",
+"start": null,
 "date": "2017-04-19",
 "sample": 2394,
 "scenarios": [
@@ -275,6 +288,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_19-04-2017.pdf",
+"start": null,
 "date": "2017-04-19",
 "sample": 2792,
 "scenarios": [
@@ -296,6 +310,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170422041348/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdelasemainedu17au21avril.pdf",
+"start": null,
 "date": "2017-04-18",
 "sample": 2417,
 "scenarios": [
@@ -317,6 +332,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_18-04-2017.pdf",
+"start": null,
 "date": "2017-04-18",
 "sample": 2804,
 "scenarios": [
@@ -338,6 +354,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/04/17042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-9.pdf",
+"start": null,
 "date": "2017-04-17",
 "sample": 1438,
 "scenarios": [
@@ -359,6 +376,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_vague13.pdf",
+"start": null,
 "date": "2017-04-17",
 "sample": 8274,
 "scenarios": [
@@ -380,6 +398,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170422041348/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdelasemainedu17au21avril.pdf",
+"start": null,
 "date": "2017-04-17",
 "sample": 2423,
 "scenarios": [
@@ -401,6 +420,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/intentions-de-vote-l-hypothese-d-un-match-a-quatre-se-confirme/",
+"start": null,
 "date": "2017-04-17",
 "sample": 1178,
 "scenarios": [
@@ -422,6 +442,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_17-04-2017.pdf",
+"start": null,
 "date": "2017-04-17",
 "sample": 2796,
 "scenarios": [
@@ -443,6 +464,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170422041348/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdelasemainedu17au21avril.pdf",
+"start": null,
 "date": "2017-04-16",
 "sample": 2168,
 "scenarios": [
@@ -464,6 +486,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.fiducial.fr/telechargement/36468/472670/barometre-election-presidentielle-4.pdf",
+"start": null,
 "date": "2017-04-15",
 "sample": 1851,
 "scenarios": [
@@ -485,6 +508,7 @@
 {
 "firm": "Le Terrain",
 "url": "https://blogleterrain.wordpress.com/2017/04/17/jl-melenchon-devance-de-peu-m-le-pen/",
+"start": null,
 "date": "2017-04-15",
 "sample": 642,
 "scenarios": [
@@ -506,6 +530,7 @@
 {
 "firm": "BVA",
 "url": "https://www.bva-group.com/wp-content/uploads/2017/04/Intentions-de-vote-Vague-17-POP2017-14-avril-2017-Pr%C3%A9sentation.pdf",
+"start": null,
 "date": "2017-04-14",
 "sample": 1044,
 "scenarios": [
@@ -527,6 +552,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_14-04-2017.pdf",
+"start": null,
 "date": "2017-04-14",
 "sample": 2776,
 "scenarios": [
@@ -548,6 +574,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/enquete_presidentielle_ipsos_le_monde.pdf",
+"start": null,
 "date": "2017-04-13",
 "sample": 927,
 "scenarios": [
@@ -569,6 +596,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Dentsu-Consulting-LePoint_140417.pdf",
+"start": null,
 "date": "2017-04-13",
 "sample": 754,
 "scenarios": [
@@ -590,6 +618,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-Indeed-Intentions-vote-election-presidentielle-LCP.pdf",
+"start": null,
 "date": "2017-04-13",
 "sample": 904,
 "scenarios": [
@@ -611,6 +640,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170415012050/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdu10au14avril.pdf",
+"start": null,
 "date": "2017-04-13",
 "sample": 1443,
 "scenarios": [
@@ -632,6 +662,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_13-04-2017.pdf",
+"start": null,
 "date": "2017-04-13",
 "sample": 2797,
 "scenarios": [
@@ -653,6 +684,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/04/13042017_les_echos_radio_classique_intentions-de-vote-presidentielles.pdf",
+"start": null,
 "date": "2017-04-12",
 "sample": 1010,
 "scenarios": [
@@ -674,6 +706,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170415012050/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdu10au14avril.pdf",
+"start": null,
 "date": "2017-04-12",
 "sample": 1423,
 "scenarios": [
@@ -695,6 +728,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_12-04-2017.pdf",
+"start": null,
 "date": "2017-04-12",
 "sample": 2800,
 "scenarios": [
@@ -716,6 +750,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170415012050/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdu10au14avril.pdf",
+"start": null,
 "date": "2017-04-11",
 "sample": 1395,
 "scenarios": [
@@ -737,6 +772,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_11-04-2017.pdf",
+"start": null,
 "date": "2017-04-11",
 "sample": 2806,
 "scenarios": [
@@ -758,6 +794,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/04/11042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-8.pdf",
+"start": null,
 "date": "2017-04-10",
 "sample": 1002,
 "scenarios": [
@@ -779,6 +816,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170415012050/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdu10au14avril.pdf",
+"start": null,
 "date": "2017-04-10",
 "sample": 1498,
 "scenarios": [
@@ -800,6 +838,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_10-04-2017.pdf",
+"start": null,
 "date": "2017-04-10",
 "sample": 2616,
 "scenarios": [
@@ -821,6 +860,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/notice-technique-etat-desprit-francais-ipsos-ft-rf-1004.pdf",
+"start": null,
 "date": "2017-04-09",
 "sample": 1002,
 "scenarios": [
@@ -842,6 +882,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170415012050/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultatsdu10au14avril.pdf",
+"start": null,
 "date": "2017-04-09",
 "sample": 1565,
 "scenarios": [
@@ -863,6 +904,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3724-1-study_file.pdf",
+"start": null,
 "date": "2017-04-08",
 "sample": 1845,
 "scenarios": [
@@ -884,6 +926,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1977/fichier_intentions_de_vote_-_vague_16_-_pop2017_-_8_avril_2017_-_presentationbbd1d.pdf",
+"start": null,
 "date": "2017-04-07",
 "sample": 1006,
 "scenarios": [
@@ -905,6 +948,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/intentions-de-vote-forte-percee-de-jean-luc-melenchon/",
+"start": null,
 "date": "2017-04-07",
 "sample": 1075,
 "scenarios": [
@@ -926,6 +970,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_07-04-2017.pdf",
+"start": null,
 "date": "2017-04-07",
 "sample": 2246,
 "scenarios": [
@@ -947,6 +992,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-Intentions-vote-election-presidentielle-LCP.pdf",
+"start": null,
 "date": "2017-04-06",
 "sample": 928,
 "scenarios": [
@@ -968,6 +1014,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170408171349/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-semaine-3au7avril.pdf",
+"start": null,
 "date": "2017-04-06",
 "sample": 1589,
 "scenarios": [
@@ -989,6 +1036,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_06-04-2017.pdf",
+"start": null,
 "date": "2017-04-06",
 "sample": 2243,
 "scenarios": [
@@ -1010,6 +1058,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/04/05042017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-7.pdf",
+"start": null,
 "date": "2017-04-05",
 "sample": 995,
 "scenarios": [
@@ -1031,6 +1080,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-Intentions-de-vote-a-lelection-presidentielle-France-TV.pdf",
+"start": null,
 "date": "2017-04-05",
 "sample": 2097,
 "scenarios": [
@@ -1052,6 +1102,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/04/Intention-de-vote-presidentielle-Dentsu-Consulting-LePoint-07-04-17_15h.pdf",
+"start": null,
 "date": "2017-04-05",
 "sample": 799,
 "scenarios": [
@@ -1073,6 +1124,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170408171349/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-semaine-3au7avril.pdf",
+"start": null,
 "date": "2017-04-05",
 "sample": 1553,
 "scenarios": [
@@ -1094,6 +1146,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_05-04-2017.pdf",
+"start": null,
 "date": "2017-04-05",
 "sample": 2245,
 "scenarios": [
@@ -1115,6 +1168,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/04/Rapport-Harris-Intentions-de-vote-a-lelection-presidentielle-France-TV.pdf",
+"start": null,
 "date": "2017-04-04",
 "sample": 3639,
 "scenarios": [
@@ -1136,6 +1190,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170408171349/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-semaine-3au7avril.pdf",
+"start": null,
 "date": "2017-04-04",
 "sample": 1541,
 "scenarios": [
@@ -1157,6 +1212,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_04-04-2017.pdf",
+"start": null,
 "date": "2017-04-04",
 "sample": 2254,
 "scenarios": [
@@ -1178,6 +1234,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170408171349/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-semaine-3au7avril.pdf",
+"start": null,
 "date": "2017-04-03",
 "sample": 1583,
 "scenarios": [
@@ -1199,6 +1256,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_03-04-2017.pdf",
+"start": null,
 "date": "2017-04-03",
 "sample": 2232,
 "scenarios": [
@@ -1220,6 +1278,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/cevipof_vague12bis.pdf",
+"start": null,
 "date": "2017-04-02",
 "sample": 9460,
 "scenarios": [
@@ -1241,6 +1300,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170408171349/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-semaine-3au7avril.pdf",
+"start": null,
 "date": "2017-04-02",
 "sample": 1624,
 "scenarios": [
@@ -1262,6 +1322,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_31-03-2017.pdf",
+"start": null,
 "date": "2017-03-31",
 "sample": 2204,
 "scenarios": [
@@ -1283,6 +1344,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1974/fichier_intentions_de_vote_-_vague_15_-_pop2017_-_1er_avril_2017_-_presentation70fea.pdf",
+"start": null,
 "date": "2017-03-30",
 "sample": 1010,
 "scenarios": [
@@ -1304,6 +1366,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/03/Intention-de-vote-presidentielle-Dentsu-Consulting-LePoint-31-03-17.pdf",
+"start": null,
 "date": "2017-03-30",
 "sample": 787,
 "scenarios": [
@@ -1325,6 +1388,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170404220730/http://opinionlab.opinion-way.com/dokumenty/Presitrack-synthese-27au31mars.pdf",
+"start": null,
 "date": "2017-03-30",
 "sample": 1609,
 "scenarios": [
@@ -1346,6 +1410,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_30-03-2017.pdf",
+"start": null,
 "date": "2017-03-30",
 "sample": 2215,
 "scenarios": [
@@ -1367,6 +1432,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/03/29032017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-6.pdf",
+"start": null,
 "date": "2017-03-29",
 "sample": 998,
 "scenarios": [
@@ -1388,6 +1454,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170404220730/http://opinionlab.opinion-way.com/dokumenty/Presitrack-synthese-27au31mars.pdf",
+"start": null,
 "date": "2017-03-29",
 "sample": 1636,
 "scenarios": [
@@ -1409,6 +1476,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_29-03-2017.pdf",
+"start": null,
 "date": "2017-03-29",
 "sample": 2241,
 "scenarios": [
@@ -1430,6 +1498,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170404220730/http://opinionlab.opinion-way.com/dokumenty/Presitrack-synthese-27au31mars.pdf",
+"start": null,
 "date": "2017-03-28",
 "sample": 1618,
 "scenarios": [
@@ -1451,6 +1520,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_28-03-2017.pdf",
+"start": null,
 "date": "2017-03-28",
 "sample": 2231,
 "scenarios": [
@@ -1472,6 +1542,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/enquetepresidentielle1v4_1.pdf",
+"start": null,
 "date": "2017-03-27",
 "sample": 1005,
 "scenarios": [
@@ -1493,6 +1564,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170404220730/http://opinionlab.opinion-way.com/dokumenty/Presitrack-synthese-27au31mars.pdf",
+"start": null,
 "date": "2017-03-27",
 "sample": 1599,
 "scenarios": [
@@ -1514,6 +1586,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_27-03-2017.pdf",
+"start": null,
 "date": "2017-03-27",
 "sample": 2235,
 "scenarios": [
@@ -1535,6 +1608,7 @@
 {
 "firm": "Le Terrain",
 "url": "https://www.slideshare.net/slideshow/embed_code/key/tCIDiAaa3EnoJm",
+"start": null,
 "date": "2017-03-27",
 "sample": 586,
 "scenarios": [
@@ -1556,6 +1630,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170404220730/http://opinionlab.opinion-way.com/dokumenty/Presitrack-synthese-27au31mars.pdf",
+"start": null,
 "date": "2017-03-26",
 "sample": 1676,
 "scenarios": [
@@ -1577,6 +1652,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1969/fichier_intentions_de_vote_-_vague_14_-_pop2017_-_25_mars_2017_-_presentationdcc7f.pdf",
+"start": null,
 "date": "2017-03-24",
 "sample": 1020,
 "scenarios": [
@@ -1598,6 +1674,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_24-03-2017.pdf",
+"start": null,
 "date": "2017-03-24",
 "sample": 2225,
 "scenarios": [
@@ -1619,6 +1696,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170325025043/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-de-la-semaine20-24-03.pdf",
+"start": null,
 "date": "2017-03-23",
 "sample": 1675,
 "scenarios": [
@@ -1640,6 +1718,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_23-03-2017.pdf",
+"start": null,
 "date": "2017-03-23",
 "sample": 2245,
 "scenarios": [
@@ -1661,6 +1740,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/03/Rapport-Intentions-de-vote-election-presidentielle-France-TV.pdf",
+"start": null,
 "date": "2017-03-22",
 "sample": 6383,
 "scenarios": [
@@ -1682,6 +1762,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170325025043/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-de-la-semaine20-24-03.pdf",
+"start": null,
 "date": "2017-03-22",
 "sample": 1672,
 "scenarios": [
@@ -1703,6 +1784,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_22-03-2017.pdf",
+"start": null,
 "date": "2017-03-22",
 "sample": 1974,
 "scenarios": [
@@ -1724,6 +1806,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/03/21032017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-5-1.pdf",
+"start": null,
 "date": "2017-03-21",
 "sample": 997,
 "scenarios": [
@@ -1745,6 +1828,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170325025043/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-de-la-semaine20-24-03.pdf",
+"start": null,
 "date": "2017-03-21",
 "sample": 1676,
 "scenarios": [
@@ -1766,6 +1850,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_21-03-2017.pdf",
+"start": null,
 "date": "2017-03-21",
 "sample": 1695,
 "scenarios": [
@@ -1787,6 +1872,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_20-03-2017.pdf",
+"start": null,
 "date": "2017-03-20",
 "sample": 935,
 "scenarios": [
@@ -1808,6 +1894,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170325025043/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-de-la-semaine20-24-03.pdf",
+"start": null,
 "date": "2017-03-20",
 "sample": 1667,
 "scenarios": [
@@ -1829,6 +1916,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/03/20032017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-4-1.pdf",
+"start": null,
 "date": "2017-03-19",
 "sample": 2847,
 "scenarios": [
@@ -1850,6 +1938,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170325025043/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-Resultats-de-la-semaine20-24-03.pdf",
+"start": null,
 "date": "2017-03-19",
 "sample": 1593,
 "scenarios": [
@@ -1871,6 +1960,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1962/fichier_intentions_de_vote_-_vague_13_-_pop2017_-_18_mars_2017_-_presentationd5dd0.pdf",
+"start": null,
 "date": "2017-03-17",
 "sample": 935,
 "scenarios": [
@@ -1890,6 +1980,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/intentions-de-vote-installation-du-duel-macron-le-pen/",
+"start": null,
 "date": "2017-03-17",
 "sample": 1062,
 "scenarios": [
@@ -1911,6 +2002,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_17-03-2017.pdf",
+"start": null,
 "date": "2017-03-17",
 "sample": 1376,
 "scenarios": [
@@ -1931,6 +2023,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/03/Odoxa-Dentsu-pour-13h15-Intention-de-Vote-Presidentielle-2.pdf",
+"start": null,
 "date": "2017-03-16",
 "sample": 672,
 "scenarios": [
@@ -1952,6 +2045,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170318083803/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-semaine-13-17mars.pdf",
+"start": null,
 "date": "2017-03-16",
 "sample": 1571,
 "scenarios": [
@@ -1970,6 +2064,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_16-03-2017.pdf",
+"start": null,
 "date": "2017-03-16",
 "sample": 1386,
 "scenarios": [
@@ -1990,6 +2085,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_cevipof-eef2017_vague_12_ipsos_lemonde.pdf",
+"start": null,
 "date": "2017-03-15",
 "sample": 8205,
 "scenarios": [
@@ -2010,6 +2106,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170318083803/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-semaine-13-17mars.pdf",
+"start": null,
 "date": "2017-03-15",
 "sample": 1554,
 "scenarios": [
@@ -2028,6 +2125,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_15-03-2017.pdf",
+"start": null,
 "date": "2017-03-15",
 "sample": 1399,
 "scenarios": [
@@ -2048,6 +2146,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170318083803/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-semaine-13-17mars.pdf",
+"start": null,
 "date": "2017-03-14",
 "sample": 1529,
 "scenarios": [
@@ -2066,6 +2165,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_14-03-2017.pdf",
+"start": null,
 "date": "2017-03-14",
 "sample": 1413,
 "scenarios": [
@@ -2086,6 +2186,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170318083803/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-semaine-13-17mars.pdf",
+"start": null,
 "date": "2017-03-13",
 "sample": 1528,
 "scenarios": [
@@ -2104,6 +2205,7 @@
 {
 "firm": "Future Thinking",
 "url": "http://www.commission-des-sondages.fr/notices/files/notices/2017/mars/8306-pres-future-thinking-womensports.pdf",
+"start": null,
 "date": "2017-03-13",
 "sample": 811,
 "scenarios": [
@@ -2123,6 +2225,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_13-03-2017.pdf",
+"start": null,
 "date": "2017-03-13",
 "sample": 1397,
 "scenarios": [
@@ -2143,6 +2246,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170318083803/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-Orpi-semaine-13-17mars.pdf",
+"start": null,
 "date": "2017-03-12",
 "sample": 1610,
 "scenarios": [
@@ -2161,6 +2265,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1960/fichier_intentions_de_vote_-_vague_12_-_pop2017_-_11_mars_2017_-_presentation395b5.pdf",
+"start": null,
 "date": "2017-03-10",
 "sample": 950,
 "scenarios": [
@@ -2179,6 +2284,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_10-03-2017.pdf",
+"start": null,
 "date": "2017-03-10",
 "sample": 1379,
 "scenarios": [
@@ -2198,6 +2304,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170312070248/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-06au10-03.pdf",
+"start": null,
 "date": "2017-03-09",
 "sample": 1571,
 "scenarios": [
@@ -2216,6 +2323,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_09-03-2017.pdf",
+"start": null,
 "date": "2017-03-09",
 "sample": 1395,
 "scenarios": [
@@ -2235,6 +2343,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/03/Rapport-Harris-Intentions-vote-election-presidentielle-France-TV-2.pdf",
+"start": null,
 "date": "2017-03-08",
 "sample": 4533,
 "scenarios": [
@@ -2253,6 +2362,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170312070248/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-06au10-03.pdf",
+"start": null,
 "date": "2017-03-08",
 "sample": 1509,
 "scenarios": [
@@ -2271,6 +2381,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_08-03-2017.pdf",
+"start": null,
 "date": "2017-03-08",
 "sample": 1394,
 "scenarios": [
@@ -2290,6 +2401,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/notice_technique_iv_le_monde_8_mars_-.pdf",
+"start": null,
 "date": "2017-03-07",
 "sample": 644,
 "scenarios": [
@@ -2309,6 +2421,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170312070248/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-06au10-03.pdf",
+"start": null,
 "date": "2017-03-07",
 "sample": 1574,
 "scenarios": [
@@ -2327,6 +2440,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_07-03-2017.pdf",
+"start": null,
 "date": "2017-03-07",
 "sample": 1390,
 "scenarios": [
@@ -2346,6 +2460,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/03/07032017_bfmtv_lexpress_intentions-de-vote-presidentielles-vague-3-1.pdf",
+"start": null,
 "date": "2017-03-06",
 "sample": 1000,
 "scenarios": [
@@ -2364,6 +2479,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170312070248/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-06au10-03.pdf",
+"start": null,
 "date": "2017-03-06",
 "sample": 1559,
 "scenarios": [
@@ -2382,6 +2498,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_06-03-2017.pdf",
+"start": null,
 "date": "2017-03-06",
 "sample": 1381,
 "scenarios": [
@@ -2401,6 +2518,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170312070248/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-06au10-03.pdf",
+"start": null,
 "date": "2017-03-05",
 "sample": 1671,
 "scenarios": [
@@ -2419,6 +2537,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_cevipof_fjj_-_eef2017_vague_mars_ipsos_lemonde_-_publication.pdf",
+"start": null,
 "date": "2017-03-05",
 "sample": 10854,
 "scenarios": [
@@ -2438,6 +2557,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3677-1-study_file.pdf",
+"start": null,
 "date": "2017-03-04",
 "sample": 1822,
 "scenarios": [
@@ -2468,6 +2588,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/intentions-de-vote-francois-fillon-nettement-distance-par-marine-le-pen-et-emmanuel-macron/",
+"start": null,
 "date": "2017-03-04",
 "sample": 700,
 "scenarios": [
@@ -2498,6 +2619,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_03-03-2017.pdf",
+"start": null,
 "date": "2017-03-03",
 "sample": 1383,
 "scenarios": [
@@ -2517,6 +2639,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/03/Odoxa-Dentsu-pour-13h15-Intention-de-Vote-Presidentielle.pdf",
+"start": null,
 "date": "2017-03-02",
 "sample": 907,
 "scenarios": [
@@ -2545,6 +2668,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1955/fichier_intentions_de_vote_-_vague_11_-_pop2017_-_4_mars_2017_-_presentation33d6b.pdf",
+"start": null,
 "date": "2017-03-02",
 "sample": 924,
 "scenarios": [
@@ -2563,6 +2687,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/03/02032017_les_echos_radio_classique_intentions-de-vote-presidentielles-vague-7.pdf",
+"start": null,
 "date": "2017-03-02",
 "sample": 1507,
 "scenarios": [
@@ -2581,6 +2706,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170307022801/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-27-02au03-03.pdf",
+"start": null,
 "date": "2017-03-02",
 "sample": 1654,
 "scenarios": [
@@ -2599,6 +2725,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_02-03-2017.pdf",
+"start": null,
 "date": "2017-03-02",
 "sample": 1394,
 "scenarios": [
@@ -2618,6 +2745,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170307022801/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-27-02au03-03.pdf",
+"start": null,
 "date": "2017-03-01",
 "sample": 1639,
 "scenarios": [
@@ -2636,6 +2764,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_01-03-2017.pdf",
+"start": null,
 "date": "2017-03-01",
 "sample": 1392,
 "scenarios": [
@@ -2655,6 +2784,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170307022801/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-27-02au03-03.pdf",
+"start": null,
 "date": "2017-02-28",
 "sample": 1629,
 "scenarios": [
@@ -2673,6 +2803,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_28-02-2017.pdf",
+"start": null,
 "date": "2017-02-28",
 "sample": 1398,
 "scenarios": [
@@ -2692,6 +2823,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170307022801/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-27-02au03-03.pdf",
+"start": null,
 "date": "2017-02-27",
 "sample": 1624,
 "scenarios": [
@@ -2710,6 +2842,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_27-02-2017.pdf",
+"start": null,
 "date": "2017-02-27",
 "sample": 1404,
 "scenarios": [
@@ -2729,6 +2862,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170307022801/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-27-02au03-03.pdf",
+"start": null,
 "date": "2017-02-26",
 "sample": 1631,
 "scenarios": [
@@ -2747,6 +2881,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/intentions-de-vote-marine-le-pen-et-emmanuel-macron-creusent-l-ecart/",
+"start": null,
 "date": "2017-02-24",
 "sample": 700,
 "scenarios": [
@@ -2766,6 +2901,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_24-02-2017.pdf",
+"start": null,
 "date": "2017-02-24",
 "sample": 1417,
 "scenarios": [
@@ -2786,6 +2922,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2017/02/Intention-de-vote-Odoxa-Dentsu-Consulting-du-26022017.pdf",
+"start": null,
 "date": "2017-02-23",
 "sample": 884,
 "scenarios": [
@@ -2805,6 +2942,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170226130832/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-20-au-24-02.pdf",
+"start": null,
 "date": "2017-02-23",
 "sample": 1431,
 "scenarios": [
@@ -2824,6 +2962,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_23-02-2017.pdf",
+"start": null,
 "date": "2017-02-23",
 "sample": 1395,
 "scenarios": [
@@ -2844,6 +2983,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2017/02/Rapport-Harris-Intentions-vote-election-presidentielle-France-TV.pdf",
+"start": null,
 "date": "2017-02-22",
 "sample": 5249,
 "scenarios": [
@@ -2863,6 +3003,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170226130832/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-20-au-24-02.pdf",
+"start": null,
 "date": "2017-02-22",
 "sample": 1615,
 "scenarios": [
@@ -2882,6 +3023,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_22-02-2017.pdf",
+"start": null,
 "date": "2017-02-22",
 "sample": 1399,
 "scenarios": [
@@ -2903,6 +3045,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170226130832/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-20-au-24-02.pdf",
+"start": null,
 "date": "2017-02-21",
 "sample": 1545,
 "scenarios": [
@@ -2922,6 +3065,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_21-02-2017.pdf",
+"start": null,
 "date": "2017-02-21",
 "sample": 1386,
 "scenarios": [
@@ -2943,6 +3087,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1948/fichier_intentions_de_vote_-_vague_10_-_pop2017_-_23_fevrier_2017_-_presentation5e659.pdf",
+"start": null,
 "date": "2017-02-20",
 "sample": 628,
 "scenarios": [
@@ -2962,6 +3107,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/02/21022017bfmtv_lexpress_intentions-de-vote-presidentielles-vague-2.pdf",
+"start": null,
 "date": "2017-02-20",
 "sample": 995,
 "scenarios": [
@@ -2993,6 +3139,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170226130832/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-20-au-24-02.pdf",
+"start": null,
 "date": "2017-02-20",
 "sample": 1535,
 "scenarios": [
@@ -3012,6 +3159,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3665-1-study_file.pdf",
+"start": null,
 "date": "2017-02-20",
 "sample": 1838,
 "scenarios": [
@@ -3032,6 +3180,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_20-02-2017.pdf",
+"start": null,
 "date": "2017-02-20",
 "sample": 1397,
 "scenarios": [
@@ -3053,6 +3202,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170226130832/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-20-au-24-02.pdf",
+"start": null,
 "date": "2017-02-19",
 "sample": 1534,
 "scenarios": [
@@ -3072,6 +3222,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_17-02-2017.pdf",
+"start": null,
 "date": "2017-02-17",
 "sample": 1399,
 "scenarios": [
@@ -3093,6 +3244,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205714/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-semaine13-17-fev.pdf",
+"start": null,
 "date": "2017-02-16",
 "sample": 1605,
 "scenarios": [
@@ -3112,6 +3264,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_16-02-2017.pdf",
+"start": null,
 "date": "2017-02-16",
 "sample": 1396,
 "scenarios": [
@@ -3133,6 +3286,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205714/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-semaine13-17-fev.pdf",
+"start": null,
 "date": "2017-02-15",
 "sample": 1602,
 "scenarios": [
@@ -3152,6 +3306,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_15-02-2017.pdf",
+"start": null,
 "date": "2017-02-15",
 "sample": 1394,
 "scenarios": [
@@ -3173,6 +3328,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205714/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-semaine13-17-fev.pdf",
+"start": null,
 "date": "2017-02-14",
 "sample": 1456,
 "scenarios": [
@@ -3192,6 +3348,7 @@
 {
 "firm": "Dedicated Research",
 "url": "http://www.lalibre.be/actu/international/sondage-dedicated-emmanuel-macron-president-de-la-republique-58aa982fcd703b981556229b",
+"start": null,
 "date": "2017-02-14",
 "sample": 1552,
 "scenarios": [
@@ -3211,6 +3368,7 @@
 {
 "firm": "Dedicated Research",
 "url": "http://www.lalibre.be/actu/international/sondage-dedicated-emmanuel-macron-president-de-la-republique-58aa982fcd703b981556229b",
+"start": null,
 "date": "2017-02-14",
 "sample": 1576,
 "scenarios": [
@@ -3231,6 +3389,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_14-02-2017.pdf",
+"start": null,
 "date": "2017-02-14",
 "sample": 1402,
 "scenarios": [
@@ -3252,6 +3411,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205714/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-semaine13-17-fev.pdf",
+"start": null,
 "date": "2017-02-13",
 "sample": 1422,
 "scenarios": [
@@ -3271,6 +3431,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_13-02-2017.pdf",
+"start": null,
 "date": "2017-02-13",
 "sample": 1392,
 "scenarios": [
@@ -3292,6 +3453,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205714/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-semaine13-17-fev.pdf",
+"start": null,
 "date": "2017-02-12",
 "sample": 1590,
 "scenarios": [
@@ -3311,6 +3473,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_cevipof_-_eef2017_vague_11_-_ipsos_le_monde_-_fevrier_2017_-_publication.pdf",
+"start": null,
 "date": "2017-02-12",
 "sample": 11020,
 "scenarios": [
@@ -3344,6 +3507,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_10-02-2017.pdf",
+"start": null,
 "date": "2017-02-10",
 "sample": 1396,
 "scenarios": [
@@ -3365,6 +3529,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205744/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-6-au-10-fevrier.pdf",
+"start": null,
 "date": "2017-02-09",
 "sample": 1496,
 "scenarios": [
@@ -3384,6 +3549,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_09-02-2017.pdf",
+"start": null,
 "date": "2017-02-09",
 "sample": 1407,
 "scenarios": [
@@ -3405,6 +3571,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/02/08022017_bfmtv_lexpress_intentions-de-vote-presidentielles_vague_1.pdf",
+"start": null,
 "date": "2017-02-08",
 "sample": 961,
 "scenarios": [
@@ -3436,6 +3603,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://web.archive.org/web/20170211081726/http://harris-interactive.fr/wp-content/uploads/sites/6/2017/02/Rapport-Harris-Intentions-de-vote-%C3%A0-l%C3%A9lection-pr%C3%A9sidentielle-France-TV.pdf",
+"start": null,
 "date": "2017-02-08",
 "sample": 5432,
 "scenarios": [
@@ -3456,6 +3624,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205744/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-6-au-10-fevrier.pdf",
+"start": null,
 "date": "2017-02-08",
 "sample": 1454,
 "scenarios": [
@@ -3475,6 +3644,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_08-02-2017.pdf",
+"start": null,
 "date": "2017-02-08",
 "sample": 1409,
 "scenarios": [
@@ -3496,6 +3666,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205744/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-6-au-10-fevrier.pdf",
+"start": null,
 "date": "2017-02-07",
 "sample": 1487,
 "scenarios": [
@@ -3515,6 +3686,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_07-02-2017.pdf",
+"start": null,
 "date": "2017-02-07",
 "sample": 1424,
 "scenarios": [
@@ -3536,6 +3708,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/02/08022017_bfmtv_lexpress_intentions-de-vote-presidentielles_vague_1.pdf",
+"start": null,
 "date": "2017-02-06",
 "sample": 993,
 "scenarios": [
@@ -3567,6 +3740,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205744/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-6-au-10-fevrier.pdf",
+"start": null,
 "date": "2017-02-06",
 "sample": 1568,
 "scenarios": [
@@ -3586,6 +3760,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_06-02-2017.pdf",
+"start": null,
 "date": "2017-02-06",
 "sample": 1433,
 "scenarios": [
@@ -3607,6 +3782,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20170225205744/http://opinionlab.opinion-way.com/dokumenty/PresiTRACK-OpinionWay-ORPI-Resultats-de-la-semaine-du-6-au-10-fevrier.pdf",
+"start": null,
 "date": "2017-02-05",
 "sample": 1700,
 "scenarios": [
@@ -3626,6 +3802,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_03-02-2017.pdf",
+"start": null,
 "date": "2017-02-03",
 "sample": 1430,
 "scenarios": [
@@ -3647,6 +3824,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1945/fichier_intentions_de_vote_-_vague_9_-_pop2017_-_4_fevrier_20171bc7f.pdf",
+"start": null,
 "date": "2017-02-02",
 "sample": 640,
 "scenarios": [
@@ -3666,6 +3844,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1945/fichier_intentions_de_vote_-_vague_9_-_pop2017_-_4_fevrier_20171bc7f.pdf",
+"start": null,
 "date": "2017-02-02",
 "sample": 646,
 "scenarios": [
@@ -3686,6 +3865,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_02-02-2017.pdf",
+"start": null,
 "date": "2017-02-02",
 "sample": 1414,
 "scenarios": [
@@ -3707,6 +3887,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "http://dataviz.ifop.com:8080/IFOP_ROLLING/IFOP_01-02-2017.pdf",
+"start": null,
 "date": "2017-02-01",
 "sample": 1409,
 "scenarios": [
@@ -3728,6 +3909,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/02/01022017_les_echos_radio_classique_intentions-de-vote-presidentielles_vague_6.pdf",
+"start": null,
 "date": "2017-01-31",
 "sample": 993,
 "scenarios": [
@@ -3759,6 +3941,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/intentions-de-vote-la-situation-politique-au-soir-de-la-victoire-de-benoit-hamon-a-la-primaire-de-la-gauche/",
+"start": null,
 "date": "2017-01-27",
 "sample": 700,
 "scenarios": [
@@ -3792,6 +3975,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3683-1-study_file.pdf",
+"start": null,
 "date": "2017-03-04",
 "sample": 1392,
 "scenarios": [
@@ -3818,6 +4002,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/notice_technique_enquete_gauche_-_ipsos_france_2_janvier_2017.pdf",
+"start": null,
 "date": "2017-01-20",
 "sample": 992,
 "scenarios": [
@@ -3862,6 +4047,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_publi_cevipof_-_eef2017_vague_10_-_ipsos_le_monde_-_janvier_2017_0.pdf",
+"start": null,
 "date": "2017-01-15",
 "sample": 10986,
 "scenarios": [
@@ -3932,6 +4118,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1938/fichier_intentions_de_vote_-_vague_8_-_pop2017_-_12_janvier_2017adbe6.pdf",
+"start": null,
 "date": "2017-01-08",
 "sample": 644,
 "scenarios": [
@@ -3952,6 +4139,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1938/fichier_intentions_de_vote_-_vague_8_-_pop2017_-_12_janvier_2017adbe6.pdf",
+"start": null,
 "date": "2017-01-08",
 "sample": 638,
 "scenarios": [
@@ -3972,6 +4160,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1938/fichier_intentions_de_vote_-_vague_8_-_pop2017_-_12_janvier_2017adbe6.pdf",
+"start": null,
 "date": "2017-01-08",
 "sample": 637,
 "scenarios": [
@@ -3992,6 +4181,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1938/fichier_intentions_de_vote_-_vague_8_-_pop2017_-_12_janvier_2017adbe6.pdf",
+"start": null,
 "date": "2017-01-08",
 "sample": 629,
 "scenarios": [
@@ -4012,6 +4202,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3605-1-study_file.pdf",
+"start": null,
 "date": "2017-01-06",
 "sample": 1860,
 "scenarios": [
@@ -4072,6 +4263,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2017/01/05012017_les_echos_radio_classique_intentions-de-vote-presidentielles_vague_5.pdf",
+"start": null,
 "date": "2017-01-04",
 "sample": 925,
 "scenarios": [
@@ -4172,6 +4364,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_cevipof_-_eef2017_vague_9_decembre_2016_ipsos_le_monde.pdf",
+"start": null,
 "date": "2016-12-07",
 "sample": 12724,
 "scenarios": [
@@ -4234,6 +4427,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1930/fichier_intentions_de_vote_-_vague_7_-_pop2017_-_7_decembre_2016cbc14.pdf",
+"start": null,
 "date": "2016-12-04",
 "sample": 934,
 "scenarios": [
@@ -4279,6 +4473,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3576-1-study_file.pdf",
+"start": null,
 "date": "2016-12-03",
 "sample": 1401,
 "scenarios": [
@@ -4326,6 +4521,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3576-1-study_file.pdf",
+"start": null,
 "date": "2016-11-30",
 "sample": 1882,
 "scenarios": [
@@ -4360,6 +4556,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2016/11/30092016_les_echos_bfmtv_intentions-de-vote-presidentielles_vague_4vf.pdf",
+"start": null,
 "date": "2016-11-29",
 "sample": 941,
 "scenarios": [
@@ -4404,6 +4601,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/la-situation-politique-apres-la-victoire-de-francois-fillon-a-la-primaire-de-la-droite-et-du-centre/",
+"start": null,
 "date": "2016-11-28",
 "sample": 1011,
 "scenarios": [
@@ -4505,6 +4703,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://www.lcp.fr/sites/default/files/Intentions_de_vote_%28LCP-Public_Senat%29.pdf",
+"start": null,
 "date": "2016-11-27",
 "sample": 6093,
 "scenarios": [
@@ -4537,6 +4736,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2016/12/Intention-de-vote-presidentielle-Odoxa-Dentsu-France-271116.pdf",
+"start": null,
 "date": "2016-11-25",
 "sample": 844,
 "scenarios": [
@@ -4557,6 +4757,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3562-1-study_file.pdf",
+"start": null,
 "date": "2016-11-17",
 "sample": 979,
 "scenarios": [
@@ -4603,6 +4804,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_cevipof_-_eef2017_vague_8_novembre_2016_ipsos_le_monde.pdf",
+"start": null,
 "date": "2016-11-13",
 "sample": 12378,
 "scenarios": [
@@ -4669,6 +4871,7 @@
 {
 "firm": "Kantar Sofres",
 "url": "https://fr.kantar.com/elections/presidentielle/2017/presidentielle-2017-intentions-de-vote-oct-2016/",
+"start": null,
 "date": "2016-10-23",
 "sample": 1005,
 "scenarios": [
@@ -4760,6 +4963,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3535-1-study_file.pdf",
+"start": null,
 "date": "2016-10-20",
 "sample": 1827,
 "scenarios": [
@@ -4887,6 +5091,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1913/fichier_intentions_de_vote_-_vague_6_-_pop2017_-_octobre_20169c21a.pdf",
+"start": null,
 "date": "2016-10-16",
 "sample": 916,
 "scenarios": [
@@ -4960,6 +5165,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3508-1-study_file.pdf",
+"start": null,
 "date": "2016-09-28",
 "sample": 932,
 "scenarios": [
@@ -4978,6 +5184,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2016/09/22092016_les_echos_radio_classique_intentions-de-vote-presidentielles_vague_3.pdf",
+"start": null,
 "date": "2016-09-21",
 "sample": 922,
 "scenarios": [
@@ -5076,6 +5283,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/rapport_ipsos_cevipof_le_monde_-_eef2017_vague_6_septembre_2016.pdf",
+"start": null,
 "date": "2016-09-18",
 "sample": 12469,
 "scenarios": [
@@ -5132,6 +5340,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1900/fichier_intentions_de_vote_-_vague_5_-_pop2017_-_septembre_20164d4a8.pdf",
+"start": null,
 "date": "2016-09-11",
 "sample": 912,
 "scenarios": [
@@ -5227,6 +5436,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3479-1-study_file.pdf",
+"start": null,
 "date": "2016-09-07",
 "sample": 1903,
 "scenarios": [
@@ -5334,6 +5544,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2016.09.07-presi2017-ivt1.pdf",
+"start": null,
 "date": "2016-09-05",
 "sample": 1006,
 "scenarios": [
@@ -5450,6 +5661,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1888/fichier_pop2017_-_intentions_de_vote_-_vague_404553.pdf",
+"start": null,
 "date": "2016-07-10",
 "sample": 936,
 "scenarios": [
@@ -5479,6 +5691,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2016/06/22062016_LES_ECHOS_RADIO_CLASSIQUE_Intentions-de-vote-pr%C3%A9sidentielles_Vague_2_AVEC_SYNTHESE.pdf",
+"start": null,
 "date": "2016-06-21",
 "sample": 926,
 "scenarios": [
@@ -5573,6 +5786,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3432-1-study_file.pdf",
+"start": null,
 "date": "2016-06-17",
 "sample": 1858,
 "scenarios": [
@@ -5672,6 +5886,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1872/fichier_pop2017_-_intentions_de_vote_-_vague_3ff173.pdf",
+"start": null,
 "date": "2016-06-12",
 "sample": 910,
 "scenarios": [
@@ -5723,6 +5938,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20170308045511/https://www.soprasteria.com/docs/librariesprovider29/Publications-Ipsos/enqu%C3%AAte-%C3%A9lectorale-fran%C3%A7aise-2017-vague-4-mai-2016---ipsos-cevipof-le-monde.pdf",
+"start": null,
 "date": "2016-05-22",
 "sample": 12710,
 "scenarios": [
@@ -5754,6 +5970,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1862/fichier_pop2017_-_intentions_de_vote_-_vague_2_-_2005166dfa2.pdf",
+"start": null,
 "date": "2016-05-16",
 "sample": 927,
 "scenarios": [
@@ -5805,6 +6022,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3383-1-study_file.pdf",
+"start": null,
 "date": "2016-04-28",
 "sample": 1419,
 "scenarios": [
@@ -5836,6 +6054,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/wp-content/uploads/2016/04/28042016_LES_ECHOS_RADIO_CLASSIQUE_Intentions-de-vote-pr%C3%A9sidentielles.pdf",
+"start": null,
 "date": "2016-04-27",
 "sample": 911,
 "scenarios": [
@@ -5929,6 +6148,7 @@
 {
 "firm": "BVA",
 "url": "http://www.bva.fr/data/sondage/sondage_fiche/1849/fichier_pop2017_-_intentions_de_vote_-_vague_1_-_210416c60cf.pdf",
+"start": null,
 "date": "2016-04-17",
 "sample": 949,
 "scenarios": [
@@ -5980,6 +6200,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2016.04.17-iv-presi2017.pdf",
+"start": null,
 "date": "2016-04-16",
 "sample": 1011,
 "scenarios": [
@@ -6039,6 +6260,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2016/04/odoxa-dentsuconsulting-bfm-leparisien-intentiondevotelaprsidentiellede201715avril2016-160415162721.pdf",
+"start": null,
 "date": "2016-04-15",
 "sample": 949,
 "scenarios": [
@@ -6089,6 +6311,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3363-1-study_file.pdf",
+"start": null,
 "date": "2016-04-14",
 "sample": 1876,
 "scenarios": [
@@ -6214,6 +6437,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://web.archive.org/web/20160427002648/http://harris-interactive.fr/wp-content/uploads/sites/6/2016/04/Rapport-Harris-Le-regard-des-Fran%C3%A7ais-sur-lavenir-politique-de-Nicolas-Hulot-We-Demain.pdf",
+"start": null,
 "date": "2016-04-13",
 "sample": 1535,
 "scenarios": [
@@ -6245,6 +6469,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/ipsos_cevipof_le_monde_-_rapport_complet.pdf",
+"start": null,
 "date": "2016-03-20",
 "sample": 13693,
 "scenarios": [
@@ -6285,6 +6510,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3327-1-study_file.pdf",
+"start": null,
 "date": "2016-03-14",
 "sample": 1026,
 "scenarios": [
@@ -6314,6 +6540,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3309-1-study_file.pdf",
+"start": null,
 "date": "2016-02-19",
 "sample": 1843,
 "scenarios": [
@@ -6395,6 +6622,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/sites/default/files/files-fr-fr/doc_associe/enquete_electorale_francaise_2017_-_fevrier_2016.pdf",
+"start": null,
 "date": "2016-01-31",
 "sample": 14954,
 "scenarios": [
@@ -6436,6 +6664,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2016/01/odoxapourleparisien-aujourdhuienfrance-lesfranaisetlaprsiden-160116210046.pdf",
+"start": null,
 "date": "2016-01-15",
 "sample": 1011,
 "scenarios": [
@@ -6486,6 +6715,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3432-1-study_file.pdf",
+"start": null,
 "date": "2016-06-17",
 "sample": 1858,
 "scenarios": [
@@ -6511,6 +6741,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3244-1-study_file.pdf",
+"start": null,
 "date": "2015-12-17",
 "sample": 1800,
 "scenarios": [
@@ -6573,6 +6804,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2015.12.15-presi2017-iv.pdf",
+"start": null,
 "date": "2015-12-15",
 "sample": 1000,
 "scenarios": [
@@ -6612,6 +6844,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://web.archive.org/web/20160227002350/http://harris-interactive.fr/wp-content/uploads/sites/6/2015/12/Rapport-Harris-R%C3%A9gionales-2015-Etude-Soir-du-vote-du-2nd-tour-M6.pdf",
+"start": null,
 "date": "2015-12-13",
 "sample": 1020,
 "scenarios": [
@@ -6641,6 +6874,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3198-1-study_file.pdf",
+"start": null,
 "date": "2015-11-04",
 "sample": 937,
 "scenarios": [
@@ -6681,6 +6915,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3119-1-study_file.pdf",
+"start": null,
 "date": "2015-09-04",
 "sample": 1002,
 "scenarios": [
@@ -6711,6 +6946,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3109-1-study_file.pdf",
+"start": null,
 "date": "2015-08-19",
 "sample": 950,
 "scenarios": [
@@ -6752,6 +6988,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/3099-1-study_file.pdf",
+"start": null,
 "date": "2015-07-21",
 "sample": 944,
 "scenarios": [
@@ -6782,6 +7019,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2015/05/odoxa-pour-le-parisien-aujourdhui-en-france-2017-lhypothse-jupp-160201135908.pdf",
+"start": null,
 "date": "2015-05-22",
 "sample": 911,
 "scenarios": [
@@ -6811,6 +7049,7 @@
 {
 "firm": "Odoxa",
 "url": "http://www.odoxa.fr/wp-content/uploads/2015/05/odoxa-pour-le-parisien-aujourdhui-en-france-quels-scnarios-pour-2017-160201112820.pdf",
+"start": null,
 "date": "2015-04-30",
 "sample": 1021,
 "scenarios": [
@@ -6841,6 +7080,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies.html?task=document.viewdoc&id=1152",
+"start": null,
 "date": "2015-04-16",
 "sample": 979,
 "scenarios": [
@@ -6873,6 +7113,7 @@
 {
 "firm": "CSA",
 "url": "http://media.rtl.fr/internal/binary/2015/0129/7776381771_les-intentions-de-vote-pour-la-presidentielle-2017.pdf",
+"start": null,
 "date": "2015-01-29",
 "sample": 951,
 "scenarios": [
@@ -6925,6 +7166,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2918-1-study_file.pdf",
+"start": null,
 "date": "2015-01-23",
 "sample": 983,
 "scenarios": [
@@ -6977,6 +7219,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2826-1-study_file.pdf",
+"start": null,
 "date": "2014-10-30",
 "sample": 1382,
 "scenarios": [
@@ -7071,6 +7314,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2755-1-study_file.pdf",
+"start": null,
 "date": "2014-09-04",
 "sample": 994,
 "scenarios": [
@@ -7112,6 +7356,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2734-1-study_file.pdf",
+"start": null,
 "date": "2014-07-22",
 "sample": 947,
 "scenarios": [
@@ -7153,6 +7398,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2608-1-study_file.pdf",
+"start": null,
 "date": "2014-04-18",
 "sample": 998,
 "scenarios": [
@@ -7197,6 +7443,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies.html?task=document.viewdoc&id=938",
+"start": null,
 "date": "2014-04-13",
 "sample": 988,
 "scenarios": [
@@ -7217,6 +7464,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_bva_actu_-_intention_de_vote_presidentielle_-_jean_luc_melenchonc9974.pdf",
+"start": null,
 "date": "2013-05-03",
 "sample": 1086,
 "scenarios": [
@@ -7237,6 +7485,7 @@
 {
 "firm": "Future Thinking",
 "url": "https://web.archive.org/web/20130813090647/http://www.groupe-acticall.com/sites/default/files/images/presse/communiques/CP_Sondage_Intention_de_vote_des_Francais_un_an_apres_le_premier_tour_de_la_presidentielle_01.pdf",
+"start": null,
 "date": "2013-04-29",
 "sample": 1000,
 "scenarios": [
@@ -7281,6 +7530,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20160303171707/http://www.csa.eu/multimedia/data/sondages/data2013/opi20130429-les-francais-et-francois-hollande-avril-2013-v2.pdf",
+"start": null,
 "date": "2013-04-28",
 "sample": 993,
 "scenarios": [
@@ -7301,6 +7551,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies.html?task=document.viewdoc&id=766",
+"start": null,
 "date": "2013-04-17",
 "sample": 971,
 "scenarios": [
@@ -7321,6 +7572,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2222-1-study_file.pdf",
+"start": null,
 "date": "2013-04-15",
 "sample": 1967,
 "scenarios": [
@@ -7341,6 +7593,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/2014-1-study_file.pdf",
+"start": null,
 "date": "2012-10-12",
 "sample": 1607,
 "scenarios": [
@@ -7361,6 +7614,7 @@
 {
 "firm": "2012 election",
 "url": null,
+"start": null,
 "date": "2017-04-22",
 "sample": null,
 "scenarios": [

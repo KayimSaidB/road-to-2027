@@ -14,10 +14,11 @@ network problem: the poll update must not fail because of this source.
 """
 import datetime as dt, json, os, re, sys, urllib.request
 
+from road2027.jsdata import split_js, write_js
+
 URL = "https://lepodium2027.fr/"
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "data", "social.js")
-PREFIX = "window.SOCIAL = "
 NETWORKS = ("x", "instagram", "tiktok", "facebook")
 JUMP_WARN = 0.25  # flag (not block) a change of more than 25 % since the last point
 
@@ -47,9 +48,8 @@ def main():
         warn(f"Le Podium 2027 unreadable, followers not updated: {exc}")
         return
 
-    text = open(OUT, encoding="utf-8").read()
-    head, body = text.split(PREFIX, 1)
-    social = json.loads(body.rsplit(";", 1)[0])
+    head, body = split_js(open(OUT, encoding="utf-8").read(), "SOCIAL")  # head: the hand-written comment
+    social = json.loads(body)
 
     added, replaced = 0, 0
     for cid, pid in IDS.items():
@@ -80,10 +80,7 @@ def main():
 
     if added or replaced:
         social["updated"] = dt.datetime.now(dt.timezone.utc).date().isoformat()
-        with open(OUT, "w", encoding="utf-8") as f:
-            f.write(head + PREFIX)
-            json.dump(social, f, ensure_ascii=False, indent=1)
-            f.write(";\n")
+        write_js(OUT, "SOCIAL", social, header=head, indent=1)
     print(f"Le Podium 2027: {added} new points, {replaced} replaced")
 
 if __name__ == "__main__":

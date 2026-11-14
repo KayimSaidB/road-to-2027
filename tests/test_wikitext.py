@@ -1,4 +1,4 @@
-"""Tests for backtest/parse_history.py.
+"""Tests for road2027.wikitext (src/road2027/wikitext.py).
 
 Three levels: the small cell parsers, whole hand-written tables, and the real Wikipedia
 pages (backtest/raw) against the JSON committed next to them (backtest/data).
@@ -10,8 +10,9 @@ from pathlib import Path
 
 import pytest
 
-from parse_history import (Cell, Column, Role, header_column, header_columns, month_number, parse,
-                           parse_date, parse_firm, parse_percentage, parse_sample, split_cell_attributes)
+from road2027.wikitext import (Cell, Column, Role, header_column, header_columns, month_number, parse,
+                           parse_date, parse_firm, parse_percentage, parse_sample, parse_start,
+                           split_cell_attributes)
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -29,6 +30,18 @@ ROOT = Path(__file__).resolve().parent.parent
 ])
 def test_parse_date(cell: Cell, expected: str | None) -> None:
     assert parse_date(cell) == expected
+
+
+@pytest.mark.parametrize(("text", "end", "expected"), [
+    ("{{Opdrts|10|12|Nov|2026|year}}", "2026-11-12", "2026-11-10"),
+    ("{{Opdrts||12|Nov|2026|year}}", "2026-11-12", "2026-11-12"),     # one-day fieldwork
+    ("{{Opdrts|28|Oct|2|Nov|2026}}", "2026-11-02", "2026-10-28"),     # spelled-out first month
+    ("{{Opdrts|31|1|Sep|2026|year}}", "2026-09-01", "2026-08-31"),    # first day > last: month before
+    ("{{Opdrts|30|2|Jan|2027|year}}", "2027-01-02", "2026-12-30"),    # ... and year before
+    ("10–12 Nov 2026", "2026-11-12", None),                           # only from the template
+])
+def test_parse_start(text: str, end: str, expected: str | None) -> None:
+    assert parse_start(Cell("", text), end) == expected
 
 
 @pytest.mark.parametrize("name", ["Nov", "nov.", "November", " NOVEMBER "])
@@ -136,13 +149,13 @@ FIRST_ROUND_TABLE = """{| class="wikitable"
 def test_parse_table() -> None:
     text = f"== First round ==\n{FIRST_ROUND_TABLE}\n"
     assert parse(text) == [
-        {"firm": "Ifop", "url": "https://example.org/ifop", "date": "2026-11-12", "sample": 1000,
+        {"firm": "Ifop", "url": "https://example.org/ifop", "start": None, "date": "2026-11-12", "sample": 1000,
          "scenarios": [  # rowspan cells repeat: two hypotheses of the same poll
              {"Marine Le Pen": 31.0, "Jean-Luc Mélenchon": 15.0, "Édouard Philippe": 12.0},
              {"Marine Le Pen": 32.0, "Jean-Luc Mélenchon": 16.0, "Édouard Philippe": 11.0},
          ]},
         # The note row (colspan 6) is skipped; Odoxa has 1 score < min_vals=3, skipped too.
-        {"firm": "Elabe", "url": None, "date": "2026-11-05", "sample": 1500,
+        {"firm": "Elabe", "url": None, "start": "2026-11-03", "date": "2026-11-05", "sample": 1500,
          "scenarios": [{"Marine Le Pen": 30.0, "Jean-Luc Mélenchon": 14.0, "Édouard Philippe": 0.25}]},
     ]
 

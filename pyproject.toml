@@ -1,8 +1,21 @@
-# Python tooling for scripts/, backtest/ and tests/. The site itself has no dependency.
+# Python side of the project: the road2027 package (src/road2027, shared code), the data
+# scripts (scripts/), the backtest (backtest/) and tests. The site itself has no dependency.
 #
-# Dependency groups (PEP 735), installed without packaging the project (pip >= 25.1):
-#   pip install --group scripts   # what the data scripts need (update-polls workflow)
-#   pip install --group dev       # + tests and linting (CI, local development)
+#   pip install -e . --group dev       # local development: package (editable) + tests + lint
+#   pip install . --group scripts      # what the update-polls workflow needs
+#
+# Dependency groups (PEP 735) need pip >= 25.1.
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "road2027"
+version = "0.1.0"
+description = "Shared code for the Road to 2027 data scripts and backtest"
+requires-python = ">=3.12"
+dependencies = []  # standard library only
 
 [dependency-groups]
 scripts = ["pydantic==2.13.5"]
@@ -14,8 +27,9 @@ dev = [
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-# scripts/ and backtest/ are not packages: let tests import their modules directly.
-pythonpath = ["scripts", "backtest"]
+# scripts/ is not a package: let tests import validate_data and update_polls directly.
+# road2027 is imported from the installed package, never from the source tree.
+pythonpath = ["scripts"]
 addopts = "-ra"
 
 [tool.ruff]

@@ -2,6 +2,7 @@
 {
 "firm": "2012 election",
 "url": null,
+"start": null,
 "date": "2012-04-22",
 "sample": null,
 "scenarios": [
@@ -22,6 +23,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1849-1-study_file.pdf",
+"start": null,
 "date": "2012-04-20",
 "sample": 1723,
 "scenarios": [
@@ -42,6 +44,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120514081754/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-20-04-2012.pdf",
+"start": null,
 "date": "2012-04-20",
 "sample": 2592,
 "scenarios": [
@@ -62,6 +65,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_-_le_parisien21a91.pdf",
+"start": null,
 "date": "2012-04-19",
 "sample": 2161,
 "scenarios": [
@@ -82,6 +86,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120617031959/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120419-la-course-2012-vague-24-avril-2012.pdf",
+"start": null,
 "date": "2012-04-19",
 "sample": 1005,
 "scenarios": [
@@ -102,6 +107,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_20042012.pdf",
+"start": null,
 "date": "2012-04-19",
 "sample": 1068,
 "scenarios": [
@@ -122,6 +128,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120601194938/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_iv_vague_18.pdf",
+"start": null,
 "date": "2012-04-19",
 "sample": 1021,
 "scenarios": [
@@ -142,6 +149,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.04.20-intentionsvote.pdf",
+"start": null,
 "date": "2012-04-19",
 "sample": 1000,
 "scenarios": [
@@ -162,6 +170,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516193906/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-19-04-2012.pdf",
+"start": null,
 "date": "2012-04-19",
 "sample": 2588,
 "scenarios": [
@@ -182,6 +191,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120503225731/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle201219avril2012.pdf",
+"start": null,
 "date": "2012-04-18",
 "sample": 956,
 "scenarios": [
@@ -202,6 +212,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516194150/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-18-04-2012.pdf",
+"start": null,
 "date": "2012-04-18",
 "sample": 2552,
 "scenarios": [
@@ -222,6 +233,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl4060b.pdf",
+"start": null,
 "date": "2012-04-17",
 "sample": 1161,
 "scenarios": [
@@ -242,6 +254,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120418195754/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120417-la-course-2012-vague-23-avril-2012.pdf",
+"start": null,
 "date": "2012-04-17",
 "sample": 886,
 "scenarios": [
@@ -262,6 +275,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-8-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2012-04-17",
 "sample": 1002,
 "scenarios": [
@@ -282,6 +296,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516192524/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-17-04-2012.pdf",
+"start": null,
 "date": "2012-04-17",
 "sample": 1709,
 "scenarios": [
@@ -302,6 +317,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_17042012.pdf",
+"start": null,
 "date": "2012-04-16",
 "sample": 991,
 "scenarios": [
@@ -322,6 +338,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1841-1-study_file.pdf",
+"start": null,
 "date": "2012-04-15",
 "sample": 1808,
 "scenarios": [
@@ -342,6 +359,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516183404/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-16-04-2012.pdf",
+"start": null,
 "date": "2012-04-15",
 "sample": 1711,
 "scenarios": [
@@ -362,6 +380,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120601194920/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_iv_vague_17.pdf",
+"start": null,
 "date": "2012-04-14",
 "sample": 894,
 "scenarios": [
@@ -382,6 +401,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416224534/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-13-04-2012.pdf",
+"start": null,
 "date": "2012-04-13",
 "sample": 2562,
 "scenarios": [
@@ -402,6 +422,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl61753.pdf",
+"start": null,
 "date": "2012-04-12",
 "sample": 885,
 "scenarios": [
@@ -422,6 +443,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.04.13-iv.pdf",
+"start": null,
 "date": "2012-04-12",
 "sample": 1000,
 "scenarios": [
@@ -442,6 +464,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416224526/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-12-04-2012.pdf",
+"start": null,
 "date": "2012-04-12",
 "sample": 2562,
 "scenarios": [
@@ -462,6 +485,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120417070525/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120411-la-course-2012-vague-22-avril-2012.pdf",
+"start": null,
 "date": "2012-04-11",
 "sample": 1013,
 "scenarios": [
@@ -482,6 +506,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120419134434/http://oise.pcf.fr/sites/default/files/20120412-lh2-yahoo.pdf",
+"start": null,
 "date": "2012-04-11",
 "sample": 977,
 "scenarios": [
@@ -502,6 +527,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/l-indicateur-2012-l-observatoire-de-la-presidentielle-vague-5-fiducial-pour-radio-classique-et-les-echos/viewdocument.html",
+"start": null,
 "date": "2012-04-11",
 "sample": 1007,
 "scenarios": [
@@ -522,6 +548,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416224504/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-11-04-2012.pdf",
+"start": null,
 "date": "2012-04-11",
 "sample": 2285,
 "scenarios": [
@@ -542,6 +569,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416224521/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-10-04-2012.pdf",
+"start": null,
 "date": "2012-04-10",
 "sample": 1425,
 "scenarios": [
@@ -562,6 +590,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120417000036/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_iv_vague_16.pdf",
+"start": null,
 "date": "2012-04-07",
 "sample": 955,
 "scenarios": [
@@ -582,6 +611,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1842-1-study_file.pdf",
+"start": null,
 "date": "2012-04-07",
 "sample": 1869,
 "scenarios": [
@@ -602,6 +632,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416224456/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-09-04-2012.pdf",
+"start": null,
 "date": "2012-04-07",
 "sample": 1002,
 "scenarios": [
@@ -622,6 +653,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_10042012.pdf",
+"start": null,
 "date": "2012-04-06",
 "sample": 1033,
 "scenarios": [
@@ -642,6 +674,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416224452/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-06-04-2012.pdf",
+"start": null,
 "date": "2012-04-06",
 "sample": 1284,
 "scenarios": [
@@ -662,6 +695,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416225800/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-05-04-2012.pdf",
+"start": null,
 "date": "2012-04-05",
 "sample": 1060,
 "scenarios": [
@@ -682,6 +716,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-7-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2012-04-04",
 "sample": 969,
 "scenarios": [
@@ -702,6 +737,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416225742/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-04-04-2012.pdf",
+"start": null,
 "date": "2012-04-04",
 "sample": 1432,
 "scenarios": [
@@ -722,6 +758,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120416221759/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120403-la-course-2012-vague-21-avril-2012.pdf",
+"start": null,
 "date": "2012-04-03",
 "sample": 884,
 "scenarios": [
@@ -742,6 +779,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120417092420/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-03-04-2012.pdf",
+"start": null,
 "date": "2012-04-03",
 "sample": 999,
 "scenarios": [
@@ -762,6 +800,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_03042012.pdf",
+"start": null,
 "date": "2012-04-02",
 "sample": 1059,
 "scenarios": [
@@ -782,6 +821,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416225737/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-02-04-2012.pdf",
+"start": null,
 "date": "2012-04-02",
 "sample": 893,
 "scenarios": [
@@ -802,6 +842,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120417112540/http://www.ipsos.fr/sites/default/files/attachments/rapport__barometre_intention_de_vote_vague15.pdf",
+"start": null,
 "date": "2012-03-31",
 "sample": 881,
 "scenarios": [
@@ -822,6 +863,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120417022216/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle20121avril_2012.pdf",
+"start": null,
 "date": "2012-03-31",
 "sample": 973,
 "scenarios": [
@@ -842,6 +884,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-le_parisien_-_avril_2012dd0f0.pdf",
+"start": null,
 "date": "2012-03-31",
 "sample": 2555,
 "scenarios": [
@@ -862,6 +905,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120417021928/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-30-03-2012.pdf",
+"start": null,
 "date": "2012-03-30",
 "sample": 957,
 "scenarios": [
@@ -882,6 +926,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120417071952/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-29-03-2012.pdf",
+"start": null,
 "date": "2012-03-29",
 "sample": 950,
 "scenarios": [
@@ -902,6 +947,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416232958/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-28-03-2012.pdf",
+"start": null,
 "date": "2012-03-28",
 "sample": 1211,
 "scenarios": [
@@ -922,6 +968,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120416221734/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120327-la-course-2012-vague-20-mars-2012.pdf",
+"start": null,
 "date": "2012-03-27",
 "sample": 876,
 "scenarios": [
@@ -942,6 +989,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-6-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2012-03-27",
 "sample": 1148,
 "scenarios": [
@@ -962,6 +1010,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.03.28-intentionsvote9.pdf",
+"start": null,
 "date": "2012-03-27",
 "sample": 1000,
 "scenarios": [
@@ -982,6 +1031,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516192726/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-27-03-2012.pdf",
+"start": null,
 "date": "2012-03-27",
 "sample": 902,
 "scenarios": [
@@ -1002,6 +1052,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_27032012.pdf",
+"start": null,
 "date": "2012-03-26",
 "sample": 1231,
 "scenarios": [
@@ -1022,6 +1073,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1817-1-study_file.pdf",
+"start": null,
 "date": "2012-03-25",
 "sample": 1769,
 "scenarios": [
@@ -1042,6 +1094,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416232951/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-26-03-2012.pdf",
+"start": null,
 "date": "2012-03-25",
 "sample": 887,
 "scenarios": [
@@ -1062,6 +1115,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120417113059/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague14.pdf",
+"start": null,
 "date": "2012-03-24",
 "sample": 978,
 "scenarios": [
@@ -1082,6 +1136,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120417021923/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-23-03-2012.pdf",
+"start": null,
 "date": "2012-03-23",
 "sample": 942,
 "scenarios": [
@@ -1102,6 +1157,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl84932.pdf",
+"start": null,
 "date": "2012-03-22",
 "sample": 926,
 "scenarios": [
@@ -1122,6 +1178,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120416232946/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-22-03-2012.pdf",
+"start": null,
 "date": "2012-03-22",
 "sample": 945,
 "scenarios": [
@@ -1142,6 +1199,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222328/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-21-03-2012.pdf",
+"start": null,
 "date": "2012-03-21",
 "sample": 1195,
 "scenarios": [
@@ -1162,6 +1220,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120324102825/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120320-la-course-2012-vague-19-mars-2012.pdf",
+"start": null,
 "date": "2012-03-20",
 "sample": 888,
 "scenarios": [
@@ -1182,6 +1241,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323200557/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-20-03-2012.pdf",
+"start": null,
 "date": "2012-03-20",
 "sample": 876,
 "scenarios": [
@@ -1202,6 +1262,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_20032012.pdf",
+"start": null,
 "date": "2012-03-19",
 "sample": 1097,
 "scenarios": [
@@ -1223,6 +1284,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222317/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-19-03-2012.pdf",
+"start": null,
 "date": "2012-03-19",
 "sample": 881,
 "scenarios": [
@@ -1245,6 +1307,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1806-1-study_file.pdf",
+"start": null,
 "date": "2012-03-17",
 "sample": 961,
 "scenarios": [
@@ -1265,6 +1328,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120328195034/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague13.pdf",
+"start": null,
 "date": "2012-03-17",
 "sample": 950,
 "scenarios": [
@@ -1286,6 +1350,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120323224238/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidensielle201218mars2012.pdf",
+"start": null,
 "date": "2012-03-17",
 "sample": 962,
 "scenarios": [
@@ -1306,6 +1371,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323204137/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-16-03-2012.pdf",
+"start": null,
 "date": "2012-03-16",
 "sample": 928,
 "scenarios": [
@@ -1328,6 +1394,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-5-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2012-03-15",
 "sample": 1183,
 "scenarios": [
@@ -1349,6 +1416,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323191954/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-15-03-2012.pdf",
+"start": null,
 "date": "2012-03-15",
 "sample": 928,
 "scenarios": [
@@ -1371,6 +1439,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120316113904/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-14-03-2012.pdf",
+"start": null,
 "date": "2012-03-14",
 "sample": 1187,
 "scenarios": [
@@ -1393,6 +1462,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120316093944/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120313-la-course-2012-vague-18-mars-2012.pdf",
+"start": null,
 "date": "2012-03-13",
 "sample": 861,
 "scenarios": [
@@ -1415,6 +1485,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222305/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-13-03-2012.pdf",
+"start": null,
 "date": "2012-03-13",
 "sample": 875,
 "scenarios": [
@@ -1437,6 +1508,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.03.13-iv8.pdf",
+"start": null,
 "date": "2012-03-12",
 "sample": 1000,
 "scenarios": [
@@ -1459,6 +1531,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1793-1-study_file.pdf",
+"start": null,
 "date": "2012-03-12",
 "sample": 1638,
 "scenarios": [
@@ -1481,6 +1554,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323191948/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-12-03-2012.pdf",
+"start": null,
 "date": "2012-03-12",
 "sample": 874,
 "scenarios": [
@@ -1503,6 +1577,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323200549/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-09-03-2012.pdf",
+"start": null,
 "date": "2012-03-09",
 "sample": 922,
 "scenarios": [
@@ -1524,6 +1599,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323194243/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-08-03-2012.pdf",
+"start": null,
 "date": "2012-03-08",
 "sample": 924,
 "scenarios": [
@@ -1545,6 +1621,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/l-indicateur-2012-l-observatoire-de-la-presidentielle-vague-4-fiducial-pour-radio-classique-et-les-echos/viewdocument.html",
+"start": null,
 "date": "2012-03-07",
 "sample": 1098,
 "scenarios": [
@@ -1566,6 +1643,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222252/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-07-03-2012.pdf",
+"start": null,
 "date": "2012-03-07",
 "sample": 1182,
 "scenarios": [
@@ -1587,6 +1665,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323204132/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-06-03-2012.pdf",
+"start": null,
 "date": "2012-03-06",
 "sample": 877,
 "scenarios": [
@@ -1608,6 +1687,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120416232058/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120305-la-course-2012-vague-17-mars-2012.pdf",
+"start": null,
 "date": "2012-03-05",
 "sample": 888,
 "scenarios": [
@@ -1629,6 +1709,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_06032012.pdf",
+"start": null,
 "date": "2012-03-05",
 "sample": 975,
 "scenarios": [
@@ -1650,6 +1731,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323200540/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-05-03-2012.pdf",
+"start": null,
 "date": "2012-03-05",
 "sample": 867,
 "scenarios": [
@@ -1671,6 +1753,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-le_parisien_-_mars_2012a3c86.pdf",
+"start": null,
 "date": "2012-03-03",
 "sample": 761,
 "scenarios": [
@@ -1693,6 +1776,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120324033905/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague12.pdf",
+"start": null,
 "date": "2012-03-03",
 "sample": 966,
 "scenarios": [
@@ -1714,6 +1798,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120311205614/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle20124mars2012.pdf",
+"start": null,
 "date": "2012-03-03",
 "sample": 971,
 "scenarios": [
@@ -1735,6 +1820,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323193650/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-02-03-2012.pdf",
+"start": null,
 "date": "2012-03-02",
 "sample": 912,
 "scenarios": [
@@ -1756,6 +1842,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120321085337/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-01-03-2012.pdf",
+"start": null,
 "date": "2012-03-01",
 "sample": 929,
 "scenarios": [
@@ -1777,6 +1864,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222337/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-29-02-2012.pdf",
+"start": null,
 "date": "2012-02-29",
 "sample": 1187,
 "scenarios": [
@@ -1798,6 +1886,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323204143/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-28-02-2012.pdf",
+"start": null,
 "date": "2012-02-28",
 "sample": 888,
 "scenarios": [
@@ -1819,6 +1908,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.02.28-iv7.pdf",
+"start": null,
 "date": "2012-02-27",
 "sample": 1000,
 "scenarios": [
@@ -1841,6 +1931,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1843-1-study_file.pdf",
+"start": null,
 "date": "2012-02-26",
 "sample": 1723,
 "scenarios": [
@@ -1862,6 +1953,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222330/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-27-02-2012.pdf",
+"start": null,
 "date": "2012-02-26",
 "sample": 882,
 "scenarios": [
@@ -1883,6 +1975,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120601222427/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague11.pdf",
+"start": null,
 "date": "2012-02-25",
 "sample": 959,
 "scenarios": [
@@ -1904,6 +1997,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227042050/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-24-02-2012.pdf",
+"start": null,
 "date": "2012-02-24",
 "sample": 931,
 "scenarios": [
@@ -1926,6 +2020,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227125320/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-23-02-2012.pdf",
+"start": null,
 "date": "2012-02-23",
 "sample": 931,
 "scenarios": [
@@ -1948,6 +2043,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227040844/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-22-02-2012.pdf",
+"start": null,
 "date": "2012-02-22",
 "sample": 1180,
 "scenarios": [
@@ -1970,6 +2066,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227040557/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-21-02-2012.pdf",
+"start": null,
 "date": "2012-02-21",
 "sample": 874,
 "scenarios": [
@@ -1992,6 +2089,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120417080130/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120220-l-entree-en-campagne-de-nicolas-sarkozy-et-l-election-presidentielle.pdf",
+"start": null,
 "date": "2012-02-20",
 "sample": 891,
 "scenarios": [
@@ -2014,6 +2112,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222320/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-20-02-2012.pdf",
+"start": null,
 "date": "2012-02-20",
 "sample": 872,
 "scenarios": [
@@ -2036,6 +2135,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120227040316/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague10.pdf",
+"start": null,
 "date": "2012-02-18",
 "sample": 969,
 "scenarios": [
@@ -2058,6 +2158,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120226224729/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle201218fev2012.pdf",
+"start": null,
 "date": "2012-02-18",
 "sample": 967,
 "scenarios": [
@@ -2080,6 +2181,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-4-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2012-02-18",
 "sample": 975,
 "scenarios": [
@@ -2102,6 +2204,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227040825/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-17-02-2012.pdf",
+"start": null,
 "date": "2012-02-17",
 "sample": 938,
 "scenarios": [
@@ -2125,6 +2228,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl872a6.pdf",
+"start": null,
 "date": "2012-02-16",
 "sample": 930,
 "scenarios": [
@@ -2149,6 +2253,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222309/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-16-02-2012.pdf",
+"start": null,
 "date": "2012-02-16",
 "sample": 939,
 "scenarios": [
@@ -2172,6 +2277,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227055435/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-15-02-2012.pdf",
+"start": null,
 "date": "2012-02-15",
 "sample": 1174,
 "scenarios": [
@@ -2196,6 +2302,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120324013515/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-14-02-2012.pdf",
+"start": null,
 "date": "2012-02-14",
 "sample": 867,
 "scenarios": [
@@ -2220,6 +2327,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_14022012.pdf",
+"start": null,
 "date": "2012-02-13",
 "sample": 954,
 "scenarios": [
@@ -2243,6 +2351,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227040820/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-13-02-2012.pdf",
+"start": null,
 "date": "2012-02-13",
 "sample": 870,
 "scenarios": [
@@ -2267,6 +2376,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1844-1-study_file.pdf",
+"start": null,
 "date": "2012-02-12",
 "sample": 1723,
 "scenarios": [
@@ -2291,6 +2401,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120323222258/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-10-02-2012.pdf",
+"start": null,
 "date": "2012-02-10",
 "sample": 923,
 "scenarios": [
@@ -2315,6 +2426,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227055430/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-09-02-2012.pdf",
+"start": null,
 "date": "2012-02-09",
 "sample": 913,
 "scenarios": [
@@ -2339,6 +2451,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/l-indicateur-2012-l-observatoire-de-la-presidentielle-vague-3-fiducial-pour-radio-classique-et-les-echos/viewdocument.html",
+"start": null,
 "date": "2012-02-08",
 "sample": 1215,
 "scenarios": [
@@ -2363,6 +2476,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227082603/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-08-02-2012.pdf",
+"start": null,
 "date": "2012-02-08",
 "sample": 1179,
 "scenarios": [
@@ -2387,6 +2501,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120324032258/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120207-la-credibilite-des-principaux-candidats-et-l-election-presidentielle.pdf",
+"start": null,
 "date": "2012-02-07",
 "sample": 869,
 "scenarios": [
@@ -2411,6 +2526,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227055424/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-07-02-2012.pdf",
+"start": null,
 "date": "2012-02-07",
 "sample": 871,
 "scenarios": [
@@ -2435,6 +2551,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227130520/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-06-02-2012.pdf",
+"start": null,
 "date": "2012-02-06",
 "sample": 876,
 "scenarios": [
@@ -2459,6 +2576,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-le_parisien_-_fevrier_20127b9f9.pdf",
+"start": null,
 "date": "2012-02-04",
 "sample": 779,
 "scenarios": [
@@ -2484,6 +2602,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120227092754/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague9.pdf",
+"start": null,
 "date": "2012-02-04",
 "sample": 953,
 "scenarios": [
@@ -2523,6 +2642,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120226224626/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012fevrier2012.pdf",
+"start": null,
 "date": "2012-02-04",
 "sample": 955,
 "scenarios": [
@@ -2544,6 +2664,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1752-1-study_file.pdf",
+"start": null,
 "date": "2012-02-03",
 "sample": 922,
 "scenarios": [
@@ -2562,6 +2683,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227055418/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-03-02-2012.pdf",
+"start": null,
 "date": "2012-02-03",
 "sample": 922,
 "scenarios": [
@@ -2586,6 +2708,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120227082508/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-02-02-2012.pdf",
+"start": null,
 "date": "2012-02-02",
 "sample": 917,
 "scenarios": [
@@ -2611,6 +2734,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516193820/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-01-02-2012.pdf",
+"start": null,
 "date": "2012-02-01",
 "sample": 1166,
 "scenarios": [
@@ -2636,6 +2760,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl_-_avec_synthese964f4.pdf",
+"start": null,
 "date": "2012-01-31",
 "sample": 1407,
 "scenarios": [
@@ -2661,6 +2786,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516192629/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-31-01-2012.pdf",
+"start": null,
 "date": "2012-01-31",
 "sample": 866,
 "scenarios": [
@@ -2686,6 +2812,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.02.01-iv6.pdf",
+"start": null,
 "date": "2012-01-30",
 "sample": 1000,
 "scenarios": [
@@ -2711,6 +2838,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1845-1-study_file.pdf",
+"start": null,
 "date": "2012-01-30",
 "sample": 1387,
 "scenarios": [
@@ -2736,6 +2864,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516192422/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-30-01-2012.pdf",
+"start": null,
 "date": "2012-01-30",
 "sample": 871,
 "scenarios": [
@@ -2761,6 +2890,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120131143555/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-27-01-2012.pdf",
+"start": null,
 "date": "2012-01-27",
 "sample": 935,
 "scenarios": [
@@ -2786,6 +2916,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120216082431/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-26-01-2012.pdf",
+"start": null,
 "date": "2012-01-26",
 "sample": 926,
 "scenarios": [
@@ -2811,6 +2942,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-3-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2012-01-25",
 "sample": 1087,
 "scenarios": [
@@ -2835,6 +2967,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120131075412/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-25-01-2012.pdf",
+"start": null,
 "date": "2012-01-25",
 "sample": 1178,
 "scenarios": [
@@ -2860,6 +2993,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120130232757/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120124-la-campagne-de-francois-hollande-et-l-election-presidentielle.pdf",
+"start": null,
 "date": "2012-01-24",
 "sample": 898,
 "scenarios": [
@@ -2884,6 +3018,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120131144810/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-24-01-2012.pdf",
+"start": null,
 "date": "2012-01-24",
 "sample": 864,
 "scenarios": [
@@ -2909,6 +3044,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516193717/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-23-01-2012.pdf",
+"start": null,
 "date": "2012-01-23",
 "sample": 877,
 "scenarios": [
@@ -2934,6 +3070,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/Results_HIFR_VSD_25012012.pdf",
+"start": null,
 "date": "2012-01-22",
 "sample": 1029,
 "scenarios": [
@@ -2959,6 +3096,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120131144604/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-20-01-2012.pdf",
+"start": null,
 "date": "2012-01-20",
 "sample": 937,
 "scenarios": [
@@ -2984,6 +3122,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl2a9fb.pdf",
+"start": null,
 "date": "2012-01-19",
 "sample": 959,
 "scenarios": [
@@ -3009,6 +3148,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516192943/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-19-01-2012.pdf",
+"start": null,
 "date": "2012-01-19",
 "sample": 923,
 "scenarios": [
@@ -3034,6 +3174,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120131075408/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-18-01-2012.pdf",
+"start": null,
 "date": "2012-01-18",
 "sample": 1168,
 "scenarios": [
@@ -3059,6 +3200,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120516193604/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-17-01-2012.pdf",
+"start": null,
 "date": "2012-01-17",
 "sample": 864,
 "scenarios": [
@@ -3084,6 +3226,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120216082427/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-16-01-2012.pdf",
+"start": null,
 "date": "2012-01-16",
 "sample": 872,
 "scenarios": [
@@ -3109,6 +3252,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120127100305/http://www.ipsos.fr/sites/default/files/attachments/rapport_barometre_intention_de_vote_vague8_0.pdf",
+"start": null,
 "date": "2012-01-14",
 "sample": 948,
 "scenarios": [
@@ -3134,6 +3278,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120123201308/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentiellejanv2012.pdf",
+"start": null,
 "date": "2012-01-14",
 "sample": 966,
 "scenarios": [
@@ -3158,6 +3303,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1846-1-study_file.pdf",
+"start": null,
 "date": "2012-01-13",
 "sample": 1550,
 "scenarios": [
@@ -3183,6 +3329,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120216082421/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-13-01-2012.pdf",
+"start": null,
 "date": "2012-01-13",
 "sample": 942,
 "scenarios": [
@@ -3208,6 +3355,7 @@
 {
 "firm": "Ifop-Fiducial",
 "url": "https://web.archive.org/web/20120131075403/http://www.parismatch.com/Actu-Match/Presidentielle-2012/import/pdf/rapport-12-01-2012.pdf",
+"start": null,
 "date": "2012-01-12",
 "sample": 943,
 "scenarios": [
@@ -3233,6 +3381,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/l-indicateur-2012-l-observatoire-de-la-presidentielle-janvier-2012-vague-2-fiducial-pour-radio-classique-et-les-echos/viewdocument.html",
+"start": null,
 "date": "2012-01-11",
 "sample": 967,
 "scenarios": [
@@ -3257,6 +3406,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120216084034/http://www.csa.eu/multimedia/data/sondages/data2012/opi20120110-la-lutte-contre-le-chomage-et-l-election-presidentielle.pdf",
+"start": null,
 "date": "2012-01-10",
 "sample": 875,
 "scenarios": [
@@ -3281,6 +3431,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2012.01.18-catholiques.pdf",
+"start": null,
 "date": "2012-01-09",
 "sample": 2007,
 "scenarios": [
@@ -3306,6 +3457,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-le_parisien_-_9_janvier_2012d007c.pdf",
+"start": null,
 "date": "2012-01-07",
 "sample": 815,
 "scenarios": [
@@ -3331,6 +3483,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1723-1-study_file.pdf",
+"start": null,
 "date": "2012-01-06",
 "sample": 1163,
 "scenarios": [
@@ -3356,6 +3509,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/l-indicateur-2012-l-observatoire-de-la-presidentielle-decembre-2011-fiducial-pour-radio-classique-et-les-echos/viewdocument.html",
+"start": null,
 "date": "2011-12-19",
 "sample": 913,
 "scenarios": [
@@ -3380,6 +3534,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://web.archive.org/web/20120717175424/http://www.harrisinteractive.fr/news/2011/results_HIFR_elecpres2012_16122011.pdf",
+"start": null,
 "date": "2011-12-15",
 "sample": 1031,
 "scenarios": [
@@ -3405,6 +3560,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1711-1-study_file.pdf",
+"start": null,
 "date": "2011-12-15",
 "sample": 937,
 "scenarios": [
@@ -3430,6 +3586,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-2-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2011-12-15",
 "sample": 912,
 "scenarios": [
@@ -3454,6 +3611,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120131123207/http://www.csa.eu/multimedia/data/sondages/data2011/opi20111213-la-crise-de-la-dette-et-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-12-13",
 "sample": 859,
 "scenarios": [
@@ -3478,6 +3636,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20120114042059/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionvotepresidentielle2012_11dec2011.pdf",
+"start": null,
 "date": "2011-12-10",
 "sample": 953,
 "scenarios": [
@@ -3502,6 +3661,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-le_parisien_-_dec_2011c97f0.pdf",
+"start": null,
 "date": "2011-12-03",
 "sample": 798,
 "scenarios": [
@@ -3527,6 +3687,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120131091757/http://www.ipsos.fr/sites/default/files/attachments/2011-12-06-barometre-intentions-de-vote-vague-7.pdf",
+"start": null,
 "date": "2011-12-03",
 "sample": 955,
 "scenarios": [
@@ -3552,6 +3713,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1694-1-study_file.pdf",
+"start": null,
 "date": "2011-11-30",
 "sample": 934,
 "scenarios": [
@@ -3577,6 +3739,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2011.11.30-ivp.pdf",
+"start": null,
 "date": "2011-11-26",
 "sample": 1003,
 "scenarios": [
@@ -3601,6 +3764,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-barometre-de-la-presidentielle-2012-vague-1-fiducial-pour-le-figaro-et-lci/viewdocument.html",
+"start": null,
 "date": "2011-11-24",
 "sample": 952,
 "scenarios": [
@@ -3624,6 +3788,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-spqr-rtl1cd1c.pdf",
+"start": null,
 "date": "2011-11-19",
 "sample": 784,
 "scenarios": [
@@ -3648,6 +3813,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20111125053926/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle201220nov_2011.pdf",
+"start": null,
 "date": "2011-11-19",
 "sample": 830,
 "scenarios": [
@@ -3672,6 +3838,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1677-1-study_file.pdf",
+"start": null,
 "date": "2011-11-16",
 "sample": 1146,
 "scenarios": [
@@ -3697,6 +3864,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20111125130841/http://www.csa.eu/multimedia/data/sondages/data2011/opi20111115-les-preoccupations-des-francais-le-contexte-economique-et-financier-et-les-intentions-de-vote-pour-2012.pdf",
+"start": null,
 "date": "2011-11-15",
 "sample": 822,
 "scenarios": [
@@ -3721,6 +3889,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-le_parisien317d4.pdf",
+"start": null,
 "date": "2011-11-05",
 "sample": 796,
 "scenarios": [
@@ -3745,6 +3914,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1663-1-study_file.pdf",
+"start": null,
 "date": "2011-11-04",
 "sample": 1843,
 "scenarios": [
@@ -3770,6 +3940,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20111125012136/http://www.ipsos.fr/sites/default/files/attachments/barometre_intentions_de_vote_ipsos_vague6_1.pdf",
+"start": null,
 "date": "2011-10-29",
 "sample": 970,
 "scenarios": [
@@ -3790,6 +3961,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20111226093215/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012vague_5octobre2011.pdf",
+"start": null,
 "date": "2011-10-22",
 "sample": 813,
 "scenarios": [
@@ -3813,6 +3985,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1652-1-study_file.pdf",
+"start": null,
 "date": "2011-10-20",
 "sample": 941,
 "scenarios": [
@@ -3838,6 +4011,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-presse_regionale-rtlc80f6.pdf",
+"start": null,
 "date": "2011-10-18",
 "sample": 753,
 "scenarios": [
@@ -3856,6 +4030,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20111027015728/http://www.csa.eu/multimedia/data/sondages/data2011/opi20111017-le-bilan-des-primaires-socialistes-et-les-intentions-de-vote-pour-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-10-17",
 "sample": 859,
 "scenarios": [
@@ -3879,6 +4054,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120113102715/http://www.ipsos.fr/sites/default/files/attachments/barometre_intentions_vote_ipsos_logica_business_consulting_vague5.pdf",
+"start": null,
 "date": "2011-10-01",
 "sample": 962,
 "scenarios": [
@@ -3926,6 +4102,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20111005043244/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepre_sidentielle2012octobre2011.pdf",
+"start": null,
 "date": "2011-10-01",
 "sample": 843,
 "scenarios": [
@@ -3990,6 +4167,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110929001925/http://www.csa.eu/multimedia/data/sondages/data2011/opi20110920-les-primaires-socialistes-et-les-intentions-de-vote-pour-le-premier-tour-de-la-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-09-20",
 "sample": 835,
 "scenarios": [
@@ -4040,6 +4218,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/results_HIFR_leparisien_07092011.pdf",
+"start": null,
 "date": "2011-09-05",
 "sample": 888,
 "scenarios": [
@@ -4087,6 +4266,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20120113102235/http://www.ipsos.fr/sites/default/files/attachments/barometre-intention-de-vote-vague4.pdf",
+"start": null,
 "date": "2011-09-03",
 "sample": 963,
 "scenarios": [
@@ -4134,6 +4314,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20111005043336/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012septembre2011.pdf",
+"start": null,
 "date": "2011-09-03",
 "sample": 818,
 "scenarios": [
@@ -4184,6 +4365,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1608-1-study_file.pdf",
+"start": null,
 "date": "2011-09-02",
 "sample": 1918,
 "scenarios": [
@@ -4240,6 +4422,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110915222555/http://www.csa.eu/multimedia/data/sondages/data2011/p120110825-CSA-pour-BFM-TV-RMC-et-20-MINUTES-LA-COURSE-2012-Vague-8-Ao%C3%BBt-2011.pdf",
+"start": null,
 "date": "2011-08-23",
 "sample": 863,
 "scenarios": [
@@ -4290,6 +4473,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1577-1-study_file.pdf",
+"start": null,
 "date": "2011-07-21",
 "sample": 948,
 "scenarios": [
@@ -4346,6 +4530,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110812080348/http://www.csa.eu/multimedia/data/sondages/data2011/opi20110711-les-primaires-socialistes-et-les-intentions-de-vote-pour-le-premier-tour-de-la-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-07-11",
 "sample": 850,
 "scenarios": [
@@ -4396,6 +4581,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-presse_regionale-rtl4be06.pdf",
+"start": null,
 "date": "2011-07-09",
 "sample": 782,
 "scenarios": [
@@ -4446,6 +4632,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20110927052033/http://www.ipsos.fr/sites/default/files/attachments/barometre_complet_intention_de_vote_vague3.pdf",
+"start": null,
 "date": "2011-07-09",
 "sample": 955,
 "scenarios": [
@@ -4493,6 +4680,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20110812154306/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle10juillet2011.pdf",
+"start": null,
 "date": "2011-07-09",
 "sample": 827,
 "scenarios": [
@@ -4546,6 +4734,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1553-1-study_file.pdf",
+"start": null,
 "date": "2011-06-23",
 "sample": 937,
 "scenarios": [
@@ -4582,6 +4771,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110812075623/http://www.csa.eu/multimedia/data/sondages/data2011/opi20110621-les-primaires-socialistes-et-les-intentions-de-vote-pour-le-premier-tour-de-la-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-06-21",
 "sample": 825,
 "scenarios": [
@@ -4668,6 +4858,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20110627015540/http://www.ipsos.fr/sites/default/files/attachments/barometre_intention_de_vote_vague_2.pdf",
+"start": null,
 "date": "2011-06-20",
 "sample": 965,
 "scenarios": [
@@ -4715,6 +4906,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1529-1-study_file.pdf",
+"start": null,
 "date": "2011-06-10",
 "sample": 923,
 "scenarios": [
@@ -4751,6 +4943,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/09/results_HIFR_marianne_10062011.pdf",
+"start": null,
 "date": "2011-06-05",
 "sample": 1449,
 "scenarios": [
@@ -4798,6 +4991,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_intention_de_vote_bva-orange-presse_regionale-rtlbc4c9.pdf",
+"start": null,
 "date": "2011-05-21",
 "sample": 960,
 "scenarios": [
@@ -4852,6 +5046,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2011.05.25-intentions-vote-2012.pdf",
+"start": null,
 "date": "2011-05-21",
 "sample": 960,
 "scenarios": [
@@ -4932,6 +5127,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1553-1-study_file.pdf",
+"start": null,
 "date": "2011-05-19",
 "sample": 1897,
 "scenarios": [
@@ -4954,6 +5150,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20110807131059/http://www.ipsos.fr/sites/default/files/attachments/barometre_intention_de_vote_vague_1.pdf",
+"start": null,
 "date": "2011-05-18",
 "sample": 1014,
 "scenarios": [
@@ -5001,6 +5198,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110626150609/http://www.csa.eu/multimedia/data/sondages/data2011/opi20110516-les-premieres-consequences-politiques-de-l-affaire-dsk.pdf",
+"start": null,
 "date": "2011-05-16",
 "sample": 838,
 "scenarios": [
@@ -5048,6 +5246,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20110807131059/http://www.ipsos.fr/sites/default/files/attachments/barometre_intention_de_vote_vague_1.pdf",
+"start": null,
 "date": "2011-05-14",
 "sample": 948,
 "scenarios": [
@@ -5095,6 +5294,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1501-1-study_file.pdf",
+"start": null,
 "date": "2011-05-12",
 "sample": 933,
 "scenarios": [
@@ -5143,6 +5343,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20110516022607/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012_07mai11.pdf",
+"start": null,
 "date": "2011-05-07",
 "sample": 575,
 "scenarios": [
@@ -5165,6 +5366,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20110516022607/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012_07mai11.pdf",
+"start": null,
 "date": "2011-05-07",
 "sample": 565,
 "scenarios": [
@@ -5187,6 +5389,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20110516022607/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012_07mai11.pdf",
+"start": null,
 "date": "2011-05-07",
 "sample": 575,
 "scenarios": [
@@ -5209,6 +5412,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20110516022607/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012_07mai11.pdf",
+"start": null,
 "date": "2011-05-07",
 "sample": 560,
 "scenarios": [
@@ -5231,6 +5435,7 @@
 {
 "firm": "LH2",
 "url": "https://web.archive.org/web/20110516022607/http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2yahoointentionsvotepresidentielle2012_07mai11.pdf",
+"start": null,
 "date": "2011-05-07",
 "sample": 561,
 "scenarios": [
@@ -5253,6 +5458,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110524030402/http://www.csa.eu/multimedia/data/sondages/data2011/opi20110426-nicolas-sarkozy-peut-il-gagner-en-2012.pdf",
+"start": null,
 "date": "2011-04-26",
 "sample": 831,
 "scenarios": [
@@ -5309,6 +5515,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1480-1-study_file.pdf",
+"start": null,
 "date": "2011-04-21",
 "sample": 917,
 "scenarios": [
@@ -5392,6 +5599,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/10/results_HIFR_intentionvote_21042011.pdf",
+"start": null,
 "date": "2011-04-20",
 "sample": 926,
 "scenarios": [
@@ -5452,6 +5660,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://rangevoting.org/Sondageopinionway2012FR.pdf",
+"start": null,
 "date": "2011-04-07",
 "sample": 991,
 "scenarios": [
@@ -5474,6 +5683,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20160303190124/http://www.csa.eu/multimedia/data/sondages/data2011/opi20110329-le-climat-politique-post-cantonales-et-les-intentions-de-vote-pour-le-premier-tour-de-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-03-29",
 "sample": 841,
 "scenarios": [
@@ -5534,6 +5744,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_barometre_bva-orange-lexpress-france_inter_-_mars_2011e8667.pdf",
+"start": null,
 "date": "2011-03-26",
 "sample": 826,
 "scenarios": [
@@ -5568,6 +5779,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20110807090705/http://www.ipsos.fr/sites/default/files/attachments/ipsos_lbc_fce_tv_electionscantonales_2ndtour.pdf",
+"start": null,
 "date": "2011-03-26",
 "sample": 965,
 "scenarios": [
@@ -5628,6 +5840,7 @@
 {
 "firm": "Ipsos",
 "url": "https://web.archive.org/web/20110322164400/http://www.ipsos.fr/sites/default/files/attachments/iv_pres_2012_ipsos_logica_bc_le_monde_europe_1_160311.pdf",
+"start": null,
 "date": "2011-03-14",
 "sample": 948,
 "scenarios": [
@@ -5688,6 +5901,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110516175332/http://www.csa-fr.com/dataset/data2011/opi20110310-les-intentions-de-vote-pour-le-premier-tour-de-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-03-10",
 "sample": 853,
 "scenarios": [
@@ -5748,6 +5962,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1426-1-study_file.pdf",
+"start": null,
 "date": "2011-03-09",
 "sample": 1046,
 "scenarios": [
@@ -5808,6 +6023,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/10/HIFR_results_vote_dskHolland_08032011.pdf",
+"start": null,
 "date": "2011-03-06",
 "sample": 1347,
 "scenarios": [
@@ -5842,6 +6058,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://harris-interactive.fr/wp-content/uploads/sites/6/2015/10/Results_HIFR_Intentionsdevote2012_07032011.pdf",
+"start": null,
 "date": "2011-03-03",
 "sample": 1618,
 "scenarios": [
@@ -5863,6 +6080,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20111112190542/http://www.csa-fr.com/dataset/data2011/opi20110222-le-candidat-de-la-droite-en-2012-et-les-intentions-de-vote-pour-le-premier-tour-de-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-02-22",
 "sample": 1005,
 "scenarios": [
@@ -5923,6 +6141,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2011.02.23-intentions-vote-2012.pdf",
+"start": null,
 "date": "2011-02-19",
 "sample": 1000,
 "scenarios": [
@@ -5991,6 +6210,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1409-1-study_file.pdf",
+"start": null,
 "date": "2011-02-17",
 "sample": 949,
 "scenarios": [
@@ -6025,6 +6245,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110301190150/http://www.csa-fr.com/dataset/data2011/opi20110215-les-francais-et-la-question-de-la-candidature-de-dominique-strauss-kahn-a-l-election-presidentielle.pdf",
+"start": null,
 "date": "2011-02-15",
 "sample": 1005,
 "scenarios": [
@@ -6081,6 +6302,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20110211025324/http://q.liberation.fr/pdf/20110208/34396_les-resultats-complets-du-sondage-opinion-way-pour-liberation.pdf",
+"start": null,
 "date": "2011-01-21",
 "sample": 982,
 "scenarios": [
@@ -6137,6 +6359,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110124180226/http://www.csa-fr.com/dataset/data2011/opi20110118-la-designation-du-candidat-ps-et-les-intentions-de-vote-de-premier-tour-et-de-second-tour-dans-la-perspective-de-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2011-01-18",
 "sample": 847,
 "scenarios": [
@@ -6193,6 +6416,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_barometre_bva-orange-lexpress-france_inter_-_janvier_201117bec.pdf",
+"start": null,
 "date": "2011-01-15",
 "sample": 804,
 "scenarios": [
@@ -6225,6 +6449,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1377-1-study_file.pdf",
+"start": null,
 "date": "2011-01-13",
 "sample": 830,
 "scenarios": [
@@ -6246,6 +6471,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20110128082757/http://www.csa.eu/dataset/data2011/opi20110108-ce-que-changerait-l-accession-de-marine-le-pen-a-la-tete-du-front-national.pdf",
+"start": null,
 "date": "2011-01-08",
 "sample": 1001,
 "scenarios": [
@@ -6278,6 +6504,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2010.11.23-intentions-vote-2012.pdf",
+"start": null,
 "date": "2010-11-20",
 "sample": 1000,
 "scenarios": [
@@ -6334,6 +6561,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1330-1-study_file.pdf",
+"start": null,
 "date": "2010-11-19",
 "sample": 811,
 "scenarios": [
@@ -6394,6 +6622,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1326-1-study_file.pdf",
+"start": null,
 "date": "2010-11-18",
 "sample": 931,
 "scenarios": [
@@ -6415,6 +6644,7 @@
 {
 "firm": "Harris Interactive",
 "url": "http://harris-interactive.fr/wp-content/uploads/sites/6/2015/10/HI_Marianne_IV_pr%C3%A9sidentielle_12-11-10-VF.pdf",
+"start": null,
 "date": "2010-11-10",
 "sample": 910,
 "scenarios": [
@@ -6445,6 +6675,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1292-1-study_file.pdf",
+"start": null,
 "date": "2010-10-14",
 "sample": 930,
 "scenarios": [
@@ -6465,6 +6696,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_bva-les_inrocks_-_intention_de_vote_presidentielle_20125d160.pdf",
+"start": null,
 "date": "2010-09-11",
 "sample": 962,
 "scenarios": [
@@ -6497,6 +6729,7 @@
 {
 "firm": "TNS Sofres",
 "url": "https://www.tns-sofres.com/sites/default/files/2010.08.26-intentions-vote-2012.pdf",
+"start": null,
 "date": "2010-08-21",
 "sample": 1000,
 "scenarios": [
@@ -6553,6 +6786,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1210-1-study_file.pdf",
+"start": null,
 "date": "2010-07-09",
 "sample": 834,
 "scenarios": [
@@ -6573,6 +6807,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20100827060910/http://www.csa-fr.com/dataset/data2010/opi20100708-les-francais-et-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2010-07-08",
 "sample": 809,
 "scenarios": [
@@ -6592,6 +6827,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1173-1-study_file.pdf",
+"start": null,
 "date": "2010-06-04",
 "sample": 981,
 "scenarios": [
@@ -6613,6 +6849,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1167-1-study_file.pdf",
+"start": null,
 "date": "2010-05-28",
 "sample": 814,
 "scenarios": [
@@ -6669,6 +6906,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20100827060910/http://www.csa-fr.com/dataset/data2010/opi20100708-les-francais-et-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2010-05-20",
 "sample": 779,
 "scenarios": [
@@ -6687,6 +6925,7 @@
 {
 "firm": "BVA",
 "url": "https://staticswww.bva-group.com/wp-content/uploads/2017/02/fichier_barometre_bva-orange-lexpress-france_inter_avril_10fd6e8.pdf",
+"start": null,
 "date": "2010-04-24",
 "sample": 947,
 "scenarios": [
@@ -6706,6 +6945,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1140-1-study_file.pdf",
+"start": null,
 "date": "2010-04-22",
 "sample": 934,
 "scenarios": [
@@ -6727,6 +6967,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/1119-1-study_file.pdf",
+"start": null,
 "date": "2010-03-26",
 "sample": 855,
 "scenarios": [
@@ -6747,6 +6988,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20100613043039/http://www.csa-fr.com/dataset/data2010/opi20100325-les-francais-et-l-election-presidentielle-de-2012.pdf",
+"start": null,
 "date": "2010-03-25",
 "sample": 843,
 "scenarios": [
@@ -6765,6 +7007,7 @@
 {
 "firm": "CSA",
 "url": "http://archive.wikiwix.com/cache/20110223185959/http://www.csa-fr.com/dataset/data2010/opi20100303-rapports-de-force-pour-le-1er-tour-et-le-2nd-tour-dans-la-perspective-de-l-election-presidentielle-intentions-de-vote-avec-francois-fillon-et-dominique-de-villepin.pdf",
+"start": null,
 "date": "2010-03-03",
 "sample": 757,
 "scenarios": [
@@ -6795,6 +7038,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120307203434/http://www.csa.eu/multimedia/data/sondages/data2010/opi20100203-rapports-de-force-pour-le-1er-tour-et-le-2nd-tour-dans-la-perspective-de-l-election-presidentielle.pdf",
+"start": null,
 "date": "2010-02-03",
 "sample": 802,
 "scenarios": [
@@ -6825,6 +7069,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/979-1-study_file.pdf",
+"start": null,
 "date": "2009-10-30",
 "sample": 892,
 "scenarios": [
@@ -6845,6 +7090,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-figaro-lci-le-politoscope-saison-3-vague-35/viewdocument.html",
+"start": null,
 "date": "2009-06-18",
 "sample": 1006,
 "scenarios": [
@@ -6881,6 +7127,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/le-figaro-lci-le-politoscope-saison-3-vague-32/viewdocument.html",
+"start": null,
 "date": "2009-04-30",
 "sample": 1014,
 "scenarios": [
@@ -6903,6 +7150,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/864-1-study_file.pdf",
+"start": null,
 "date": "2009-04-24",
 "sample": 854,
 "scenarios": [
@@ -6925,6 +7173,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.lefigaro.fr/assets/pdf/OpinionWay-PJ3419-Le_Figaro-Bilan_NS.pdf",
+"start": null,
 "date": "2008-05-02",
 "sample": 1005,
 "scenarios": [
@@ -6947,6 +7196,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20081122221750/http://www.csa-fr.com/dataset/data2008/opi20080226-intentions-de-vote-a-l-election-presidentielle.pdf",
+"start": null,
 "date": "2008-02-26",
 "sample": 856,
 "scenarios": [
@@ -6969,6 +7219,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2018/03/elections_6moisapres.pdf",
+"start": null,
 "date": "2007-11-02",
 "sample": 1008,
 "scenarios": [
@@ -6991,6 +7242,7 @@
 {
 "firm": "2007 election",
 "url": null,
+"start": null,
 "date": "2007-04-22",
 "sample": null,
 "scenarios": [
@@ -7013,6 +7265,7 @@
 {
 "firm": "2012 election",
 "url": null,
+"start": null,
 "date": "2012-04-22",
 "sample": null,
 "scenarios": [
@@ -7033,6 +7286,7 @@
 {
 "firm": "OpinionWay",
 "url": "http://opinionlab.opinion-way.com/dokumenty/IV_Les_Corses_et_la_presidentielle_avril_2012_29.pdf",
+"start": null,
 "date": "2012-04-05",
 "sample": 502,
 "scenarios": [
@@ -7053,6 +7307,7 @@
 {
 "firm": "2012 election",
 "url": null,
+"start": null,
 "date": "2012-04-22",
 "sample": null,
 "scenarios": [
@@ -7073,6 +7328,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.clicanoo.re/Politique/Article/2012/04/18/Sondage-Hollande-toujours-plus-haut-Sarkozy-degringole_205226",
+"start": null,
 "date": "2012-04-16",
 "sample": 451,
 "scenarios": [
@@ -7093,6 +7349,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.clicanoo.re/Politique/Article/2012/03/30/Hollande-arrive-en-tete-au-premier-tour-et-lemporte-largement-au",
+"start": null,
 "date": "2012-03-27",
 "sample": 44620120329203059,
 "scenarios": [
@@ -7113,6 +7370,7 @@
 {
 "firm": "2012 election",
 "url": null,
+"start": null,
 "date": "2012-04-22",
 "sample": null,
 "scenarios": [
@@ -7133,6 +7391,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://web.archive.org/web/20150531020746/http://www.opinion-way.com/pdf/bj8239-etude_aupres_des_francais_de_l_etranger-mars_2012-vf.pdf",
+"start": null,
 "date": "2012-03-23",
 "sample": 2031,
 "scenarios": [
@@ -7154,6 +7413,7 @@
 {
 "firm": "2012 election",
 "url": null,
+"start": null,
 "date": "2012-04-22",
 "sample": null,
 "scenarios": [
@@ -7174,6 +7434,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20120427021108/http://13.pcf.fr/22366",
+"start": null,
 "date": "2012-03-30",
 "sample": 801,
 "scenarios": [

@@ -21,7 +21,8 @@
   const color = c => `var(--c${c.slot})`;
   const nf1 = new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 1 });
   const nf0 = new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 0 });
-  const pct = v => nf1.format(v) + " %";
+  // Poll scores only. "<0.5%" in a poll is stored as 0.25 (parse_history.BELOW_HALF_VALUE): show it as published.
+  const pct = v => v > 0 && v < 0.5 ? "< 0,5 %" : nf1.format(v) + " %";
   const pts = v => (v > 0 ? "+" : v < 0 ? "−" : "±") + nf1.format(Math.abs(v)) + " pt";
   const compact = v => v >= 1e6 ? nf1.format(v / 1e6) + " M" : v >= 1e4 ? nf0.format(v / 1e3) + " k" : nf0.format(v);
   const fmtD = (s, o) => new Date(T(s)).toLocaleDateString("fr-FR", Object.assign({ day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }, o));
