@@ -14,8 +14,8 @@ dev = [
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-# scripts/ is not a package: let tests `import validate_data` directly.
-pythonpath = ["scripts"]
+# scripts/ and backtest/ are not packages: let tests import their modules directly.
+pythonpath = ["scripts", "backtest"]
 addopts = "-ra"
 
 [tool.ruff]
