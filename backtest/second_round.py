@@ -87,30 +87,6 @@ m22, a22 = apply(T22)
 print(f"   Contrôle avec le tableau 2022 lui-même : Macron {m22:.2f} % (écart {m22-real_macron:+.2f} pt)\n")
 
 # ---- (2) direct second-round polls: error by horizon ----
-def duel_polls(y, title):
-    raw = open(os.path.join(HERE, "raw", f"polls_{y}.txt"), encoding="utf-8").read()
-    i = raw.index(title); j = raw.find("\n===", i + len(title))
-    sec = raw[i:j if j > 0 else None]
-    return [p for p in parse("== First round ==\n" + sec.replace("{|", "{|", 1)) if "election" not in p["firm"].lower()]
-
-def duel_polls2(y, title):
-    # second-round tables have only 2 candidate columns: parse() requires >= 3 values, so relax via a local copy
-    raw = open(os.path.join(HERE, "raw", f"polls_{y}.txt"), encoding="utf-8").read()
-    i = raw.index(title); j = raw.find("\n===", i + len(title))
-    sec = raw[i:j if j > 0 else None]
-    polls = []
-    for tbl in __import__("re").findall(r"\{\|.*?\n\|\}", sec, __import__("re").S):
-        txt = "== First round ==\n" + tbl
-        polls += ph_parse_min2(txt)
-    return polls
-
-def ph_parse_min2(text):
-    # identical to parse_history.parse but keeps rows with 2 candidates
-    code = open(os.path.join(HERE, "parse_history.py"), encoding="utf-8").read().replace("if len(vals) < 3:", "if len(vals) < 2:")
-    ns = {}
-    exec(compile(code.split('if __name__ == "__main__":')[0], "ph2", "exec"), ns)
-    return [p for p in ns["parse"](text) if "election" not in p["firm"].lower()]
-
 print("2) Sondages directs de second tour : écart avec le résultat (Macron, % des exprimés)")
 for y, e, title, real in ((2017, "2017-05-07", "=== Graphical summary ===", 66.10), (2022, "2022-04-24", "=== Macron vs. Le Pen ===", 58.55)):
     raw = open(os.path.join(HERE, "raw", f"polls_{y}.txt"), encoding="utf-8").read()
@@ -118,7 +94,9 @@ for y, e, title, real in ((2017, "2017-05-07", "=== Graphical summary ===", 66.1
     j = raw.find("\n===", raw.find("\n===", i) + 5)  # first sub-section of second round
     k = raw.find("===Other", i); k = k if k > 0 else raw.find("=== Other", i)
     sec = raw[i:k if k > 0 else None]
-    polls = ph_parse_min2("== First round ==\n" + sec.split("== Second round ==", 1)[1])
+    # Duel tables have 2 candidate columns: keep rows with 2 scores (parse() defaults to 3).
+    polls = parse(sec.split("== Second round ==", 1)[1], min_vals=2, whole=True)
+    polls = [p for p in polls if "election" not in p["firm"].lower()]
     polls = [p for p in polls if M in p["scenarios"][0] and L in p["scenarios"][0]]
     ed = dt.date.fromisoformat(e)
     line = []
