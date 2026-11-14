@@ -95,21 +95,17 @@ def duel_polls(y, title):
 
 def duel_polls2(y, title):
     # second-round tables have only 2 candidate columns: parse() requires >= 3 values, so relax via a local copy
-    import parse_history as ph
     raw = open(os.path.join(HERE, "raw", f"polls_{y}.txt"), encoding="utf-8").read()
     i = raw.index(title); j = raw.find("\n===", i + len(title))
     sec = raw[i:j if j > 0 else None]
     polls = []
     for tbl in __import__("re").findall(r"\{\|.*?\n\|\}", sec, __import__("re").S):
         txt = "== First round ==\n" + tbl
-        src = ph.parse.__code__
         polls += ph_parse_min2(txt)
     return polls
 
-import re, parse_history as ph
 def ph_parse_min2(text):
     # identical to parse_history.parse but keeps rows with 2 candidates
-    old = ph.parse.__globals__
     code = open(os.path.join(HERE, "parse_history.py"), encoding="utf-8").read().replace("if len(vals) < 3:", "if len(vals) < 2:")
     ns = {}
     exec(compile(code.split('if __name__ == "__main__":')[0], "ph2", "exec"), ns)

@@ -1,2 +1,0 @@
-# Python tooling for scripts/ (the site itself has no dependency).
-pydantic==2.13.5

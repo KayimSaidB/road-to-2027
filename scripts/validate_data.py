@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import Annotated, Any
 
 from pydantic import (AfterValidator, BaseModel, ConfigDict, Field, HttpUrl, NonNegativeInt,
-                      PositiveFloat, PositiveInt, ValidationError, model_validator)
+                      PositiveFloat, PositiveInt, model_validator)
 
 ROOT = Path(__file__).resolve().parent.parent
 LOGGER = logging.getLogger("validate_data")

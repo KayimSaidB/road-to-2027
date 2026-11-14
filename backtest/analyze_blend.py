@@ -161,6 +161,6 @@ for s in ["pres", "leg", "euro", "swing_euro", "swing_leg"]:
     if errs:
         print(f"  {s:5} " + "  ".join(f"{y}:{e:.1f}" for y, e in errs) + f"   moyenne {st.mean(e for _, e in errs):.1f}")
 pb = [(y, st.mean(abs(cases[(y, 163)]["poll_blocs"][b] - to_blocs(cases[(y, 163)]["result"])[b]) for b in BLOCS)) for y in ELECTIONS if (y, 163) in cases]
-print(f"  sondages J-163 " + "  ".join(f"{y}:{e:.1f}" for y, e in pb) + f"   moyenne {st.mean(e for _, e in pb):.1f}")
+print("  sondages J-163 " + "  ".join(f"{y}:{e:.1f}" for y, e in pb) + f"   moyenne {st.mean(e for _, e in pb):.1f}")
 
 json.dump(report, open(os.path.join(HERE, "data", "blend.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

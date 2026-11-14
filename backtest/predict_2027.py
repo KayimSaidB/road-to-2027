@@ -4,7 +4,7 @@ Second round: 2027 duel polls (last 21 days), fallback for unpolled pairs, with 
 
 Usage: python3 backtest/predict_2027.py
 """
-import json, math, os, random, statistics as st, datetime as dt, sys
+import math, os, random, statistics as st, datetime as dt, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from simulate import fit_sigma, fit_sigma_duel, simulate, fallback_duel, J, D, ELECTIONS
