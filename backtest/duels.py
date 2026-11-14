@@ -2,7 +2,7 @@
 import json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from parse_history import parse
+from road2027.wikitext import parse
 
 def duels(raw):
     i = raw.index("== Second round ==")

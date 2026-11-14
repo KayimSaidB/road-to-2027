@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --group scripts
+          pip install . --group scripts
 
       - name: Update polls
         run: python scripts/update_polls.py
@@ -54,7 +54,7 @@ jobs:
           curl -sf -m 60 -A "road-to-2027-poll-updater/1.0" \
             "https://en.wikipedia.org/w/index.php?title=Opinion_polling_for_the_2027_French_presidential_election&action=raw" \
             -o backtest/raw/polls_2027.txt
-          python backtest/parse_history.py backtest/raw/polls_2027.txt backtest/data/polls_2027.json
+          python -m road2027.wikitext backtest/raw/polls_2027.txt backtest/data/polls_2027.json
           python backtest/duels.py backtest/raw/polls_2027.txt backtest/data/duels_2027.json
           python backtest/export_model.py
 

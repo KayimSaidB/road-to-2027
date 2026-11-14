@@ -2,6 +2,7 @@
 {
 "firm": "2002 election",
 "url": null,
+"start": null,
 "date": "2002-04-21",
 "sample": null,
 "scenarios": [
@@ -28,6 +29,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-04-18",
 "sample": 631,
 "scenarios": [
@@ -54,6 +56,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020618193356/http://www.csa-fr.com/fra/dataset/data2002/indic20020418.htm",
+"start": null,
 "date": "2002-04-18",
 "sample": 1000,
 "scenarios": [
@@ -80,6 +83,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-7",
+"start": null,
 "date": "2002-04-18",
 "sample": 989,
 "scenarios": [
@@ -106,6 +110,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030822222733/http://www.tns-sofres.com/etudes/pol/190402_intentions_r.htm",
+"start": null,
 "date": "2002-04-18",
 "sample": 1000,
 "scenarios": [
@@ -132,6 +137,7 @@
 {
 "firm": "Louis Harris",
 "url": "https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf",
+"start": null,
 "date": "2002-04-17",
 "sample": 592,
 "scenarios": [
@@ -158,6 +164,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-cinq-jours-de-lelection-presidentielle",
+"start": null,
 "date": "2002-04-16",
 "sample": 1005,
 "scenarios": [
@@ -184,6 +191,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730200113/http://www.tns-sofres.com/etudes/pol/160402_intentions_r.htm",
+"start": null,
 "date": "2002-04-15",
 "sample": 1000,
 "scenarios": [
@@ -210,6 +218,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020425110704/http://www.ifop.com/europe/sondages/OPINIONF/presidv8.asp",
+"start": null,
 "date": "2002-04-13",
 "sample": 1006,
 "scenarios": [
@@ -236,6 +245,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-04-13",
 "sample": 749,
 "scenarios": [
@@ -262,6 +272,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020420102922/http://www.ifop.com/europe/sondages/opinionf/baropresjddv6.asp",
+"start": null,
 "date": "2002-04-12",
 "sample": 951,
 "scenarios": [
@@ -288,6 +299,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020618192047/http://www.csa-fr.com/fra/dataset/data2002/indic20020411.htm",
+"start": null,
 "date": "2002-04-11",
 "sample": 1000,
 "scenarios": [
@@ -314,6 +326,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730172406/http://www.tns-sofres.com/etudes/pol/120402_baropres.htm",
+"start": null,
 "date": "2002-04-11",
 "sample": 1000,
 "scenarios": [
@@ -340,6 +353,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020816205636/http://www.ifop.com/europe/sondages/opinionf/presidv7.asp",
+"start": null,
 "date": "2002-04-06",
 "sample": 1004,
 "scenarios": [
@@ -366,6 +380,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-deux-semaines-de-lelection-presidentielle",
+"start": null,
 "date": "2002-04-06",
 "sample": 952,
 "scenarios": [
@@ -392,6 +407,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-04-06",
 "sample": 657,
 "scenarios": [
@@ -418,6 +434,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030709084900/http://www.tns-sofres.com/etudes/pol/120402_catholiques_r.htm",
+"start": null,
 "date": "2002-04-05",
 "sample": 1000,
 "scenarios": [
@@ -444,6 +461,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020618192333/http://www.csa-fr.com/fra/dataset/data2002/indic20020404.htm",
+"start": null,
 "date": "2002-04-04",
 "sample": 1000,
 "scenarios": [
@@ -470,6 +488,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030822215617/http://www.tns-sofres.com/etudes/pol/050402_baropres.htm",
+"start": null,
 "date": "2002-04-04",
 "sample": 1000,
 "scenarios": [
@@ -497,6 +516,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-6",
+"start": null,
 "date": "2002-03-30",
 "sample": 938,
 "scenarios": [
@@ -539,6 +559,7 @@
 {
 "firm": "Louis Harris",
 "url": "https://web.archive.org/web/20061123034026/http://www.lh2.fr/_upload/ressources/sondages/election/LHFLibeAOLIntentdevote1617avril.pdf",
+"start": null,
 "date": "2002-03-30",
 "sample": 1001,
 "scenarios": [
@@ -565,6 +586,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-03-30",
 "sample": 661,
 "scenarios": [
@@ -591,6 +613,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp",
+"start": null,
 "date": "2002-03-29",
 "sample": 936,
 "scenarios": [
@@ -621,6 +644,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20021104132550/http://www.csa-fr.com/fra/dataset/data2002/indic20020328.htm",
+"start": null,
 "date": "2002-03-28",
 "sample": 1003,
 "scenarios": [
@@ -648,6 +672,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730190416/http://www.tns-sofres.com/etudes/pol/030402_intentions_r.htm",
+"start": null,
 "date": "2002-03-28",
 "sample": 1000,
 "scenarios": [
@@ -694,6 +719,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020409021523/http://www.ifop.com/europe/sondages/OPINIONF/presidv6.asp",
+"start": null,
 "date": "2002-03-24",
 "sample": 1005,
 "scenarios": [
@@ -725,6 +751,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-semaines-de-lelection-presidentielle",
+"start": null,
 "date": "2002-03-23",
 "sample": 938,
 "scenarios": [
@@ -751,6 +778,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030702151834/http://www.tns-sofres.com/etudes/pol/250302_baropres.htm",
+"start": null,
 "date": "2002-03-23",
 "sample": 1000,
 "scenarios": [
@@ -777,6 +805,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-03-23",
 "sample": 647,
 "scenarios": [
@@ -803,6 +832,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020405010822/http://www.ifop.com/europe/sondages/opinionf/popu0302b.asp",
+"start": null,
 "date": "2002-03-22",
 "sample": 947,
 "scenarios": [
@@ -834,6 +864,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020408141047/http://www.csa-fr.com/fra/dataset/data2002/indic20020321.htm",
+"start": null,
 "date": "2002-03-21",
 "sample": 1000,
 "scenarios": [
@@ -861,6 +892,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020323181923/http://www.ifop.com/europe/sondages/opinionf/presidv5.asp",
+"start": null,
 "date": "2002-03-16",
 "sample": 933,
 "scenarios": [
@@ -892,6 +924,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-5",
+"start": null,
 "date": "2002-03-16",
 "sample": 919,
 "scenarios": [
@@ -934,6 +967,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-03-16",
 "sample": 739,
 "scenarios": [
@@ -960,6 +994,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030822222601/http://www.tns-sofres.com/etudes/pol/190302_intentions_r.htm",
+"start": null,
 "date": "2002-03-16",
 "sample": 1000,
 "scenarios": [
@@ -986,6 +1021,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730200828/http://www.tns-sofres.com/etudes/pol/180302_baropres.htm",
+"start": null,
 "date": "2002-03-15",
 "sample": 1000,
 "scenarios": [
@@ -1012,6 +1048,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020429025130/http://www.csa-fr.com/fra/dataset/data2002/indic20020314.htm",
+"start": null,
 "date": "2002-03-14",
 "sample": 1001,
 "scenarios": [
@@ -1039,6 +1076,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-six-semaines-de-lelection-presidentielle",
+"start": null,
 "date": "2002-03-09",
 "sample": 933,
 "scenarios": [
@@ -1081,6 +1119,7 @@
 {
 "firm": "Louis Harris",
 "url": "https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf",
+"start": null,
 "date": "2002-03-09",
 "sample": 626,
 "scenarios": [
@@ -1107,6 +1146,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730193757/http://www.tns-sofres.com/etudes/pol/110302_baropres.htm",
+"start": null,
 "date": "2002-03-09",
 "sample": 1000,
 "scenarios": [
@@ -1133,6 +1173,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-4",
+"start": null,
 "date": "2002-03-02",
 "sample": 925,
 "scenarios": [
@@ -1159,6 +1200,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-03-02",
 "sample": 693,
 "scenarios": [
@@ -1185,6 +1227,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020321092317/http://www.ifop.com/europe/sondages/opinionf/presidv4.asp",
+"start": null,
 "date": "2002-03-01",
 "sample": 941,
 "scenarios": [
@@ -1216,6 +1259,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020429024022/http://www.csa-fr.com/fra/dataset/data2002/indic20020228.htm",
+"start": null,
 "date": "2002-02-28",
 "sample": 1007,
 "scenarios": [
@@ -1243,6 +1287,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030822220545/http://www.tns-sofres.com/etudes/pol/060302_intentions_r.htm",
+"start": null,
 "date": "2002-02-28",
 "sample": 1000,
 "scenarios": [
@@ -1269,6 +1314,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020405010901/http://www.ifop.com/europe/sondages/opinionf/presidenv3.asp",
+"start": null,
 "date": "2002-02-23",
 "sample": 937,
 "scenarios": [
@@ -1300,6 +1346,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-huit-semaines-de-lelection-presidentielle",
+"start": null,
 "date": "2002-02-23",
 "sample": 938,
 "scenarios": [
@@ -1326,6 +1373,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730202819/http://www.tns-sofres.com/etudes/pol/260202_baropres.htm",
+"start": null,
 "date": "2002-02-23",
 "sample": 1000,
 "scenarios": [
@@ -1352,6 +1400,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020405005649/http://www.ifop.com/europe/sondages/opinionf/jddv3.asp",
+"start": null,
 "date": "2002-02-22",
 "sample": 939,
 "scenarios": [
@@ -1383,6 +1432,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-vague-3",
+"start": null,
 "date": "2002-02-16",
 "sample": 916,
 "scenarios": [
@@ -1409,6 +1459,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-02-16",
 "sample": 743,
 "scenarios": [
@@ -1435,6 +1486,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730201436/http://www.tns-sofres.com/etudes/pol/210202_intentions_r.htm",
+"start": null,
 "date": "2002-02-15",
 "sample": 1000,
 "scenarios": [
@@ -1461,6 +1513,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020618193852/http://www.csa-fr.com/fra/dataset/data2002/indic20020214.htm",
+"start": null,
 "date": "2002-02-14",
 "sample": 1000,
 "scenarios": [
@@ -1487,6 +1540,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques",
+"start": null,
 "date": "2002-02-12",
 "sample": 1018,
 "scenarios": [
@@ -1513,6 +1567,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-dix-semaines-de-lelection-presidentielle-avant-et-apres-la-candidature-de-jacques",
+"start": null,
 "date": "2002-02-09",
 "sample": 908,
 "scenarios": [
@@ -1539,6 +1594,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020601205839/http://www.ifop.com/europe/sondages/opinionf/presidv3.asp",
+"start": null,
 "date": "2002-02-08",
 "sample": 961,
 "scenarios": [
@@ -1570,6 +1626,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002-0",
+"start": null,
 "date": "2002-02-02",
 "sample": 925,
 "scenarios": [
@@ -1595,6 +1652,7 @@
 {
 "firm": "Louis Harris",
 "url": "https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf",
+"start": null,
 "date": "2002-02-02",
 "sample": 844,
 "scenarios": [
@@ -1620,6 +1678,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730191936/http://www.tns-sofres.com/etudes/pol/070202_baropres.htm",
+"start": null,
 "date": "2002-02-02",
 "sample": 1000,
 "scenarios": [
@@ -1642,6 +1701,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-02-02",
 "sample": 788,
 "scenarios": [
@@ -1667,6 +1727,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020210222228/http://www.ifop.com/europe/sondages/opinionf/jdd0202.asp",
+"start": null,
 "date": "2002-02-01",
 "sample": 963,
 "scenarios": [
@@ -1697,6 +1758,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020331181652/http://www.csa-fr.com/fra/dataset/data2002/indic20020130.htm",
+"start": null,
 "date": "2002-01-30",
 "sample": 1001,
 "scenarios": [
@@ -1721,6 +1783,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-trois-mois-de-lelection-presidentielle",
+"start": null,
 "date": "2002-01-26",
 "sample": 962,
 "scenarios": [
@@ -1746,6 +1809,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020601204429/http://www.ifop.com/europe/sondages/opinionf/presidv1.asp",
+"start": null,
 "date": "2002-01-18",
 "sample": 943,
 "scenarios": [
@@ -1774,6 +1838,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020817025120/http://www.csa-fr.com/fra/dataset/data2002/indic20020117.htm",
+"start": null,
 "date": "2002-01-17",
 "sample": 1006,
 "scenarios": [
@@ -1798,6 +1863,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-presidentielle-legislatives-2002",
+"start": null,
 "date": "2002-01-12",
 "sample": 947,
 "scenarios": [
@@ -1823,6 +1889,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730195912/http://www.tns-sofres.com/etudes/pol/160102_intentions_r.htm",
+"start": null,
 "date": "2002-01-12",
 "sample": 1000,
 "scenarios": [
@@ -1845,6 +1912,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020117211402/http://www.ifop.com/europe/sondages/opinionf/jdd0102.asp",
+"start": null,
 "date": "2002-01-11",
 "sample": 963,
 "scenarios": [
@@ -1872,6 +1940,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730193023/http://www.tns-sofres.com/etudes/pol/100102_intentions_r.htm",
+"start": null,
 "date": "2002-01-05",
 "sample": 800,
 "scenarios": [
@@ -1894,6 +1963,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-troisieme-partie-intentions-de-vote-presidentielle",
+"start": null,
 "date": "2002-01-05",
 "sample": 955,
 "scenarios": [
@@ -1919,6 +1989,7 @@
 {
 "firm": "Louis Harris",
 "url": "https://web.archive.org/web/20061123034427/http://www.lh2.fr/_upload/ressources/sondages/election/LHFIntentionsdevote.pdf",
+"start": null,
 "date": "2002-01-05",
 "sample": 1003,
 "scenarios": [
@@ -1943,6 +2014,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020210171036/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2002-01-05",
 "sample": 735,
 "scenarios": [
@@ -1968,6 +2040,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020327225010/http://www.csa-fr.com/fra/dataset/data2002/indic20020104.htm",
+"start": null,
 "date": "2002-01-04",
 "sample": 1005,
 "scenarios": [
@@ -1991,6 +2064,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730201237/http://www.tns-sofres.com/etudes/pol/181201_baropres.htm",
+"start": null,
 "date": "2001-12-15",
 "sample": 1000,
 "scenarios": [
@@ -2013,6 +2087,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020617153448/http://www.csa-fr.com/fra/dataset/data2001/indic20011212.htm",
+"start": null,
 "date": "2001-12-12",
 "sample": 1000,
 "scenarios": [
@@ -2035,6 +2110,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-quatre-mois-de-lelection-presidentielle",
+"start": null,
 "date": "2001-12-08",
 "sample": 840,
 "scenarios": [
@@ -2060,6 +2136,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2001-12-01",
 "sample": 680,
 "scenarios": [
@@ -2084,6 +2161,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20020202113439/http://www.ifop.com/europe/sondages/opinionf/baropresv11.asp",
+"start": null,
 "date": "2001-11-30",
 "sample": 943,
 "scenarios": [
@@ -2109,6 +2187,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030824100706/http://www.tns-sofres.com/etudes/pol/281101_baropres.htm",
+"start": null,
 "date": "2001-11-23",
 "sample": 1000,
 "scenarios": [
@@ -2130,6 +2209,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020319191442/http://www.csa-fr.com/fra/dataset/data2001/indic20011115.htm",
+"start": null,
 "date": "2001-11-15",
 "sample": 1006,
 "scenarios": [
@@ -2152,6 +2232,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.nouvelobs.com/politique/20011115.OBS0510/presidentielle-chirac-devant-jospin-au-2eme-tour.html",
+"start": null,
 "date": "2001-11-10",
 "sample": 927,
 "scenarios": [
@@ -2176,6 +2257,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20011214071443/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2001-10-27",
 "sample": 685,
 "scenarios": [
@@ -2200,6 +2282,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-six-mois-de-lelection-presidentielle",
+"start": null,
 "date": "2001-10-20",
 "sample": 829,
 "scenarios": [
@@ -2224,6 +2307,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730202702/http://www.tns-sofres.com/etudes/pol/251001_baropres.htm",
+"start": null,
 "date": "2001-10-20",
 "sample": 1000,
 "scenarios": [
@@ -2244,6 +2328,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020319090027/http://www.csa-fr.com/fra/dataset/data2001/indic20011018.htm",
+"start": null,
 "date": "2001-10-18",
 "sample": 1005,
 "scenarios": [
@@ -2266,6 +2351,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20011214084537/http://www.ifop.com/europe/sondages/opinionf/baropresv10.asp",
+"start": null,
 "date": "2001-10-12",
 "sample": 761,
 "scenarios": [
@@ -2306,6 +2392,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2001-09-29",
 "sample": 773,
 "scenarios": [
@@ -2330,6 +2417,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020318213748/http://www.csa-fr.com/fra/dataset/data2001/indic20010912.htm",
+"start": null,
 "date": "2001-09-12",
 "sample": 1000,
 "scenarios": [
@@ -2352,6 +2440,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20031024061304/http://www.tns-sofres.com/etudes/pol/140901_baropres.htm",
+"start": null,
 "date": "2001-09-08",
 "sample": 1000,
 "scenarios": [
@@ -2374,6 +2463,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2001-09-01",
 "sample": 682,
 "scenarios": [
@@ -2398,6 +2488,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020318073634/http://www.csa-fr.com/fra/dataset/data2001/indic20010717.htm",
+"start": null,
 "date": "2001-07-17",
 "sample": 1005,
 "scenarios": [
@@ -2419,6 +2510,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2001-07-07",
 "sample": 605,
 "scenarios": [
@@ -2443,6 +2535,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20031024061556/http://www.tns-sofres.com/etudes/pol/280601_baropres.htm",
+"start": null,
 "date": "2001-06-23",
 "sample": 1000,
 "scenarios": [
@@ -2474,6 +2567,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020823135729/http://www.csa-fr.com/fra/dataset/data2001/indic20010621.htm",
+"start": null,
 "date": "2001-06-21",
 "sample": 1000,
 "scenarios": [
@@ -2495,6 +2589,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20010803051737/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2001-06-16",
 "sample": 658,
 "scenarios": [
@@ -2516,6 +2611,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures",
+"start": null,
 "date": "2001-06-09",
 "sample": 839,
 "scenarios": [
@@ -2573,6 +2669,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020313140326/http://www.csa-fr.com/fra/dataset/data2001/indic20010530.htm",
+"start": null,
 "date": "2001-05-30",
 "sample": 900,
 "scenarios": [
@@ -2594,6 +2691,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030824100508/http://www.tns-sofres.com/etudes/pol/150501_baropres.htm",
+"start": null,
 "date": "2001-05-16",
 "sample": 840,
 "scenarios": [
@@ -2615,6 +2713,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2001-05-12",
 "sample": 640,
 "scenarios": [
@@ -2635,6 +2734,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020309191140/http://www.csa-fr.com/fra/dataset/data2001/indic20010427.htm",
+"start": null,
 "date": "2001-04-27",
 "sample": 922,
 "scenarios": [
@@ -2656,6 +2756,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2001-04-21",
 "sample": 733,
 "scenarios": [
@@ -2676,6 +2777,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030702052435/http://www.tns-sofres.com/etudes/pol/040401_baropres.htm",
+"start": null,
 "date": "2001-03-29",
 "sample": 1000,
 "scenarios": [
@@ -2697,6 +2799,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20030328133840/http://csa-fr.com/fra/dataset/data2001/indic20010326.htm",
+"start": null,
 "date": "2001-03-26",
 "sample": 1000,
 "scenarios": [
@@ -2718,6 +2821,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2001-03-24",
 "sample": 678,
 "scenarios": [
@@ -2738,6 +2842,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2001-02-24",
 "sample": 657,
 "scenarios": [
@@ -2758,6 +2863,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20010706190518/http://www.ifop.com/europe/sondages/opinionf/baropres.asp",
+"start": null,
 "date": "2001-02-16",
 "sample": 805,
 "scenarios": [
@@ -2780,6 +2886,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/la-preparation-de-lelection-presidentielle-les-consequences-de-la-multiplicite-des-candidatures",
+"start": null,
 "date": "2001-02-10",
 "sample": 955,
 "scenarios": [
@@ -2800,6 +2907,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730192749/http://www.tns-sofres.com/etudes/pol/080201_baropres.htm",
+"start": null,
 "date": "2001-02-03",
 "sample": 1000,
 "scenarios": [
@@ -2821,6 +2929,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2001-02-03",
 "sample": 667,
 "scenarios": [
@@ -2841,6 +2950,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20010219223117/http://www.bva.fr/fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2001-01-13",
 "sample": 634,
 "scenarios": [
@@ -2861,6 +2971,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020308183032/http://www.csa-fr.com/fra/dataset/data2001/indic20010106.htm",
+"start": null,
 "date": "2001-01-06",
 "sample": 1000,
 "scenarios": [
@@ -2882,6 +2993,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/les-affaires-de-financement-illegal-de-partis-politiques",
+"start": null,
 "date": "2000-12-05",
 "sample": 818,
 "scenarios": [
@@ -2904,6 +3016,7 @@
 {
 "firm": "Sofres",
 "url": "https://web.archive.org/web/20030730191812/http://www.tns-sofres.com/etudes/pol/061200_intention.htm",
+"start": null,
 "date": "2000-12-02",
 "sample": 1000,
 "scenarios": [
@@ -2925,6 +3038,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20020611091604/http://www.bva.fr/new/baro_observatoire_presidentiel20011127.html",
+"start": null,
 "date": "2000-12-02",
 "sample": 945,
 "scenarios": [
@@ -2945,6 +3059,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20010706210751/http://www.ifop.com/europe/sondages/opinionf/anticip.asp",
+"start": null,
 "date": "2000-11-27",
 "sample": 803,
 "scenarios": [
@@ -2967,6 +3082,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20030514232710/http://csa-fr.com/fra/dataset/data2K/indic20001115.htm",
+"start": null,
 "date": "2000-11-15",
 "sample": 1000,
 "scenarios": [
@@ -2987,6 +3103,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-11-10",
 "sample": 636,
 "scenarios": [
@@ -3006,6 +3123,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20001206111000/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-10-08",
 "sample": 627,
 "scenarios": [
@@ -3025,6 +3143,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/limage-de-lionel-jospin-et-la-prochaine-election-presidentielle",
+"start": null,
 "date": "2000-09-30",
 "sample": 939,
 "scenarios": [
@@ -3045,6 +3164,7 @@
 {
 "firm": "BVA",
 "url": "https://www.ipsos.com/fr-fr/barometre-paris-matchbva",
+"start": null,
 "date": "2000-09-09",
 "sample": 581,
 "scenarios": [
@@ -3064,6 +3184,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511103020/http://www.csa-fr.com/fra/dataset/data2K/indic20000907.htm",
+"start": null,
 "date": "2000-09-07",
 "sample": 1000,
 "scenarios": [
@@ -3084,6 +3205,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-07-22",
 "sample": 680,
 "scenarios": [
@@ -3103,6 +3225,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/jose-bove-president",
+"start": null,
 "date": "2000-07-15",
 "sample": 874,
 "scenarios": [
@@ -3123,6 +3246,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020622031352/http://www.csa-fr.com/fra/dataset/data2K/indic20000629.htm",
+"start": null,
 "date": "2000-06-29",
 "sample": 1000,
 "scenarios": [
@@ -3142,6 +3266,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20000816223803/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-06-17",
 "sample": 638,
 "scenarios": [
@@ -3161,6 +3286,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20000614155639/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-05-13",
 "sample": 691,
 "scenarios": [
@@ -3180,6 +3306,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020622030851/http://www.csa-fr.com/fra/dataset/data2K/indic20000524.htm",
+"start": null,
 "date": "2000-05-13",
 "sample": 1000,
 "scenarios": [
@@ -3199,6 +3326,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-climat-electoral-dans-la-perspective-des-elections-presidentielles-et-legislatives",
+"start": null,
 "date": "2000-04-29",
 "sample": 825,
 "scenarios": [
@@ -3219,6 +3347,7 @@
 {
 "firm": "BVA",
 "url": "https://www.ipsos.com/fr-fr/tableau-de-bord-paris-matchbva-2",
+"start": null,
 "date": "2000-04-15",
 "sample": 535,
 "scenarios": [
@@ -3238,6 +3367,7 @@
 {
 "firm": "BVA",
 "url": "https://www.ipsos.com/fr-fr/le-tableau-de-bord-paris-match-bva-0",
+"start": null,
 "date": "2000-03-18",
 "sample": 984,
 "scenarios": [
@@ -3257,6 +3387,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-de-laction-politique-21",
+"start": null,
 "date": "2000-03-11",
 "sample": 920,
 "scenarios": [
@@ -3277,6 +3408,7 @@
 {
 "firm": "Ifop",
 "url": "https://web.archive.org/web/20010706183559/http://www.ifop.com/europe/sondages/opinionf/elysee02b.asp",
+"start": null,
 "date": "2000-03-03",
 "sample": 941,
 "scenarios": [
@@ -3305,6 +3437,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"start": null,
 "date": "2000-02-29",
 "sample": 1000,
 "scenarios": [
@@ -3324,6 +3457,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20000226191436/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-02-19",
 "sample": 615,
 "scenarios": [
@@ -3343,6 +3477,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20000122083803/http://www.bva.fr/sondages/presidentielpm.html",
+"start": null,
 "date": "2000-01-15",
 "sample": 567,
 "scenarios": [
@@ -3362,6 +3497,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"start": null,
 "date": "2000-01-05",
 "sample": 1000,
 "scenarios": [
@@ -3381,6 +3517,7 @@
 {
 "firm": "Sofres",
 "url": "https://www.ipsos.com/fr-fr/jospin-chirac-lecart-se-creuse",
+"start": null,
 "date": "1999-12-29",
 "sample": 995,
 "scenarios": [
@@ -3400,6 +3537,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"start": null,
 "date": "1999-11-04",
 "sample": 1000,
 "scenarios": [
@@ -3419,6 +3557,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"start": null,
 "date": "1999-09-02",
 "sample": 1000,
 "scenarios": [
@@ -3438,6 +3577,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"start": null,
 "date": "1999-07-02",
 "sample": 1004,
 "scenarios": [
@@ -3457,6 +3597,7 @@
 {
 "firm": "CSA",
 "url": "https://www.ipsos.com/fr-fr/indicateur-presidentiel-intentions-de-vote",
+"start": null,
 "date": "1999-05-07",
 "sample": 1002,
 "scenarios": [
@@ -3476,6 +3617,7 @@
 {
 "firm": "CSA",
 "url": "https://web.archive.org/web/20020511102822/http://www.csa-fr.com/fra/dataset/data2K/indic20000229.htm",
+"start": null,
 "date": "1999-03-06",
 "sample": 1003,
 "scenarios": [
@@ -3495,6 +3637,7 @@
 {
 "firm": "CSA",
 "url": "https://www.ipsos.com/fr-fr/le-barometre-dintention-de-vote-presidentiel-csa-bfm-levenement",
+"start": null,
 "date": "1998-12-19",
 "sample": 1006,
 "scenarios": [
@@ -3514,6 +3657,7 @@
 {
 "firm": "BVA",
 "url": "https://web.archive.org/web/20010419013637/http://www.bva.fr/fr/archives/chirac1298.html",
+"start": null,
 "date": "1998-12-13",
 "sample": 612,
 "scenarios": [
@@ -3532,6 +3676,7 @@
 {
 "firm": "CSA",
 "url": "https://www.humanite.fr/node/190482",
+"start": null,
 "date": "1998-08-22",
 "sample": 1003,
 "scenarios": [
@@ -3550,6 +3695,7 @@
 {
 "firm": "CSA",
 "url": "https://www.ipsos.com/fr-fr/et-si-la-presidentielle-avait-lieu-aujourdhui",
+"start": null,
 "date": "1997-08-18",
 "sample": 1000,
 "scenarios": [
@@ -3576,6 +3722,7 @@
 {
 "firm": "CSA",
 "url": "https://www.ipsos.com/fr-fr/un-apres-lelection-presidentielle",
+"start": null,
 "date": "1996-04-19",
 "sample": 1000,
 "scenarios": [
@@ -3595,6 +3742,7 @@
 {
 "firm": "1995 election",
 "url": null,
+"start": null,
 "date": "1995-04-23",
 "sample": null,
 "scenarios": [
@@ -3614,6 +3762,7 @@
 {
 "firm": "2002 election",
 "url": null,
+"start": null,
 "date": "2002-04-21",
 "sample": null,
 "scenarios": [
@@ -3640,6 +3789,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/letat-de-lopinion-paris-un-mois-de-lelection-presidentielle",
+"start": null,
 "date": "2002-03-21",
 "sample": 804,
 "scenarios": [
@@ -3665,6 +3815,7 @@
 {
 "firm": "2002 election",
 "url": null,
+"start": null,
 "date": "2002-04-21",
 "sample": null,
 "scenarios": [
@@ -3691,6 +3842,7 @@
 {
 "firm": "Ipsos",
 "url": "https://www.ipsos.com/fr-fr/lelection-presidentielle-la-reunion",
+"start": null,
 "date": "2002-02-26",
 "sample": 838,
 "scenarios": [

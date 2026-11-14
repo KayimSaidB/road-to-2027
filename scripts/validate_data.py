@@ -18,6 +18,8 @@ from typing import Annotated, Any
 from pydantic import (AfterValidator, BaseModel, ConfigDict, Field, HttpUrl, NonNegativeInt,
                       PositiveFloat, PositiveInt, model_validator)
 
+from road2027.jsdata import split_js
+
 ROOT = Path(__file__).resolve().parent.parent
 LOGGER = logging.getLogger("validate_data")
 
@@ -142,19 +144,11 @@ FILES: dict[str, tuple[str, type[BaseModel]]] = {
 }
 
 
-def load_json(path: Path, variable: str) -> str:
-    """Return the JSON text of `window.<variable> = {...};`."""
-    text = path.read_text(encoding="utf-8")
-    prefix = f"window.{variable} = "
-    if prefix not in text:
-        raise ValueError(f"{path}: '{prefix.strip()}' not found")
-    return text.split(prefix, 1)[1].rsplit(";", 1)[0]
-
-
 def validate(root: Path = ROOT) -> None:
     """Raise ValueError (ValidationError is one) at the first invalid file."""
     for name, (variable, model) in FILES.items():
-        model.model_validate_json(load_json(root / name, variable))
+        _, payload = split_js((root / name).read_text(encoding="utf-8"), variable)
+        model.model_validate_json(payload)
         LOGGER.info("%s: ok", name)
 
 

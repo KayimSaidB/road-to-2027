@@ -3,6 +3,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"start": "2026-11-03",
 "date": "2026-11-05",
 "sample": 2101,
 "scenarios": [
@@ -15,6 +16,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"start": "2026-10-21",
 "date": "2026-10-22",
 "sample": 973,
 "scenarios": [
@@ -27,6 +29,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"start": "2026-10-19",
 "date": "2026-10-21",
 "sample": 2094,
 "scenarios": [
@@ -39,6 +42,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"start": "2026-10-17",
 "date": "2026-10-19",
 "sample": 1928,
 "scenarios": [
@@ -51,6 +55,7 @@
 {
 "firm": "Elabe",
 "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"start": "2026-10-14",
 "date": "2026-10-16",
 "sample": 1701,
 "scenarios": [
@@ -63,6 +68,7 @@
 {
 "firm": "YouGov",
 "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"start": "2026-10-12",
 "date": "2026-10-15",
 "sample": 1094,
 "scenarios": [
@@ -75,6 +81,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+"start": "2026-10-13",
 "date": "2026-10-14",
 "sample": 1043,
 "scenarios": [
@@ -87,6 +94,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf",
+"start": "2026-10-05",
 "date": "2026-10-08",
 "sample": 2004,
 "scenarios": [
@@ -99,6 +107,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+"start": "2026-09-24",
 "date": "2026-10-07",
 "sample": 12005,
 "scenarios": [
@@ -111,6 +120,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf",
+"start": "2026-09-22",
 "date": "2026-09-24",
 "sample": 1974,
 "scenarios": [
@@ -123,6 +133,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf",
+"start": "2026-09-08",
 "date": "2026-09-10",
 "sample": 2052,
 "scenarios": [
@@ -135,6 +146,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -147,6 +159,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf",
+"start": "2026-08-18",
 "date": "2026-08-19",
 "sample": 1764,
 "scenarios": [
@@ -159,6 +172,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"start": "2026-07-22",
 "date": "2026-07-24",
 "sample": 1506,
 "scenarios": [
@@ -171,6 +185,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 1582,
 "scenarios": [
@@ -183,6 +198,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 984,
 "scenarios": [
@@ -195,6 +211,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -207,6 +224,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -219,6 +237,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"start": "2025-04-23",
 "date": "2025-04-24",
 "sample": 1005,
 "scenarios": [
@@ -231,6 +250,7 @@
 {
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"start": "2025-04-11",
 "date": "2025-04-18",
 "sample": 9128,
 "scenarios": [
@@ -243,6 +263,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf",
+"start": "2024-04-20",
 "date": "2024-04-24",
 "sample": 1081,
 "scenarios": [
@@ -255,6 +276,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"start": "2024-01-31",
 "date": "2024-02-01",
 "sample": 1081,
 "scenarios": [
@@ -269,6 +291,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"start": "2026-10-17",
 "date": "2026-10-19",
 "sample": 1928,
 "scenarios": [
@@ -281,6 +304,7 @@
 {
 "firm": "YouGov",
 "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"start": "2026-10-12",
 "date": "2026-10-15",
 "sample": 1094,
 "scenarios": [
@@ -293,6 +317,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf",
+"start": "2026-09-08",
 "date": "2026-09-10",
 "sample": 2052,
 "scenarios": [
@@ -305,6 +330,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -317,6 +343,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf",
+"start": "2026-08-18",
 "date": "2026-08-19",
 "sample": 1764,
 "scenarios": [
@@ -329,6 +356,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"start": "2026-07-22",
 "date": "2026-07-24",
 "sample": 1506,
 "scenarios": [
@@ -341,6 +369,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 1582,
 "scenarios": [
@@ -353,6 +382,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 984,
 "scenarios": [
@@ -365,6 +395,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -377,6 +408,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -389,6 +421,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/04/120799-Resultats-ensemble.pdf",
+"start": "2024-04-20",
 "date": "2024-04-24",
 "sample": 1081,
 "scenarios": [
@@ -401,6 +434,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"start": "2024-01-31",
 "date": "2024-02-01",
 "sample": 1081,
 "scenarios": [
@@ -415,6 +449,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"start": "2026-11-03",
 "date": "2026-11-05",
 "sample": 2101,
 "scenarios": [
@@ -427,6 +462,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"start": "2026-10-21",
 "date": "2026-10-22",
 "sample": 973,
 "scenarios": [
@@ -439,6 +475,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"start": "2026-10-19",
 "date": "2026-10-21",
 "sample": 2094,
 "scenarios": [
@@ -451,6 +488,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"start": "2026-10-17",
 "date": "2026-10-19",
 "sample": 1928,
 "scenarios": [
@@ -463,6 +501,7 @@
 {
 "firm": "Elabe",
 "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"start": "2026-10-14",
 "date": "2026-10-16",
 "sample": 1701,
 "scenarios": [
@@ -475,6 +514,7 @@
 {
 "firm": "YouGov",
 "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"start": "2026-10-12",
 "date": "2026-10-15",
 "sample": 1094,
 "scenarios": [
@@ -487,6 +527,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+"start": "2026-10-13",
 "date": "2026-10-14",
 "sample": 1043,
 "scenarios": [
@@ -499,6 +540,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/presidentielle-2027-aout/",
+"start": "2026-08-26",
 "date": "2026-08-28",
 "sample": 1501,
 "scenarios": [
@@ -511,6 +553,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -523,6 +566,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"start": "2026-07-22",
 "date": "2026-07-24",
 "sample": 1506,
 "scenarios": [
@@ -537,6 +581,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
+"start": "2026-11-03",
 "date": "2026-11-05",
 "sample": 2101,
 "scenarios": [
@@ -549,6 +594,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-22-octobre-2026.pdf",
+"start": "2026-10-21",
 "date": "2026-10-22",
 "sample": 973,
 "scenarios": [
@@ -561,6 +607,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-8-M6-RTL-23-octobre-2026-1.pdf",
+"start": "2026-10-19",
 "date": "2026-10-21",
 "sample": 2094,
 "scenarios": [
@@ -573,6 +620,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"start": "2026-10-17",
 "date": "2026-10-19",
 "sample": 1928,
 "scenarios": [
@@ -585,6 +633,7 @@
 {
 "firm": "Elabe",
 "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_AN-202610170298.html",
+"start": "2026-10-14",
 "date": "2026-10-16",
 "sample": 1701,
 "scenarios": [
@@ -597,6 +646,7 @@
 {
 "firm": "YouGov",
 "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Octobre_2026_as_sent_16.10.2026.pdf",
+"start": "2026-10-12",
 "date": "2026-10-15",
 "sample": 1094,
 "scenarios": [
@@ -609,6 +659,7 @@
 {
 "firm": "OpinionWay",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10319-pres-iv-opinionway-cnews-15-octobre.pdf",
+"start": "2026-10-13",
 "date": "2026-10-14",
 "sample": 1043,
 "scenarios": [
@@ -621,6 +672,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/10/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-7-M6-RTL-12-octobre-2026.pdf",
+"start": "2026-10-05",
 "date": "2026-10-08",
 "sample": 2004,
 "scenarios": [
@@ -633,6 +685,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/melenchon-est-passe-devant-philippe-au-premier-tour-marine-le-pen-est-plus-que-jamais-la-grande-favorite-pour-2027-a-la-fois-au-premier-et-au-second-tour/",
+"start": "2026-09-24",
 "date": "2026-10-07",
 "sample": 12005,
 "scenarios": [
@@ -645,6 +698,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-6-M6-RTL-28-septembre-2026.pdf",
+"start": "2026-09-22",
 "date": "2026-09-24",
 "sample": 1974,
 "scenarios": [
@@ -657,6 +711,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-5-M6-RTL-14-septembre-2026.pdf",
+"start": "2026-09-08",
 "date": "2026-09-10",
 "sample": 2052,
 "scenarios": [
@@ -669,6 +724,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -681,6 +737,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/09/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-4-M6-RTL-Aout-2026.pdf",
+"start": "2026-08-18",
 "date": "2026-08-19",
 "sample": 1764,
 "scenarios": [
@@ -693,6 +750,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"start": "2026-07-22",
 "date": "2026-07-24",
 "sample": 1506,
 "scenarios": [
@@ -705,6 +763,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-marine-le-pen-progresse-dans-les-intentions-de-vote-apres-l-annonce-de-sa-candidature-7900653723",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 1582,
 "scenarios": [
@@ -717,6 +776,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2026/07/122649-resultats.pdf",
+"start": "2026-07-07",
 "date": "2026-07-08",
 "sample": 984,
 "scenarios": [
@@ -729,6 +789,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -741,6 +802,7 @@
 {
 "firm": "Cluster17",
 "url": "http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+"start": null,
 "date": "2024-04-05",
 "sample": 1686,
 "scenarios": [
@@ -753,6 +815,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.ifop.com/wp-content/uploads/2024/02/120604-Resultats.pdf",
+"start": "2024-01-31",
 "date": "2024-02-01",
 "sample": 1081,
 "scenarios": [
@@ -767,6 +830,7 @@
 {
 "firm": "Cluster17",
 "url": "http://www.commission-des-sondages.fr/notices/files/notices/2024/avril/9753-pdt-ruffin-cluster-17-picardie-debout-21-avril-2024.pdf",
+"start": null,
 "date": "2024-04-05",
 "sample": 1686,
 "scenarios": [
@@ -781,6 +845,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf",
+"start": "2026-10-17",
 "date": "2026-10-19",
 "sample": 1928,
 "scenarios": [
@@ -793,6 +858,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -807,6 +873,7 @@
 {
 "firm": "Ifop",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+"start": "2026-08-24",
 "date": "2026-08-25",
 "sample": 1598,
 "scenarios": [
@@ -819,6 +886,7 @@
 {
 "firm": "Cluster17",
 "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+"start": "2026-07-22",
 "date": "2026-07-24",
 "sample": 1506,
 "scenarios": [
@@ -833,6 +901,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -845,6 +914,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/",
+"start": "2026-05-20",
 "date": "2026-05-21",
 "sample": 1005,
 "scenarios": [
@@ -857,6 +927,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/spectaculaire-come-back-dedouard-philippe-il-remporterait-aujourdhui-la-presidentielle/",
+"start": "2026-03-25",
 "date": "2026-03-26",
 "sample": 1005,
 "scenarios": [
@@ -869,6 +940,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -881,6 +953,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+"start": "2025-11-19",
 "date": "2025-11-20",
 "sample": 1300,
 "scenarios": [
@@ -893,6 +966,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"start": "2025-04-23",
 "date": "2025-04-24",
 "sample": 1005,
 "scenarios": [
@@ -905,6 +979,7 @@
 {
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"start": "2025-04-11",
 "date": "2025-04-18",
 "sample": 9128,
 "scenarios": [
@@ -919,6 +994,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -931,6 +1007,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"start": "2025-11-19",
 "date": "2025-11-20",
 "sample": 1300,
 "scenarios": [
@@ -943,6 +1020,7 @@
 {
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"start": "2025-04-11",
 "date": "2025-04-18",
 "sample": 9128,
 "scenarios": [
@@ -957,6 +1035,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -969,6 +1048,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/presidentielle-le-pen-ou-bardella-seraient-en-tete-au-premier-tour-mais-battus-par-philippe-au-second/",
+"start": "2025-11-19",
 "date": "2025-11-20",
 "sample": 1300,
 "scenarios": [
@@ -983,6 +1063,7 @@
 {
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/05/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-2-M6-RTL-Mai-2026.pdf",
+"start": "2026-05-25",
 "date": "2026-05-27",
 "sample": 1744,
 "scenarios": [
@@ -995,6 +1076,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -1007,6 +1089,7 @@
 {
 "firm": "Odoxa",
 "url": "https://www.odoxa.fr/sondage/jordan-bardella-est-la-personnalite-politique-preferee-des-francais-et-remporterait-la-presidentielle-si-elle-avait-lieu-dimanche-prochain/",
+"start": "2025-11-19",
 "date": "2025-11-20",
 "sample": 1300,
 "scenarios": [
@@ -1019,6 +1102,7 @@
 {
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"start": "2025-04-11",
 "date": "2025-04-18",
 "sample": 9128,
 "scenarios": [
@@ -1033,6 +1117,7 @@
 {
 "firm": "Elabe",
 "url": "https://elabe.fr/fichier-pdf/12955-20260328_elabe_bfmtv_la-tribune-dimanche_election-presidentielle-2027/",
+"start": "2026-03-25",
 "date": "2026-03-27",
 "sample": 1504,
 "scenarios": [
@@ -1045,6 +1130,7 @@
 {
 "firm": "Ifop/Hexagone",
 "url": "https://observatoire-hexagone.org/wp-content/uploads/2025/05/20250502_Hexagone_Grande-Enquete-Electorale-2025.pdf",
+"start": "2025-04-11",
 "date": "2025-04-18",
 "sample": 9128,
 "scenarios": [
