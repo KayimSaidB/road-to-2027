@@ -1,5 +1,183 @@
 [
 {
+"firm": "Elabe",
+"url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html",
+"start": "2026-11-12",
+"date": "2026-11-13",
+"sample": 1391,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.5,
+"Édouard Philippe": 15.0,
+"Dominique de Villepin": 2.5,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.5,
+"Fabien Roussel": 2.5,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 10.0,
+"Dominique de Villepin": 3.0,
+"Bruno Retailleau": 9.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.5,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 5.5,
+"Édouard Philippe": 12.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 33.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.5,
+"Fabien Roussel": 1.5,
+"François Ruffin": 3.0,
+"Raphaël Glucksmann": 14.0,
+"Gabriel Attal": 8.5,
+"David Lisnard": 10.5,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 2.5,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.5,
+"Fabien Roussel": 2.5,
+"Raphaël Glucksmann": 13.5,
+"Édouard Philippe": 13.0,
+"David Lisnard": 9.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 32.5,
+"Éric Zemmour": 3.5
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 1.5,
+"Natacha Polony": 1.5,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.5,
+"Gabriel Attal": 4.0,
+"Teddy Riner": 4.5,
+"Édouard Philippe": 9.5,
+"David Lisnard": 8.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-marine-le-pen-reste-en-tete-des-intentions-de-vote-teddy",
+"start": "2026-11-10",
+"date": "2026-11-12",
+"sample": 964,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Karim Bouamrane": 1.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Gabriel Attal": 3.0,
+"Teddy Riner": 4.0,
+"Édouard Philippe": 12.0,
+"David Lisnard": 9.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Karim Bouamrane": 1.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 10.0,
+"Gabriel Attal": 4.0,
+"Édouard Philippe": 12.0,
+"David Lisnard": 10.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 32.0,
+"Éric Zemmour": 2.0
+}
+]
+},
+{
+"firm": "OpinionWay",
+"url": "https://www.lesechos.fr/elections/sondages/sondage-exclusif-presidentielle-2027-le-pen-toujours-largement-en-tete-lisnard-talonne-philippe-2262404",
+"start": "2026-11-09",
+"date": "2026-11-10",
+"sample": 982,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 4.0,
+"Édouard Philippe": 11.0,
+"David Lisnard": 10.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 2.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 12.0,
+"Édouard Philippe": 12.0,
+"David Lisnard": 11.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 16.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.0,
+"Gabriel Attal": 10.0,
+"David Lisnard": 12.0,
+"Bruno Retailleau": 6.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 34.0,
+"Éric Zemmour": 3.0
+}
+]
+},
+{
 "firm": "Cluster17",
 "url": "https://www.politico.eu/article/sondage-exclusif-2027-christine-lagarde-bien-accueillie-par-les-electeurs-du-centre/",
 "start": "2026-11-09",
