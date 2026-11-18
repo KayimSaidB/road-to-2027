@@ -1,5 +1,6 @@
 {{Short description|none}}
 {{more footnotes needed|date=July 2024}}
+{{Cleanup reorganize|date=July 2026|reason=calling Bardella a scenario is achronistic}}
 This page lists public opinion polls conducted for the [[2027 French presidential election]]. The first round is scheduled to be held on 18 April 2027.
 
 == First round ==
@@ -60,6 +61,269 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|The Patriots (France)}};" |
 ! style="background:{{party color|Popular Republican Union (2007)}};" |
 ! style="background:{{party color|Reconquête (political party)}};"|
+|-
+|
+|17 Nov 2026
+| colspan="23" |[[Gabriel Attal]], [[David Lisnard]] and [[Bruno Retailleau]] announce a primary.
+|-
+| rowspan="5" style="background:#fff89c;"|[https://huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html YouGov]
+| rowspan="5" {{Opdrts|12|17|Nov|2026|year}}
+| rowspan="5"|952
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+| –
+| –
+|4%
+| –
+|9%
+|5%
+| –
+| –
+|8%
+| –
+| –
+|9%
+|6%
+|2%
+| style="background:#C1CCE1;" | '''32%'''
+| –
+| –
+|3%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+| –
+| –
+|6%
+| –
+|10%
+|7%
+| –
+| –
+| –
+| –
+| –
+|10%
+|8%
+|1%
+| style="background:#C1CCE1;" | '''34%'''
+| –
+| –
+|3%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|3%
+| –
+| –
+| –
+|4%
+| –
+|10%
+| –
+| –
+| –
+|9%
+| –
+| –
+|10%
+|7%
+|2%
+| style="background:#C1CCE1;" | '''33%'''
+| –
+| –
+|3%
+|-
+|1%
+| style="background:#E6D8F3;" | '''22%'''
+|3%
+| –
+| –
+| –
+| –
+| –
+|12%
+| –
+| –
+| –
+|16%
+| –
+| –
+| –
+| –
+|2%
+| style="background:#C1CCE1;" | '''40%'''
+| –
+| –
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''17%'''
+|2%
+| –
+| –
+| –
+|5%
+| –
+|9%
+|4%
+|3%
+| –
+|7%
+|2%
+| –
+|9%
+|6%
+|2%
+| style="background:#C1CCE1;" | '''32%'''
+| –
+| –
+|3%
+|-
+| rowspan="6" style="background:#FFCCCC;" |[https://www.tf1info.fr/politique/elections/presidentielle/en-direct-election-presidentielle-2027-en-panne-dans-les-sondages-edouard-philippe-presente-son-projet-a-date-conference-de-presse-2476527.html Ifop]
+| rowspan="6" {{Opdrts|13|16|Nov|2026|year}}
+| rowspan="6"|1,690
+| –
+| style="background:#E6D8F3;" | '''17%'''
+|1.5%
+|1%
+|2%
+| –
+|2%
+| –
+|8%
+|4.5%
+|4%
+| –
+|10%
+|1.5%
+| –
+|8%
+|4%
+|1.5%
+| style="background:#C1CCE1;" | '''32%'''
+| –
+| –
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19%'''
+|2.5%
+| –
+| –
+| –
+|3%
+| –
+|10%
+|4%
+| –
+| –
+|11%
+| –
+| –
+|9%
+|4%
+|1.5%
+| style="background:#C1CCE1;" | '''34%'''
+| –
+| –
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19.5%'''
+|2.5%
+| –
+| –
+| –
+|2.5%
+| –
+|10%
+| –
+| –
+| –
+|12%
+| –
+| –
+|10%
+|4%
+|1.5%
+| style="background:#C1CCE1;" | '''35%'''
+| –
+| –
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19%'''
+|2%
+| –
+| –
+| –
+|2.5%
+| –
+|11%
+|9%
+| –
+| –
+| –
+| –
+| –
+|11%
+|5%
+|2%
+| style="background:#C1CCE1;" | '''35%'''
+| –
+| –
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19.5%'''
+|2%
+| –
+| –
+| –
+|2.5%
+| –
+|11%
+| –
+| –
+| –
+|14%
+| –
+| –
+|12%
+| –
+|1.5%
+| style="background:#C1CCE1;" | '''34%'''
+| –
+| –
+|3%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''19%'''
+|2.5%
+| –
+| –
+| –
+|3%
+|  –
+|11.5%
+| –
+| –
+| –
+|15%
+| –
+| –
+| –
+|7%
+|2%
+| style="background:#C1CCE1;" | '''36%'''
+| –
+| –
+|3.5%
 |-
 | rowspan="6" style="background:#CAD5F7;"|[https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html Elabe]
 | rowspan="6" {{Opdrts|12|13|Nov|2026|year}}
