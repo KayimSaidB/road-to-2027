@@ -62,11 +62,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|Popular Republican Union (2007)}};" |
 ! style="background:{{party color|Reconquête (political party)}};"|
 |-
-|
-|17 Nov 2026
-| colspan="23" |[[Gabriel Attal]], [[David Lisnard]] and [[Bruno Retailleau]] announce a primary.
-|-
-| rowspan="5" style="background:#fff89c;"|[https://huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html YouGov]
+| rowspan="5" style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Novembre_2026_17.11.2026.pdf YouGov]
 | rowspan="5" {{Opdrts|12|17|Nov|2026|year}}
 | rowspan="5"|952
 |1%
