@@ -1,5 +1,59 @@
 [
 {
+"firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-10-M6-RTL-LExpress-23-novembre-2026.pdf",
+"start": "2026-11-18",
+"date": "2026-11-19",
+"sample": 2088,
+"scenarios": [
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 1.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 4.0,
+"Teddy Riner": 4.0,
+"Édouard Philippe": 9.0,
+"Dominique de Villepin": 1.0,
+"David Lisnard": 11.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 1.0,
+"Raphaël Glucksmann": 11.0,
+"Teddy Riner": 4.0,
+"Édouard Philippe": 10.0,
+"Dominique de Villepin": 2.0,
+"David Lisnard": 11.0,
+"Bruno Retailleau": 4.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 31.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 19.0,
+"Fabien Roussel": 1.0,
+"Marine Tondelier": 2.0,
+"Raphaël Glucksmann": 11.0,
+"Gabriel Attal": 7.0,
+"Teddy Riner": 5.0,
+"David Lisnard": 12.0,
+"Bruno Retailleau": 5.0,
+"Nicolas Dupont-Aignan": 1.0,
+"Marine Le Pen": 30.0,
+"Éric Zemmour": 4.0
+}
+]
+},
+{
 "firm": "YouGov",
 "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Novembre_2026_17.11.2026.pdf",
 "start": "2026-11-12",
@@ -468,6 +522,59 @@
 "Nicolas Dupont-Aignan": 2.0,
 "Marine Le Pen": 36.0,
 "Éric Zemmour": 4.0
+}
+]
+},
+{
+"firm": "Ifop",
+"url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-le-pen-au-dessus-du-lot-philippe-seul-resistant-face-a-melenchon",
+"start": "2026-11-02",
+"date": "2026-11-04",
+"sample": 1834,
+"scenarios": [
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 13.0,
+"Édouard Philippe": 19.0,
+"Nicolas Dupont-Aignan": 1.5,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 5.0
+},
+{
+"Nathalie Arthaud": 0.5,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 17.0,
+"Bruno Retailleau": 14.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 17.0,
+"Fabien Roussel": 3.5,
+"Marine Tondelier": 3.5,
+"Raphaël Glucksmann": 18.0,
+"David Lisnard": 14.0,
+"Nicolas Dupont-Aignan": 2.0,
+"Marine Le Pen": 37.0,
+"Éric Zemmour": 4.0
+},
+{
+"Nathalie Arthaud": 1.0,
+"Jean-Luc Mélenchon": 18.0,
+"Fabien Roussel": 3.0,
+"Marine Tondelier": 3.0,
+"Raphaël Glucksmann": 16.0,
+"Gabriel Attal": 13.0,
+"Nicolas Dupont-Aignan": 3.0,
+"Marine Le Pen": 38.0,
+"Éric Zemmour": 5.0
 }
 ]
 },

@@ -580,6 +580,19 @@
 "Mélenchon vs. Le Pen": [
 {
 "firm": "Harris Interactive",
+"url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-10-M6-RTL-LExpress-23-novembre-2026.pdf",
+"start": "2026-11-18",
+"date": "2026-11-19",
+"sample": 2088,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 35.0,
+"Marine Le Pen": 65.0
+}
+]
+},
+{
+"firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
 "start": "2026-11-03",
 "date": "2026-11-05",
