@@ -23,14 +23,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! {{vert header|mw=35px|stp=1|[[François Ruffin]]}}
 ! {{vert header|mw=35px|stp=1|[[Karim Bouamrane]]}}
 ! {{vert header|mw=35px|stp=1|[[Marine Tondelier]]}}
-! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
 ! {{vert header|mw=35px|stp=1|[[Raphaël Glucksmann]]}}
 ! {{vert header|mw=35px|stp=1|[[Gabriel Attal]]}}
 ! {{vert header|mw=35px|stp=1|[[Teddy Riner]]}}
 ! {{vert header|mw=35px|stp=1|[[Christine Lagarde]]}}
 ! {{vert header|mw=35px|stp=1|[[Édouard Philippe]]}}
 ! {{vert header|mw=35px|stp=1|[[Dominique de Villepin]]}}
-! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
 ! {{vert header|mw=35px|stp=1|[[David Lisnard]]}}
 ! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
 ! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
@@ -44,15 +42,13 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|French Communist Party}};"|
 ! style="background:{{party color|Left Front (France)}};"|
 ! style="background:{{party color|Picardie debout}};"|
-! style="background:{{party color|Génération.s}};"|
-! style="background:{{party color|Europe Ecology – The Greens}};"|
 ! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
 ! style="background:{{party color|Place Publique}};" |
 ! style="background:{{party color|Together (coalition)}};"|
 ! style="background:{{party color|Sans étiquette}};"|
 ! style="background:{{party color|Together (coalition)}};" |
 ! style="background:{{party color|Horizons (political party)}};"|
-! style="background:{{party color|The Centrists}};"|
 ! style="background:{{party color|United Republic}};" |
 ! style="background:{{party color|Nous Citoyens}};"|
 ! style="background:{{party color|The Republicans (France)}};"|
@@ -61,6 +57,84 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 ! style="background:{{party color|The Patriots (France)}};" |
 ! style="background:{{party color|Popular Republican Union (2007)}};" |
 ! style="background:{{party color|Reconquête (political party)}};"|
+|-
+|
+| 21 Nov 2026
+| colspan="21" |[[François Ruffin]] withdraws from the race.
+|-
+|
+| 20 Nov 2026
+| colspan="21" |[[Dominique de Villepin]] officializes his candidacy.
+|-
+| rowspan="3" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-10-M6-RTL-LExpress-23-novembre-2026.pdf Harris Interactive]
+| rowspan="3" {{Opdrts|18|19|Nov|2026|year}}
+| rowspan="3"|2,088
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|1%
+| –
+| –
+| –
+|1%
+|11%
+|4%
+|4%
+| –
+|9%
+|1%
+|11%
+|4%
+|1%
+| style="background:#C1CCE1;" | '''31%'''
+| –
+| –
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|1%
+| –
+| –
+| –
+|1%
+|11%
+| –
+|4%
+| –
+|10%
+|2%
+|11%
+|4%
+|1%
+| style="background:#C1CCE1;" | '''31%'''
+| –
+| –
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''19%'''
+|1%
+| –
+| –
+| –
+|2%
+|11%
+|7%
+|5%
+| –
+| –
+| –
+|12%
+|5%
+|1%
+| style="background:#C1CCE1;" | '''30%'''
+| –
+| –
+|4%
+|-
+|
+| 18 Nov 2026
+| colspan="21" |[[Marine Tondelier]] announces to be open to unite around [[Mélenchon]].
 |-
 | rowspan="5" style="background:#fff89c;"|[https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Novembre_2026_17.11.2026.pdf YouGov]
 | rowspan="5" {{Opdrts|12|17|Nov|2026|year}}
@@ -72,13 +146,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |4%
-| –
 |9%
 |5%
 | –
 | –
 |8%
-| –
 | –
 |9%
 |6%
@@ -95,10 +167,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |6%
-| –
 |10%
 |7%
-| –
 | –
 | –
 | –
@@ -118,13 +188,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |4%
-| –
 |10%
 | –
 | –
 | –
 |9%
-| –
 | –
 |10%
 |7%
@@ -141,13 +209,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 | –
-| –
 |12%
 | –
 | –
 | –
 |16%
-| –
 | –
 | –
 | –
@@ -164,14 +230,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |5%
-| –
 |9%
 |4%
 |3%
 | –
 |7%
 |2%
-| –
 |9%
 |6%
 |2%
@@ -190,14 +254,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |2%
 | –
 |2%
-| –
 |8%
 |4.5%
 |4%
 | –
 |10%
 |1.5%
-| –
 |8%
 |4%
 |1.5%
@@ -213,13 +275,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3%
-| –
 |10%
 |4%
 | –
 | –
 |11%
-| –
 | –
 |9%
 |4%
@@ -236,13 +296,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2.5%
-| –
 |10%
 | –
 | –
 | –
 |12%
-| –
 | –
 |10%
 |4%
@@ -259,10 +317,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2.5%
-| –
 |11%
 |9%
-| –
 | –
 | –
 | –
@@ -282,13 +338,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2.5%
-| –
 |11%
 | –
 | –
 | –
 |14%
-| –
 | –
 |12%
 | –
@@ -305,13 +359,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3%
-|  –
 |11.5%
 | –
 | –
 | –
 |15%
-| –
 | –
 | –
 |7%
@@ -331,14 +383,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3%
-| –
 |13.5%
 | –
 | –
 | –
 |15%
 |2.5%
-| –
 | –
 |6%
 |3%
@@ -354,14 +404,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3%
-| –
 |14%
 |10%
 | –
 | –
 | –
 |3%
-| –
 | –
 |9%
 |2.5%
@@ -377,13 +425,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3.5%
-| –
 |13%
 |5.5%
 | –
 | –
 |12%
-| –
 | –
 | –
 |6%
@@ -400,10 +446,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |3%
 | –
 | –
-| –
 |14%
 |8.5%
-| –
 | –
 | –
 | –
@@ -423,13 +467,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 | –
-| –
 |13.5%
 | –
 | –
 | –
 |13%
-| –
 | –
 |9%
 |4%
@@ -446,13 +488,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3%
-|  –
 |10.5%
 |4%
 |4.5%
 | –
 |9.5%
-| –
 | –
 |8%
 |4%
@@ -472,13 +512,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |<1%
 |3%
-|–
 |10%
 |3%
 |4%
 |–
 |12%
-|–
 |–
 |9%
 |4%
@@ -495,13 +533,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |1%
 |3%
-|–
 |10%
 |4%
 |–
 |–
 |12%
-|–
 |–
 |10%
 |5%
@@ -513,7 +549,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |-
 |
 |10 Nov 2026
-| colspan="23" |[[Florian Philippot]] and [[Eric Zemmour]] announce their candidacy.
+| colspan="21" |[[Florian Philippot]] and [[Eric Zemmour]] officialize their candidacy.
 |-
 | rowspan="3" style="background:#80fcd4;"|[https://www.lesechos.fr/elections/sondages/sondage-exclusif-presidentielle-2027-le-pen-toujours-largement-en-tete-lisnard-talonne-philippe-2262404 OpinionWay]
 | rowspan="3" {{Opdrts|9|10|Nov|2026|year}}
@@ -525,13 +561,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |–
 |3%
-|–
 |11%
 |4%
 |–
 |–
 |11%
-|–
 |–
 |10%
 |4%
@@ -548,13 +582,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |–
 |3%
-|–
 |12%
 |–
 |–
 |–
 |12%
-|–
 |–
 |11%
 |4%
@@ -571,10 +603,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |–
 |3%
-|–
 |13%
 |10%
-|–
 |–
 |–
 |–
@@ -597,14 +627,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |2%
 |–
 |1%
-|–
 |8%
 |2%
 |2%
 |8%
 |8%
 |1%
-|–
 |8%
 |5%
 |2%
@@ -620,13 +648,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |–
 |1.5%
-|–
 |11%
 |–
 |–
 |–
 |13.5%
-|–
 |–
 |10%
 |5%
@@ -643,12 +669,10 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |–
 |–
 |1.5%
-|–
 |10%
 |–
 |–
 |14%
-|–
 |–
 |–
 |10%
@@ -661,7 +685,7 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 |-
 |
 |9 Nov 2026
-| colspan="23" |[[Teddy Riner]] announces his candidacy.
+| colspan="21" |[[Teddy Riner]] announces his candidacy.
 |-
 | rowspan="5" style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
 | rowspan="5" {{Opdrts|3|5|Nov|2026|year}}
@@ -673,14 +697,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2%
-| –
 |11%
 | –
 | –
 | –
 |12%
 |2%
-| –
 |9%
 |5%
 |1%
@@ -696,14 +718,12 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2%
-| –
 |12%
 |9%
 | –
 | –
 | –
 |2%
-| –
 |9%
 |6%
 |1%
@@ -719,13 +739,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2%
-| –
 |11%
 |6%
 | –
 | –
 |11%
-| –
 | –
 | –
 |7%
@@ -742,13 +760,11 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |2%
-| –
 |12%
 | –
 | –
 | –
 |14%
-| –
 | –
 | –
 |8%
@@ -765,10 +781,8 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |3%
-| –
 |13%
 |10%
-| –
 | –
 | –
 | –
@@ -780,6 +794,93 @@ If a candidate receives an absolute majority of the votes (excluding blank and v
 | –
 | –
 |4%
+|-
+| rowspan="4" style="background:#FFCCCC;" |[https://www.sudradio.fr/sud-radio/presidentielle-2027-le-pen-au-dessus-du-lot-philippe-seul-resistant-face-a-melenchon Ifop]
+| rowspan="4" {{Opdrts|2|4|Nov|2026|year}}
+| rowspan="4"|1,834
+|0.5%
+|18%
+|3%
+| –
+| –
+| –
+|3%
+|13%
+| –
+| –
+| –
+|style="background:#D8D8F4;" | '''19%'''
+| –
+| –
+| –
+|1.5%
+| style="background:#C1CCE1;" | '''37%'''
+| –
+| –
+|5%
+|-
+|0.5%
+| style="background:#E6D8F3;" | '''18%'''
+|3%
+| –
+| –
+| –
+|3.5%
+|17%
+| –
+| –
+| –
+| –
+| –
+| –
+|14%
+|2%
+| style="background:#C1CCE1;" | '''38%'''
+| –
+| –
+|4%
+|-
+|1%
+|17%
+|3.5%
+| –
+| –
+| –
+|3.5%
+| style="background:#FFF8CA;" | '''18%'''
+| –
+| –
+| –
+| –
+| –
+|14%
+| –
+|2%
+| style="background:#C1CCE1;" | '''37%'''
+| –
+| –
+|4%
+|-
+|1%
+| style="background:#E6D8F3;" | '''18%'''
+|3%
+| –
+| –
+| –
+|3%
+|16%
+|13%
+| –
+| –
+| –
+| –
+| –
+| –
+|3%
+| style="background:#C1CCE1;" | '''38%'''
+| –
+| –
+|5%
 |}
 
 === October 2026 ===
@@ -6992,6 +7093,12 @@ This round occurs if no candidate earns an absolute majority of the votes (exclu
 |-
 !{{small|[[Jean-Luc Mélenchon|Mélenchon]]<br/>{{small|[[La France Insoumise|LFI]]}}}}
 !{{small|[[Marine Le Pen|Le Pen]]<br/>{{small|[[National Rally|RN]]}}}}
+|-
+| style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-10-M6-RTL-LExpress-23-novembre-2026.pdf Harris Interactive]
+| {{Opdrts|18|19|November|2026|year}}
+| 2,088
+|35%
+|style="background:#C1CCE1;" |'''65%'''
 |-
 | style="background:GreenYellow;"|[https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf Harris Interactive]
 | {{Opdrts|3|5|November|2026|year}}
