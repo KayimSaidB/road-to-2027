@@ -11,6 +11,7 @@ app.js                rendu (courbes SVG, cartes, fiches candidats). Pas de modi
 data/site.js          candidats, couleurs, repères sur les courbes, date de mise à jour
 data/polls.js         sondages (GÉNÉRÉ, ne pas éditer à la main)
 data/social.js        abonnés et adhérents (édité à la main)
+data/history.js       présidentielles 2002–2022 : sondages et résultats (GÉNÉRÉ par scripts/build_history.py)
 scripts/update_polls.py
 ```
 
@@ -95,3 +96,12 @@ Levers: field (incl. Bardella replacing Le Pen), alliances and withdrawals, camp
 (Fillon 2017, Zemmour 2022, Mélenchon 2022), tactical voting by camp, weight of duel polls
 vs legislative transfers, barrage context 2022↔2024, Le Pen correction, horizon.
 Method and limits: see `backtest/README.md`.
+
+## Élections passées (#elections, #election-2017)
+
+`data/history.js` est généré par `python3 scripts/build_history.py` à partir des pages Wikipédia
+déjà enregistrées dans `backtest/raw/polls_YYYY.txt` (aucun accès réseau). Seuls les tableaux
+nationaux du premier tour sont lus : les sections « By region / department / commune » sont
+exclues. Les 8 candidats suivis par élection, leurs couleurs, le second tour et les repères de
+campagne sont définis en tête du script (`ELECTIONS`). Chaque sondage est lu dans l'hypothèse
+retenue par la même règle que pour 2027 (`lineup()` dans app.js).

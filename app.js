@@ -204,6 +204,12 @@
       ge.append(h("line", { x1, x2: x1, y1: m.t - 2, y2: H - m.b, stroke: "var(--ink3)", "stroke-dasharray": "2 3", "stroke-width": 1, opacity: .6 }));
     }
     for (const l of evL) if (l.r < 3) ge.append(h("text", { x: l.flip ? l.x - 3 : l.x + 3, y: 10 + l.r * 14 + 2, "text-anchor": l.flip ? "end" : null }, l.e.short));
+    // opt.marker {t, label}: a chosen moment (past elections: "J-145")
+    if (opt.marker && opt.marker.t >= opt.x0 && opt.marker.t <= opt.x1) {
+      const xm = X(opt.marker.t), flip = xm > W - m.r - 70;
+      ge.append(h("line", { x1: xm, x2: xm, y1: m.t - 2, y2: H - m.b, stroke: "var(--ink)", "stroke-width": 1.5 }));
+      ge.append(h("text", { x: flip ? xm - 5 : xm + 5, y: m.t + 12, class: "lab", "text-anchor": flip ? "end" : null }, opt.marker.label));
+    }
     svg.append(ge);
     // series
     const gs = h("g");
@@ -219,8 +225,12 @@
         const d = "M" + P.map(p => X(p.t) + "," + Y(p.v)).join("L") + `L${X(P[P.length - 1].t)},${Y(0)}L${X(P[0].t)},${Y(0)}Z`;
         sg.append(h("path", { d, fill: s.color, opacity: .1 }));
       }
-      if (P.length > 1) sg.append(h("path", { d: "M" + P.map(p => X(p.t) + "," + Y(p.v)).join("L"), fill: "none", stroke: s.color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
-      for (const p of P) sg.append(h("circle", { cx: X(p.t), cy: Y(p.v), r: opt.dot || 3.5, fill: p.hollow ? "var(--surface)" : s.color, stroke: p.hollow ? s.color : "var(--surface)", "stroke-width": p.hollow ? 2 : 1.5 }));
+      // A point with result:true is the vote itself: a diamond, joined to the last poll by a dashed line.
+      const polls = P.filter(p => !p.result), res = P.find(p => p.result);
+      if (polls.length > 1) sg.append(h("path", { d: "M" + polls.map(p => X(p.t) + "," + Y(p.v)).join("L"), fill: "none", stroke: s.color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+      if (res && polls.length) { const l = polls[polls.length - 1]; sg.append(h("line", { x1: X(l.t), y1: Y(l.v), x2: X(res.t), y2: Y(res.v), stroke: s.color, "stroke-width": 1.5, "stroke-dasharray": "3 3" })); }
+      for (const p of polls) sg.append(h("circle", { cx: X(p.t), cy: Y(p.v), r: opt.dot || 3.5, fill: p.hollow ? "var(--surface)" : s.color, stroke: p.hollow ? s.color : "var(--surface)", "stroke-width": p.hollow ? 2 : 1.5 }));
+      if (res) sg.append(h("rect", { x: X(res.t) - 5.5, y: Y(res.v) - 5.5, width: 11, height: 11, transform: `rotate(45 ${X(res.t)} ${Y(res.v)})`, fill: s.color, stroke: "var(--surface)", "stroke-width": 1.5 }));
       gs.append(sg);
     }
     svg.append(gs);
@@ -317,9 +327,9 @@
   }
 
   /* ---------- state & routing ---------- */
-  const state = { range: "campagne", firm: "all", focus: null };
-  try { const s = JSON.parse(localStorage.getItem("road-to-2027-filters") || "{}"); if (s.range) state.range = s.range; if (s.firm && FIRMS.includes(s.firm)) state.firm = s.firm; } catch (e) { /* storage unavailable */ }
-  const save = () => { try { localStorage.setItem("road-to-2027-filters", JSON.stringify({ range: state.range, firm: state.firm })); } catch (e) { /* ignore */ } };
+  const state = { range: "campagne", firm: "all", focus: null, hrange: "12m" };
+  try { const s = JSON.parse(localStorage.getItem("road-to-2027-filters") || "{}"); if (s.range) state.range = s.range; if (s.firm && FIRMS.includes(s.firm)) state.firm = s.firm; if (["6m", "12m", "all"].includes(s.hrange)) state.hrange = s.hrange; } catch (e) { /* storage unavailable */ }
+  const save = () => { try { localStorage.setItem("road-to-2027-filters", JSON.stringify({ range: state.range, firm: state.firm, hrange: state.hrange })); } catch (e) { /* ignore */ } };
   const RANGES = [
     { id: "campagne", label: "Depuis juillet 2026", from: () => T("2026-07-01") },
     { id: "12m", label: "12 mois", from: () => today() - 365 * DAY },
@@ -336,6 +346,8 @@
     if (BY_ID[id]) renderCandidate(BY_ID[id]);
     else if (id === "simulateur" && window.renderSandbox) { document.title = "Simulateur · Road to 2027"; window.renderSandbox(main); }
     else if (POLL_BY_SLUG[id]) renderPoll(POLL_BY_SLUG[id]);
+    else if (id === "elections" && HIST.length) renderHistoryIndex();
+    else if (HIST_BY_ID[id]) renderElection(HIST_BY_ID[id]);
     else { document.title = "Road to 2027"; renderHome(); }
     if (id) main.focus({ preventScroll: true });
     window.scrollTo(0, 0);
@@ -807,6 +819,542 @@
       many ? h("p", { class: "note" }, "Pourquoi l'hypothèse " + (lu.i + 1) + " ? Sur ce site, tous les candidats d'un sondage sont lus dans la même hypothèse : celle qui ressemble le plus au champ habituel " +
         "(les noms testés dans au moins la moitié des sondages des 60 derniers jours), chaque nom inhabituel ajouté comptant comme une pénalité. " +
         "C'est elle qui alimente les courbes, la médiane et les comparaisons.") : null));
+  }
+
+  /* ---------- past elections (#elections, #election-2017): data/history.js, scripts/build_history.py ---------- */
+  const HIST = ((window.HISTORY && window.HISTORY.elections) || []).slice().sort((a, b) => b.year - a.year);
+  const HIST_BY_ID = Object.fromEntries(HIST.map(e => ["election-" + e.year, e]));
+  const HRANGES = [
+    { id: "6m", label: "6 derniers mois", days: 183 },
+    { id: "12m", label: "12 derniers mois", days: 365 },
+    { id: "all", label: "Tout le cycle", days: null }
+  ];
+  const HMAX = 365;                                        // the day picker goes back one year
+  const TODAY_H = Math.min(HMAX, Math.max(1, daysLeft())); // where the 2027 campaign stands today
+  state.hday = TODAY_H;
+  const HPRESETS = [...new Set([TODAY_H, 100, 60, 30, 20, 10, 7])].sort((a, b) => b - a);
+  const HORIZONS = [180, 90, 30, 0];                       // fixed columns; 0 = the final week
+  const STATS_FROM = 180;                                  // cross-election statistics: last 6 months
+  const SWING_DAYS = 30;
+
+  /* "What the polls said" d days before the vote: the latest poll of each institute among the polls
+     of the window up to J-d, median over institutes (daily "rolling" polls count once). The window
+     narrows as the vote nears, when polls are frequent. d = 0: the final week. */
+  const hwindow = d => d >= 60 ? 21 : d >= 20 ? 14 : 7;
+  const institute = f => f.trim().toLowerCase().split(/[\s\-\/]+/)[0];   // "Ipsos-Sopra Steria" -> "ipsos"
+  const snapCache = new Map();
+  function snapshot(e, d) {
+    const key = e.year + ":" + d;
+    if (!snapCache.has(key)) {
+      const end = T(e.date) - d * DAY, w = hwindow(d), latest = {};
+      for (const p of e.polls) {   // sorted by date: a later poll replaces an earlier one
+        const t = T(p.date);
+        if (t >= end - w * DAY && (d ? t <= end : t < end)) latest[institute(p.firm)] = p;
+      }
+      const vals = {};
+      for (const p of Object.values(latest)) for (const [id, v] of Object.entries(p.v)) (vals[id] = vals[id] || []).push(v);
+      const avg = Object.fromEntries(Object.entries(vals).map(([id, a]) => [id, median(a)]));   // median, as for 2027
+      snapCache.set(key, { days: d, window: w, n: Object.keys(latest).length, avg });
+    }
+    return snapCache.get(key);
+  }
+
+  const byResult = e => e.candidates.slice().sort((a, b) => b.result - a.result);
+  const byId = e => Object.fromEntries(e.candidates.map(c => [c.id, c]));
+  const realDuel = e => byResult(e).slice(0, 2).map(c => c.id);
+  const ranked = s => Object.keys(s.avg).sort((a, b) => s.avg[b] - s.avg[a]);
+  const pollDuel = s => ranked(s).slice(0, 2);
+  const sameDuel = (a, b) => a.length === 2 && a.slice().sort().join() === b.slice().sort().join();
+  const winner = e => Object.keys(e.second).sort((a, b) => e.second[b] - e.second[a])[0];
+  const hLabel = d => d ? "J-" + d : "Dernière semaine";
+  const signedPts = v => (v > 0 ? "+" : v < 0 ? "−" : "±") + nf1.format(Math.abs(v)) + " pt";
+  const names = (e, ids) => ids.map(id => byId(e)[id].short).join(" et ");
+  const dayDate = (e, d) => fmtD(new Date(T(e.date) - d * DAY).toISOString().slice(0, 10));
+  const rankOf = (e, id) => byResult(e).findIndex(c => c.id === id) + 1;
+  const ord = n => n === 1 ? "1er" : n + "e";
+  function mae(e, s) {   // mean gap between the poll average and the result, candidates tested only
+    const C = byId(e), ids = Object.keys(s.avg);
+    return ids.length ? ids.reduce((t, id) => t + Math.abs(s.avg[id] - C[id].result), 0) / ids.length : null;
+  }
+  // gaps[0]: biggest |result - polls|; d = result - polls (+: did better than the polls)
+  const gaps = (e, s) => Object.keys(s.avg).map(id => ({ e, c: byId(e)[id], poll: s.avg[id], d: byId(e)[id].result - s.avg[id] }))
+    .sort((a, b) => Math.abs(b.d) - Math.abs(a.d));
+  function secondText(e) {
+    const C = byId(e);
+    return Object.keys(e.second).sort((a, b) => e.second[b] - e.second[a]).map(id => C[id].short + " " + pct(e.second[id])).join(" – ");
+  }
+  // Fastest moves over SWING_DAYS days between J-from and the vote (needs 2+ institutes at both ends).
+  function swings(e, from) {
+    const out = [];
+    for (let d = Math.min(from, HMAX) - SWING_DAYS; d >= 0; d--) {
+      const a = snapshot(e, d + SWING_DAYS), b = snapshot(e, d);
+      if (a.n < 2 || b.n < 2) continue;
+      for (const id of Object.keys(b.avg)) if (a.avg[id] != null) out.push({ e, c: byId(e)[id], from: d + SWING_DAYS, to: d, a: a.avg[id], b: b.avg[id], delta: b.avg[id] - a.avg[id] });
+    }
+    // keep each candidate's single strongest rise and fall, so one long move is not listed 10 times
+    const best = {};
+    for (const x of out) {
+      const k = x.c.id + (x.delta > 0 ? "+" : "-");
+      if (!best[k] || Math.abs(x.delta) > Math.abs(best[k].delta)) best[k] = x;
+    }
+    return Object.values(best).sort((x, y) => Math.abs(y.delta) - Math.abs(x.delta));
+  }
+  function eventsDuring(e, from, to, id) {   // events between J-from and J-to, the candidate's own first
+    const t0 = T(e.date) - from * DAY - 3 * DAY, t1 = T(e.date) - to * DAY;
+    return e.events.filter(x => T(x.date) >= t0 && T(x.date) <= t1).sort((a, b) => (b.who.includes(id) ? 1 : 0) - (a.who.includes(id) ? 1 : 0));
+  }
+  function swingText(x) {
+    const ev = eventsDuring(x.e, x.from, x.to, x.c.id)[0];
+    return signedPts(x.delta) + " entre J-" + x.from + " et " + hLabel(x.to).replace("Dernière semaine", "la dernière semaine") + " (" + nf1.format(x.a) + " → " + pct(x.b) + ")" + (ev ? ". Repère pendant cette période : " + ev.label : "");
+  }
+  // Who led the polls, day by day from J-from to the final week; blips under 3 days are smoothed out.
+  function leaders(e, from) {
+    const segs = [];
+    for (let d = from; d >= 0; d--) {
+      const s = snapshot(e, d), ids = ranked(s);
+      if (ids.length < 2) continue;
+      const last = segs[segs.length - 1];
+      if (last && last.id === ids[0]) last.to = d; else segs.push({ id: ids[0], from: d, to: d });
+    }
+    const out = [];
+    for (const g of segs) {
+      const prev = out[out.length - 1];
+      if (prev && (prev.id === g.id || g.from - g.to < 2)) prev.to = g.to; else out.push(Object.assign({}, g));
+    }
+    return out;
+  }
+
+  /* ---------- top 5, day by day (bump chart) ---------- */
+  const TOP = 5;
+  const realTop = e => byResult(e).slice(0, TOP).map(c => c.id);
+  // how many of the poll top 5 hold their final rank
+  const topOrder = (e, s) => { const r = realTop(e), n = ranked(s).slice(0, TOP).filter((id, i) => r[i] === id).length; return n + (n > 1 ? " déjà à leur place finale." : " déjà à sa place finale."); };
+  const topHits = (e, s) => { const r = new Set(realTop(e)); return ranked(s).slice(0, TOP).filter(id => r.has(id)).length; };
+  // ranks[d] = ids in poll order at J-d (null: fewer than 2 institutes in the window)
+  function topSeries(e, from) {
+    const out = [];
+    for (let d = from; d >= 0; d--) { const s = snapshot(e, d); out.push({ d, s, ids: s.n >= 2 ? ranked(s) : null }); }
+    return out;
+  }
+  function bumpChart(host, e, from) {
+    host.textContent = "";
+    host.classList.add("chart");
+    const C = byId(e), W = Math.max(280, host.clientWidth || 640), narrow = W < 560;
+    const days = topSeries(e, from).filter(x => x.ids);
+    if (!days.length) { host.append(h("p", { class: "empty-state" }, "Pas assez de sondages sur cette période.")); return; }
+    const rowH = narrow ? 34 : 42, m = { l: narrow ? 8 : 96, r: narrow ? 70 : 120, t: 22, b: 26 }, H = m.t + m.b + rowH * (TOP - 1) + 26;
+    const gapR = 34;                                     // space between the final week and the result column
+    const xr = W - m.r, pw = xr - gapR - m.l;
+    const d0 = days[0].d;
+    const X = d => m.l + (d0 - d) / Math.max(1, d0) * pw, Y = r => m.t + r * rowH;
+    const svg = h("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", tabindex: 0,
+      "aria-label": "Classement des cinq premiers dans les sondages de J-" + d0 + " au premier tour " + e.year + ", puis résultat officiel" });
+    const g = h("g");
+    for (let r = 0; r < TOP; r++) {
+      g.append(h("line", { x1: m.l, x2: xr, y1: Y(r), y2: Y(r), stroke: "var(--grid)", "stroke-width": 1 }));
+      g.append(h("text", { x: m.l - 6, y: Y(r) + 4, "text-anchor": "end", style: narrow ? { display: "none" } : null }, ord(r + 1)));
+    }
+    // x ticks: J-N every 30 days (60 on narrow screens)
+    const stride = narrow ? 60 : 30;
+    for (let d = Math.floor(d0 / stride) * stride; d > 0; d -= stride) if (d <= d0 && X(d) - m.l > 10) {
+      g.append(h("line", { x1: X(d), x2: X(d), y1: H - m.b, y2: H - m.b + 4, stroke: "var(--rule)" }));
+      g.append(h("text", { x: X(d), y: H - 8, "text-anchor": "middle" }, "J-" + d));
+    }
+    g.append(h("text", { x: xr, y: H - 8, "text-anchor": "middle", class: "lab" }, "Résultat"));
+    svg.append(g);
+    // chosen day
+    const ge = h("g", { class: "evt" });
+    if (state.hday <= d0) {
+      const xm = X(state.hday);
+      ge.append(h("line", { x1: xm, x2: xm, y1: 4, y2: H - m.b, stroke: "var(--ink)", "stroke-width": 1.5 }));
+      ge.append(h("text", { x: xm + (xm > xr - 80 ? -5 : 5), y: 12, class: "lab", "text-anchor": xm > xr - 80 ? "end" : null }, "J-" + state.hday));
+    }
+    svg.append(ge);
+    // one line per candidate, broken when out of the top 5
+    const gs = h("g"), res = realTop(e);
+    for (const c of byResult(e)) {
+      const pts = days.map(x => ({ d: x.d, r: x.ids.indexOf(c.id) })), segs = [];
+      let cur = null;
+      for (const p of pts) {
+        if (p.r >= 0 && p.r < TOP) { if (!cur) segs.push(cur = []); cur.push(p); } else cur = null;
+      }
+      const fr = res.indexOf(c.id);
+      if (!segs.length && fr < 0) continue;
+      const sg = h("g");
+      for (const s of segs) sg.append(h("path", { d: "M" + s.map(p => X(p.d).toFixed(1) + "," + Y(p.r)).join("L"), fill: "none", stroke: color(c), "stroke-width": 3, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+      const last = pts[pts.length - 1];
+      if (fr >= 0) {
+        if (last.r >= 0 && last.r < TOP) sg.append(h("line", { x1: X(last.d), y1: Y(last.r), x2: xr, y2: Y(fr), stroke: color(c), "stroke-width": 1.5, "stroke-dasharray": "3 3" }));
+        sg.append(h("rect", { x: xr - 6, y: Y(fr) - 6, width: 12, height: 12, transform: `rotate(45 ${xr} ${Y(fr)})`, fill: color(c), stroke: "var(--surface)", "stroke-width": 1.5 }));
+        sg.append(h("text", { x: xr + 12, y: Y(fr) + 4, class: "lab" }, c.short + (narrow ? "" : " " + pct(c.result))));
+      }
+      // start label: the first day of the window, on the left
+      const first = pts[0];
+      if (!narrow && first.r >= 0 && first.r < TOP) sg.append(h("text", { x: m.l - 30, y: Y(first.r) + 4, "text-anchor": "end", class: "lab" }, c.short));
+      gs.append(sg);
+    }
+    svg.append(gs);
+    host.append(svg);
+
+    // hover: the top 5 of that day
+    const cross = h("line", { y1: m.t - 8, y2: H - m.b, stroke: "var(--ink)", "stroke-width": 1, opacity: 0 }), hi = h("g");
+    svg.append(cross, hi);
+    const tip = h("div", { class: "tip", hidden: true, role: "status" });
+    host.append(tip);
+    let idx = -1;
+    const show = i => {
+      i = Math.max(0, Math.min(days.length, i)); idx = i;
+      const final = i === days.length, x = final ? xr : X(days[i].d);
+      cross.setAttribute("x1", x); cross.setAttribute("x2", x); cross.setAttribute("opacity", .35);
+      hi.textContent = ""; tip.textContent = "";
+      const ids = final ? res : days[i].ids.slice(0, TOP), s = final ? null : days[i].s;
+      ids.forEach((id, r) => hi.append(h("circle", { cx: x, cy: Y(r), r: 6, fill: color(C[id]), stroke: "var(--surface)", "stroke-width": 2 })));
+      tip.append(h("div", { class: "t" }, final ? "Résultat officiel du premier tour" : hLabel(days[i].d).replace("Dernière semaine", "J-0") + " · " + dayDate(e, days[i].d)));
+      tip.append(h("div", { class: "s" }, final ? fmtD(e.date) : s.n + " instituts · " + topHits(e, s) + " des " + TOP + " premiers finaux dans ce top " + TOP));
+      ids.forEach((id, r) => tip.append(h("div", { class: "r" }, h("i", { style: { background: color(C[id]) } }), h("b", null, pct(final ? C[id].result : s.avg[id])),
+        h("span", null, ord(r + 1) + " " + C[id].short + (final ? "" : " · finalement " + ord(rankOf(e, id)))))));
+      tip.hidden = false;
+      const scale = host.clientWidth / W, tw = tip.offsetWidth, px = x * scale;
+      tip.style.transform = `translate(${px + 14 + tw > host.clientWidth ? Math.max(0, px - tw - 14) : px + 14}px, ${(m.t + rowH * (TOP - 1)) * scale}px)`;
+    };
+    const hide = () => { cross.setAttribute("opacity", 0); hi.textContent = ""; tip.hidden = true; };
+    const near = ev => {
+      const r = svg.getBoundingClientRect(), x = (ev.clientX - r.left) * (W / r.width);
+      if (x > xr - gapR / 2) return days.length;
+      let best = 0, bd = Infinity;
+      days.forEach((p, i) => { const dd = Math.abs(X(p.d) - x); if (dd < bd) { bd = dd; best = i; } });
+      return best;
+    };
+    svg.addEventListener("pointermove", ev => show(near(ev)));
+    svg.addEventListener("pointerdown", ev => show(near(ev)));
+    svg.addEventListener("pointerleave", hide);
+    svg.addEventListener("blur", hide);
+    svg.addEventListener("focus", () => show(idx < 0 ? days.length : idx));
+    svg.addEventListener("keydown", ev => {
+      if (ev.key === "ArrowLeft") { show(idx - 1); ev.preventDefault(); }
+      else if (ev.key === "ArrowRight") { show(idx + 1); ev.preventDefault(); }
+      else if (ev.key === "Escape") hide();
+    });
+  }
+
+  /* day picker: slider (J-365 on the left, the vote on the right) + preset buttons */
+  function dayControl(describe, onChange) {
+    const out = h("output", { style: { fontFamily: "var(--font-display)", fontSize: "2rem", fontWeight: 800, fontStretch: "85%", lineHeight: 1 } });
+    const sub = h("span", { class: "muted" });
+    const input = h("input", { type: "range", min: 1, max: HMAX, step: 1, value: state.hday, "aria-label": "Nombre de jours avant le premier tour",
+      style: { width: "100%", direction: "rtl", accentColor: "var(--ink)" }, oninput: ev => set(+ev.target.value) });
+    const chips = h("div", { class: "sb-presets", role: "group", "aria-label": "Moments clés" },
+      HPRESETS.map(d => h("button", { type: "button", class: "chip", "data-d": d, onclick: () => set(d) }, "J-" + d + (d === TODAY_H ? " · comme 2027 aujourd'hui" : ""))));
+    function paint() {
+      out.textContent = "J-" + state.hday;
+      sub.textContent = describe(state.hday);
+      input.value = state.hday;
+      chips.querySelectorAll("button").forEach(b => {
+        const on = +b.dataset.d === state.hday;
+        b.setAttribute("aria-pressed", String(on));
+        b.style.background = on ? "var(--ink)" : ""; b.style.color = on ? "var(--surface)" : ""; b.style.borderColor = on ? "var(--ink)" : "";
+      });
+    }
+    function set(d) { state.hday = d; paint(); onChange(); }
+    paint();
+    return h("div", { class: "panel", style: { display: "grid", gap: "10px" } },
+      h("div", { style: { display: "flex", alignItems: "baseline", gap: "6px 14px", flexWrap: "wrap" } }, out, sub),
+      input, h("div", { class: "sb-ends" }, h("span", null, "J-" + HMAX), h("span", null, "Premier tour")), chips);
+  }
+
+  const tile = (col, title, big, ...lines) => h("div", { class: "net", css: { "--c": col } }, h("span", null, title), h("b", null, big), ...lines.filter(Boolean).map(l => h("span", null, l)));
+
+  /* ---------- #elections ---------- */
+  function renderHistoryIndex() {
+    document.title = "Élections passées · Road to 2027";
+    main.append(h("a", { class: "back", href: "#" }, "← 2027"),
+      h("section", { class: "sb-head" },
+        h("p", { class: "eyebrow" }, "Présidentielles de " + HIST[HIST.length - 1].year + " à " + HIST[0].year),
+        h("h1", null, "Les élections passées"),
+        h("p", { class: "lead" }, "Les mêmes courbes que pour 2027, mais avec la fin de l'histoire : chaque point est un sondage, et chaque ligne s'arrête sur le résultat officiel du premier tour. De quoi voir ce que les sondages ont vu venir, et ce qu'ils ont manqué.")));
+
+    // the same day, in every election
+    const head = h("div", { class: "nets", style: { marginBottom: "14px" } });
+    const tb = h("tbody");
+    function paint() {
+      const d = state.hday, rows = HIST.map(e => ({ e, s: snapshot(e, d) })).filter(r => r.s.n);
+      const favWon = rows.filter(r => ranked(r.s)[0] === winner(r.e)).length;
+      const duelOk = rows.filter(r => sameDuel(pollDuel(r.s), realDuel(r.e))).length;
+      const errs = rows.map(r => mae(r.e, r.s)).filter(x => x != null);
+      head.textContent = "";
+      head.append(
+        tile("var(--ink)", "Le premier des sondages à J-" + d + " a gagné", favWon + " fois sur " + rows.length),
+        tile("var(--ink)", "Le duel du second tour était annoncé", duelOk + " fois sur " + rows.length),
+        tile("var(--ink)", "Écart moyen sondages / résultat", errs.length ? nf1.format(errs.reduce((a, b) => a + b, 0) / errs.length) + " pt" : "–", "par candidat suivi"));
+      tb.textContent = "";
+      for (const e of HIST) {
+        const s = snapshot(e, d), C = byId(e);
+        if (!s.n) { tb.append(h("tr", null, h("td", null, h("a", { href: "#election-" + e.year }, e.year)), h("td", { class: "empty", colspan: 4, style: { textAlign: "left" } }, "aucun sondage publié autour de J-" + d))); continue; }
+        const lead = C[ranked(s)[0]], w = C[winner(e)], g = gaps(e, s)[0];
+        tb.append(h("tr", null,
+          h("td", null, h("a", { href: "#election-" + e.year }, e.year), h("small", null, dayDate(e, d))),
+          h("td", { style: { textAlign: "left" } }, cellWho(lead), h("small", null, pct(s.avg[lead.id]) + (lead === w ? " · a gagné" : " · vainqueur : " + w.short))),
+          h("td", { style: { textAlign: "left" } }, (sameDuel(pollDuel(s), realDuel(e)) ? "✓ " : "✗ ") + names(e, pollDuel(s)), h("small", null, "réel : " + names(e, realDuel(e)))),
+          h("td", null, nf1.format(mae(e, s)) + " pt", h("small", null, s.n + " institut" + (s.n > 1 ? "s" : ""))),
+          h("td", { style: { textAlign: "left" } }, g.c.short + " " + signedPts(g.d), h("small", null, nf1.format(g.poll) + " % → " + pct(g.c.result)))));
+      }
+    }
+    main.append(h("section", { "aria-labelledby": "hd-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "hd-t" }, "Le même jour, dans chaque élection"),
+        h("p", null, "Choisissez un moment de la campagne : où en étaient les sondages, à la même distance du vote, en 2002, 2007, 2012, 2017 et 2022 ? Par défaut, J-" + TODAY_H + " : là où en est 2027 aujourd'hui."))),
+      dayControl(d => "avant chaque premier tour", paint),
+      h("div", { style: { marginTop: "14px" } }, head),
+      h("div", { class: "tbl" }, h("table", null, h("thead", null, h("tr", null, h("th", null, "Élection"), h("th", { style: { textAlign: "left" } }, "En tête des sondages"),
+        h("th", { style: { textAlign: "left" } }, "Duel annoncé"), h("th", null, "Écart moyen au résultat"), h("th", { style: { textAlign: "left" } }, "Plus gros écart"))), tb)),
+      h("p", { class: "note" }, "Pour chaque élection : le dernier sondage de chaque institut publié dans les 1 à 3 semaines avant ce jour-là, puis la médiane entre instituts (comme pour 2027). « Plus gros écart » : le candidat dont le résultat s'est le plus éloigné de ces sondages (+ : il a fait mieux que prévu).")));
+    paint();
+
+    // cards
+    const cards = h("div", { class: "cards" });
+    for (const e of HIST) {
+      const w = byId(e)[winner(e)], fw = snapshot(e, 0), ok = sameDuel(pollDuel(fw), realDuel(e)), miss = gaps(e, fw)[0];
+      const sp = h("div", { class: "spark" }), eday = T(e.date), x0 = eday - 365 * DAY;
+      cards.append(h("a", { class: "card", href: "#election-" + e.year, css: { "--c": color(w) } },
+        h("span", { class: "who" }, h("span", { class: "key" }), h("span", { class: "name" }, "Présidentielle " + e.year)),
+        h("span", { class: "party" }, "Second tour : " + secondText(e)),
+        h("span", null,
+          h("span", { class: "val" }, h("b", { style: { fontSize: "1.6rem" } }, ok ? "Duel annoncé" : "Duel manqué")),
+          h("span", { class: "meta", style: { display: "block" } }, "Dernière semaine de sondages : " + names(e, pollDuel(fw)) + " en tête ; qualifiés : " + names(e, realDuel(e)) + "."),
+          miss ? h("span", { class: "meta", style: { display: "block" } }, "Plus gros écart : " + miss.c.short + " " + signedPts(miss.d) + " par rapport aux sondages.") : null),
+        sp,
+        h("span", { class: "go" }, "Voir l'élection →")));
+      const pts_ = e.polls.filter(p => p.v[w.id] != null && T(p.date) >= x0).map(p => ({ t: T(p.date), v: p.v[w.id] }));
+      redraws.push(() => sparkline(sp, pts_, color(w), x0, eday));
+    }
+    main.append(h("section", { "aria-labelledby": "hi-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "hi-t" }, HIST.length + " présidentielles"),
+        h("p", null, "« Duel annoncé » : les deux premiers de la dernière semaine de sondages sont bien les deux qualifiés du premier tour. La courbe est celle du vainqueur, sur les douze derniers mois."))),
+      cards));
+
+    // surprises and swings, all elections together
+    const misses = HIST.flatMap(e => gaps(e, snapshot(e, 0))).slice().sort((a, b) => Math.abs(b.d) - Math.abs(a.d)).slice(0, 5);
+    const moves = HIST.flatMap(e => swings(e, STATS_FROM)).sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta)).slice(0, 6);
+    const item = (x, text) => h("li", null, h("span", { class: "who" }, h("span", { class: "key", css: { "--c": color(x.c) } }), h("a", { href: "#election-" + x.e.year }, x.c.name + ", " + x.e.year)), " : " + text);
+    main.append(h("section", { class: "duo" },
+      h("div", { class: "panel" }, h("h3", null, "Les plus grandes surprises du dernier moment"),
+        h("p", { class: "note", style: { marginTop: "4px" } }, "Écart entre la dernière semaine de sondages et le résultat."),
+        h("ol", { style: { margin: "10px 0 0", paddingLeft: "1.2em", display: "grid", gap: "8px", fontSize: ".92rem" } },
+          misses.map(x => item(x, signedPts(x.d) + " (" + nf1.format(x.poll) + " % dans les sondages, " + pct(x.c.result) + " dans les urnes)")))),
+      h("div", { class: "panel" }, h("h3", null, "Les dynamiques les plus spectaculaires"),
+        h("p", { class: "note", style: { marginTop: "4px" } }, "Plus fortes variations des sondages en " + SWING_DAYS + " jours, sur les six derniers mois de chaque campagne."),
+        h("ol", { style: { margin: "10px 0 0", paddingLeft: "1.2em", display: "grid", gap: "8px", fontSize: ".92rem" } },
+          moves.map(x => item(x, swingText(x)))))));
+
+    // how far were the polls, at fixed horizons
+    const ltb = h("tbody");
+    for (const e of HIST) {
+      ltb.append(h("tr", null, h("td", null, h("a", { href: "#election-" + e.year }, e.year)),
+        HORIZONS.map(d => {
+          const s = snapshot(e, d), m = mae(e, s);
+          if (m == null) return h("td", { class: "empty" }, "–");
+          return h("td", null, nf1.format(m) + " pt", h("small", null, (sameDuel(pollDuel(s), realDuel(e)) ? "duel trouvé" : "duel : " + names(e, pollDuel(s))) + " · " + s.n + " institut" + (s.n > 1 ? "s" : "")));
+        })));
+    }
+    main.append(h("section", { "aria-labelledby": "hl-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "hl-t" }, "Les limites des sondages"),
+        h("p", null, "Écart moyen, en points, entre les sondages et le résultat de chaque candidat suivi. Plus le vote approche, plus l'écart se réduit, sans jamais disparaître : les sondages mesurent une intention à un moment donné, pas une prévision."))),
+      h("div", { class: "tbl" }, h("table", null,
+        h("thead", null, h("tr", null, h("th", null, "Élection"), HORIZONS.map(d => h("th", null, hLabel(d))))), ltb)),
+      h("p", { class: "note" }, "À chaque horizon : le dernier sondage de chaque institut publié dans les 1 à 3 semaines précédentes, puis la médiane entre instituts, comme pour 2027 (les enquêtes quotidiennes ne pèsent pas plus que les autres). « Duel » : les deux premiers de cette médiane.")));
+  }
+
+  /* ---------- #election-2017 ---------- */
+  function renderElection(e) {
+    document.title = "Présidentielle " + e.year + " · Road to 2027";
+    const C = byId(e), cands = byResult(e), eday = T(e.date), fw = snapshot(e, 0);
+    main.append(h("a", { class: "back", href: "#elections" }, "← Les élections passées"));
+    const duelOk = sameDuel(pollDuel(fw), realDuel(e)), miss = gaps(e, fw)[0];
+    main.append(h("section", { class: "fiche-head", css: { "--c": color(C[winner(e)]) } },
+      h("div", null,
+        h("p", { class: "eyebrow" }, "Premier tour le " + fmtD(e.date)),
+        h("h1", null, h("span", { class: "key" }), "Présidentielle " + e.year),
+        h("p", { class: "party" }, "Second tour : " + secondText(e) + "."),
+        h("nav", { class: "sb-presets", "aria-label": "Autres élections", style: { marginTop: "14px" } },
+          HIST.map(x => h("a", { class: "chip", href: "#election-" + x.year, "aria-current": x === e ? "page" : null,
+            style: x === e ? { background: "var(--ink)", color: "var(--surface)", borderColor: "var(--ink)", textDecoration: "none" } : { textDecoration: "none" } }, x.year)))),
+      h("div", { class: "bigfig" },
+        h("b", null, duelOk ? "Duel annoncé" : "Duel manqué"),
+        h("p", null, "Dernière semaine de sondages : " + names(e, pollDuel(fw)) + " en tête. Qualifiés au premier tour : " + names(e, realDuel(e)) + "."),
+        miss ? h("p", null, "Plus gros écart : " + miss.c.name + ", " + pct(miss.c.result) + " au premier tour contre " + pct(miss.poll) + " dans les sondages (" + signedPts(miss.d) + ").") : null)));
+
+    // the chosen day: standings, then what happened next
+    const board = h("div"), next = h("div", { class: "nets" }), race = h("p", { style: { margin: "12px 0 0", fontSize: ".92rem" } });
+    function paintDay() {
+      const d = state.hday, s = snapshot(e, d), w = C[winner(e)];
+      board.textContent = ""; next.textContent = ""; race.textContent = "";
+      if (!s.n) { board.append(h("p", { class: "empty-state" }, "Aucun sondage publié dans les " + s.window + " jours avant J-" + d + " (" + dayDate(e, d) + ").")); return; }
+      const ids = ranked(s), max = Math.max(...ids.map(id => s.avg[id]), ...cands.map(c => c.result));
+      const tb = h("tbody");
+      ids.forEach((id, i) => {
+        const c = C[id], fr = rankOf(e, id);
+        tb.append(h("tr", null,
+          h("td", null, h("span", { class: "muted num" }, (i + 1) + ". "), cellWho(c)),
+          h("td", null, h("span", { class: "sb-cell" }, h("span", { class: "sb-bar" }, h("i", { css: { "--w": (100 * s.avg[id] / max).toFixed(1) + "%", "--c": color(c) } })), h("span", { class: "num" }, pct(s.avg[id])))),
+          h("td", null, pct(c.result), h("small", null, ord(fr) + (fr < i + 1 ? " ▲" : fr > i + 1 ? " ▼" : ""))),
+          h("td", null, signedPts(c.result - s.avg[id]))));
+      });
+      for (const c of cands) if (s.avg[c.id] == null) tb.append(h("tr", null, h("td", null, h("span", { class: "muted num" }, "– "), cellWho(c)),
+        h("td", { class: "empty" }, "pas encore testé"), h("td", null, pct(c.result), h("small", null, ord(rankOf(e, c.id)))), h("td", { class: "empty" }, "–")));
+      board.append(h("div", { class: "tbl" }, h("table", { class: "sb-table" },
+        h("thead", null, h("tr", null, h("th", null, "Classement à J-" + d), h("th", null, "Sondages"), h("th", null, "Résultat"), h("th", null, "Écart"))), tb)),
+        h("p", { class: "note" }, "Médiane du dernier sondage de " + s.n + " institut" + (s.n > 1 ? "s" : "") + ", publiés dans les " + s.window + " jours avant le " + dayDate(e, d) + ". ▲▼ : place finale meilleure ou moins bonne qu'à ce moment-là."));
+
+      const lead = C[ids[0]], g = gaps(e, s), up = g.filter(x => x.d > 0)[0], down = g.filter(x => x.d < 0)[0];
+      const sw = swings(e, d), rise = sw.find(x => x.delta > 0), fall = sw.find(x => x.delta < 0);
+      next.append(
+        tile(color(lead), "En tête à J-" + d, lead.short + " " + pct(s.avg[lead.id]), lead === w ? "Il a gagné l'élection." : "Finalement " + ord(rankOf(e, lead.id)) + " au premier tour ; vainqueur : " + w.short + "."),
+        tile("var(--ink)", "Duel annoncé à J-" + d, (sameDuel(pollDuel(s), realDuel(e)) ? "✓ " : "✗ ") + names(e, pollDuel(s)), "Qualifiés : " + names(e, realDuel(e)) + "."),
+        ids.length >= TOP ? tile("var(--ink)", "Top " + TOP + " à J-" + d, topHits(e, s) + "/" + TOP + " trouvés",
+          "Finalement dans le top " + TOP + " du premier tour ; " + topOrder(e, s)) : null,
+        up ? tile(color(up.c), "A le plus déjoué les sondages", up.c.short + " " + signedPts(up.d), nf1.format(up.poll) + " % à J-" + d + ", " + pct(up.c.result) + " au premier tour.") : null,
+        down ? tile(color(down.c), "A le plus déçu", down.c.short + " " + signedPts(down.d), nf1.format(down.poll) + " % à J-" + d + ", " + pct(down.c.result) + " au premier tour.") : null,
+        rise ? tile(color(rise.c), "Plus forte poussée en " + SWING_DAYS + " jours", rise.c.short + " " + signedPts(rise.delta), swingText(rise).replace(/^[^ ]+ pt /, "")) : null,
+        fall ? tile(color(fall.c), "Plus forte chute en " + SWING_DAYS + " jours", fall.c.short + " " + signedPts(fall.delta), swingText(fall).replace(/^[^ ]+ pt /, "")) : null);
+      const segs = leaders(e, d);
+      if (segs.length) race.append(h("b", null, "Course en tête depuis J-" + d + " : "),
+        ...segs.map((sg, i) => [i ? " → " : "", h("span", { class: "who", style: { display: "inline-flex" } }, h("span", { class: "key", css: { "--c": color(C[sg.id]) } }), C[sg.id].short),
+          " (" + (sg.from === sg.to ? hLabel(sg.from) : "J-" + sg.from + " à " + (sg.to ? "J-" + sg.to : "la fin")) + ")"]).flat(),
+        segs.length > 1 ? " · " + (segs.length - 1) + " changement" + (segs.length > 2 ? "s" : "") + " de leader." : " · aucun changement de leader.");
+    }
+    const onDay = [paintDay];
+    main.append(h("section", { "aria-labelledby": "ht-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "ht-t" }, "Remonter le temps"),
+        h("p", null, "Choisissez un moment de la campagne pour voir où en étaient les sondages, puis ce qui s'est passé jusqu'au vote. Par défaut, J-" + TODAY_H + " : la distance qui nous sépare aujourd'hui du premier tour de 2027."))),
+      dayControl(d => dayDate(e, d), () => onDay.forEach(f => f())),
+      h("div", { class: "duo", style: { marginTop: "16px" } },
+        h("div", { class: "panel" }, board),
+        h("div", { class: "panel" }, h("h3", null, "Et ensuite ?"), next, race))));
+    paintDay();
+
+    // the top 5, day by day
+    const bhost = h("div"), bnote = h("p", { class: "note" });
+    const drawBump = () => {
+      bumpChart(bhost, e, HMAX);
+      const s = snapshot(e, state.hday);
+      bnote.textContent = (s.n >= 2 && ranked(s).length >= TOP ? "À J-" + state.hday + ", " + topHits(e, s) + " des " + TOP + " premiers du scrutin étaient déjà dans le top " + TOP + " des sondages. " : "") +
+        "Chaque jour : classement de la médiane des instituts (dernier sondage de chacun, comme plus haut). Une ligne s'interrompt quand le candidat sort du top " + TOP + ". Les losanges donnent le classement officiel du premier tour.";
+    };
+    redraws.push(drawBump);
+    onDay.push(drawBump);
+    main.append(h("section", { "aria-labelledby": "hb-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "hb-t" }, "L'évolution du top " + TOP),
+        h("p", null, "Qui occupait les cinq premières places des sondages, jour après jour, de J-" + HMAX + " au premier tour. Survolez la courbe pour voir le classement d'un jour."))),
+      h("div", { class: "panel" }, bhost, bnote)));
+
+    // race chart: polls, then the result
+    let firm = "all", focus = null;
+    const firms = [...new Set(e.polls.map(p => p.firm))].sort((a, b) => a.localeCompare(b, "fr"));
+    const host = h("div"), note = h("p", { class: "note" }), legend = h("ul", { class: "legend" });
+    const seg = h("div", { class: "seg", role: "group", "aria-label": "Période" });
+    HRANGES.forEach(r => seg.append(h("button", { type: "button", "aria-pressed": String(state.hrange === r.id), onclick: () => {
+      state.hrange = r.id; save(); [...seg.children].forEach((b, i) => b.setAttribute("aria-pressed", String(HRANGES[i].id === r.id))); draw(); } }, r.label)));
+    const sel = h("select", { id: "firm-filter-h", onchange: ev => { firm = ev.target.value; draw(); } },
+      h("option", { value: "all" }, "Tous les instituts"), firms.map(f => h("option", { value: f }, f)));
+    cands.forEach(c => legend.append(h("li", null, h("button", { type: "button", "aria-pressed": "false", css: { "--c": color(c) }, onclick: ev => {
+      focus = focus === c.id ? null : c.id;
+      legend.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", "false"));
+      if (focus) ev.currentTarget.setAttribute("aria-pressed", "true");
+      draw();
+    } }, h("span", { class: "ln" }), c.short))));
+    legend.append(h("li", { class: "hint" }, "Cliquez sur un nom pour le mettre en avant."));
+    function draw() {
+      const r = HRANGES.find(x => x.id === state.hrange), mt = eday - state.hday * DAY;
+      // the chosen day always stays on the chart
+      const x0 = Math.min(r.days ? eday - r.days * DAY : T(e.polls[0].date), mt - 14 * DAY), x1 = eday + 3 * DAY;
+      const polls = e.polls.filter(p => T(p.date) >= x0 && (firm === "all" || p.firm === firm));
+      const S = cands.map(c => ({ key: c.id, label: c.short, color: color(c), dim: focus && focus !== c.id,
+        points: polls.filter(p => p.v[c.id] != null).map(p => ({ t: T(p.date), v: p.v[c.id], lo: (p.r || {})[c.id] ? p.r[c.id][0] : null, hi: (p.r || {})[c.id] ? p.r[c.id][1] : null }))
+          .concat([{ t: eday, v: c.result, result: true }]) }));
+      note.textContent = polls.length + " sondage" + (polls.length > 1 ? "s" : "") + " affiché" + (polls.length > 1 ? "s" : "") +
+        ". Chaque point est un sondage, lu dans l'hypothèse la plus proche du champ habituel des candidats (même règle que pour 2027). Le losange est le résultat officiel du premier tour ; les pointillés le relient au dernier sondage. Le trait noir marque le jour choisi.";
+      lineChart(host, {
+        series: S, height: 400, x0, x1, labels: true, events: e.events, yMinMax: 10,
+        marker: { t: mt, label: "J-" + state.hday },
+        yFmt: (v, lab) => lab ? nf1.format(v) : v + " %",
+        aria: "Intentions de vote au premier tour de " + e.year + ", " + polls.length + " sondages, puis résultat officiel",
+        snap: polls.map(p => T(p.date)).concat([eday]),
+        onPick: t => { const p = polls.find(q => T(q.date) === t); if (p && p.url) window.open(p.url, "_blank", "noopener"); },
+        tooltip: t => {
+          if (t === eday) return { title: "Résultat officiel du premier tour", sub: fmtD(e.date),
+            rows: cands.map(c => ({ color: color(c), value: pct(c.result), label: c.short })), foot: "Autres candidats : " + pct(e.others) + "." };
+          const ps = polls.filter(p => T(p.date) === t), p = ps[0];
+          const rows = cands.filter(c => p.v[c.id] != null).sort((a, b) => p.v[b.id] - p.v[a.id])
+            .map(c => ({ color: color(c), value: pct(p.v[c.id]), label: c.short + ((p.r || {})[c.id] ? " (" + nf1.format(p.r[c.id][0]) + "–" + nf1.format(p.r[c.id][1]) + " selon hypothèse)" : "") }));
+          const ev = e.events.find(x => Math.abs(T(x.date) - t) <= 2 * DAY);
+          return { title: p.firm + (ps.length > 1 ? " (+ " + ps.slice(1).map(q => q.firm).join(", ") + ")" : ""),
+            sub: "Terrain achevé le " + fmtD(p.date) + " (J-" + Math.round((eday - t) / DAY) + ")" + (p.sample ? " · " + nf0.format(p.sample) + " personnes" : ""), rows,
+            foot: (ev ? "Repère : " + ev.label + " · " : "") + (p.n > 1 ? p.n + " hypothèses dans ce sondage · " : "") + "Cliquez pour ouvrir la source." };
+        }
+      });
+    }
+    redraws.push(draw);
+    onDay.push(draw);
+    main.append(h("section", { "aria-labelledby": "hr-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "hr-t" }, "Des sondages au résultat"),
+        h("p", null, "Les huit candidats arrivés en tête du premier tour, suivis dans tous les sondages publiés, jusqu'au vote.")),
+        h("div", { class: "filters" }, seg, h("label", { class: "sel", for: "firm-filter-h" }, "Institut", sel))),
+      h("div", { class: "panel" }, legend, host, note)));
+
+    // what the polls said, horizon by horizon (+ the chosen day)
+    const wtable = h("div", { class: "tbl" });
+    function paintTable() {
+      const hs = [...new Set(HORIZONS.concat([state.hday]))].sort((a, b) => b - a), S = hs.map(d => snapshot(e, d));
+      const tb = h("tbody");
+      for (const c of cands) tb.append(h("tr", null, h("td", null, cellWho(c)),
+        S.map(s => s.avg[c.id] == null ? h("td", { class: "empty" }, s.n ? "non testé" : "–")
+          : h("td", null, pct(s.avg[c.id]), h("small", null, signedPts(c.result - s.avg[c.id])))),
+        h("td", null, h("b", null, pct(c.result)))));
+      tb.append(h("tr", null, h("td", null, h("b", null, "Duel en tête")),
+        S.map(s => Object.keys(s.avg).length < 2 ? h("td", { class: "empty" }, "–") : h("td", null, (sameDuel(pollDuel(s), realDuel(e)) ? "✓ " : "✗ ") + names(e, pollDuel(s)))),
+        h("td", null, h("b", null, names(e, realDuel(e))))));
+      tb.append(h("tr", null, h("td", null, h("b", null, "Top " + TOP + " en tête")),
+        S.map(s => ranked(s).length < TOP ? h("td", { class: "empty" }, "–") : h("td", null, topHits(e, s) + "/" + TOP, h("small", null, ranked(s).slice(0, TOP).map(id => C[id].short).join(", ")))),
+        h("td", null, h("small", null, realTop(e).map(id => C[id].short).join(", ")))));
+      tb.append(h("tr", null, h("td", null, h("b", null, "Écart moyen")),
+        S.map(s => { const m = mae(e, s); return m == null ? h("td", { class: "empty" }, "–") : h("td", null, nf1.format(m) + " pt"); }), h("td", null, "")));
+      wtable.textContent = "";
+      wtable.append(h("table", null, h("thead", null, h("tr", null, h("th", null, "Candidat"),
+        S.map(s => h("th", { style: s.days === state.hday ? { color: "var(--ink)" } : null }, hLabel(s.days) + (s.days === state.hday ? " ◂" : ""), h("br"), h("span", { style: { fontWeight: 400 } }, s.n + " institut" + (s.n > 1 ? "s" : "")))),
+        h("th", null, "Résultat"))), tb));
+    }
+    onDay.push(paintTable);
+    paintTable();
+    main.append(h("section", { "aria-labelledby": "hw-t" },
+      h("div", { class: "sec-head" }, h("div", null, h("h2", { id: "hw-t" }, "Ce que disaient les sondages"),
+        h("p", null, "Médiane des instituts à plusieurs moments de la campagne (◂ : le jour choisi), comparée au résultat. En petit : l'écart entre le résultat et les sondages (+ : le candidat a fait mieux que prévu)."))),
+      wtable,
+      h("p", { class: "note" }, "À chaque moment : le dernier sondage de chaque institut publié dans les 1 à 3 semaines précédentes, puis la médiane entre instituts. « Non testé » : le candidat n'était pas encore proposé par les instituts.")));
+
+    // official results
+    const max = Math.max(...cands.map(c => c.result));
+    const rtb = h("tbody");
+    for (const c of cands) rtb.append(h("tr", null, h("td", null, cellWho(c)), h("td", { style: { textAlign: "left" } }, c.party),
+      h("td", null, h("span", { class: "sb-cell" }, h("span", { class: "sb-bar" }, h("i", { css: { "--w": (100 * c.result / max).toFixed(1) + "%", "--c": color(c) } })), h("span", { class: "num" }, pct(c.result))))));
+    rtb.append(h("tr", null, h("td", null, "Autres candidats"), h("td", null, ""), h("td", null, pct(e.others))));
+    const [a, b] = Object.keys(e.second).sort((x, y) => e.second[y] - e.second[x]);
+    main.append(h("section", { class: "duo" },
+      h("div", { class: "panel" }, h("h3", null, "Premier tour"), h("div", { class: "tbl", style: { marginTop: "8px" } }, h("table", { class: "sb-table" }, rtb))),
+      h("div", { class: "panel" }, h("h3", null, "Second tour"),
+        h("div", { class: "sb-duel-top", style: { marginTop: "12px" } }, h("b", null, C[a].short + " " + pct(e.second[a])), h("span", null, C[b].short + " " + pct(e.second[b]))),
+        h("div", { class: "sb-duel-split", style: { height: "16px" } }, h("i", { css: { "--w": e.second[a] + "%", "--c": color(C[a]) } }), h("i", { css: { "--w": e.second[b] + "%", "--c": color(C[b]) } })),
+        h("p", { class: "note" }, "En % des suffrages exprimés. Résultats officiels du Conseil constitutionnel, via ", h("a", { href: e.source, target: "_blank", rel: "noopener" }, "Wikipédia"), "."))));
+
+    if (e.events.length) main.append(h("section", { "aria-labelledby": "he-t" }, h("div", { class: "sec-head" }, h("h2", { id: "he-t" }, "Repères de la campagne")),
+      h("ul", { class: "timeline" }, e.events.map(x => h("li", null, h("time", { datetime: x.date }, fmtD(x.date) + " · J-" + Math.round((eday - T(x.date)) / DAY)), h("span", null, x.label))))));
+
+    // every poll, newest first
+    const ptb = h("tbody");
+    for (const p of e.polls.slice().reverse()) ptb.append(h("tr", null,
+      h("td", null, h("a", { href: p.url, target: "_blank", rel: "noopener" }, p.firm), h("small", null, fmtD(p.date) + (p.sample ? " · " + nf0.format(p.sample) : "") + (p.n > 1 ? " · " + p.n + " hypothèses" : ""))),
+      cands.map(c => p.v[c.id] == null ? h("td", { class: "empty" }, "–") : h("td", null, nf1.format(p.v[c.id]) + ((p.r || {})[c.id] ? "*" : "")))));
+    main.append(h("section", null, h("details", { class: "more" }, h("summary", null, "Voir les " + e.polls.length + " sondages (tableau et sources)"),
+      h("div", { class: "tbl" }, h("table", null, h("thead", null, h("tr", null, h("th", null, "Institut, fin du terrain, effectif"), cands.map(c => h("th", null, c.short)))), ptb)),
+      h("p", { class: "note" }, "En %. * : le score varie selon les hypothèses testées. – : absent de l'hypothèse retenue. Sondages repérés via ", h("a", { href: e.polls_index, target: "_blank", rel: "noopener" }, "Wikipédia"), " ; sondages régionaux exclus."))));
   }
 
   route();
