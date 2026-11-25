@@ -133,6 +133,59 @@ class Engagement(Strict):
     candidates: dict[str, EngagementAccount]
 
 
+# ---------- data/history.js ----------
+
+class HistoryCandidate(Strict):
+    id: str
+    name: str
+    short: str
+    slot: int = Field(ge=1, le=8)  # colour of the palette (--c1 ... --c8)
+    result: Score
+
+
+class HistoryPoll(Strict):
+    firm: str
+    url: Link
+    date: dt.date
+    sample: PositiveInt | None
+    v: Annotated[dict[str, Score], AfterValidator(_total_at_most_100)] = Field(min_length=1)
+
+
+class HistoryEvent(Strict):
+    date: dt.date
+    label: str
+    short: str
+    who: list[str]
+
+
+class PastElection(Strict):
+    year: int
+    date: dt.date
+    source: Link
+    polls_index: Link
+    candidates: list[HistoryCandidate] = Field(min_length=2, max_length=8)
+    second: dict[str, Score] = Field(min_length=2, max_length=2)
+    events: list[HistoryEvent]
+    polls: list[HistoryPoll] = Field(min_length=1)
+
+    @model_validator(mode="after")
+    def _consistent(self) -> PastElection:
+        ids = {c.id for c in self.candidates}
+        unknown = (set(self.second)
+                   | {i for p in self.polls for i in p.v}
+                   | {i for e in self.events for i in e.who}) - ids
+        if unknown:
+            raise ValueError(f"{self.year}: unknown candidate ids {sorted(unknown)}")
+        late = [p.date for p in self.polls if p.date >= self.date]
+        if late:
+            raise ValueError(f"{self.year}: polls dated on or after election day: {late[:3]}")
+        return self
+
+
+class History(Strict):
+    elections: list[PastElection] = Field(min_length=1)
+
+
 # ---------- runner ----------
 
 # file -> (JS variable it assigns, model)
@@ -141,6 +194,7 @@ FILES: dict[str, tuple[str, type[BaseModel]]] = {
     "data/model.js": ("MODEL", SimulatorModel),
     "data/social.js": ("SOCIAL", Social),
     "data/engagement.js": ("ENGAGEMENT", Engagement),
+    "data/history.js": ("HISTORY", History),
 }
 
 

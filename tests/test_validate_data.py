@@ -44,6 +44,16 @@ VALID: dict[str, Any] = {
             {"date": DAY, "rate": 2.5, "posts": [{"url": "https://www.instagram.com/p/abc/"}]},
         ]}},
     },
+    "HISTORY": {
+        "elections": [{
+            "year": 2017, "date": "2017-04-23", "source": URL, "polls_index": URL,
+            "candidates": [{"id": "macron", "name": "Emmanuel Macron", "short": "Macron", "slot": 4, "result": 24.01},
+                           {"id": "lepen", "name": "Marine Le Pen", "short": "Le Pen", "slot": 1, "result": 21.3}],
+            "second": {"macron": 66.1, "lepen": 33.9},
+            "events": [{"date": "2017-03-20", "label": "Premier débat", "short": "1er débat", "who": ["macron"]}],
+            "polls": [{"firm": "Ifop", "url": URL, "date": "2017-04-21", "sample": 1000, "v": {"macron": 24.5, "lepen": 22.0}}],
+        }],
+    },
 }
 
 DELETE = object()  # set_path value meaning "remove this key"
@@ -100,6 +110,10 @@ def test_valid_data_passes(tmp_path: Path, payloads: dict[str, Any]) -> None:
     ("SOCIAL.members.melenchon.points.0.value", -5, "greater_than"),
     ("ENGAGEMENT.candidates.melenchon.history.0.rate", 150.0, "less_than"),
     ("ENGAGEMENT.candidates.melenchon.history.0.posts.0.url", "https://example.org/SAMPLE", "value_error"),
+    ("HISTORY.elections.0.polls.0.url", "javascript:alert(1)", "url_scheme"),
+    ("HISTORY.elections.0.polls.0.date", "2017-04-23", "value_error"),      # on election day
+    ("HISTORY.elections.0.polls.0.v", {"fillon": 20.0}, "value_error"),      # unknown candidate
+    ("HISTORY.elections.0.candidates.0.slot", 9, "less_than_equal"),        # no --c9 colour
 ])
 def test_invalid_value_is_rejected(tmp_path: Path, payloads: dict[str, Any],
                                    path: str, value: Any, error_type: str) -> None:
