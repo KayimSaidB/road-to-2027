@@ -1,6 +1,6 @@
 /* Généré par scripts/update_engagement.py (Instagram, Business Discovery). Ne pas éditer à la main. */
 window.ENGAGEMENT = {
- "updated": "2026-11-23",
+ "updated": "2026-11-26",
  "method": {
   "window_days": [
    14,

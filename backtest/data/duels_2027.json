@@ -592,6 +592,19 @@
 ]
 },
 {
+"firm": "YouGov",
+"url": "https://www.huffingtonpost.fr/politique/article/dans-notre-sondage-sur-la-presidentielle-2027-edouard-philippe-atteint-la-cote-d-alerte_360406.html",
+"start": "2026-11-12",
+"date": "2026-11-17",
+"sample": 952,
+"scenarios": [
+{
+"Jean-Luc Mélenchon": 37.0,
+"Marine Le Pen": 63.0
+}
+]
+},
+{
 "firm": "Harris Interactive",
 "url": "https://tolunacorporate.com/wp-content/uploads/2026/11/Rapport-Toluna-Barometre-Presidentielle-2027-Vague-9-M6-RTL-9-novembre-2026.pdf",
 "start": "2026-11-03",
